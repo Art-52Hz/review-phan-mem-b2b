@@ -2,6 +2,7 @@ baseURL = 'https://aiprofreelancer.com/'
 languageCode = 'en-us'
 title = 'AI Pro Freelancer'
 theme = "PaperMod"
+googleAnalytics = "G-FHNLXVNY7R"
 
 [params]
   description = "Honest reviews of B2B software, SaaS tools, and AI products to help freelancers and businesses make smarter decisions."
