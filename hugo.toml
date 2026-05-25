@@ -1,4 +1,35 @@
 baseURL = 'https://aiprofreelancer.com/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'AI Pro Freelancer'
 theme = "PaperMod"
+
+[params]
+  description = "Honest reviews of B2B software, SaaS tools, and AI products to help freelancers and businesses make smarter decisions."
+  author = "AI Pro Freelancer"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Welcome to AI Pro Freelancer"
+    Content = "Honest reviews of B2B software, SaaS tools, and AI products."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
