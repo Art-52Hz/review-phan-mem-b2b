@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'AI Pro Freelancer'
 theme = "PaperMod"
 googleAnalytics = "G-FHNLXVNY7R"
+enableRobotsTXT = true
 
 [params]
   description = "Honest reviews of B2B software, SaaS tools, and AI products to help freelancers and businesses make smarter decisions."
@@ -36,7 +37,8 @@ googleAnalytics = "G-FHNLXVNY7R"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]  
+  taxonomy = ["HTML", "RSS"]
+
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
