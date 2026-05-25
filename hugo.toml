@@ -12,6 +12,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  googleSiteVerification = "6zx8ayAQl6MTjYDpIFX7IkNt-IvRhtmUyGGvFeiFVpI"
 
   [params.homeInfoParams]
     Title = "Welcome to AI Pro Freelancer"
