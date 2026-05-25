@@ -5,6 +5,10 @@ slug: "ultahost-vps-review"
 description: "An in-depth review of UltaHost offshore VPS hosting — privacy-focused, crypto-friendly, and ideal for businesses needing secure infrastructure."
 tags: ["VPS", "Hosting", "Offshore", "Crypto", "Review"]
 draft: false
+cover:
+  image: "/images/ultahost-review.png"
+  alt: "UltaHost VPS Hosting Review"
+  caption: "UltaHost — Starting at $3.29/mo"
 ---
 
 If you're looking for a **secure, privacy-focused VPS** that accepts cryptocurrency payments, UltaHost is one of the best options available in 2026. In this review, we'll cover everything you need to know before signing up.
