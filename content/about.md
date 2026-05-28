@@ -1,9 +1,11 @@
 ---
 title: "About — Vincent Pham & The $1,000/Month Mission"
-description: "The real story behind aiprofreelancer.com — an MMO freelancer using AI tools to build a global affiliate income from scratch. No fluff, no fake income screenshots."
+description: "The real story behind aiprofreelancer.com"
 date: 2026-05-27
 author: "Vincent Pham"
+cover:
   image: "/images/vincent-pham-avatar.png"
+  alt: "Vincent Pham — Founder aiprofreelancer.com"
 ---
 
 # About Vincent Pham — The Person Behind aiprofreelancer.com
