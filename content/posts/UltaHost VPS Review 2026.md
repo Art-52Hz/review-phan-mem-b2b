@@ -8,7 +8,9 @@ author: "AI Pro Freelancer"
 slug: "ultahost-vps-review"
 categories: ["Hosting Reviews", "Affiliate Marketing"]
 tags: ["UltaHost", "VPS", "Offshore Hosting", "Tutorial", "SEO"]
-image: "/images/ultahost-review2026.png"
+cover:
+  image: "/images/ultahost-review2026.png"
+  alt: "UltaHost VPS Review 2026"
 toc: true
 ---
 
