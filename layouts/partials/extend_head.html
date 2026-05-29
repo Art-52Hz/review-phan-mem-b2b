@@ -1,0 +1,12 @@
+{{- /* 
+  layouts/partials/extend_head.html
+  File này được PaperMod tự động load vào <head>
+  KHÔNG cần sửa theme — chỉ tạo file này là đủ
+*/ -}}
+
+{{- /* Inject Schema Markup */ -}}
+{{ partial "schema.html" . }}
+
+{{- /* Preconnect for performance */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">

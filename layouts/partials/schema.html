@@ -1,0 +1,128 @@
+{{- /* 
+  layouts/partials/schema.html
+  Schema Markup cho aiprofreelancer.com
+  Hỗ trợ: Review Schema, Article Schema, WebSite Schema
+  Tác giả: Vincent Pham
+*/ -}}
+
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "author": {
+    "@type": "Person",
+    "name": "Vincent Pham",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+{{- else if .IsPage -}}
+
+{{- /* === REVIEW SCHEMA — cho bài có rating trong front matter === */ -}}
+{{- if .Params.schema -}}
+{{- if eq .Params.schema.type "Review" -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": {{ .Title | jsonify }},
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.schema.author | default "Vincent Pham" }}",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.png"
+    }
+  },
+  "itemReviewed": {
+    "@type": "SoftwareApplication",
+    "name": "{{ .Params.schema.product | default .Title }}",
+    "applicationCategory": "BusinessApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ .Params.schema.rating | default "4.5" }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "reviewBody": {{ .Summary | plainify | jsonify }},
+  "description": {{ .Description | default .Summary | plainify | jsonify }}
+  {{- with .Params.cover.image -}}
+  ,"image": {
+    "@type": "ImageObject",
+    "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
+  }
+  {{- end }}
+}
+</script>
+{{- end -}}
+{{- end -}}
+
+{{- /* === ARTICLE / BLOGPOSTING SCHEMA — cho mọi bài viết === */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | jsonify }},
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default "Vincent Pham" }}",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.png"
+    }
+  },
+  "description": {{ .Description | default (.Summary | plainify) | jsonify }},
+  "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}{{ $tag | jsonify }}{{ end }}]
+  {{- with .Params.cover.image -}}
+  ,"image": {
+    "@type": "ImageObject",
+    "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
+  }
+  {{- end }}
+  {{- with .Params.schema.rating -}}
+  ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ . }}",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "{{ $.Params.schema.ratingCount | default "1" }}"
+  }
+  {{- end }}
+}
+</script>
+
+{{- end -}}
