@@ -1,7 +1,5 @@
-{{- /* 
-  layouts/partials/schema.html
-  Schema Markup cho aiprofreelancer.com
-  Hỗ trợ: Review Schema, Article Schema, WebSite Schema
+{{- /* layouts/partials/schema.html
+  Schema Markup cho aiprofreelancer.com - Bản Tối Ưu Sửa Lỗi
   Tác giả: Vincent Pham
 */ -}}
 
@@ -28,101 +26,99 @@
 
 {{- else if .IsPage -}}
 
-{{- /* === REVIEW SCHEMA — cho bài có rating trong front matter === */ -}}
-{{- if .Params.schema -}}
-{{- if eq .Params.schema.type "Review" -}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "name": {{ .Title | jsonify }},
-  "url": "{{ .Permalink }}",
-  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.schema.author | default "Vincent Pham" }}",
-    "url": "{{ .Site.BaseURL }}about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}images/logo.png"
-    }
-  },
-  "itemReviewed": {
-    "@type": "SoftwareApplication",
-    "name": "{{ .Params.schema.product | default .Title }}",
-    "applicationCategory": "BusinessApplication",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "USD"
-    }
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ .Params.schema.rating | default "4.5" }}",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "reviewBody": {{ .Summary | plainify | jsonify }},
-  "description": {{ .Description | default .Summary | plainify | jsonify }}
-  {{- with .Params.cover.image -}}
-  ,"image": {
-    "@type": "ImageObject",
-    "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
-  }
-  {{- end }}
-}
-</script>
-{{- end -}}
-{{- end -}}
+  {{- /* Kiểm tra xem bài viết có khai báo cấu trúc dạng Review không */ -}}
+  {{- $isReview := false -}}
+  {{- if .Params.schema -}}
+    {{- if eq .Params.schema.type "Review" -}}
+      {{- $isReview = true -}}
+    {{- end -}}
+  {{- end -}}
 
-{{- /* === ARTICLE / BLOGPOSTING SCHEMA — cho mọi bài viết === */ -}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": {{ .Title | jsonify }},
-  "url": "{{ .Permalink }}",
-  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ .Params.author | default "Vincent Pham" }}",
-    "url": "{{ .Site.BaseURL }}about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}images/logo.png"
+  {{- if $isReview -}}
+    {{- /* === 1. REVIEW SCHEMA (Chỉ in ra khi bài có thiết lập Review trong Front Matter) === */ -}}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": {{ .Title | jsonify }},
+      "url": "{{ .Permalink }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Params.schema.author | default "Vincent Pham" }}",
+        "url": "{{ .Site.BaseURL }}about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}images/logo.png"
+        }
+      },
+      "itemReviewed": {
+        "@type": "SoftwareApplication",
+        "name": "{{ .Params.schema.product | default .Title }}",
+        "applicationCategory": "BusinessApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "{{ .Params.schema.rating | default "4.5" }}",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "reviewBody": {{ .Summary | plainify | jsonify }},
+      "description": {{ .Description | default .Summary | plainify | jsonify }}
+      {{- with .Params.cover.image -}}
+      ,"image": {
+        "@type": "ImageObject",
+        "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
+      }
+      {{- end }}
     }
-  },
-  "description": {{ .Description | default (.Summary | plainify) | jsonify }},
-  "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}{{ $tag | jsonify }}{{ end }}]
-  {{- with .Params.cover.image -}}
-  ,"image": {
-    "@type": "ImageObject",
-    "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
-  }
-  {{- end }}
-  {{- with .Params.schema.rating -}}
-  ,"aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ . }}",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "{{ $.Params.schema.ratingCount | default "1" }}"
-  }
-  {{- end }}
-}
-</script>
+    </script>
+
+  {{- else -}}
+    {{- /* === 2. ARTICLE / BLOGPOSTING SCHEMA (Dành riêng cho các bài viết Blog thông thường) === */ -}}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ .Title | jsonify }},
+      "url": "{{ .Permalink }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Params.author | default "Vincent Pham" }}",
+        "url": "{{ .Site.BaseURL }}about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}images/logo.png"
+        }
+      },
+      "description": {{ .Description | default (.Summary | plainify) | jsonify }},
+      "keywords": [{{ range $i, $tag := .Params.tags }}{{ if $i }}, {{ end }}{{ $tag | jsonify }}{{ end }}]
+      {{- with .Params.cover.image -}}
+      ,"image": {
+        "@type": "ImageObject",
+        "url": "{{ $.Site.BaseURL }}{{ . | strings.TrimPrefix "/" }}"
+      }
+      {{- end }}
+    }
+    </script>
+  {{- end -}}
 
 {{- end -}}
