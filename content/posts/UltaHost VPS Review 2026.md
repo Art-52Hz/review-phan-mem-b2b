@@ -1,10 +1,15 @@
 ---
 title: "UltaHost VPS Review 2026: The Ultimate Setup Guide for Affiliate Marketers"
-description: "Are you losing affiliate sales due to slow hosting? Read our honest UltaHost VPS review 2026 and learn how to set up a blazing-fast offshore VPS in 15 minutes."
-date: 2026-05-27T19:00:00+07:00
-lastmod: 2026-05-27T19:00:00+07:00
+date: 2026-05-27T00:00:00+07:00
+lastmod: 2026-05-28T00:00:00+07:00
 draft: false
-author: "AI Pro Freelancer"
+author: "Vincent Pham"
+schema:
+  type: "Review"
+  rating: "4.5"
+  ratingCount: "1"
+  author: "Vincent Pham"
+  product: "UltaHost VPS"
 slug: "ultahost-vps-review"
 categories: ["Hosting Reviews", "Affiliate Marketing"]
 tags: ["UltaHost", "VPS", "Offshore Hosting", "Tutorial", "SEO"]
