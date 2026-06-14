@@ -7,7 +7,6 @@ description: "Want to pay for VPS hosting with Bitcoin or USDT? Here's a step-by
 keywords: ["pay for VPS with bitcoin", "VPS crypto payment 2026", "buy VPS with USDT"]
 categories: ["VPS Hosting", "Crypto Payments"]
 tags: ["vps", "bitcoin", "crypto", "usdt", "offshore", "anonymous"]
-  relative: false
 cover:
   image: "/images/pay-for-vps-with-crypto-bitcoin-2026.png"
   alt: ""

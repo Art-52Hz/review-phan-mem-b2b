@@ -7,7 +7,6 @@ description: "UltaHost vs Hostinger — which VPS is better in 2026? We compare 
 keywords: ["ultahost vs hostinger", "ultahost vs hostinger VPS 2026"]
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "offshore", "hostinger", "ultahost", "comparison"]
-  relative: false
 cover:
   image: "/images/ultahost-vs-hostinger-vps-2026.png"
   alt: ""

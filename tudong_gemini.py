@@ -3,23 +3,29 @@ import subprocess
 from datetime import datetime
 import time
 import requests
-from urllib.parse import quote
+from PIL import Image, ImageDraw, ImageFont
 
 # ==========================================
 # 1. CẤU HÌNH HỆ THỐNG
 # ==========================================
 REPO_PATH = r"D:\projects\review-phan-mem-b2b"
 POSTS_DIR = os.path.join(REPO_PATH, "content", "posts")
+IMAGES_DIR = os.path.join(REPO_PATH, "static", "images")
 
-# Khai báo trực tiếp API Key của bạn vào đây
-GEMINI_API_KEY = "AIzaSyCkRgjtbtR-esEa8Un4crJ86ZRoNH9BZUc" 
+# Claude API key — lưu trong claude_key.txt (không commit lên GitHub)
+_key_file = os.path.join(REPO_PATH, "claude_key.txt")
+if os.path.exists(_key_file):
+    with open(_key_file) as _f:
+        CLAUDE_API_KEY = _f.read().strip()
+else:
+    CLAUDE_API_KEY = os.environ.get("CLAUDE_API_KEY", "")
 
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 
 # ==========================================
 # 2. DANH SÁCH BÀI VIẾT TỰ ĐỘNG
 # ==========================================
 ARTICLES = [
-    # --- BATCH 2: New topics (Batch 1 = already manually written) ---
     {
         "keyword": "best Windows VPS hosting 2026",
         "title": "Best Windows VPS Hosting in 2026: Fast, Cheap & Reliable",
@@ -79,195 +85,274 @@ ARTICLES = [
 ]
 
 # ==========================================
-# 3. KỸ NĂNG CỦA CHUYÊN GIA SEO & TẠO ẢNH
+# 3. TẠO ẢNH BÌA (Pillow — self-hosted)
 # ==========================================
-def generate_content_with_gemini(keyword, title, affiliate_url, affiliate_name):
-    # Tạo URL ảnh tự động dựa trên từ khóa
-    encoded_keyword = quote(f"high tech server data center {keyword}")
-    cover_image_url = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=1200&height=630&nologo=true"
-    
-    encoded_mid_keyword = quote(f"cyber security anonymous cryptocurrency {keyword}")
-    mid_image_url = f"https://image.pollinations.ai/prompt/{encoded_mid_keyword}?width=800&height=400&nologo=true"
+THEMES = {
+    "vps":     ((15, 32, 80),  (30, 90, 200)),
+    "hosting": ((10, 40, 70),  (20, 100, 160)),
+    "ai":      ((40, 15, 80),  (100, 40, 180)),
+    "writing": ((15, 60, 50),  (30, 140, 100)),
+    "seo":     ((70, 40, 10),  (170, 100, 20)),
+    "default": ((20, 20, 50),  (50, 80, 150)),
+}
 
-    prompt = f"""Act as a Senior Technical SEO Expert and Expert Copywriter with 10+ years of experience reviewing VPS hosting. Write an extremely comprehensive, SEO-optimized blog post in English. Current year is 2026.
+def _get_theme(slug, title):
+    t = (slug + title).lower()
+    if "vps" in t:     return THEMES["vps"]
+    if "hosting" in t: return THEMES["hosting"]
+    if "writing" in t or "copy" in t or "jasper" in t: return THEMES["writing"]
+    if "seo" in t or "semrush" in t: return THEMES["seo"]
+    if "ai" in t:      return THEMES["ai"]
+    return THEMES["default"]
+
+def _wrap(text, max_chars=30):
+    words = text.split()
+    lines, line = [], ""
+    for w in words:
+        if len(line) + len(w) + 1 <= max_chars:
+            line = (line + " " + w).strip()
+        else:
+            if line: lines.append(line)
+            line = w
+    if line: lines.append(line)
+    return lines
+
+def generate_cover_image(slug, title):
+    os.makedirs(IMAGES_DIR, exist_ok=True)
+    out = os.path.join(IMAGES_DIR, f"{slug}.png")
+    if os.path.exists(out):
+        return f"/images/{slug}.png"  # đã có rồi
+
+    W, H = 1200, 630
+    c1, c2 = _get_theme(slug, title)
+    img = Image.new("RGB", (W, H))
+    draw = ImageDraw.Draw(img, "RGBA")
+
+    # Gradient
+    for y in range(H):
+        t = (y / H) ** 2
+        r = int(c1[0]*(1-t) + c2[0]*t)
+        g = int(c1[1]*(1-t) + c2[1]*t)
+        b = int(c1[2]*(1-t) + c2[2]*t)
+        draw.line([(0,y),(W,y)], fill=(r,g,b))
+
+    # Grid + circles
+    for x in range(0, W, 120): draw.line([(x,0),(x,H)], fill=(255,255,255,12))
+    for y in range(0, H, 120): draw.line([(0,y),(W,y)], fill=(255,255,255,12))
+    cx, cy = W-100, -80
+    for r in [280,220,160]: draw.ellipse([cx-r,cy-r,cx+r,cy+r], outline=(255,255,255,18), width=2)
+    draw.rectangle([0, H-6, W, H], fill=(255,255,255,60))
+
+    try:
+        font_t = ImageFont.truetype(r"C:\Windows\Fonts\arialbd.ttf", 68)
+        font_d = ImageFont.truetype(r"C:\Windows\Fonts\arial.ttf", 26)
+    except:
+        font_t = ImageFont.load_default()
+        font_d = font_t
+
+    lines = _wrap(title)
+    line_h = 80
+    start_y = (H - len(lines)*line_h)//2 - 30
+    draw.rectangle([60, start_y-20, 160, start_y-14], fill=(255,255,255,150))
+    for i, ln in enumerate(lines):
+        y = start_y + i*line_h
+        draw.text((62, y+4), ln, font=font_t, fill=(0,0,0,100))
+        draw.text((60, y),   ln, font=font_t, fill=(255,255,255,255))
+    draw.text((60, H-52), "aiprofreelancer.com", font=font_d, fill=(255,255,255,180))
+
+    img.save(out, "PNG", optimize=True)
+    print(f"    [+] Đã tạo ảnh bìa: {slug}.png")
+    return f"/images/{slug}.png"
+
+# ==========================================
+# 4. SINH NỘI DUNG BẰNG CLAUDE API
+# ==========================================
+def generate_content_with_claude(keyword, title, affiliate_url, affiliate_name):
+    prompt = f"""Act as a Senior Technical SEO Expert and Expert Copywriter with 10+ years of experience. Write an extremely comprehensive, SEO-optimized blog post in English. Current year is 2026.
 
 Keyword to rank for: '{keyword}'
 Post Title: {title}
 
-**SEO & FORMATTING RULES (CRITICAL FOR 90+ SCORE):**
-1. **Keyword Placement:** Include '{keyword}' naturally in the FIRST 100 words, in at least one H2, one H3, and the conclusion.
-2. **Readability:** MAXIMUM 3 sentences per paragraph. Use bolding for important metrics. Use bullet points frequently.
-3. **Images (CRITICAL):** You must insert these exact image markdown tags at the specified locations to make the post visually appealing:
-   - Right after the Introduction (H1/Title context), insert this cover image:
-     ![{title}]({cover_image_url})
-   - Under the "Security & Anonymity" or equivalent H2/H3 section, insert this illustration:
-     ![Secure Crypto VPS]({mid_image_url})
+SEO & FORMATTING RULES:
+1. Include '{keyword}' naturally in the FIRST 100 words, in at least one H2, one H3, and the conclusion.
+2. MAXIMUM 3 sentences per paragraph. Bold important metrics. Use bullet points frequently.
+3. Minimum 1,200 words.
 
-**STRUCTURE OF THE POST:**
-1. **Introduction (150 words):** Hook the reader. State what this covers. Add the first Affiliate CTA naturally here.
-2. **Key Factors to Consider (200 words):** H2 heading. 4 critical factors when choosing this service.
-3. **Why {affiliate_name} is the Top Pick in 2026 (500 words):** H2 heading. Comprehensive review of {affiliate_name}. 
-   - Sub-headings (H3): Performance, Security & Anonymity, Pricing & Crypto Payments, Customer Support.
-   - Add the second Affiliate CTA here naturally.
-4. **Pros & Cons of {affiliate_name}:** H2 heading. Use Markdown lists.
-5. **Alternative Options:** H2 heading. Briefly mention 2 other generic options and why {affiliate_name} still wins.
-6. **Frequently Asked Questions (FAQ):** H2 heading. Answer 3 common questions related to the keyword.
-7. **Conclusion & Final Verdict:** H2 heading. Summarize the value. Add the final strong Affiliate CTA.
+STRUCTURE:
+1. Introduction (150 words) — Hook + first affiliate CTA.
+2. Key Factors to Consider (200 words) — H2, 4 critical factors.
+3. Why {affiliate_name} is the Top Pick in 2026 (500 words) — H2. Sub-sections: Performance, Security, Pricing, Support. Second affiliate CTA here.
+4. Pros & Cons of {affiliate_name} — H2, Markdown lists.
+5. Alternative Options — H2. 2 brief alternatives, explain why {affiliate_name} still wins.
+6. FAQ — H2. Answer 3 common questions on the keyword.
+7. Conclusion & Final Verdict — H2. Summarize + final strong affiliate CTA.
 
-**AFFILIATE LINK INSTRUCTIONS:**
-- Embed the link exactly 3 times using this format: [{affiliate_name}]({affiliate_url}) or [Start your {affiliate_name} server today]({affiliate_url}).
+AFFILIATE LINK: Embed exactly 3 times: [{affiliate_name}]({affiliate_url}) or [Get started with {affiliate_name}]({affiliate_url})
 
-**END THE ARTICLE EXACTLY WITH THIS:**
+END THE ARTICLE WITH:
 ---
-*Disclaimer: This article contains affiliate links. If you purchase a plan through our links, we may earn a small commission at no extra cost to you.*
+*Disclaimer: This article contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you.*
 
-**OUTPUT RULES:**
-- Output ONLY raw Markdown text. No preambles.
+OUTPUT RULES:
+- Output ONLY raw Markdown. No preambles, no meta-commentary.
 - Tone: Professional, trustworthy, direct.
 """
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
-    headers = {'Content-Type': 'application/json'}
+    headers = {
+        "x-api-key": CLAUDE_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
     payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 4000
-        }
+        "model": CLAUDE_MODEL,
+        "max_tokens": 4096,
+        "messages": [{"role": "user", "content": prompt}],
     }
 
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            response = requests.post(url, headers=headers, json=payload)
-            
-            try:
-                response_data = response.json()
-            except Exception:
-                print(f"    [-] Máy chủ Google bị lỗi mạng (Không trả về JSON). Status Code: {response.status_code}")
-                time.sleep(10)
-                continue
+            resp = requests.post(
+                "https://api.anthropic.com/v1/messages",
+                headers=headers,
+                json=payload,
+                timeout=120,
+            )
+            data = resp.json()
 
-            if response.status_code == 200:
-                content = response_data['candidates'][0]['content']['parts'][0]['text']
-                print(f"    [+] Gemini viết xong! ({len(content)} ký tự, có kèm ảnh AI)")
+            if resp.status_code == 200:
+                content = data["content"][0]["text"]
+                print(f"    [+] Claude viết xong! ({len(content)} ký tự)")
                 return content
-            elif response.status_code == 429:
-                wait_time = 45 * (attempt + 1)
-                print(f"    [!] Quá tải Limit! Đang chờ {wait_time}s rồi thử lại lần {attempt + 1}...")
-                time.sleep(wait_time)
+            elif resp.status_code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"    [!] Rate limit — chờ {wait}s...")
+                time.sleep(wait)
             else:
-                print(f"    [-] Lỗi từ Google API: {response_data.get('error', {}).get('message', 'Không xác định')}")
+                print(f"    [-] Lỗi API: {data.get('error', {}).get('message', resp.status_code)}")
                 return None
-
         except Exception as e:
             print(f"    [-] Lỗi kết nối: {e}")
-            return None
+            time.sleep(10)
     return None
 
 # ==========================================
-# 4. LƯU FILE MARKDOWN
+# 5. LƯU FILE MARKDOWN (có frontmatter đầy đủ)
 # ==========================================
-def save_to_markdown(title, slug, content, keyword):
+def save_to_markdown(title, slug, content, keyword, img_path):
     now_date = datetime.now().strftime("%Y-%m-%d")
     filename = f"{now_date}-{slug}.md"
     filepath = os.path.join(POSTS_DIR, filename)
 
-    clean_content = content.replace("#", "").replace("*", "").replace("\n", " ")
-    description = clean_content[:155].strip()
+    # Nếu file đã tồn tại, bỏ qua
+    if os.path.exists(filepath):
+        print(f"    [!] Bài đã tồn tại, bỏ qua: {filename}")
+        return None
 
-    markdown_template = f"""---
+    clean = content.replace("#","").replace("*","").replace("\n"," ")
+    description = clean[:155].strip()
+
+    frontmatter = f"""---
 title: "{title}"
 date: {now_date}
 slug: "{slug}"
 draft: false
 description: "{description}..."
-keywords: ["{keyword}", "vps offshore", "crypto vps", "ultahost review"]
-categories: ["VPS Hosting"]
-tags: ["vps", "offshore", "crypto", "affiliate", "hosting"]
+keywords: ["{keyword}"]
+categories: ["Hosting", "VPS"]
+tags: ["vps", "hosting", "affiliate"]
+cover:
+  image: "{img_path}"
+  alt: "{title}"
+  relative: false
 ---
 
-{content}
 """
     os.makedirs(POSTS_DIR, exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(markdown_template)
+        f.write(frontmatter + content)
 
-    print(f"    [+] Đã lưu file: {filename}")
+    print(f"    [+] Đã lưu: {filename}")
     return filepath
 
 # ==========================================
-# 5. ĐẨY LÊN GITHUB
+# 6. PUSH LÊN GITHUB
 # ==========================================
 def push_to_github(success_count):
     try:
         os.chdir(REPO_PATH)
-        print("\n[*] Đang đồng bộ lên GitHub Pages...")
+        print("\n[*] Đang đẩy lên GitHub...")
 
-        # Xóa index.lock nếu tồn tại (lỗi thường gặp trên Windows)
-        lock_file = os.path.join(REPO_PATH, ".git", "index.lock")
-        if os.path.exists(lock_file):
-            os.remove(lock_file)
-            print("[*] Đã xóa index.lock")
+        lock = os.path.join(REPO_PATH, ".git", "index.lock")
+        if os.path.exists(lock):
+            os.remove(lock)
 
         subprocess.run(["git", "add", "."], check=True, capture_output=True)
-        commit_msg = f"Auto-publish {success_count} posts [{datetime.now().strftime('%Y-%m-%d %H:%M')}]"
+        msg = f"Auto: {success_count} bài mới [{datetime.now().strftime('%Y-%m-%d %H:%M')}]"
+        result = subprocess.run(["git", "commit", "-m", msg], capture_output=True)
 
-        result = subprocess.run(["git", "commit", "-m", commit_msg], capture_output=True)
         if result.returncode != 0:
             stderr = result.stderr.decode() if result.stderr else ""
-            if "nothing to commit" in stderr or "nothing added to commit" in stderr:
-                print("[!] Không có bài viết nào mới để đẩy lên.")
+            if "nothing to commit" in stderr:
+                print("[!] Không có gì mới để push.")
                 return
 
         subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
-        print("[+] Thành công! Chờ 2 phút để GitHub xuất bản Web.")
+        print("[+] Push thành công! Web sẽ cập nhật sau 2 phút.")
     except subprocess.CalledProcessError as e:
         stderr = e.stderr.decode() if e.stderr else ""
         print(f"[-] Lỗi Git: {stderr[:300]}")
 
 # ==========================================
-# 6. KHỞI CHẠY
+# 7. KHỞI CHẠY
 # ==========================================
 if __name__ == "__main__":
     print("=" * 60)
-    print("   HỆ THỐNG VIẾT BÀI CHUẨN SEO 90+ KÈM ẢNH TỰ ĐỘNG")
+    print("   AI PRO FREELANCER — TỰ ĐỘNG VIẾT BÀI BẰNG CLAUDE")
     print("=" * 60)
 
-    if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY_DIEN_VAO_DAY":
-        print("\n⚠️ LỖI: Bạn chưa điền GEMINI_API_KEY ở dòng 15!")
+    if not CLAUDE_API_KEY:
+        print("\n⚠️  LỖI: Chưa có Claude API key!")
+        print("     Tạo file claude_key.txt trong thư mục dự án")
+        print("     rồi dán API key vào đó (không commit file này).")
         exit(1)
 
     success_count = 0
     total = len(ARTICLES)
 
-    for i, article in enumerate(ARTICLES, 1):
-        print(f"\n[{i}/{total}] Đang xử lý: {article['title']}")
+    for i, art in enumerate(ARTICLES, 1):
+        print(f"\n[{i}/{total}] {art['title']}")
         print("-" * 50)
 
-        content = generate_content_with_gemini(
-            keyword=article["keyword"],
-            title=article["title"],
-            affiliate_url=article["affiliate_url"],
-            affiliate_name=article["affiliate_name"],
+        # Tạo ảnh bìa
+        img_path = generate_cover_image(art["slug"], art["title"])
+
+        # Sinh nội dung
+        content = generate_content_with_claude(
+            keyword=art["keyword"],
+            title=art["title"],
+            affiliate_url=art["affiliate_url"],
+            affiliate_name=art["affiliate_name"],
         )
 
         if content:
-            save_to_markdown(
-                title=article["title"],
-                slug=article["slug"],
+            saved = save_to_markdown(
+                title=art["title"],
+                slug=art["slug"],
                 content=content,
-                keyword=article["keyword"],
+                keyword=art["keyword"],
+                img_path=img_path,
             )
-            success_count += 1
-        
+            if saved:
+                success_count += 1
+
         if i < total:
-            print(f"    [*] Đang nghỉ 30 giây để nhường đường cho AI...")
-            time.sleep(30)
+            print(f"    [*] Nghỉ 5 giây...")
+            time.sleep(5)
 
     if success_count > 0:
         push_to_github(success_count)
 
     print("\n" + "=" * 60)
-    print(f"   HOÀN TẤT: {success_count}/{total} bài viết đã lên sóng!")
+    print(f"   XONG: {success_count}/{total} bài viết đã được publish!")
     print("=" * 60)

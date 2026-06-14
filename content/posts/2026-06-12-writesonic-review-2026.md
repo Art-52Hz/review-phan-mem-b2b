@@ -13,7 +13,6 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Writesonic"
-  relative: false
 cover:
   image: "/images/writesonic-review-2026.png"
   alt: ""

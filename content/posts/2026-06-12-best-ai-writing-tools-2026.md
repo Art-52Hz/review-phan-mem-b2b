@@ -7,7 +7,6 @@ description: "We tested the top AI writing tools in 2026 across real content tas
 keywords: ["best ai writing tools 2026", "ai writing tool", "best ai writing software", "jasper vs writesonic", "ai copywriting tools"]
 categories: ["AI Tools", "Content Marketing"]
 tags: ["ai writing", "jasper ai", "writesonic", "copy.ai", "chatgpt", "ai tools 2026"]
-  relative: false
 cover:
   image: "/images/best-ai-writing-tools-2026.png"
   alt: ""

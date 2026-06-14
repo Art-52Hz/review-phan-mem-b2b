@@ -7,7 +7,6 @@ description: "ElevenLabs vs Murf AI head-to-head comparison 2026. We compare voi
 keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "murf ai vs elevenlabs 2026", "best ai voice generator 2026", "ai voiceover comparison"]
 categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "murf ai", "ai voice", "text to speech", "comparison"]
-  relative: false
 cover:
   image: "/images/elevenlabs-vs-murf-ai-2026.png"
   alt: ""

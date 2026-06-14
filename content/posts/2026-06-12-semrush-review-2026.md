@@ -13,7 +13,6 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Semrush"
-  relative: false
 cover:
   image: "/images/semrush-review-2026.png"
   alt: ""

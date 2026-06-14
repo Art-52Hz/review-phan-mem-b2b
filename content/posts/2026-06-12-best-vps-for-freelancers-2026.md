@@ -7,7 +7,6 @@ description: "The best VPS hosting for freelancers in 2026. We compare speed, pr
 keywords: ["best vps for freelancers 2026", "cheap vps hosting freelancer", "best vps hosting 2026", "vps for affiliate marketing", "affordable vps"]
 categories: ["Hosting", "Freelancing"]
 tags: ["vps hosting", "freelancing", "web hosting", "ultahost", "affiliate marketing"]
-  relative: false
 cover:
   image: "/images/best-vps-for-freelancers-2026.png"
   alt: ""

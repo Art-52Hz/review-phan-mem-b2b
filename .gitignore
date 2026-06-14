@@ -4,6 +4,8 @@
 
 # Sensitive files - NEVER commit these
 profile.txt
+gemini_key.txt
+claude_key.txt
 *.env
 .env
 .env.local

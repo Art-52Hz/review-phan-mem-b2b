@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [params]
   description = "Honest reviews of B2B software, SaaS tools, and AI products to help freelancers and businesses make smarter decisions."
-  author = "AI Pro Freelancer"
+  author = "Vincent Phạm"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true

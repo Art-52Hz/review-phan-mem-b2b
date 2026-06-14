@@ -7,7 +7,6 @@ description: "An honest, in-depth Jasper AI review covering features, pricing, p
 keywords: ["jasper ai review", "jasper ai 2026", "jasper ai pricing", "best ai writing tool", "jasper ai pros cons"]
 categories: ["AI Tools", "Content Marketing"]
 tags: ["jasper ai", "ai writing", "copywriting", "content creation", "ai tools"]
-  relative: false
 cover:
   image: "/images/jasper-ai-review-2026.png"
   alt: ""

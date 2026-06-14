@@ -13,7 +13,6 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Surfer SEO"
-  relative: false
 cover:
   image: "/images/surfer-seo-review-2026.png"
   alt: ""
