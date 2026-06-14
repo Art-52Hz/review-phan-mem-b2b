@@ -7,9 +7,6 @@ author: "Vincent Pham"
 slug: "elevenlabs-ai-review-2026"
 categories: ["Reviews", "Affiliate Marketing"]
 tags: ["elevenlabs", "review", "2026"]
-cover:
-  image: "/images/elevenlabs-ai-review-2026-1.png"
-  alt: "ElevenLabs AI Review 2026: Is It Actually Worth Paying For?"
 schema:
   type: "Review"
   rating: "4.1"
@@ -17,6 +14,10 @@ schema:
   author: "Vincent Pham"
   product: "ElevenLabs AI"
 toc: true
+cover:
+  image: "/images/elevenlabs-ai-review-2026.png"
+  alt: ""
+  relative: false
 ---
 
 # ElevenLabs AI Review 2026: Is It Actually Worth Paying For?

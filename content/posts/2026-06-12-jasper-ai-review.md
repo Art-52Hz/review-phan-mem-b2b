@@ -7,9 +7,10 @@ description: "An honest, in-depth Jasper AI review covering features, pricing, p
 keywords: ["jasper ai review", "jasper ai 2026", "jasper ai pricing", "best ai writing tool", "jasper ai pros cons"]
 categories: ["AI Tools", "Content Marketing"]
 tags: ["jasper ai", "ai writing", "copywriting", "content creation", "ai tools"]
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20Jasper%20AI%20Review%202026%3A%20Is%20It%20Still%20Worth%20the%20Hype%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "Jasper AI Review 2026: Is It Still Worth the Hype?"
+  image: "/images/jasper-ai-review-2026.png"
+  alt: ""
   relative: false
 ---
 

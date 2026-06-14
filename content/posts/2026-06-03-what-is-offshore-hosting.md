@@ -7,10 +7,11 @@ description: "What is offshore hosting and why do people use it? Learn the benef
 keywords: ["what is offshore hosting", "offshore hosting explained", "offshore VPS 2026"]
 categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["offshore", "hosting", "privacy", "vps", "anonymous"]
-cover:
-  image: "/images/What_Is_Offshore_Hosting.png"
-  alt: "What Is Offshore Hosting?"
 toc: true
+cover:
+  image: "/images/what-is-offshore-hosting-2026.png"
+  alt: ""
+  relative: false
 ---
 
 You've probably seen the term "offshore hosting" thrown around in hosting forums, but what does it actually mean? And more importantly — do *you* need it?

@@ -13,9 +13,10 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Semrush"
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20Semrush%20Review%202026%3A%20Is%20%24140/Month%20Worth%20It%20for%20Freelancers%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "Semrush Review 2026: Is $140/Month Worth It for Freelancers?"
+  image: "/images/semrush-review-2026.png"
+  alt: ""
   relative: false
 ---
 

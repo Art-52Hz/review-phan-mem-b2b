@@ -7,9 +7,10 @@ description: "The cheapest VPS hosting providers that accept Bitcoin, USDT, and 
 keywords: ["cheapest vps crypto payment", "vps bitcoin payment 2026", "anonymous vps hosting", "vps accept cryptocurrency", "offshore vps crypto"]
 categories: ["Hosting", "Privacy"]
 tags: ["vps hosting", "crypto payment", "bitcoin", "anonymous hosting", "ultahost"]
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%205%20Cheapest%20VPS%20Providers%20That%20Accept%20Crypto%20Payment%20in%202026%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "5 Cheapest VPS Providers That Accept Crypto Payment in 2026"
+  image: "/images/cheapest-vps-crypto-payment-2026.png"
+  alt: ""
   relative: false
 ---
 

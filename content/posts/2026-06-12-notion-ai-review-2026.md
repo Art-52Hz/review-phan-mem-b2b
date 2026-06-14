@@ -13,9 +13,10 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Notion AI"
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20Notion%20AI%20Review%202026%3A%20Is%20the%20%2410/Month%20Add-On%20Actually%20Worth%20It%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "Notion AI Review 2026: Is the $10/Month Add-On Actually Worth It?"
+  image: "/images/notion-ai-review-2026.png"
+  alt: ""
   relative: false
 ---
 

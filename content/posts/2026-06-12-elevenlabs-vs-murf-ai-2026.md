@@ -7,9 +7,10 @@ description: "ElevenLabs vs Murf AI head-to-head comparison 2026. We compare voi
 keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "murf ai vs elevenlabs 2026", "best ai voice generator 2026", "ai voiceover comparison"]
 categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "murf ai", "ai voice", "text to speech", "comparison"]
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20ElevenLabs%20vs%20Murf%20AI%20%282026%29%3A%20Which%20AI%20Voice%20Tool%20Should%20You%20Buy%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "ElevenLabs vs Murf AI (2026): Which AI Voice Tool Should You Buy?"
+  image: "/images/elevenlabs-vs-murf-ai-2026.png"
+  alt: ""
   relative: false
 ---
 

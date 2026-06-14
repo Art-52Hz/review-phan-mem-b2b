@@ -13,9 +13,10 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Surfer SEO"
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20Surfer%20SEO%20Review%202026%3A%20Is%20%2499/Month%20Worth%20It%20for%20Content%20Teams%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "Surfer SEO Review 2026: Is $99/Month Worth It for Content Teams?"
+  image: "/images/surfer-seo-review-2026.png"
+  alt: ""
   relative: false
 ---
 

@@ -7,9 +7,6 @@ author: "Vincent Pham"
 slug: "hostinger-ai-review-2026"
 categories: ["Reviews", "Affiliate Marketing"]
 tags: ["hostinger", "review", "2026"]
-cover:
-  image: "/images/hostinger-ai-review-2026.png"
-  alt: "Hostinger AI Review 2026: Is It Actually Worth It for Freelancers?"
 schema:
   type: "Review"
   rating: "4.5"
@@ -17,6 +14,10 @@ schema:
   author: "Vincent Pham"
   product: "hostinger AI"
 toc: true
+cover:
+  image: "/images/hostinger-ai-review-2026.png"
+  alt: ""
+  relative: false
 ---
 
 ```markdown

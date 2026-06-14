@@ -6,10 +6,11 @@ description: "Learn exactly how to set up a VPS for affiliate marketing in 2026 
 keywords: ["how to set up VPS for affiliate marketing", "VPS setup guide 2026", "VPS for affiliate site", "offshore VPS setup", "install WordPress VPS"]
 tags: ["VPS", "Tutorial", "Affiliate Marketing", "WordPress", "Beginner Guide"]
 author: "Vincent Pham"
-cover:
-  image: "/images/vps-setup-guide-2026.png"
-  alt: "How to Set Up a VPS for Affiliate Marketing 2026 — Step by Step Guide"
 toc: true
+cover:
+  image: "/images/how-to-setup-vps-affiliate-marketing.png"
+  alt: ""
+  relative: false
 ---
 
 # How to Set Up a VPS for Affiliate Marketing in 2026 (Step-by-Step for Beginners)

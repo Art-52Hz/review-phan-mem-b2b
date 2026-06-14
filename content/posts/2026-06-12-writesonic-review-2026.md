@@ -13,9 +13,10 @@ schema:
   ratingCount: "1"
   author: "AI Pro Freelancer"
   product: "Writesonic"
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%20Writesonic%20Review%202026%3A%20Is%20It%20Worth%20%2439/Month%20for%20AI%20Writing%3F%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "Writesonic Review 2026: Is It Worth $39/Month for AI Writing?"
+  image: "/images/writesonic-review-2026.png"
+  alt: ""
   relative: false
 ---
 

@@ -7,9 +7,10 @@ description: "The best AI voice generators in 2026, tested across real content w
 keywords: ["best ai voice generator 2026", "best ai text to speech 2026", "ai voice generator", "elevenlabs alternatives", "murf ai alternatives"]
 categories: ["AI Tools", "Content Creation"]
 tags: ["ai voice", "text to speech", "elevenlabs", "murf ai", "content creation"]
+  relative: false
 cover:
-  image: "https://image.pollinations.ai/prompt/professional%20tech%20blog%20cover%205%20Best%20AI%20Voice%20Generators%20in%202026%20%28Tested%20for%20Real%20Content%20Workflows%29%20digital%20technology%20modern?width=1200&height=630&nologo=true"
-  alt: "5 Best AI Voice Generators in 2026 (Tested for Real Content Workflows)"
+  image: "/images/best-ai-voice-generator-2026.png"
+  alt: ""
   relative: false
 ---
 
