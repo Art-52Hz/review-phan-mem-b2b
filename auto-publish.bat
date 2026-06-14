@@ -34,8 +34,8 @@ if %errorLevel% neq 0 (
     echo.
     echo Kiem tra:
     echo   1. Python da duoc cai dat chua? (python --version)
-    echo   2. Thu vien requests da cai chua? (pip install requests)
-    echo   3. GEMINI_API_KEY trong tudong_gemini.py co hop le khong?
+    echo   2. Thu vien requests va Pillow da cai chua? (pip install requests pillow)
+    echo   3. claude_key.txt co API key hop le khong?
     pause
     exit /b 1
 )
