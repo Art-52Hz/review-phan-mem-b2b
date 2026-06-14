@@ -1,0 +1,28 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Sensitive files - NEVER commit these
+profile.txt
+*.env
+.env
+.env.local
+secrets.txt
+api_keys.txt
+credentials.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp

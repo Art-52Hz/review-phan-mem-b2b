@@ -25,7 +25,7 @@ You're spending 3–4 hours per video project on voiceover alone. Recording, re-
 
 > **Bottom line:** ElevenLabs AI produces genuinely impressive voice output that beats older TTS tools by a wide margin, with voice cloning and multilingual support that real creators are using in production workflows — but billing friction, credit expiry issues, and inconsistency in long-form output mean it's only worth paying for if you have a defined content system and publish regularly. Casual users and one-off project creators should stick with the free tier or look elsewhere.
 
-👉 [Try ElevenLabs AI — Start Free](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom?ref=elevenlabs-ai-review-2026-cta-top)
+👉 [Try ElevenLabs AI — Start Free](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-top)
 
 ---
 
@@ -120,7 +120,7 @@ Here's an honest summary of what's confirmed from the research, with a direct wa
 
 *My take:* The per-minute pricing for expressive mode ($0.08/minute if confirmed) is actually reasonable for production work. The problem isn't the price — it's the credit system mechanics. Go in understanding this, or you'll pay twice: once for the subscription, and once in expired credits you didn't use.
 
-👉 [Check Current ElevenLabs Pricing](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom?ref=elevenlabs-ai-review-2026-cta-mid)
+👉 [Check Current ElevenLabs Pricing](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-mid)
 
 ---
 
@@ -198,9 +198,9 @@ ElevenLabs AI delivers on its core promise — voice output that sounds genuinel
 
 **Rating: 4.1 / 5**
 
-👉 [Try ElevenLabs AI Free — No Credit Card Required](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom?ref=elevenlabs-ai-review-2026-cta-bottom)
+👉 [Try ElevenLabs AI Free — No Credit Card Required](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom)
 
-👉 [Start Your 2-Week Test Before Committing to a Plan](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom?ref=elevenlabs-ai-review-2026-cta-bottom)
+👉 [Start Your 2-Week Test Before Committing to a Plan](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-bottom)
 
 ---
 

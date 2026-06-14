@@ -19,26 +19,62 @@ GEMINI_API_KEY = "AIzaSyCkRgjtbtR-esEa8Un4crJ86ZRoNH9BZUc"
 # 2. DANH SÁCH BÀI VIẾT TỰ ĐỘNG
 # ==========================================
 ARTICLES = [
+    # --- BATCH 2: New topics (Batch 1 = already manually written) ---
     {
-        "keyword": "best offshore VPS hosting anonymous crypto payment 2026",
-        "title": "Best Offshore VPS Hosting in 2026: Anonymous & Crypto-Friendly",
-        "slug": "best-offshore-vps-hosting-anonymous-2026",
+        "keyword": "best Windows VPS hosting 2026",
+        "title": "Best Windows VPS Hosting in 2026: Fast, Cheap & Reliable",
+        "slug": "best-windows-vps-hosting-2026",
         "affiliate_url": "https://ultahost.com/#art52hz",
         "affiliate_name": "UltaHost",
     },
     {
-        "keyword": "best VPS for freelancers cheap reliable 2026",
-        "title": "Best VPS Hosting for Freelancers in 2026: Fast, Cheap & Reliable",
-        "slug": "best-vps-for-freelancers-2026",
+        "keyword": "best VPS hosting for WordPress sites 2026",
+        "title": "Best VPS Hosting for WordPress in 2026: Speed, Price & Reliability",
+        "slug": "best-vps-for-wordpress-2026",
         "affiliate_url": "https://ultahost.com/#art52hz",
         "affiliate_name": "UltaHost",
     },
     {
-        "keyword": "cheapest VPS accept bitcoin USDT crypto payment 2026",
-        "title": "5 Cheapest VPS Providers That Accept Crypto Payment in 2026",
-        "slug": "cheapest-vps-crypto-payment-2026",
+        "keyword": "Hostinger VPS review 2026",
+        "title": "Hostinger VPS Review 2026: Is It Worth It?",
+        "slug": "hostinger-vps-review-2026",
+        "affiliate_url": "https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO",
+        "affiliate_name": "Hostinger",
+    },
+    {
+        "keyword": "VPS vs shared hosting which is better 2026",
+        "title": "VPS vs Shared Hosting in 2026: Which Should You Choose?",
+        "slug": "vps-vs-shared-hosting-2026",
         "affiliate_url": "https://ultahost.com/#art52hz",
         "affiliate_name": "UltaHost",
+    },
+    {
+        "keyword": "best cheap dedicated server 2026",
+        "title": "Best Cheap Dedicated Servers in 2026: Performance Without the Price Tag",
+        "slug": "best-cheap-dedicated-server-2026",
+        "affiliate_url": "https://ultahost.com/#art52hz",
+        "affiliate_name": "UltaHost",
+    },
+    {
+        "keyword": "best VPS under 10 dollars per month 2026",
+        "title": "Best VPS Under $10/Month in 2026: Top Picks for Every Use Case",
+        "slug": "best-vps-under-10-dollars-2026",
+        "affiliate_url": "https://ultahost.com/#art52hz",
+        "affiliate_name": "UltaHost",
+    },
+    {
+        "keyword": "unlimited bandwidth VPS hosting review 2026",
+        "title": "Best Unlimited Bandwidth VPS Hosting in 2026",
+        "slug": "best-unlimited-bandwidth-vps-2026",
+        "affiliate_url": "https://ultahost.com/#art52hz",
+        "affiliate_name": "UltaHost",
+    },
+    {
+        "keyword": "managed WordPress VPS hosting 2026",
+        "title": "Best Managed WordPress VPS Hosting in 2026: Hands-Off Power",
+        "slug": "managed-wordpress-vps-hosting-2026",
+        "affiliate_url": "https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO",
+        "affiliate_name": "Hostinger",
     },
 ]
 
@@ -168,19 +204,27 @@ def push_to_github(success_count):
         os.chdir(REPO_PATH)
         print("\n[*] Đang đồng bộ lên GitHub Pages...")
 
-        subprocess.run(["git", "add", "."], check=True, capture_output=True)
-        commit_msg = f"Auto-publish {success_count} posts (SEO 90+ & AI Images) [{datetime.now().strftime('%Y-%m-%d %H:%M')}]"
-        
-        subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
+        # Xóa index.lock nếu tồn tại (lỗi thường gặp trên Windows)
+        lock_file = os.path.join(REPO_PATH, ".git", "index.lock")
+        if os.path.exists(lock_file):
+            os.remove(lock_file)
+            print("[*] Đã xóa index.lock")
 
+        subprocess.run(["git", "add", "."], check=True, capture_output=True)
+        commit_msg = f"Auto-publish {success_count} posts [{datetime.now().strftime('%Y-%m-%d %H:%M')}]"
+
+        result = subprocess.run(["git", "commit", "-m", commit_msg], capture_output=True)
+        if result.returncode != 0:
+            stderr = result.stderr.decode() if result.stderr else ""
+            if "nothing to commit" in stderr or "nothing added to commit" in stderr:
+                print("[!] Không có bài viết nào mới để đẩy lên.")
+                return
+
+        subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
         print("[+] Thành công! Chờ 2 phút để GitHub xuất bản Web.")
     except subprocess.CalledProcessError as e:
         stderr = e.stderr.decode() if e.stderr else ""
-        if "nothing to commit" in stderr:
-            print("[!] Không có bài viết nào mới để đẩy lên.")
-        else:
-            print(f"[-] Lỗi Git: {stderr[:200]}")
+        print(f"[-] Lỗi Git: {stderr[:300]}")
 
 # ==========================================
 # 6. KHỞI CHẠY
