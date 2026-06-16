@@ -15,7 +15,7 @@ cover:
 
 If your brand isn't showing up when people ask ChatGPT "what's the best [your category] tool?" — you're losing customers you'll never see. Writesonic built a platform to fix that. Here's an honest look at whether it delivers.
 
-👉 **[Try Writesonic Free — See Your AI Visibility Score in 10 Minutes](https://writesonic.com/?via=aiprofreelancer)**
+👉 **[Try Writesonic Free — See Your AI Visibility Score in 10 Minutes](https://writesonic.com/)**
 
 ---
 
@@ -62,12 +62,12 @@ Rewrites your pages so AI engines are more likely to cite them. Adds FAQ blocks,
 
 ## Pricing (2026)
 
-| Plan | Monthly | Annual | Affiliate earns (annual) |
-|------|---------|--------|--------------------------|
-| Starter | $99/mo | $79/mo | ~$190–$237/year |
-| Basic | $249/mo | $199/mo | ~$477–$597/year |
-| **Growth** | **$499/mo** | **$399/mo** | **~$957–$1,197/year** |
-| Enterprise | Custom | Custom | 20% of deal |
+| Plan | Monthly | Annual |
+|------|---------|--------|
+| Starter | $99/mo | $79/mo |
+| Basic | $249/mo | $199/mo |
+| **Growth** | **$499/mo** | **$399/mo** |
+| Enterprise | Custom | Custom |
 
 **Free trial available** — no credit card required. You get your AI visibility score across 10 platforms within 10 minutes of signing up.
 
@@ -108,7 +108,6 @@ If your brand isn't in those AI answers, you're invisible to that audience — e
 - Tracks 10 AI platforms simultaneously — most competitors track 2–3
 - Free trial shows real data immediately, no sales call required
 - Action Center prioritizes what to fix, not just what's broken
-- Affiliate program pays 20% recurring for 12 months (strong alignment)
 
 **Cons:**
 - Pricing is enterprise-level — not accessible for solo operators below $99/month
@@ -152,7 +151,7 @@ The $499/month Growth plan is steep for solo operators, but for agencies billing
 
 The free trial is genuinely no-risk. If your brand isn't showing up when you test it, that's the moment the product sells itself.
 
-👉 **[Check Your AI Visibility Score Free — No Credit Card](https://writesonic.com/?via=aiprofreelancer)**
+👉 **[Check Your AI Visibility Score Free — No Credit Card](https://writesonic.com/)**
 
 ---
 
