@@ -8,7 +8,7 @@ keywords: ["unlimited bandwidth VPS hosting review 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/best-unlimited-bandwidth-vps-2026.png"
+  image: "/images/best-unlimited-bandwidth-vps-2026.webp"
   alt: "Best Unlimited Bandwidth VPS Hosting in 2026"
   relative: false
 ---

@@ -8,7 +8,7 @@ keywords: ["ultahost vs contabo", "ultahost vs contabo 2026", "budget VPS compar
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "contabo", "ultahost", "budget hosting", "comparison"]
 cover:
-  image: "/images/ultahost-vs-contabo-2026.png"
+  image: "/images/ultahost-vs-contabo-2026.webp"
   alt: ""
   relative: false
 ---

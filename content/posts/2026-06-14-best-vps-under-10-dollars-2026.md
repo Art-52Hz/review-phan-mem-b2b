@@ -8,7 +8,7 @@ keywords: ["best VPS under 10 dollars per month 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/best-vps-under-10-dollars-2026.png"
+  image: "/images/best-vps-under-10-dollars-2026.webp"
   alt: "Best VPS Under $10/Month in 2026: Top Picks for Every Use Case"
   relative: false
 ---

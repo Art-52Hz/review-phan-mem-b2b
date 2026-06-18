@@ -8,7 +8,7 @@ keywords: ["managed WordPress VPS hosting 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/managed-wordpress-vps-hosting-2026.png"
+  image: "/images/managed-wordpress-vps-hosting-2026.webp"
   alt: "Best Managed WordPress VPS Hosting in 2026: Hands-Off Power"
   relative: false
 ---

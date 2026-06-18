@@ -8,7 +8,7 @@ keywords: ["nordvpn vs expressvpn", "nordvpn vs expressvpn 2026", "best vpn 2026
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "expressvpn", "vpn", "vpn comparison", "cybersecurity"]
 cover:
-  image: "/images/nordvpn-vs-expressvpn-2026.png"
+  image: "/images/nordvpn-vs-expressvpn-2026.webp"
   alt: "NordVPN vs ExpressVPN 2026 — Full Comparison"
   relative: false
 ---

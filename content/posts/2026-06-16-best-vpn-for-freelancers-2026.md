@@ -8,7 +8,7 @@ keywords: ["best vpn for freelancers", "vpn for remote work 2026", "best vpn for
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "vpn", "freelancing", "remote work", "cybersecurity", "digital nomad"]
 cover:
-  image: "/images/best-vpn-for-freelancers-2026.png"
+  image: "/images/best-vpn-for-freelancers-2026.webp"
   alt: "Best VPN for Freelancers 2026"
   relative: false
 ---

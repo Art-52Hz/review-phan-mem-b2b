@@ -8,7 +8,7 @@ tags: ["VPS", "Tutorial", "Affiliate Marketing", "WordPress", "Beginner Guide"]
 author: "Vincent Pham"
 toc: true
 cover:
-  image: "/images/how-to-setup-vps-affiliate-marketing.png"
+  image: "/images/how-to-setup-vps-affiliate-marketing.webp"
   alt: ""
   relative: false
 ---

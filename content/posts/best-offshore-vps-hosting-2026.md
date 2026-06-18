@@ -5,7 +5,7 @@ description: "The definitive guide to the best offshore VPS hosting in 2026. Tes
 keywords: ["best offshore VPS hosting 2026", "offshore VPS crypto payment", "DMCA ignored VPS", "privacy VPS hosting", "best VPS for affiliate marketing"]
 tags: ["VPS", "Offshore Hosting", "Privacy", "MMO", "Buying Guide"]
 cover:
-  image: "/images/best-offshore-vps-hosting-2026.png"
+  image: "/images/best-offshore-vps-hosting-2026.webp"
   alt: ""
   relative: false
 ---

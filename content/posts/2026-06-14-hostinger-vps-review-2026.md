@@ -8,7 +8,7 @@ keywords: ["Hostinger VPS review 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/hostinger-vps-review-2026.png"
+  image: "/images/hostinger-vps-review-2026.webp"
   alt: "Hostinger VPS Review 2026: Is It Worth It?"
   relative: false
 ---

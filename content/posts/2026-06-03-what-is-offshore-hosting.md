@@ -9,7 +9,7 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["offshore", "hosting", "privacy", "vps", "anonymous"]
 toc: true
 cover:
-  image: "/images/what-is-offshore-hosting-2026.png"
+  image: "/images/what-is-offshore-hosting-2026.webp"
   alt: ""
   relative: false
 ---

@@ -8,7 +8,7 @@ keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "murf ai vs elevenlabs
 categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "murf ai", "ai voice", "text to speech", "comparison"]
 cover:
-  image: "/images/elevenlabs-vs-murf-ai-2026.png"
+  image: "/images/elevenlabs-vs-murf-ai-2026.webp"
   alt: ""
   relative: false
 ---

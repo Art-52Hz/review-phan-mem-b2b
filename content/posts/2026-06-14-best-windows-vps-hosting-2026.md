@@ -8,7 +8,7 @@ keywords: ["best Windows VPS hosting 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/best-windows-vps-hosting-2026.png"
+  image: "/images/best-windows-vps-hosting-2026.webp"
   alt: "Best Windows VPS Hosting in 2026: Fast, Cheap & Reliable"
   relative: false
 ---

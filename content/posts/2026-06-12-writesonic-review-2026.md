@@ -8,7 +8,7 @@ keywords: ["writesonic review 2026", "writesonic ai search", "ai visibility plat
 categories: ["AI Tools", "SEO"]
 tags: ["writesonic", "ai search", "seo", "brand visibility", "ai tools"]
 cover:
-  image: "/images/writesonic-review-2026.png"
+  image: "/images/writesonic-review-2026.webp"
   alt: "Writesonic AI Search Visibility Platform Review 2026"
   relative: false
 ---

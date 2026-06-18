@@ -8,7 +8,7 @@ keywords: ["best cheap dedicated server 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/best-cheap-dedicated-server-2026.png"
+  image: "/images/best-cheap-dedicated-server-2026.webp"
   alt: "Best Cheap Dedicated Servers in 2026: Performance Without the Price Tag"
   relative: false
 ---

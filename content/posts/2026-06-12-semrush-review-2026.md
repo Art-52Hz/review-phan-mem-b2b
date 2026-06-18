@@ -14,7 +14,7 @@ schema:
   author: "AI Pro Freelancer"
   product: "Semrush"
 cover:
-  image: "/images/semrush-review-2026.png"
+  image: "/images/semrush-review-2026.webp"
   alt: "Semrush Review 2026"
   relative: false
 ---

@@ -8,7 +8,7 @@ keywords: ["copy.ai vs jasper", "copy ai vs jasper ai 2026", "jasper vs copy.ai"
 categories: ["AI Tools", "Content Marketing"]
 tags: ["copy.ai", "jasper ai", "ai writing", "comparison", "ai tools 2026"]
 cover:
-  image: "/images/copy-ai-vs-jasper-2026.png"
+  image: "/images/copy-ai-vs-jasper-2026.webp"
   alt: ""
   relative: false
 ---

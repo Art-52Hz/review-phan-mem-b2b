@@ -14,7 +14,7 @@ schema:
   author: "AI Pro Freelancer"
   product: "Surfer SEO"
 cover:
-  image: "/images/surfer-seo-review-2026.png"
+  image: "/images/surfer-seo-review-2026.webp"
   alt: ""
   relative: false
 ---

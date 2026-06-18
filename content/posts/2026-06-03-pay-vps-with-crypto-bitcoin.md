@@ -8,7 +8,7 @@ keywords: ["pay for VPS with bitcoin", "VPS crypto payment 2026", "buy VPS with 
 categories: ["VPS Hosting", "Crypto Payments"]
 tags: ["vps", "bitcoin", "crypto", "usdt", "offshore", "anonymous"]
 cover:
-  image: "/images/pay-for-vps-with-crypto-bitcoin-2026.png"
+  image: "/images/pay-for-vps-with-crypto-bitcoin-2026.webp"
   alt: ""
   relative: false
 ---

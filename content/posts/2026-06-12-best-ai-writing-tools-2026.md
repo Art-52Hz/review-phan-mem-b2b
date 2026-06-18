@@ -8,7 +8,7 @@ keywords: ["best ai writing tools 2026", "ai writing tool", "best ai writing sof
 categories: ["AI Tools", "Content Marketing"]
 tags: ["ai writing", "jasper ai", "writesonic", "copy.ai", "chatgpt", "ai tools 2026"]
 cover:
-  image: "/images/best-ai-writing-tools-2026.png"
+  image: "/images/best-ai-writing-tools-2026.webp"
   alt: ""
   relative: false
 ---

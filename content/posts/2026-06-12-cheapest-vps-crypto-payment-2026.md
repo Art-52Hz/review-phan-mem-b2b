@@ -8,7 +8,7 @@ keywords: ["cheapest vps crypto payment", "vps bitcoin payment 2026", "anonymous
 categories: ["Hosting", "Privacy"]
 tags: ["vps hosting", "crypto payment", "bitcoin", "anonymous hosting", "ultahost"]
 cover:
-  image: "/images/cheapest-vps-crypto-payment-2026.png"
+  image: "/images/cheapest-vps-crypto-payment-2026.webp"
   alt: ""
   relative: false
 ---

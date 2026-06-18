@@ -15,7 +15,7 @@ schema:
   product: "ElevenLabs AI"
 toc: true
 cover:
-  image: "/images/elevenlabs-ai-review-2026.png"
+  image: "/images/elevenlabs-ai-review-2026.webp"
   alt: ""
   relative: false
 ---

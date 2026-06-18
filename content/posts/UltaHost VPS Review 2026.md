@@ -15,7 +15,7 @@ categories: ["Hosting Reviews", "Affiliate Marketing"]
 tags: ["UltaHost", "VPS", "Offshore Hosting", "Tutorial", "SEO"]
 toc: true
 cover:
-  image: "/images/ultahost-vps-review.png"
+  image: "/images/ultahost-vps-review.webp"
   alt: ""
   relative: false
 ---

@@ -8,7 +8,7 @@ keywords: ["nordvpn review 2026", "nordvpn review", "best vpn 2026", "nordvpn vs
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "vpn", "cybersecurity", "privacy", "best vpn"]
 cover:
-  image: "/images/nordvpn-review-2026.png"
+  image: "/images/nordvpn-review-2026.webp"
   alt: "NordVPN Review 2026 — Speed, Security, and Pricing Tested"
   relative: false
 ---

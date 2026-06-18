@@ -15,7 +15,7 @@ schema:
   product: "hostinger AI"
 toc: true
 cover:
-  image: "/images/hostinger-ai-review-2026.png"
+  image: "/images/hostinger-ai-review-2026.webp"
   alt: ""
   relative: false
 ---

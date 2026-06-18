@@ -8,7 +8,7 @@ keywords: ["best ai voice generator 2026", "best ai text to speech 2026", "ai vo
 categories: ["AI Tools", "Content Creation"]
 tags: ["ai voice", "text to speech", "elevenlabs", "murf ai", "content creation"]
 cover:
-  image: "/images/best-ai-voice-generator-2026.png"
+  image: "/images/best-ai-voice-generator-2026.webp"
   alt: ""
   relative: false
 ---

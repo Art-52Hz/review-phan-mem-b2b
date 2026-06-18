@@ -8,7 +8,7 @@ keywords: ["best vps for freelancers 2026", "cheap vps hosting freelancer", "bes
 categories: ["Hosting", "Freelancing"]
 tags: ["vps hosting", "freelancing", "web hosting", "ultahost", "affiliate marketing"]
 cover:
-  image: "/images/best-vps-for-freelancers-2026.png"
+  image: "/images/best-vps-for-freelancers-2026.webp"
   alt: ""
   relative: false
 ---

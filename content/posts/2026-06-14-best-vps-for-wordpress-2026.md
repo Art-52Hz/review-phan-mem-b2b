@@ -8,7 +8,7 @@ keywords: ["best VPS hosting for WordPress sites 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/best-vps-for-wordpress-2026.png"
+  image: "/images/best-vps-for-wordpress-2026.webp"
   alt: "Best VPS Hosting for WordPress in 2026: Speed, Price & Reliability"
   relative: false
 ---

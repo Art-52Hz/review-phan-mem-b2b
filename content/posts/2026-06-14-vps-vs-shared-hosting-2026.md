@@ -8,7 +8,7 @@ keywords: ["VPS vs shared hosting which is better 2026"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/vps-vs-shared-hosting-2026.png"
+  image: "/images/vps-vs-shared-hosting-2026.webp"
   alt: "VPS vs Shared Hosting in 2026: Which Should You Choose?"
   relative: false
 ---

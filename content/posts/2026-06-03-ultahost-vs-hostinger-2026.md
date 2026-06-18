@@ -8,7 +8,7 @@ keywords: ["ultahost vs hostinger", "ultahost vs hostinger VPS 2026"]
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "offshore", "hostinger", "ultahost", "comparison"]
 cover:
-  image: "/images/ultahost-vs-hostinger-vps-2026.png"
+  image: "/images/ultahost-vs-hostinger-vps-2026.webp"
   alt: ""
   relative: false
 ---
