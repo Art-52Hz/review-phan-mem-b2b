@@ -4,7 +4,9 @@ date: 2026-06-19
 description: "Honest Writesonic vs Copy.ai comparison 2026 — pricing, features, real test results. Which AI writing tool wins for bloggers, freelancers, and marketing teams?"
 tags: ["writesonic", "copy.ai", "ai writing", "comparison", "content tools"]
 categories: ["AI Tools", "Comparisons"]
-image: /images/writesonic-vs-copyai-2026.webp
+cover:
+  image: "/images/writesonic-vs-copyai-2026.webp"
+  alt: "Writesonic vs Copy.ai 2026"
 draft: false
 ---
 

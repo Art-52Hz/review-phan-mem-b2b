@@ -4,7 +4,9 @@ date: 2026-06-18
 description: "Honest Grammarly review 2026 — GrammarlyGO AI features, Pro pricing ($12/mo), plagiarism checker, and whether it's worth upgrading from free."
 tags: ["grammarly", "ai writing", "writing tools", "grammar checker", "productivity"]
 categories: ["AI Tools", "Writing"]
-image: /images/grammarly-review-2026.webp
+cover:
+  image: "/images/grammarly-review-2026.webp"
+  alt: "Grammarly Review 2026"
 draft: false
 ---
 
