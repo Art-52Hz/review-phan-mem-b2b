@@ -2,7 +2,7 @@
 title: "Notion AI Review 2026: Is the $10/Month Add-On Actually Worth It?"
 date: 2026-06-12
 slug: "notion-ai-review-2026"
-draft: false
+draft: true
 description: "Honest Notion AI review for 2026. Is the $10/month AI add-on worth it? We cover Custom Agents, Ask Notion, meeting notes, pricing, and who should (and shouldn't) pay for it."
 keywords: ["notion ai review", "notion ai review 2026", "notion ai pricing", "notion ai features", "is notion ai worth it"]
 categories: ["AI Tools", "Productivity"]

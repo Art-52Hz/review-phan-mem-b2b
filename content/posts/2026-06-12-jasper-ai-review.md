@@ -2,7 +2,7 @@
 title: "Jasper AI Review 2026: Is It Still Worth the Hype?"
 date: 2026-06-12
 slug: "jasper-ai-review-2026"
-draft: false
+draft: true
 description: "An honest, in-depth Jasper AI review covering features, pricing, pros and cons, and how it compares to ChatGPT and Copy.ai in 2026."
 keywords: ["jasper ai review", "jasper ai 2026", "jasper ai pricing", "best ai writing tool", "jasper ai pros cons"]
 categories: ["AI Tools", "Content Marketing"]
