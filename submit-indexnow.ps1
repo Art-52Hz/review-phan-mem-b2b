@@ -40,6 +40,7 @@ $urls = @(
     "https://aiprofreelancer.com/posts/best-vpn-for-freelancers-2026/",
     "https://aiprofreelancer.com/posts/nordvpn-review-2026/",
     "https://aiprofreelancer.com/posts/nordvpn-vs-expressvpn-2026/",
+    "https://aiprofreelancer.com/posts/nordvpn-vs-surfshark-2026/",
     "https://aiprofreelancer.com/posts/2026-06-18-grammarly-review-2026/",
     "https://aiprofreelancer.com/posts/2026-06-19-writesonic-vs-copyai-2026/",
     "https://aiprofreelancer.com/posts/2026-06-20-notion-ai-review-2026/",

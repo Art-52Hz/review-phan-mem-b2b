@@ -136,6 +136,18 @@ At $3.09/month = ~$37/year, even a 20% tax deduction saves you ~$7 — making th
 
 ---
 
+## Bonus: Protect Your Identity, Not Just Your Connection
+
+A VPN secures your *connection*, but as a freelancer you also scatter personal and financial details across dozens of platforms — payment processors, job boards, client portals, and contracts. If any of those leak in a data breach, identity theft can hit your income directly.
+
+**NordProtect** — from the team behind NordVPN — adds a second layer beyond encryption: dark web monitoring that alerts you if your email, ID numbers, or financial details show up in a breach, plus identity theft recovery support and cyber extortion insurance. (Currently available in the US.)
+
+For freelancers whose livelihood depends on a clean financial identity, it's a sensible complement to a VPN.
+
+👉 **[Check NordProtect →](https://go.nordprotect.net/aff_c?offer_id=973&aff_id=150621)**
+
+---
+
 ## FAQ
 
 **Do I really need a VPN as a freelancer?**

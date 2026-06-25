@@ -6,6 +6,10 @@
 profile.txt
 gemini_key.txt
 claude_key.txt
+THONG-TIN-CAN-DIEN.txt
+INFO-NEEDED.txt
+AFFILIATE-LINKS-DIEN-VAO.txt
+DON-DANG-KY-COPY-PASTE.txt
 *.env
 .env
 .env.local
