@@ -226,10 +226,11 @@
 | Hostinger | ~$60/sale | https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO | ✅ Active |
 | ElevenLabs | 22% recurring | (xem profile.txt) | ✅ Active |
 | Murf AI | 30% recurring | (xem profile.txt) | ✅ Active |
+| Systeme.io | 60% lifetime | (xem profile.txt) | ✅ Active |
 | Semrush | $200/sale | Đăng ký ngày 5 | ⏳ Pending |
-| Grammarly | $20/sale | Đăng ký ngày 7 | ⏳ Pending |
-| Writesonic | 30% recurring | Đăng ký ngày 2 | ⏳ Pending |
-| Copy.ai | 30% recurring | Đăng ký ngày 3 | ⏳ Pending |
 | Surfer SEO | $89/sale | Đăng ký ngày 4 | ⏳ Pending |
 | Notion | 50% recurring | Đăng ký ngày 9 | ⏳ Pending |
-| Canva | $36/sale | Đăng ký ngày 12 | ⏳ Pending |
+| Writesonic | 30% recurring | — | ❌ Rejected |
+| Copy.ai | — | — | ❌ No program |
+| Grammarly | $20/sale | — | ❌ Rejected |
+| Canva | $36/sale | — | ❌ Closed |
