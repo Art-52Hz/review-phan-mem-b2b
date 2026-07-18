@@ -68,7 +68,9 @@ $urls = @(
     "https://aiprofreelancer.com/posts/clickup-review-2026/",
     "https://aiprofreelancer.com/posts/webflow-review-2026/",
     "https://aiprofreelancer.com/posts/best-ai-tools-2026/",
-    "https://aiprofreelancer.com/posts/dmca-ignored-hosting-2026/"
+    "https://aiprofreelancer.com/posts/dmca-ignored-hosting-2026/",
+    "https://aiprofreelancer.com/posts/best-vps-for-crypto-trading-bots-2026/",
+    "https://aiprofreelancer.com/posts/best-anonymous-vps-providers-2026/"
 )
 
 $body = @{
