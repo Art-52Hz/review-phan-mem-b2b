@@ -32,3 +32,7 @@ Thumbs.db
 # Editor
 .vscode/
 *.swp
+
+# Temp
+*.tmp
+_wtest.tmp
