@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#202226" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#18191c"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="14" height="630" fill="#60a5fa"/>
+  <text x="70" y="120" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#60a5fa" letter-spacing="1">VPN · CRYPTO &amp; TRADING · 2026</text>
+  <text x="66" y="220" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="bold" fill="#f0f2f5">Best VPN for</text>
+  <text x="66" y="312" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="bold" fill="#4ade80">Crypto Trading</text>
+  <text x="66" y="404" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="bold" fill="#f0f2f5">in 2026</text>
+  <text x="70" y="500" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#b4b8be">Secure exchange access · no-logs · fast servers worldwide</text>
+  <text x="70" y="555" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#60a5fa">aiprofreelancer.com</text>
+</svg>
