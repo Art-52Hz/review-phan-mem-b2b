@@ -11,6 +11,7 @@ schema:
   author: "Vincent Pham"
   product: "UltaHost VPS"
 slug: "ultahost-vps-review"
+aliases: ["/posts/ultahost-vps-review-full/", "/posts/danh-gia-ultahost-vps-offshore-bao-mat/"]
 categories: ["Hosting Reviews", "Affiliate Marketing"]
 tags: ["UltaHost", "VPS", "Offshore Hosting", "Tutorial", "SEO"]
 toc: true

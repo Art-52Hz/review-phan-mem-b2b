@@ -1,6 +1,8 @@
 ---
 title: "Notion AI Review 2026: Is the $10/Month Add-On Worth It?"
 date: 2026-06-20
+slug: "notion-ai-review-2026"
+aliases: ["/posts/2026-06-20-notion-ai-review-2026/"]
 description: "Honest Notion AI review 2026 — workspace Q&A, document summarization, AI writing features, pricing breakdown, and whether the $10/month add-on is actually worth paying."
 tags: ["notion", "notion ai", "ai writing", "productivity", "workspace"]
 categories: ["AI Tools", "Productivity"]
