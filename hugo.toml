@@ -24,26 +24,32 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
+    identifier = "menu-ai-tools"
     name = "AI Tools"
     url = "/categories/ai-tools/"
     weight = 1
   [[menu.main]]
+    identifier = "menu-hosting"
     name = "VPS & Hosting"
     url = "/categories/hosting/"
     weight = 2
   [[menu.main]]
+    identifier = "menu-vpn"
     name = "VPN & Security"
     url = "/categories/vpn/"
     weight = 3
   [[menu.main]]
+    identifier = "menu-seo"
     name = "SEO Tools"
     url = "/categories/seo-tools/"
     weight = 4
   [[menu.main]]
+    identifier = "menu-reviews"
     name = "All Reviews"
     url = "/posts/"
     weight = 5
   [[menu.main]]
+    identifier = "menu-about"
     name = "About"
     url = "/about/"
     weight = 6
