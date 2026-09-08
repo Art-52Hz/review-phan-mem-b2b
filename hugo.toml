@@ -13,26 +13,60 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
   defaultTheme = "auto"
   googleSiteVerification = "6zx8ayAQl6MTjYDpIFX7IkNt-IvRhtmUyGGvFeiFVpI"
 
   [params.homeInfoParams]
-    Title = "Welcome to AI Pro Freelancer"
-    Content = "Honest reviews of B2B software, SaaS tools, and AI products."
+    Title = "Honest software reviews that save you money 💡"
+    Content = "Hands-on, independent reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software** — real pricing, honest pros & cons, and clear verdicts. Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categories/hosting/) · [VPN & Security](/categories/vpn/) · [SEO Tools](/categories/seo-tools/) · [Productivity](/categories/productivity/)."
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "AI Tools"
+    url = "/categories/ai-tools/"
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "VPS & Hosting"
+    url = "/categories/hosting/"
     weight = 2
+  [[menu.main]]
+    name = "VPN & Security"
+    url = "/categories/vpn/"
+    weight = 3
+  [[menu.main]]
+    name = "SEO Tools"
+    url = "/categories/seo-tools/"
+    weight = 4
+  [[menu.main]]
+    name = "All Reviews"
+    url = "/posts/"
+    weight = 5
   [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 6
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+  [[menu.footer]]
+    name = "Affiliate Disclosure"
+    url = "/affiliate-disclosure/"
     weight = 3
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 4
+  [[menu.footer]]
+    name = "Terms of Service"
+    url = "/terms/"
+    weight = 5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -43,3 +77,10 @@ enableRobotsTXT = true
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3

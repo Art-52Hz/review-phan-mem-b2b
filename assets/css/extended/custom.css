@@ -1,0 +1,85 @@
+/* ===== AI Pro Freelancer — CRO & UX enhancements ===== */
+
+/* --- Quick Verdict / Affiliate box --- */
+.apf-verdict {
+  border: 1px solid var(--border);
+  background: var(--entry);
+  border-radius: 12px;
+  padding: 20px 22px;
+  margin: 24px 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,.05);
+}
+.apf-verdict .apf-verdict-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.apf-verdict h3 { margin: 0; font-size: 20px; }
+.apf-badge {
+  display: inline-block;
+  background: #16a34a;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.apf-score { font-weight: 700; color: var(--primary); font-size: 15px; }
+.apf-stars { color: #f59e0b; letter-spacing: 2px; font-size: 16px; }
+
+/* --- CTA button (high-contrast) --- */
+.apf-cta {
+  display: inline-block;
+  background: #ea580c;
+  color: #fff !important;
+  font-weight: 700;
+  text-decoration: none !important;
+  padding: 12px 22px;
+  border-radius: 10px;
+  margin: 6px 0;
+  transition: transform .08s ease, background .15s ease;
+  box-shadow: 0 3px 0 #9a3412;
+}
+.apf-cta:hover { background: #f97316; transform: translateY(-1px); }
+.apf-cta.green { background: #16a34a; box-shadow: 0 3px 0 #14532d; }
+.apf-cta.green:hover { background: #22c55e; }
+.apf-cta.blue { background: #2563eb; box-shadow: 0 3px 0 #1e3a8a; }
+.apf-cta.blue:hover { background: #3b82f6; }
+.apf-cta-wrap { text-align: center; margin: 18px 0; }
+
+/* --- Pros & Cons grid --- */
+.apf-pc {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 24px 0;
+}
+@media (max-width: 640px) { .apf-pc { grid-template-columns: 1fr; } }
+.apf-pros, .apf-cons {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  background: var(--entry);
+}
+.apf-pros { border-top: 4px solid #16a34a; }
+.apf-cons { border-top: 4px solid #dc2626; }
+.apf-pros h4, .apf-cons h4 { margin: 0 0 10px; font-size: 16px; }
+.apf-pros ul, .apf-cons ul { margin: 0; padding-left: 18px; }
+.apf-pros li, .apf-cons li { margin: 6px 0; }
+.apf-pros h4::before { content: "✅ "; }
+.apf-cons h4::before { content: "⚠️ "; }
+
+/* --- Sticky, tidier Table of Contents --- */
+.toc {
+  position: sticky;
+  top: 16px;
+  border: 1px solid var(--border);
+}
+@media (max-width: 900px) { .toc { position: static; } }
+
+/* --- Home intro links a touch bolder --- */
+.entry-content a, .post-content .apf-verdict a { text-underline-offset: 2px; }
