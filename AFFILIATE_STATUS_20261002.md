@@ -5,7 +5,7 @@ Current UI inspection supersedes the June roadmap where they differ.
 | Platform/program | Observed state | Next action |
 |---|---|---|
 | PartnerStack account | Already exists and logged in | Do not create duplicate |
-| PartnerStack Network | Re-application submitted 2026-10-02; UI confirms profile is being reviewed | Await email/in-app decision; approval is not yet granted |
+| PartnerStack Network | Re-application submitted; decision email supplied by user on 2026-10-02 limits new Marketplace access | Not approved; existing partnerships unaffected per email; only reapply with new or corrected information |
 | Murf AI | Active | Use actual existing referral assets after verification |
 | Eleven Labs Inc. | Active | Use actual existing referral assets after verification |
 | Beautiful.ai | Active | Use actual existing referral assets after verification |
@@ -20,7 +20,7 @@ Current UI inspection supersedes the June roadmap where they differ.
 
 Mangools registration was completed by the user and then verified in the UI.
 No other new platform account or brand acceptance is claimed. No credentials, payment
-or tax fields were changed. PartnerStack re-application was submitted on 2026-10-02 at the user's request. The confirmation states that the application has been sent to the team for review; approval remains pending. Screenshot evidence is retained outside Git.
+or tax fields were changed. PartnerStack re-application was submitted on 2026-10-02 at the user's request. The initial confirmation has been superseded by the decision email supplied by the user: new Marketplace access is limited; existing partnerships are unaffected. No further reapplication or reply was sent. Screenshot evidence is retained outside Git.
 The old revenue roadmap commission estimates are historical, not current contracts.
 
 Official Semrush reference checked 2026-10-02:
@@ -48,3 +48,4 @@ Do not replace measured topic demand with a commission-only shortlist. Current
 Search Console evidence is saved outside Git because it is account telemetry.
 Neither group is yet proven low competition or profitable. Evaluate current
 commercial terms, permitted traffic and customer problems before choosing an offer.
+
