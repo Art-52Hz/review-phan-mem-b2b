@@ -1,8 +1,10 @@
 import os
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import time
 import requests
+import argparse
+from tools.content_preflight import eligible_candidates
 from PIL import Image, ImageDraw, ImageFont
 from tools.cover_assets import reviewed_cover
 
@@ -245,7 +247,7 @@ OUTPUT RULES:
 # 5. LƯU FILE MARKDOWN (có frontmatter đầy đủ)
 # ==========================================
 def save_to_markdown(title, slug, content, keyword, img_path):
-    now_date = datetime.now().strftime("%Y-%m-%d")
+    now_date = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
     filename = f"{now_date}-{slug}.md"
     filepath = os.path.join(POSTS_DIR, filename)
 
@@ -261,7 +263,7 @@ def save_to_markdown(title, slug, content, keyword, img_path):
 title: "{title}"
 date: {now_date}
 slug: "{slug}"
-draft: false
+draft: true
 description: "{description}..."
 keywords: ["{keyword}"]
 categories: ["Hosting", "VPS"]
@@ -284,34 +286,28 @@ cover:
 # 6. PUSH LÊN GITHUB
 # ==========================================
 def push_to_github(success_count):
-    try:
-        os.chdir(REPO_PATH)
-        print("\n[*] Đang đẩy lên GitHub...")
-
-        lock = os.path.join(REPO_PATH, ".git", "index.lock")
-        if os.path.exists(lock):
-            os.remove(lock)
-
-        subprocess.run(["git", "add", "."], check=True, capture_output=True)
-        msg = f"Auto: {success_count} bài mới [{datetime.now().strftime('%Y-%m-%d %H:%M')}]"
-        result = subprocess.run(["git", "commit", "-m", msg], capture_output=True)
-
-        if result.returncode != 0:
-            stderr = result.stderr.decode() if result.stderr else ""
-            if "nothing to commit" in stderr:
-                print("[!] Không có gì mới để push.")
-                return
-
-        subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
-        print("[+] Push thành công! Web sẽ cập nhật sau 2 phút.")
-    except subprocess.CalledProcessError as e:
-        stderr = e.stderr.decode() if e.stderr else ""
-        print(f"[-] Lỗi Git: {stderr[:300]}")
+    raise RuntimeError("Legacy automatic publication disabled. Use cbos_bridge.py with an exact reviewed package.")
 
 # ==========================================
 # 7. KHỞI CHẠY
 # ==========================================
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Review content preflight; generate at most one draft only when explicitly requested")
+    parser.add_argument('--generate-draft', action='store_true', help='Explicitly allow the existing paid Claude call; never publishes')
+    args = parser.parse_args()
+    today = datetime.now(timezone(timedelta(hours=7))).strftime('%Y-%m-%d')
+    state, selected = eligible_candidates(POSTS_DIR, today, ARTICLES)
+    print(f"Preflight: {len(state['slugs'])} existing slugs; {len(state['published_today'])} articles already published today")
+    if not args.generate_draft:
+        print("Read-only preflight. No paid API call and no Git publication. Use --generate-draft only with an approved budget.")
+        raise SystemExit(0)
+    if not selected:
+        print("No eligible candidate: daily limit reached or article already exists. No API call.")
+        raise SystemExit(0)
+    if not reviewed_cover(REPO_PATH, selected[0]['slug']):
+        print("Candidate needs a reviewed editorial image first. No API call.")
+        raise SystemExit(1)
+    ARTICLES = selected
     print("=" * 60)
     print("   AI PRO FREELANCER — TỰ ĐỘNG VIẾT BÀI BẰNG CLAUDE")
     print("=" * 60)
@@ -356,8 +352,8 @@ if __name__ == "__main__":
             time.sleep(5)
 
     if success_count > 0:
-        push_to_github(success_count)
+        print("Draft saved for review. No automatic commit or push; use the reviewed publishing workflow.")
 
     print("\n" + "=" * 60)
-    print(f"   XONG: {success_count}/{total} bài viết đã được publish!")
+    print(f"   XONG: {success_count}/{total} ban nhap; chua publish")
     print("=" * 60)

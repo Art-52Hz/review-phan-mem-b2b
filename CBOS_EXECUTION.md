@@ -5,6 +5,20 @@ CBOS source remains D:\CBOS. No existing writer, article, key or theme is replac
 
 ## Workflow
 
+### Legacy writer safety update — 2026-10-02
+
+`auto-publish.bat` now performs a read-only preflight. It does not elevate privileges,
+remove Git locks, call a paid generator, or publish automatically. `tudong_gemini.py`
+requires explicit `--generate-draft` for an existing paid Claude call. It skips any
+slug already present (including drafts), limits selection to one candidate, requires
+a reviewed image, and writes `draft: true`. Today's live publication blocks generation;
+lastmod refreshes do not count as new posts. Day boundaries use UTC+07:00.
+
+This writer is not the production publishing executor. `push_to_github` fails closed;
+reviewed publication still uses the bridge below. No paid generation was run in this
+update. Scheduled Task inspection found no named AIPro/CBOS/Claude/Blog publishing
+task; this does not establish the absence of differently named or external schedulers.
+
 1. Strategy uses the 13-step framework: niche/offer evaluation; customer segments
    and geography; unmet needs and benefits; key message/channel; content/tracking;
    traffic pilot; optimize only from measured results.

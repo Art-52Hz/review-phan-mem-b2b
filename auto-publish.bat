@@ -4,13 +4,7 @@
 :: Chạy hàng ngày qua Windows Task Scheduler
 :: ============================================================
 
-:: --- Tự leo thang quyền Admin nếu chưa có ---
-net session >nul 2>&1
-if %errorLevel% neq 0 (
-    echo [*] Dang yeu cau quyen Admin...
-    powershell -Command "Start-Process '%~f0' -Verb RunAs"
-    exit /b
-)
+:: Read-only preflight by default. No elevation or automatic paid generation.
 
 echo ============================================================
 echo   AI PRO FREELANCER - HE THONG TU DONG XAY DUNG NOI DUNG
@@ -18,10 +12,7 @@ echo ============================================================
 echo.
 
 :: --- Xóa lock file nếu có ---
-if exist "D:\projects\review-phan-mem-b2b\.git\index.lock" (
-    del /f /q "D:\projects\review-phan-mem-b2b\.git\index.lock"
-    echo [*] Da xoa index.lock
-)
+:: Preserve Git locks: an existing lock can belong to an active process.
 
 :: --- Chạy script Python ---
 echo [*] Bat dau tao bai viet tu dong...
