@@ -1,0 +1,18 @@
+AIProFreelancer — VPS buying checklist (2026-10-02)
+
+[ ] Define the application and supported operating system.
+[ ] Record the provider and exact plan.
+[ ] Record checkout term, renewal cost and add-on charges.
+[ ] Verify IP/network configuration and permitted workload.
+[ ] Confirm management and support scope in writing.
+[ ] Read payment, cancellation and refund terms before paying.
+[ ] Check account information and verification requirements.
+[ ] Do not infer anonymity from cryptocurrency billing.
+[ ] Check content permissions and the actual abuse policy.
+[ ] Plan backups and test restoring a safe copy.
+[ ] Keep credentials out of public files and logs.
+[ ] Test a real application page, domain and HTTPS after deployment.
+[ ] Record application measurements before making performance claims.
+
+No provider rating, benchmark, discount or profit guarantee is implied.
+Related guide: https://aiprofreelancer.com/posts/ultahost-vps-review/
