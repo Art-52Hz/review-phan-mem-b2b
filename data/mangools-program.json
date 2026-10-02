@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "program_id": "mangools",
+  "registration_status": "verified_dashboard_access",
+  "verified_at": "2026-10-02T05:50:49Z",
+  "affiliate_links": {
+    "homepage": "https://mangools.com#a5d5c1d50feebf852f6d6f462",
+    "kwfinder": "https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462"
+  },
+  "current_commission_percent": "25",
+  "cookie_days": 30,
+  "payout_threshold_usd": "150",
+  "minimum_unique_referred_users": 2,
+  "payout_method": "PayPal",
+  "payout_setup_verified": false,
+  "tracking_conversion_verified": false,
+  "source": "https://mangools.com/affiliate/how-to-start",
+  "restrictions": [
+    "No coupon sites",
+    "No PPC direct links to Mangools",
+    "No Mangools brand bidding or brand names in domains/subdomains/social profile names",
+    "No misleading claims or invented discounts",
+    "No self-referrals",
+    "No unsolicited email"
+  ]
+}

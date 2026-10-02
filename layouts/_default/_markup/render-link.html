@@ -1,0 +1,2 @@
+{{- $affiliate := eq (.Text | plainify) "Link affiliate" -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $affiliate }} rel="sponsored noopener noreferrer" data-affiliate="true"{{ end }}>{{ .Text | safeHTML }}</a>

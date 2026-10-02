@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "program_id": "mangools",
+      "offer_id": "kwfinder",
+      "label": "Mangools / KWFinder",
+      "source_url": "https://mangools.com/kwfinder",
+      "evidence": {
+        "source_url": "https://mangools.com/affiliate/how-to-start",
+        "captured_at": "2026-10-02T05:50:49Z",
+        "note": "Operator UI readback: signed-in account tier 25%, cookie 30 days, payout via PayPal at $150 with at least 2 unique users. This is declared affiliate planning metadata, not verified product research evidence."
+      },
+      "commission": {"kind": "percent", "value": "25", "currency": null},
+      "cookie_days": 30,
+      "keywords": ["KWFinder review", "keyword research for freelancers", "Mangools review"],
+      "intent": "review",
+      "status": "approved"
+    }
+  ]
+}

@@ -36,3 +36,4 @@ Thumbs.db
 # Temp
 *.tmp
 _wtest.tmp
+.hugo_build.lock
