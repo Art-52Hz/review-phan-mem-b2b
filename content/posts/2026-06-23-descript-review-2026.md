@@ -1,6 +1,8 @@
 ---
 title: "Descript Review 2026: The Best AI Video Editor for Content Creators?"
 date: 2026-06-23
+slug: "descript-review-2026"
+aliases: ["/posts/2026-06-23-descript-review-2026/"]
 description: "Honest Descript review 2026 — AI transcription, screen recording, overdub voice cloning, and video editing. Is it worth $24/month? Compare vs Loom, CapCut, and Riverside."
 tags: ["descript", "ai video editor", "screen recording", "transcription", "content creation"]
 categories: ["AI Tools", "Video"]

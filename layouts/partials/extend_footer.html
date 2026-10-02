@@ -1,1 +1,6 @@
 <script defer src="{{ "js/affiliate-tracking.js" | relURL }}"></script>
+{{- if and .IsPage (eq .Section "posts") -}}
+{{- with (.Site.RegularPages.Related . | first 3) -}}
+<aside aria-label="Related reading"><h2>Related reading</h2><ul>{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul></aside>
+{{- end -}}
+{{- end -}}

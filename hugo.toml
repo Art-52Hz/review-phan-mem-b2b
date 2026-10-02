@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
   [params.homeInfoParams]
     Title = "Honest software reviews that save you money 💡"
-    Content = "Hands-on, independent reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software** — real pricing, honest pros & cons, and clear verdicts. Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categories/hosting/) · [VPN & Security](/categories/vpn/) · [SEO Tools](/categories/seo-tools/) · [Productivity](/categories/productivity/)."
+    Content = "Independent guides, reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software**. Check each article's sources and current vendor details before choosing a product. Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categories/hosting/) · [VPN & Security](/categories/vpn/) · [SEO Tools](/categories/seo-tools/) · [Productivity](/categories/productivity/)."
 
 [menu]
   [[menu.main]]

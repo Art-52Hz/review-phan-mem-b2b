@@ -1,6 +1,8 @@
 ---
 title: "Grammarly Review 2026: Still the Best AI Writing Assistant?"
 date: 2026-06-18
+slug: "grammarly-review-2026"
+aliases: ["/posts/2026-06-18-grammarly-review-2026/"]
 description: "Honest Grammarly review 2026 — GrammarlyGO AI features, Pro pricing ($12/mo), plagiarism checker, and whether it's worth upgrading from free."
 tags: ["grammarly", "ai writing", "writing tools", "grammar checker", "productivity"]
 categories: ["AI Tools", "Writing"]
