@@ -10,8 +10,8 @@ description: "Evaluate UltaHost VPS for a freelance website: check total cost, c
 categories: ["Hosting", "Hosting Reviews"]
 tags: ["UltaHost", "VPS", "freelancing"]
 cover:
-  image: "/images/ultahost-vps-review.webp"
-  alt: "UltaHost VPS buying and setup checklist for freelancers"
+  image: "/images/ultahost-vps-cover-v2.webp"
+  alt: "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
 ---
 
 This UltaHost VPS review is a buying checklist for freelancers deciding whether a server fits their website. It does not report a fresh server benchmark or a verified support-response test.

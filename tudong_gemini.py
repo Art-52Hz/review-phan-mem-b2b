@@ -4,6 +4,7 @@ from datetime import datetime
 import time
 import requests
 from PIL import Image, ImageDraw, ImageFont
+from tools.cover_assets import reviewed_cover
 
 # ==========================================
 # 1. CẤU HÌNH HỆ THỐNG
@@ -118,6 +119,10 @@ def _wrap(text, max_chars=30):
     return lines
 
 def generate_cover_image(slug, title):
+    selected = reviewed_cover(REPO_PATH, slug)
+    if selected:
+        print(f"    [+] Anh editorial da duyet: {selected}")
+        return selected
     os.makedirs(IMAGES_DIR, exist_ok=True)
     out = os.path.join(IMAGES_DIR, f"{slug}.png")
     if os.path.exists(out):
