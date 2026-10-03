@@ -99,5 +99,9 @@ operator making a manual publication must also check the same inventory first.
 Current validation: 17 bridge tests, 6 content preflight tests and 2 JSON inventory
 tests passed. These are local tests, not evidence of remote publication or revenue.
 Two prepared guides remain draft:true and must not be counted as live articles.
+For a read-only daily operator summary, run:
+`python -B tools/daily_status.py --output D:\CBOS_workspace\AIPRO_DAILY_STATUS.md`.
+It reads current repository inventory and cached catalog evidence, without browser,
+provider, publishing, or payment calls. Live results still require dashboard readback.
 Do not use --buildDrafts or --buildFuture for production publication just to meet
 an article KPI; previewing future drafts is a separate local review operation.
