@@ -3,6 +3,7 @@ Blank template. Enter verified checkout terms and your own observed times.
 
 Project / required deliverable:
 Currency (keep all inputs consistent):
+Vendor billing currency / exchange rate / rate date:
 Tool / plan / checkout date:
 Billing term / actual payment due:
 Renewal date and amount:
@@ -11,9 +12,10 @@ Number of relevant projects during the paid period:
 Allocation assumption (explain, do not assume equal use automatically):
 Subscription cost allocated to this project A:
 Required add-ons / seats / usage overages B:
+Allocated taxes / payment / conversion fees C (exclude charges already in A or B):
 Active setup + production + revision + handoff hours H:
 Your chosen value per working hour R:
-Estimated total project cost = A + B + H * R
+Estimated total project cost = A + B + C + H * R
 
 Baseline existing workflow cost:
 Candidate workflow cost:
@@ -27,4 +29,6 @@ Delivery gates:
 [ ] Usage allowance and seat assumptions checked.
 [ ] Time values labeled observed or estimated.
 [ ] Cash commitment separated from per-project allocation.
+Sensitivity check: fewer projects sharing the plan / additional revision hours:
+[ ] Charges not counted twice; uncertain charges still marked unknown.
 Decision / remaining blockers:

@@ -26,7 +26,11 @@ Write down the plan, billing period, payment due now, renewal amount and cancell
 
 Separate that cash payment from the portion you allocate to one project. If several projects use the subscription, explain your allocation method. Equal allocation might be reasonable for similar projects but misleading when one project uses most of the allowance.
 
+Use one currency for the comparison. Record the exchange rate and its date when a vendor bills in another currency. Include taxes and payment or currency-conversion fees that you actually bear; leave uncertain charges as unknown rather than assuming zero. Do not add a charge twice if the checkout total already includes it.
+
 Also list the capabilities required to finish the work: extra seats, export formats, higher usage limits or an add-on. Leave unknown costs marked unknown until the vendor's current terms resolve them.
+
+For example, an annual payment of 120 currency units shared equally across 12 comparable projects allocates 10 units per project. If only six projects use the plan, the allocation becomes 20. The payment due now remains 120 in both cases. These are hypothetical inputs; record your own project count and allocation basis.
 
 ## Include your active working time
 
@@ -36,9 +40,9 @@ Your working-hour value is an input you choose for planning; it is not a claim a
 
 ## Use a simple project formula
 
-Estimated project cost equals allocated subscription fees plus required add-ons plus active working hours multiplied by your chosen hourly value.
+Estimated project cost equals allocated subscription fees plus required add-ons plus allocated taxes and payment fees plus active working hours multiplied by your chosen hourly value.
 
-For a hypothetical example, suppose allocated fees are 10 units of currency, required add-ons are 5, working time is 2 hours and the chosen hourly value is 15. The estimated cost is 10 + 5 + 2 × 15 = 45 units. These are invented teaching inputs, not a vendor quote or a forecast for your business.
+For a hypothetical example, suppose allocated fees are 10 units of currency, required add-ons are 5, additional taxes and payment fees are zero, working time is 2 hours and the chosen hourly value is 15. The estimated cost is 10 + 5 + 2 × 15 = 45 units. These are invented teaching inputs, not a vendor quote or a forecast for your business.
 
 Change the revision time to four hours and the same calculation becomes 75 units. That difference explains why a feature demo alone cannot establish the economic value of a workflow.
 
