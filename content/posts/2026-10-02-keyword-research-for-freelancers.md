@@ -1,6 +1,7 @@
 ---
 title: "Keyword Research for Freelancers: A Practical SEO Workflow"
 date: 2026-10-02
+lastmod: 2026-10-03
 slug: "keyword-research-for-freelancers"
 draft: false
 description: "Build a keyword shortlist for your freelance website. Match intent, inspect competitors and measure results with Search Console and KWFinder."
@@ -13,7 +14,7 @@ cover:
 
 Keyword research for freelancers starts with a customer problem. A popular phrase is useful only when it describes work you can deliver or a question you can answer responsibly.
 
-This is an editorial planning guide, not a hands-on performance benchmark. The examples below are topic ideas; their search volume, difficulty and conversion rates have not been measured.
+This is an editorial planning guide, not a ranking or conversion benchmark. The documentation-service ideas below remain unvalidated; a separate October 3 example records estimates and search-result observations collected from KWFinder.
 
 **Affiliate disclosure:** We may earn a commission through marked Mangools links. [Read our disclosure](/affiliate-disclosure/).
 
@@ -52,9 +53,29 @@ Find a practical question the strongest relevant pages leave unanswered. Ask whe
 
 ## Give each URL a distinct purpose
 
+### A recorded example: five candidates, four usable result panels
+
+On October 3, 2026, we inspected five queries in KWFinder with **United States / English** selected. These are examples from our software-publishing workflow, not proven keywords for a documentation-writing service.
+
+| Query | Displayed monthly search estimate | Displayed difficulty | Result panel observed |
+|---|---:|---:|---|
+| murf ai review | 40 | 17 | Yes; cache age 18 hours |
+| elevenlabs review | 250 | 18 | Yes; cache age 18 hours |
+| anonymous vps | 140 | 28 | Yes; cache age 1 day |
+| vps crypto payment | 40 | 20 | Yes; cache age 18 hours |
+| murf text to speech review | 0 | 20* | No usable results in the initial panel |
+
+Source: our recorded signed-in KWFinder UI observations on the date above. The figures are vendor estimates, not traffic received by this website or measured conversions. *The last query's difficulty appeared later as a related-term value; it was not established by a usable result panel for that query.*
+
+The voice-review panels included review articles and other result types, while the VPS queries also included providers and forums. We interpreted these as reasons to examine buying questions and existing pages, not proof of an easy ranking opportunity. Four cached panels do not constitute five complete result inspections.
+
+The practical decision was to improve existing review and VPS pages, then provide a separate [voiceover scorecard](/posts/voiceover-evaluation-scorecard/) for the sample-evaluation task. That preserves a distinct purpose for each resource instead of publishing another near-duplicate product review.
+
+A displayed zero or an unavailable panel should stay qualified: it does not establish that nobody searches for the topic. Global estimates, another country or a later database refresh can differ. Keep the market, date and result availability beside the numbers before choosing a page.
+
 Check existing pages before writing. Update a page when the reader need is unchanged. Create a separate page when the purpose differs: setup tutorials and product evaluations answer different questions.
 
-See our [Ahrefs overview](/posts/ahrefs-review-2026/) and [Semrush overview](/posts/semrush-review-2026/) for related reading. Verify vendor details before purchasing; older reviews may contain outdated prices.
+Our [Ahrefs–Semrush workflow comparison](/posts/ahrefs-vs-semrush-2026/) explains how to compare account limits and required outputs before buying a broader SEO suite. Verify the current plan details for the task you need to complete.
 
 ## Write a brief that can be checked
 
