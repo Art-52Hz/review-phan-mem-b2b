@@ -1,0 +1,37 @@
+AIProFreelancer — Keyword shortlist worksheet
+Version 2026-10-03. Blank planning template; no synthetic metrics.
+
+Audience / service:
+Country / language:
+Research date / tool:
+
+Repeat this record for each candidate:
+Query:
+Customer problem:
+Intent: learn / compare / buy / hire / navigate / unclear
+Search-volume estimate (or unknown), source and scope:
+Difficulty estimate (or unknown), source and scope:
+Observed search results: date, country, language and page types:
+What answer or deliverable do these results suggest the searcher wants?
+Existing page URL answering the same intent:
+Decision: update existing / merge / new page / defer
+Evidence or original resource we can provide:
+Relevant product/service and actual availability:
+Approved referral URL (or none; never invent):
+Main reader action:
+Internal links:
+Measurement start date:
+Search Console impressions / clicks, exact date range:
+Analytics landing sessions / useful actions, exact date range:
+Affiliate dashboard clicks / conversions / confirmed commission:
+Cash received (separate evidence):
+Remaining unknowns:
+
+Checks:
+[ ] Intent supported by observed search results.
+[ ] Country and language match the intended audience.
+[ ] Existing similar page checked before creating another.
+[ ] Claims supported by sources or clearly labeled observations.
+[ ] Referral relationship disclosed where applicable.
+[ ] No purchased/automated clicks used as performance evidence.
+[ ] Estimates, targets and measured results kept separate.
