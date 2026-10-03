@@ -1,5 +1,6 @@
 """Read-only operator report. Repository facts are not live traffic/revenue proof."""
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -20,6 +21,8 @@ def report(root, today):
              'Chưa có bài trong inventory hôm nay; vẫn phải kiểm tra journal và remote trước đăng.',
              *[f'- {name}' for name in sorted(state['published_today'])], '',
              '## Bản nháp trong repo', '']
+    preparation_path = root / 'data' / 'prepared_drafts.json'
+    prepared = json.loads(preparation_path.read_text(encoding='utf-8')) if preparation_path.exists() else {}
     for path in sorted(posts.glob('*.md')):
         text = path.read_text(encoding='utf-8')
         if text.startswith('{'):
@@ -30,7 +33,17 @@ def report(root, today):
             continue
         if str(fields.get('draft', 'false')).lower() == 'true':
             date = str(fields.get('date', '')).strip('"\'')
-            lines.append(f'- {path.name}: ngày dự kiến {date}; chưa tính live.')
+            record = prepared.get(path.name)
+            label = 'Chưa có bản ghi chuẩn bị; cần rà soát nội dung và tài sản.'
+            if record:
+                files = record['files']
+                matches = all((root / name).is_file() and
+                              hashlib.sha256((root / name).read_bytes()).hexdigest() == digest
+                              for name, digest in files.items())
+                label = ('Bản chuẩn bị và tài sản khớp ghi nhận; vẫn phải kiểm tra ngày, journal và remote.'
+                         if matches else 'Đã thay đổi hoặc thiếu tài sản kể từ bản chuẩn bị; cần rà soát lại.')
+            lines.append(f'- {path.name}: ngày dự kiến {date}; chưa tính live. {label}')
+    lines.append('Bản ghi chuẩn bị chỉ phục vụ báo cáo, không cấp quyền hoặc tự mở draft để xuất bản.')
     lines += ['', '## Chương trình affiliate — dữ liệu lưu lần gần nhất', '']
     catalog = json.loads((root / 'data' / 'affiliate-catalog.json').read_text(encoding='utf-8'))
     for item in catalog['records']:
