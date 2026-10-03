@@ -65,3 +65,18 @@ Nguồn kiểm tra ngày 02/10/2026:
 - https://www.beautiful.ai/affiliate-program-terms-of-service — doanh thu thuần, kỳ trả chuẩn, quảng cáo cần chấp thuận.
 
 Các nguồn công khai không thay cho hợp đồng riêng. Công cụ tính tái lập: tools/revenue_model.py.
+
+## Đối chiếu tài khoản ngày 03/10
+
+Murf offer details hiển thị 20%, payment delay 30 ngày; ElevenLabs standard
+hiển thị 22%, payment delay 90 ngày và mô tả hoa hồng trong 12 tháng đầu.
+Cả hai widget đều có Once / Total payments 1. Vì ElevenLabs vẫn có mô tả
+12 tháng, không dùng widget đó để suy ra giới hạn trả một lần cho cả khách.
+Murf public terms ghi 20% trong hai năm và attribution 90 ngày, nhưng cần xác
+nhận thời hạn áp dụng cho tài khoản trước khi đưa vào dự báo recurring.
+Catalog giữ riêng nguồn công khai và widget tài khoản, không tự giải quyết
+khác biệt bằng cách chọn con số thuận lợi hơn.
+
+Payment delay không phải lịch rút tiền được đảm bảo: verification, approval,
+refunds và lịch payout vẫn phải đối chiếu giao dịch thật. Không coi hoa hồng
+phát sinh hôm nay là cash có thể dùng ngay trong ngân sách 800.000đ.
