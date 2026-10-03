@@ -16,7 +16,7 @@ Building a good-looking presentation is a tax most professionals pay over and ov
 
 This Beautiful.ai review 2026 covers what the tool does, how its AI really performs, what it costs, and where it fits against the competition.
 
-👉 **[Try Beautiful.ai Free →](https://www.beautiful.ai/)**
+👉 **[Check Beautiful.ai plans through our referral link →](https://beautifulai.partnerlinks.io/g272chd8gv2e)**
 
 ---
 
@@ -146,11 +146,11 @@ It loses a bit for the lack of a free tier and the reduced flexibility versus op
 
 **Score: 4.2/5** — the fastest path to a polished, on-brand deck, with constraints that are a feature, not a bug.
 
-👉 **[Try Beautiful.ai Free →](https://www.beautiful.ai/)**
+👉 **[Check Beautiful.ai plans through our referral link →](https://beautifulai.partnerlinks.io/g272chd8gv2e)**
 
 ---
 
-*Disclosure: We're registered with the Beautiful.ai affiliate program (via PartnerStack), which pays around $43 per qualifying referral. This article contains affiliate links; we may earn a commission at no extra cost to you if you sign up through them. You can join the program yourself at [beautiful.ai/affiliates](https://www.beautiful.ai/affiliates). Our review and 4.2/5 score reflect our honest, independent assessment.*
+*Disclosure: We're registered with the Beautiful.ai affiliate program (via PartnerStack), with commission eligibility governed by the current program terms. This article contains affiliate links; we may earn a commission at no extra cost to you if you sign up through them. You can join the program yourself at [beautiful.ai/affiliates](https://www.beautiful.ai/affiliates). Our review and 4.2/5 score reflect our honest, independent assessment.*
 
 
 ---
@@ -164,3 +164,4 @@ Explore more hands-on reviews and comparisons:
 - [Midjourney Review 2026: Still the Best AI Image Generator?](https://aiprofreelancer.com/posts/midjourney-review-2026/)
 - [Webflow Review 2026: Pro Web Design Without Code?](https://aiprofreelancer.com/posts/webflow-review-2026/)
 - [Best AI Tools 2026](https://aiprofreelancer.com/posts/best-ai-tools-2026/)
+
