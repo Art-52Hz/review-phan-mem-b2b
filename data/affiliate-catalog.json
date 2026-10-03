@@ -36,7 +36,7 @@
       "evidence": {
         "source_url": "https://dash.partnerstack.com/murfai",
         "captured_at": "2026-10-03",
-        "note": "Signed-in UI: issued referral and 20% subscription offer. Terms duration and cookie not independently confirmed in this readback."
+        "note": "Issued referral and 20% offer verified. Once/1 payment widget and public 24-month terms retained separately; account recurring duration unresolved."
       },
       "commission": {
         "kind": "percent",
@@ -58,6 +58,21 @@
         "pending_commissions_usd": 0,
         "paid_commissions_usd": 0,
         "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."
+      },
+      "account_offer_widget": {
+        "how_often": "Once",
+        "total_payments": 1,
+        "payment_delay_days": 30,
+        "captured_at": "2026-10-03",
+        "interpretation": "Widget does not establish customer-level recurring duration; ElevenLabs displays the same Once/1 alongside explicit 12-month terms."
+      },
+      "public_terms": {
+        "source_url": "https://murf.ai/legal/affiliate-program-terms-of-service",
+        "captured_at": "2026-10-03",
+        "commission_percent": 20,
+        "duration_months": 24,
+        "attribution_days": 90,
+        "account_applicability": "not confirmed against account-specific contract"
       }
     },
     {
@@ -93,6 +108,13 @@
         "pending_commissions_usd": 0,
         "paid_commissions_usd": 0,
         "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."
+      },
+      "account_offer_widget": {
+        "how_often": "Once",
+        "total_payments": 1,
+        "payment_delay_days": 90,
+        "captured_at": "2026-10-03",
+        "interpretation": "Offer description explicitly states first 12 months; payment widget is not a customer-lifetime cap."
       }
     },
     {
