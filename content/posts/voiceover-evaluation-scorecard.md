@@ -1,7 +1,7 @@
 ---
 title: "AI Voiceover Evaluation: A Scorecard for Freelance Client Work"
 date: 2026-10-03T10:00:00+07:00
-draft: true
+draft: false
 author: "Vincent Pham"
 slug: "voiceover-evaluation-scorecard"
 categories: ["Guides"]
