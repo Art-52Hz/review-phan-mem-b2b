@@ -150,10 +150,21 @@ class BridgeTests(unittest.TestCase):
             source = self.root / json.loads((package / 'receipt.json').read_text())['bundle_id']
             second, approval = stage(source, 'D:/CBOS', self.root, 'second-test')
             import_draft(second, self.site, approval)
-            with self.assertRaises(FileExistsError):
+            with self.assertRaises(BridgeError):
                 publish(second, self.site, approval, journal)
         front, _ = json.JSONDecoder().raw_decode((self.site / 'content/posts/second-test.md').read_text(encoding='utf-8'))
         self.assertTrue(front['draft'])
+
+    def test_manual_live_article_blocks_bridge_before_journal_write(self):
+        from datetime import datetime, timezone, timedelta
+        package, checksum, journal, _ = self.publication_setup()
+        day = datetime.now(timezone(timedelta(hours=7))).date().isoformat()
+        (self.site / 'content/posts/manual.md').write_text(
+            '---\nslug: manual\ndraft: false\ndate: ' + day + '\n---\nManual article',
+            encoding='utf-8')
+        with self.assertRaisesRegex(BridgeError, 'live article already exists'):
+            publish(package, self.site, checksum, journal)
+        self.assertFalse((journal / (day + '.json')).exists())
 
     def test_partial_bundle_never_staged(self):
         partial = self.factory.bundle(images=())

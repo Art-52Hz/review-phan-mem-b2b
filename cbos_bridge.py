@@ -207,6 +207,9 @@ def publish(package, site, approval_sha256, journal_root):
     if front.get('draft') is not True or front.get('cbos_fixture') is not False:
         raise BridgeError('Expected a nonfixture draft')
     day = datetime.now(timezone(timedelta(hours=7))).date().isoformat()
+    from tools.content_preflight import inventory
+    if inventory(site / 'content/posts', day)['published_today']:
+        raise BridgeError('A live article already exists for today; preserve the daily limit')
     attempt = journal / (day + '.json')
     # Atomic day reservation serializes cooperating executors, at most one attempt/day.
     entry = {'state': 'INTENT', 'bundle_id': receipt['bundle_id'],
