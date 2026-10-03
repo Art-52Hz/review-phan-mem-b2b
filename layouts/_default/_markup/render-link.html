@@ -1,2 +1,2 @@
-{{- $affiliate := or (eq (.Text | plainify) "Link affiliate") (eq .Title "affiliate") (gt (len (findRE `(?i)([?&#](fpr|ref|referral|referralcode|aff|affiliate|via)=|#a5d5c1d50feebf852f6d6f462|#art52hz|https://try\.elevenlabs\.io/)` .Destination)) 0) -}}
+{{- $affiliate := or (eq (.Text | plainify) "Link affiliate") (eq .Title "affiliate") (gt (len (findRE `(?i)([?&#](fpr|ref|referral|referralcode|aff|affiliate|via)=|#a5d5c1d50feebf852f6d6f462|#art52hz|https://try\.elevenlabs\.io/|https://get\.murf\.ai/|https://beautifulai\.partnerlinks\.io/)` .Destination)) 0) -}}
 <a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $affiliate }} rel="sponsored noopener noreferrer" data-affiliate="true"{{ end }}>{{ .Text | safeHTML }}</a>
