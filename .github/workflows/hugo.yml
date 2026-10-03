@@ -56,8 +56,20 @@ jobs:
         run: |
           hugo \
             --minify \
-            --buildFuture \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Check content inventory and affiliate audit behavior
+        run: |
+          python3 -B -m unittest discover -s tests -p 'test_content_preflight.py'
+          python3 -B -m unittest discover -s tests -p 'test_publication_inventory_json.py'
+          python3 -B -m unittest discover -s tests -p 'test_affiliate_audit.py'
+      - name: Check tracking privacy and click handling
+        run: |
+          node tests/test_affiliate_tracking.js
+          node tests/test_checklist_tracking.js
+      - name: Audit production pages before deployment
+        run: |
+          python3 -B tools/seo_audit.py public
+          python3 -B tools/affiliate_audit.py public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

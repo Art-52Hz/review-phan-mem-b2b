@@ -107,5 +107,8 @@ After building, compare account-issued catalog URLs with rendered links using
 `python -B tools/affiliate_audit.py <build-directory>`. This checks local account
 paths/fragments, unexpected query keys and sponsored/tracking markers for the four
 catalog programs; it does not verify redirects, cookie attribution or conversions.
+GitHub Pages runs the inventory/audit tests, tracking privacy checks and both
+rendered-site audits before uploading its production artifact. Both the executor
+and CI exclude future-dated content; review previews may include future drafts.
 Do not use --buildDrafts or --buildFuture for production publication just to meet
 an article KPI; previewing future drafts is a separate local review operation.
