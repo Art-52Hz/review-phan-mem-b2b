@@ -58,8 +58,10 @@ provider calls. Site credentials remain in the existing Git/user environment.
 
 This is an operator-invoked local executor, callable by an existing Hermes process
 with exact arguments. No Hermes installation/service was located or connected in
-this task. The legacy auto-publish.bat/tudong_gemini.py remains a separate unsafe
-publication path; do not run it alongside this executor. No new schedule is created.
+this task. The legacy auto-publish.bat/tudong_gemini.py now defaults to read-only
+preflight; paid draft generation requires its explicit generation flag and its
+Git push function is disabled. Reviewed publication uses this executor. No new
+schedule is created.
 
 ## Validation and limits
 
@@ -83,3 +85,19 @@ Offline demo: D:\CBOS_workspace\aipro-execution-smoke-20261002-v3\SMOKE_RESULT.j
 At most 30 minutes/day is an operating target, not a verified outcome. Start by
 reviewing one ready package, delivery state, affiliate status and actual traffic;
 record operator time. Missing source evidence/rights/links blocks publication.
+
+## Daily publication check — October 3 update
+
+Before reserving a journal day, publish reads existing posts in both YAML and JSON
+frontmatter. A live post whose publication date falls on the current Asia/Saigon
+day blocks another publication, including a post added manually. Offset-aware
+timestamps are converted to Vietnam time; drafts do not consume the daily limit.
+The journal still serializes cooperating bridge executors and retains unknown
+write outcomes for inspection. Direct Git edits can bypass the executor, so an
+operator making a manual publication must also check the same inventory first.
+
+Current validation: 17 bridge tests, 6 content preflight tests and 2 JSON inventory
+tests passed. These are local tests, not evidence of remote publication or revenue.
+Two prepared guides remain draft:true and must not be counted as live articles.
+Do not use --buildDrafts or --buildFuture for production publication just to meet
+an article KPI; previewing future drafts is a separate local review operation.
