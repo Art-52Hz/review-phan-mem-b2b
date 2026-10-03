@@ -9,13 +9,23 @@
       "evidence": {
         "source_url": "https://mangools.com/affiliate/how-to-start",
         "captured_at": "2026-10-02T05:50:49Z",
-        "note": "Operator UI readback: signed-in account tier 25%, cookie 30 days, payout via PayPal at $150 with at least 2 unique users. This is declared affiliate planning metadata, not verified product research evidence."
+        "note": "Operator UI readback: signed-in account tier 25%, cookie 30 days, payout via PayPal at $150 with at least 2 unique users. This is declared affiliate planning metadata, not verified product research evidence.",
+        "referral_evidence": "Account promo-materials UI screenshot readback 2026-10-02; exact KWFinder example link."
       },
-      "commission": {"kind": "percent", "value": "25", "currency": null},
+      "commission": {
+        "kind": "percent",
+        "value": "25",
+        "currency": null
+      },
       "cookie_days": 30,
-      "keywords": ["KWFinder review", "keyword research for freelancers", "Mangools review"],
+      "keywords": [
+        "KWFinder review",
+        "keyword research for freelancers",
+        "Mangools review"
+      ],
       "intent": "review",
-      "status": "approved"
+      "status": "approved",
+      "referral_url": "https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462"
     },
     {
       "program_id": "murf",
@@ -23,13 +33,32 @@
       "label": "Murf AI",
       "source_url": "https://murf.ai/",
       "referral_url": "https://get.murf.ai/hebxeow3cn2z",
-      "evidence": {"source_url": "https://dash.partnerstack.com/murfai", "captured_at": "2026-10-03", "note": "Signed-in UI: issued referral and 20% subscription offer. Terms duration and cookie not independently confirmed in this readback."},
-      "commission": {"kind": "percent", "value": "20", "currency": null},
+      "evidence": {
+        "source_url": "https://dash.partnerstack.com/murfai",
+        "captured_at": "2026-10-03",
+        "note": "Signed-in UI: issued referral and 20% subscription offer. Terms duration and cookie not independently confirmed in this readback."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "20",
+        "currency": null
+      },
       "cookie_days": null,
-      "keywords": ["murf ai review"],
+      "keywords": [
+        "murf ai review"
+      ],
       "intent": "review",
       "status": "account_link_verified",
-      "observed_metrics": {"scope": "Last 30 days as displayed", "clicks_card": 6, "clicks_chart": 0, "signups": 0, "paid_signups": 0, "pending_commissions_usd": 0, "paid_commissions_usd": 0, "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."}
+      "observed_metrics": {
+        "scope": "Last 30 days as displayed",
+        "clicks_card": 6,
+        "clicks_chart": 0,
+        "signups": 0,
+        "paid_signups": 0,
+        "pending_commissions_usd": 0,
+        "paid_commissions_usd": 0,
+        "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."
+      }
     },
     {
       "program_id": "elevenlabs",
@@ -37,14 +66,34 @@
       "label": "ElevenLabs",
       "source_url": "https://elevenlabs.io/",
       "referral_url": "https://try.elevenlabs.io/01vzwhie5ubt",
-      "evidence": {"source_url": "https://dash.partnerstack.com/elevenlabsinc", "captured_at": "2026-10-03", "note": "Signed-in UI: standard offer 22% for first 12 months; business-tier offer separately 11%."},
-      "commission": {"kind": "percent", "value": "22", "currency": null, "duration_months": 12},
+      "evidence": {
+        "source_url": "https://dash.partnerstack.com/elevenlabsinc",
+        "captured_at": "2026-10-03",
+        "note": "Signed-in UI: standard offer 22% for first 12 months; business-tier offer separately 11%."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "22",
+        "currency": null,
+        "duration_months": 12
+      },
       "business_tier_commission_percent": 11,
       "cookie_days": null,
-      "keywords": ["elevenlabs review"],
+      "keywords": [
+        "elevenlabs review"
+      ],
       "intent": "review",
       "status": "account_link_verified",
-      "observed_metrics": {"scope": "Last 30 days as displayed", "clicks_card": 28, "clicks_chart": 0, "signups": 0, "paid_signups": 0, "pending_commissions_usd": 0, "paid_commissions_usd": 0, "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."}
+      "observed_metrics": {
+        "scope": "Last 30 days as displayed",
+        "clicks_card": 28,
+        "clicks_chart": 0,
+        "signups": 0,
+        "paid_signups": 0,
+        "pending_commissions_usd": 0,
+        "paid_commissions_usd": 0,
+        "note": "Card/chart disagree; not attributed to current pilot or treated as qualified clicks."
+      }
     },
     {
       "program_id": "beautifulai",
@@ -52,13 +101,30 @@
       "label": "Beautiful.ai",
       "source_url": "https://www.beautiful.ai/",
       "referral_url": "https://beautifulai.partnerlinks.io/g272chd8gv2e",
-      "evidence": {"source_url": "https://dash.partnerstack.com/beautifulai", "captured_at": "2026-10-03", "note": "Signed-in summary displays 30% transaction offer. Duration and exclusions require detailed terms verification; do not assume indefinite recurrence."},
-      "commission": {"kind": "percent", "value": "30", "currency": null},
+      "evidence": {
+        "source_url": "https://dash.partnerstack.com/beautifulai",
+        "captured_at": "2026-10-03",
+        "note": "Signed-in summary displays 30% transaction offer. Duration and exclusions require detailed terms verification; do not assume indefinite recurrence."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "30",
+        "currency": null
+      },
       "cookie_days": null,
-      "keywords": ["beautiful.ai review"],
+      "keywords": [
+        "beautiful.ai review"
+      ],
       "intent": "review",
       "status": "account_link_verified",
-      "observed_metrics": {"scope": "Last 30 days as displayed", "clicks_card": 0, "signups": 0, "paid_signups": 0, "pending_commissions_usd": 0, "paid_commissions_usd": 0}
+      "observed_metrics": {
+        "scope": "Last 30 days as displayed",
+        "clicks_card": 0,
+        "signups": 0,
+        "paid_signups": 0,
+        "pending_commissions_usd": 0,
+        "paid_commissions_usd": 0
+      }
     }
   ]
 }

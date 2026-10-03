@@ -103,5 +103,9 @@ For a read-only daily operator summary, run:
 `python -B tools/daily_status.py --output D:\CBOS_workspace\AIPRO_DAILY_STATUS.md`.
 It reads current repository inventory and cached catalog evidence, without browser,
 provider, publishing, or payment calls. Live results still require dashboard readback.
+After building, compare account-issued catalog URLs with rendered links using
+`python -B tools/affiliate_audit.py <build-directory>`. This checks local account
+paths/fragments, unexpected query keys and sponsored/tracking markers for the four
+catalog programs; it does not verify redirects, cookie attribution or conversions.
 Do not use --buildDrafts or --buildFuture for production publication just to meet
 an article KPI; previewing future drafts is a separate local review operation.
