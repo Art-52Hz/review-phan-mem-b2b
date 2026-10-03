@@ -1,0 +1,40 @@
+AIProFreelancer — Voiceover evaluation scorecard
+Version: 2026-10-03. This is an evaluation template, not test results.
+
+Project / client:
+Required language, accent and audience:
+Required file format and delivery deadline:
+Tool / plan / documentation checked on:
+Sample identifier (avoid private client information):
+
+Use the SAME script for every tool. Keep original outputs and revision notes.
+Score each criterion from 1 (unusable) to 5 (ready for this project).
+An unknown legal or delivery requirement is a BLOCKER, not a score of zero.
+
+Criterion                         Score    Evidence / required revision
+Names and specialist terms        ___      ____________________________
+Numbers, dates and abbreviations  ___      ____________________________
+Pacing and pauses                 ___      ____________________________
+Tone appropriate for audience     ___      ____________________________
+Consistency across paragraphs     ___      ____________________________
+Ease of correcting one sentence   ___      ____________________________
+
+GATES — verify separately; quality scores cannot override these:
+[ ] Selected plan allows the intended commercial use.
+[ ] Client/channel usage is covered by the current license.
+[ ] Rights/consent for any uploaded or cloned voice are documented.
+[ ] Required export is available on the selected plan.
+[ ] Sample contains no confidential or unapproved client content.
+[ ] Price, usage allowance and renewal terms checked before purchase.
+
+OPERATIONS — record observed values, do not guess:
+First output generation time:
+Active editing time:
+Number of regeneration attempts:
+Credits/minutes consumed, if displayed:
+Effective cost estimate and assumptions:
+Remaining blockers:
+Decision: reject / revise / shortlist / ready for specified project
+
+Do not publish a sample or deliver it to a client until its rights are checked.
+Repeat after a major script, voice, model or plan change.
