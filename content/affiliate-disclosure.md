@@ -1,7 +1,7 @@
 ---
 title: "Affiliate Disclosure"
 date: 2026-05-27
-lastmod: 2026-08-31
+lastmod: 2026-10-03
 url: "/affiliate-disclosure/"
 ShowToc: false
 ShowReadingTime: false
@@ -10,25 +10,28 @@ hidemeta: true
 robots: "index, follow"
 ---
 
-*Last updated: August 31, 2026*
+*Updated October 3, 2026*
 
-AI Pro Freelancer ("we", "us", or "the Site") believes in full transparency about how we make money.
+## How affiliate links work here
 
-## We use affiliate links
+Some AI Pro Freelancer articles contain referral links that may earn us a commission from a qualifying transaction. An article with these links should include an affiliate disclosure near the relevant content. We also mark recognized referral links as sponsored in the website markup.
 
-Many of the articles on this Site contain **affiliate links**. This means that if you click a link to a product or service and then make a purchase or sign up, we may earn a commission — **at no additional cost to you**. The price you pay is exactly the same whether you use our link or go directly to the merchant.
+A click or signup does not guarantee a commission. Program eligibility, attribution, payment approval and applicable exclusions determine whether a transaction qualifies. We do not promise a discount or an identical checkout price unless the specific offer establishes it; check the vendor's current terms.
 
-We participate in affiliate programs including, but not limited to, PartnerStack, Impact.com, and the individual partner programs of the products we review (such as hosting, VPN, and software providers).
+## Relationships and ordinary source links
 
-## How this affects our content
+Our current catalog contains account-issued referral links for Mangools, Murf, ElevenLabs and Beautiful.ai. This statement identifies the links we have verified for use, not a claim of earnings or approval for every product sold by those companies.
 
-- **We only recommend tools we would genuinely consider using ourselves.** A commission never buys a positive review.
-- Our ratings, pros, cons, and verdicts reflect our honest, independent assessment based on hands-on testing and research.
-- When a product is a poor fit for a given use case, we say so — even if we could earn a commission on it.
-- Commissions help us keep the Site running, buy the tools we test, and publish new reviews.
+A link to a vendor's documentation or pricing page can be an ordinary source link. Mentioning a product, listing its public affiliate program or publishing a review does not by itself establish an affiliate relationship. For example, our updated Notion guide links to the vendor without claiming a verified Notion partnership.
 
-## Your trust matters most
+## Evidence behind recommendations
 
-If we ever recommend something, it is because we believe it offers real value for the reader described. If you have questions about any recommendation or relationship, please [contact us](/contact/).
+A commission does not establish product quality or suitability. Current guides distinguish vendor documentation, recorded observations and planning examples. A source-based buying checklist is not a hands-on benchmark, and an illustrative cost calculation is not a forecast of savings or income.
 
-Thank you for supporting AI Pro Freelancer.
+We are reviewing older articles to remove unsupported test claims, scores and stale plan details. Check each article's scope and update date. The website's technical publishing checks do not prove that a product was tested or that a referral generated commission.
+
+## Your purchase decision
+
+Check the current billing period, payment due now, renewal amount, required features and intended-use permissions before purchasing. Related reviews can help structure that decision, but the vendor's offer and your requirements still need to match.
+
+For questions about a link or an article, [contact us](/contact/). Read [About AI Pro Freelancer](/about/) for our current research and publishing approach.
