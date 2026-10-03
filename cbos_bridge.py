@@ -221,7 +221,7 @@ def publish(package, site, approval_sha256, journal_root):
         front['date'] = datetime.now(timezone.utc).isoformat()
         article_path.write_text(json.dumps(front, ensure_ascii=False, indent=2) + text[end:], encoding='utf-8')
         with tempfile.TemporaryDirectory(prefix='aipro-hugo-') as build:
-            built = subprocess.run(['hugo', '--minify', '--buildFuture', '--destination', build],
+            built = subprocess.run(['hugo', '--minify', '--destination', build],
                                    cwd=site, capture_output=True, text=True,
                                    encoding='utf-8', errors='replace', timeout=120)
             if built.returncode:
