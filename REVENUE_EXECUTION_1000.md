@@ -27,7 +27,7 @@ Nhánh recurring: giả định 22 khách mới/tháng, bình quân hoa hồng 1
 1. Tập trung hai nhóm khách: freelancer/consultant cần nghiên cứu từ khóa và creator/agency cần voiceover. Mangools là offer triển khai đầu tiên vì link đã được kiểm tra; Murf/ElevenLabs là nhánh recurring sau khi xác minh link và điều khoản tài khoản. Beautiful.ai là nhánh giao dịch năm, không gọi là lifetime recurring.
 2. Dành 60% công sức cho sửa bài có tín hiệu tìm kiếm và trang có ý định mua; 25% cho hướng dẫn xử lý vấn đề; 15% cho phân phối có liên quan và kiểm tra số liệu. Chưa đủ dữ liệu để khẳng định ngách nào ít cạnh tranh hoặc sinh lời.
 3. Kiểm tra query/page trong Search Console, xuất keyword theo thị trường trong Mangools. Chọn 10 query dựa trên nhu cầu, kết quả tìm kiếm và khả năng bổ sung bằng chứng. Không mua thêm tool trước khi biết tài khoản hiện tại đáp ứng đến đâu.
-4. Không phụ thuộc PartnerStack Network đang chờ duyệt hoặc các offer chưa được chấp nhận. Không tính tiền từ link placeholder.
+4. PartnerStack Network đã hiển thị Declined ngày 03/10; ba partnership hiện có vẫn đang truy cập được. Không phụ thuộc việc được duyệt Network hoặc các offer chưa được chấp nhận. Chỉ nộp lại hồ sơ khi có thông tin mới hoặc thông tin đã sửa đúng thực tế; không tính tiền từ link placeholder.
 
 ## Sprint 30 ngày
 
@@ -52,7 +52,7 @@ Không bật lịch xuất bản hay cam kết nhận việc sau này trong tài
 
 ## Ngân sách và giới hạn scale
 
-Mặc định ngân sách mới bằng 0 USD cho đến khi người dùng xác định ngân sách. Không chạy quảng cáo hoặc mua backlink. Beautiful.ai cấm quảng cáo trả phí nếu chưa có chấp thuận bằng văn bản; Mangools cấm direct PPC/brand bidding và self-referral. Chỉ xét paid traffic sau khi offer cho phép, attribution đã xác minh và có ngân sách cụ thể.
+Người dùng đã xác định tổng ngân sách thử nghiệm 800.000đ. Giữ ngân sách này làm dự phòng; chi mua dịch vụ/API/quảng cáo mới trong đợt triển khai hiện tại là 0đ. Không chạy quảng cáo hoặc mua backlink. Beautiful.ai cấm quảng cáo trả phí nếu chưa có chấp thuận bằng văn bản; Mangools cấm direct PPC/brand bidding và self-referral. Ngân sách tổng không tự cho phép mua dịch vụ: chỉ xét khoản chi khi cần thiết, có giá và phạm vi cụ thể được chấp thuận.
 
 Với giả định 40 USD × 2% mua sau click, EPC là 0,80 USD/click affiliate; nếu 8% visit tạo click thì doanh thu kỳ vọng/visit là 0,064 USD. Đây không phải CPC an toàn đã đo. Không dùng lifetime commission chưa nhận để biện minh cho chi phí quảng cáo hôm nay.
 
