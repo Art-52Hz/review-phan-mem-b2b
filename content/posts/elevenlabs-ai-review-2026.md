@@ -66,4 +66,6 @@ Consider alternatives when the sample cannot meet your pronunciation or editing 
 
 ## Next step
 
+Use our [voiceover evaluation guide](/posts/voiceover-evaluation-scorecard/) and [downloadable scorecard](/downloads/voiceover-evaluation-scorecard.txt) to record pronunciation, revisions and licensing checks. The blank template contains no benchmark results.
+
 [Open ElevenLabs through the existing referral link](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-ai-review-2026-cta-top), inspect the current offer and test an appropriate sample before committing to a paid workflow. This is an evaluation recommendation, not a claim that we have verified its output for your client.
