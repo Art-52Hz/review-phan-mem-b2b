@@ -1,0 +1,30 @@
+AIProFreelancer — Freelance tool cost worksheet
+Blank template. Enter verified checkout terms and your own observed times.
+
+Project / required deliverable:
+Currency (keep all inputs consistent):
+Tool / plan / checkout date:
+Billing term / actual payment due:
+Renewal date and amount:
+Refund/cancellation terms checked at:
+Number of relevant projects during the paid period:
+Allocation assumption (explain, do not assume equal use automatically):
+Subscription cost allocated to this project A:
+Required add-ons / seats / usage overages B:
+Active setup + production + revision + handoff hours H:
+Your chosen value per working hour R:
+Estimated total project cost = A + B + H * R
+
+Baseline existing workflow cost:
+Candidate workflow cost:
+Difference = baseline - candidate
+Positive difference is an estimated saving, not cash received.
+
+Delivery gates:
+[ ] Required format and editing permissions available.
+[ ] Rights/consent and client usage checked.
+[ ] Export opened in the client's intended application.
+[ ] Usage allowance and seat assumptions checked.
+[ ] Time values labeled observed or estimated.
+[ ] Cash commitment separated from per-project allocation.
+Decision / remaining blockers:
