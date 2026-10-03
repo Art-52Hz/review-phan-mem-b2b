@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc"><title id="title">Freelance tool cost worksheet</title><desc id="desc">Project cost includes allocated fees, add-ons and working time.</desc><rect width="1200" height="630" fill="#102232"/><g font-family="Arial,sans-serif"><text x="70" y="90" fill="#64d9dd" font-size="26">AIPROFREELANCER / PROJECT PLANNING</text><text x="70" y="215" fill="#fff" font-size="65" font-weight="700">What does the tool</text><text x="70" y="290" fill="#fff" font-size="65" font-weight="700">really cost your project?</text><rect x="70" y="350" width="1060" height="130" rx="20" fill="#1d4356"/><text x="105" y="430" fill="#ffb347" font-size="42">Allocated fees + add-ons + working time</text><text x="70" y="555" fill="#b9d4e0" font-size="26">Record the terms. Measure revisions. Check the handoff.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">The whole project cost</title><desc id="desc">Four cost inputs: allocated subscription, required add-ons, taxes and payment fees, and active hours multiplied by your chosen hourly value. This is a planning formula, not a vendor quote.</desc>
+<rect width="1200" height="630" fill="#102232"/>
+<circle cx="1130" cy="70" r="190" fill="#163447"/>
+<g font-family="Arial,sans-serif">
+<text x="64" y="73" fill="#64d9dd" font-size="24" letter-spacing="2">AIPROFREELANCER / PROJECT PLANNING</text>
+<text x="64" y="175" fill="#ffffff" font-size="68" font-weight="700">Price is only one part.</text>
+<text x="64" y="244" fill="#c3dce7" font-size="36">Compare the whole project cost.</text>
+<g fill="#1d4356"><rect x="64" y="299" width="251" height="180" rx="18"/><rect x="335" y="299" width="251" height="180" rx="18"/><rect x="606" y="299" width="251" height="180" rx="18"/></g>
+<rect x="877" y="299" width="259" height="180" rx="18" fill="#ed795e"/>
+<g fill="#64d9dd" font-size="49" font-weight="700"><text x="87" y="360">A</text><text x="358" y="360">B</text><text x="629" y="360">C</text></g>
+<text x="900" y="360" fill="#102232" font-size="45" font-weight="700">H × R</text>
+<g fill="#ffffff" font-size="25"><text x="87" y="410">Allocated</text><text x="87" y="447">subscription</text><text x="358" y="410">Required</text><text x="358" y="447">add-ons</text><text x="629" y="410">Taxes +</text><text x="629" y="447">payment fees</text></g>
+<g fill="#102232" font-size="25"><text x="900" y="410">Active hours ×</text><text x="900" y="447">hourly value</text></g>
+<text x="64" y="548" fill="#ffffff" font-size="33" font-weight="700">Estimate = A + B + C + H × R</text>
+<text x="64" y="591" fill="#b9d4e0" font-size="22">Same currency. No double counting. Record your assumptions.</text>
+</g></svg>

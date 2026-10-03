@@ -10,7 +10,7 @@ description: "Compare software costs using the actual billing commitment, projec
 toc: true
 cover:
   image: "/images/freelance-tool-cost.svg"
-  alt: "Project tool cost formula: allocated fees, add-ons and working time"
+  alt: "Project cost formula: allocated subscription, add-ons, taxes and fees, plus active hours times hourly value"
   relative: false
 ---
 
