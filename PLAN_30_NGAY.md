@@ -1,3 +1,7 @@
+> **Historical plan — superseded on 2026-10-03.** The June/July dates, scheduler/API setup checkmarks, traffic forecasts and affiliate rates below are historical planning notes, not verified current operating instructions. Do not run the old daily batches or restore a scheduler from this file. Current scope: Article + Image; no video, ads or new paid API calls; at most one website article/day and three fanpage posts/week (one/day). Budget: 800,000 VND reserve, no new spending authorized.
+>
+> Use [current execution and revenue plan](REVENUE_EXECUTION_1000.md), [SEO KPI](SEO_KPI_20261002.md), [reviewed execution workflow](CBOS_EXECUTION.md) and the read-only daily report. Verify live inventory, account terms and receipts before ticking completion. $1,000/month remains a target, not achieved income. Original plan retained below as history.
+
 # 🎯 KẾ HOẠCH 30 NGÀY — $1,000/THÁNG
 # aiprofreelancer.com — Vincent Phạm
 
