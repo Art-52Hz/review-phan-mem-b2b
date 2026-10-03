@@ -49,7 +49,13 @@ def audit(build, catalog):
                 errors.append({'page': location, 'problem': 'unreviewed referral query', 'program': expected[key]})
             occurrences[expected[key]] += 1
             rel = set(link.get('rel', '').split())
-            if link.get('data-affiliate') != 'true' or not {'sponsored', 'noopener', 'noreferrer'} <= rel:
+            required = {'sponsored', 'noopener'}
+            if expected[key] == 'murf':
+                if 'noreferrer' in rel or link.get('referrerpolicy') != 'strict-origin':
+                    errors.append({'page': location, 'problem': 'Murf requires origin-only referral policy', 'program': 'murf'})
+            else:
+                required.add('noreferrer')
+            if link.get('data-affiliate') != 'true' or not required <= rel:
                 errors.append({'page': location, 'problem': 'missing tracking/sponsored markers', 'program': expected[key]})
     return {'scope': 'rendered local build; not redirect, attribution or revenue verification',
             'missing_catalog_links': [r['program_id'] for r in records if not r.get('referral_url')],

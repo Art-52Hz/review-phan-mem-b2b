@@ -24,6 +24,24 @@ class AffiliateAuditTests(unittest.TestCase):
         self.assertFalse(self.check(anchor.format('ref=article'))['errors'])
         self.assertEqual(self.check(anchor.format('affiliate=other-account'))['errors'][0]['problem'], 'unreviewed referral query')
 
+    def test_murf_origin_only_policy_and_masking_regressions(self):
+        catalog = {'records': [{'program_id': 'murf', 'referral_url': 'https://get.murf.ai/issued'}]}
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            page = root / 'index.html'
+            for rel, policy, valid in [
+                ('sponsored noopener', 'strict-origin', True),
+                ('sponsored noopener noreferrer', 'strict-origin', False),
+                ('sponsored noopener', 'unsafe-url', False),
+                ('sponsored noopener', '', False),
+            ]:
+                with self.subTest(rel=rel, policy=policy):
+                    page.write_text(f'<a href="https://get.murf.ai/issued" data-affiliate="true" rel="{rel}" referrerpolicy="{policy}">Murf</a>', encoding='utf-8')
+                    result = audit(root, catalog)
+                    self.assertEqual(not result['errors'], valid)
+                    if not valid:
+                        self.assertEqual(result['errors'][0]['problem'], 'Murf requires origin-only referral policy')
+
 
 if __name__ == '__main__':
     unittest.main()

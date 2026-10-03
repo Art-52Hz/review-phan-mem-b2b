@@ -112,3 +112,12 @@ rendered-site audits before uploading its production artifact. Both the executor
 and CI exclude future-dated content; review previews may include future drafts.
 Do not use --buildDrafts or --buildFuture for production publication just to meet
 an article KPI; previewing future drafts is a separate local review operation.
+
+Murf referral anchors use `rel="sponsored noopener"` with
+`referrerpolicy="strict-origin"`: HTTPS referrals send the website origin only,
+without the article path or query. This avoids the source masking caused by
+`noreferrer`, which conflicts with Murf's public affiliate terms:
+https://murf.ai/legal/affiliate-program-terms-of-service . Other catalog programs
+retain their existing `noreferrer` policy. Four affiliate audit tests include
+regressions for masked, missing and overly permissive Murf policies. This is a
+referral-source compatibility fix, not proof of account approval or attribution.
