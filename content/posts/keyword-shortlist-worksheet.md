@@ -4,13 +4,13 @@ date: 2026-10-04T10:00:00+07:00
 draft: true
 author: "Vincent Pham"
 slug: "keyword-shortlist-worksheet"
-categories: ["Guides", "SEO"]
+categories: ["Guides", "SEO Tools"]
 tags: ["keyword research", "freelancers", "search intent"]
 description: "Turn keyword candidates into a practical content shortlist. Record intent, existing pages, useful reader actions and measured results with a free worksheet."
 toc: true
 cover:
-  image: "/images/keyword-research-workflow.svg"
-  alt: "Keyword research workflow from search intent to a shortlist and measurement"
+  image: "/images/keyword-shortlist-cover-v2.webp"
+  alt: "Magnifying glass selecting a coral index card beside the title From Keywords to a Plan"
   relative: false
 ---
 
@@ -19,6 +19,8 @@ A keyword list is not yet a content plan. Before writing, connect each query to 
 [Download the blank keyword shortlist worksheet](/downloads/keyword-shortlist-worksheet.txt). This is a planning template; its fields contain no traffic forecasts or invented results.
 
 **Disclosure:** Our related keyword research guide contains an affiliate link. This worksheet does not require a paid tool or a subscription purchase.
+
+*Cover: original AI-generated editorial illustration; not a screenshot of tool results.*
 
 ## Choose the audience before the query
 

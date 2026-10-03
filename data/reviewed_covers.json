@@ -5,5 +5,12 @@
     "reviewed_date": "2026-10-02",
     "origin": "Built-in imagegen, original conceptual editorial illustration",
     "alt": "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
+  },
+  "keyword-shortlist-worksheet": {
+    "image": "/images/keyword-shortlist-cover-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-03",
+    "origin": "Built-in imagegen, original editorial illustration; no measured metrics",
+    "alt": "Magnifying glass selecting a coral index card beside the title From Keywords to a Plan"
   }
 }
