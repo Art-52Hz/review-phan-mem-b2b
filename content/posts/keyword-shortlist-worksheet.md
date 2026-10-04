@@ -1,7 +1,7 @@
 ---
 title: "Build a Freelance SEO Keyword Shortlist: A Worksheet for Intent and Results"
 date: 2026-10-04T10:00:00+07:00
-draft: true
+draft: false
 author: "Vincent Pham"
 slug: "keyword-shortlist-worksheet"
 categories: ["Guides", "SEO Tools"]
