@@ -25,7 +25,16 @@ if __name__ == '__main__':
             'weak': acquisition(1000, 40, .04, .01),
             'base': acquisition(1000, 40, .08, .02),
             'strong': acquisition(1000, 40, .12, .03)},
-        'annual_plan_example': acquisition(1000, 144 * .30 * .85, .08, .02),
+        'annual_plan_example_inputs': {
+            'vendor_price_checked_on': '2026-10-04',
+            'vendor_price_source': 'https://www.beautiful.ai/pricing',
+            'annual_price_usd': 174,
+            'commission_rate_assumed': .30,
+            'net_fraction_assumed': .85,
+            'click_rate_assumed': .08,
+            'conversion_rate_assumed': .02,
+            'account_eligibility_and_cash_unverified': True},
+        'annual_plan_example': acquisition(1000, 174 * .30 * .85, .08, .02),
         'recurring_22_new_10_usd_92pct_retention': recurring(9, 22, 10, .92),
         'recurring_monthly_acquisition': acquisition(220, 10, .10, .02),
         'legacy_example_corrected': 30 * 500 * .04 * .025 * 35
