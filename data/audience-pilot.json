@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-10-04",
+  "scope": "Editorial targeting hypotheses, not verified customer research or country rankings",
+  "segments": [
+    {
+      "id": "freelance-seo",
+      "audience": "Freelancers preparing keyword recommendations for client websites",
+      "problem_hypothesis": "Turning keyword estimates into a defensible shortlist within a small tool budget",
+      "program_ids": ["mangools"],
+      "entry_page": "/posts/keyword-research-for-freelancers/",
+      "decision_asset": "/posts/keyword-shortlist-worksheet/",
+      "message": "Record intent, live SERP and uncertainty before selecting a keyword",
+      "purchase_gate": "Verify plan limits, billing commitment and whether the shortlist improves a real client deliverable",
+      "validation_needed": ["Reader questions", "Organic landing sessions", "Unique outbound-click sessions", "Approved commissions"],
+      "top_traffic_countries": null
+    },
+    {
+      "id": "client-voiceover",
+      "audience": "Creators and agencies delivering narration for client projects",
+      "problem_hypothesis": "Avoiding revision, licensing and export surprises after selecting an AI voice",
+      "program_ids": ["murf", "elevenlabs"],
+      "entry_page": "/posts/voiceover-evaluation-scorecard/",
+      "decision_asset": "/downloads/voiceover-evaluation-scorecard.txt",
+      "message": "Approve a representative sample and delivery rights before buying",
+      "purchase_gate": "Match language, pronunciation, exports, client usage and revision allowance",
+      "validation_needed": ["Reader sample requirements", "Scorecard downloads", "Unique outbound-click sessions", "Approved commissions"],
+      "top_traffic_countries": null
+    },
+    {
+      "id": "consultant-presentations",
+      "audience": "Consultants delivering recurring client presentations",
+      "problem_hypothesis": "A polished deck creates extra work when the client's required editable export fails",
+      "program_ids": ["beautifulai"],
+      "entry_page": "/posts/beautiful-ai-review-2026/",
+      "decision_asset": null,
+      "message": "Test the client handoff and full billing commitment before subscribing",
+      "purchase_gate": "Open an exported representative deck in the client's application; confirm seats and invoice",
+      "validation_needed": ["Reader export requirements", "Organic landing sessions", "Unique outbound-click sessions", "Approved commissions"],
+      "top_traffic_countries": null
+    }
+  ],
+  "geography_note": "US/English keyword research is a selected pilot market. No SimilarWeb top-five country evidence is available; GA operator traffic is not a buyer ranking.",
+  "distribution": "Existing website and authorized fanpage only; no paid ads or unsolicited messages"
+}
