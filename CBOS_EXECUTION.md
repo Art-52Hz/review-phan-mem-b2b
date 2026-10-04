@@ -133,7 +133,9 @@ Use the operator-owned driver D:\CBOS_workspace\hermes-pilot\run_aipro_checks.py
 through the existing launcher with --no-model-server and --script. It invokes
 this repository's tools/hermes_local_check.py, captures Git status/HEAD, executes
 6 preflight + 2 JSON inventory + 4 affiliate audit tests and creates the read-only
-daily report. Zero discovered tests fail the run. Evidence is written outside Git.
+daily report and deterministic hypothetical revenue scenarios. The scenarios
+retain their dated inputs and unverified eligibility flag; they are not measured
+earnings. Zero discovered tests fail the run. Evidence is written outside Git.
 The real launcher invocation passed with unchanged Git status on October 4.
 
 These routine checks use no model tokens, no paid API and no publication action.

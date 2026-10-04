@@ -31,6 +31,7 @@ def main():
             results[-1]['exit_code'] = 1
             results[-1]['output'] += '\nNo executed tests; review required.'
     run('daily_report', [sys.executable, '-B', 'tools/daily_status.py'])
+    run('hypothetical_revenue_scenarios', [sys.executable, '-B', 'tools/revenue_model.py'])
     after = run('git_status_after', ['git', '--no-optional-locks', 'status', '--porcelain=v1'])
     unchanged = before.returncode == after.returncode == 0 and before.stdout == after.stdout
     report = {'checked_at': datetime.datetime.now(datetime.timezone.utc).isoformat(),
