@@ -9,7 +9,7 @@ keywords: ["VPS for freelancers", "client website hosting checklist"]
 categories: ["Hosting", "Freelancing"]
 tags: ["vps hosting", "freelancing", "web hosting"]
 cover:
-  image: "/images/best-vps-for-freelancers-2026.webp"
+  image: "/images/vps-client-operations.svg"
   alt: "Client-site VPS operations checklist"
   relative: false
 ---

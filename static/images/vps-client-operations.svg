@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">A VPS needs an operator.</title>
+<desc id="desc">Three questions before hosting client sites: who owns the account, who handles operations, and can you restore the site?</desc>
+<rect width="1200" height="630" fill="#f2eddf"/>
+<path d="M900 0H1200V630H1050Z" fill="#e4ddcb"/>
+<g font-family="Georgia,serif" fill="#182d28">
+<text x="62" y="152" font-size="73" font-weight="bold">A VPS needs</text>
+<text x="62" y="235" font-size="73" font-weight="bold">an operator.</text>
+</g>
+<g font-family="Trebuchet MS,sans-serif">
+<text x="65" y="61" fill="#52665a" font-size="21" letter-spacing="3">CLIENT-SITE CHECKLIST / 03 QUESTIONS</text>
+<rect x="832" y="87" width="305" height="151" fill="#c4e14f"/>
+<text x="856" y="129" font-size="19" font-weight="bold" fill="#182d28">BEFORE YOU BUY</text>
+<text x="856" y="175" font-size="27" fill="#182d28">Agree on the work.</text>
+<text x="856" y="212" font-size="27" fill="#182d28">Test the recovery.</text>
+<path d="M63 290H1137" stroke="#182d28" stroke-width="3"/>
+<g fill="#182d28"><rect x="63" y="321" width="338" height="206"/><rect x="431" y="321" width="338" height="206"/><rect x="799" y="321" width="338" height="206"/></g>
+<g fill="#c4e14f" font-size="25"><text x="89" y="365">01 / OWNERSHIP</text><text x="457" y="365">02 / OPERATIONS</text><text x="825" y="365">03 / RECOVERY</text></g>
+<g fill="#f2eddf" font-size="35" font-weight="bold"><text x="89" y="420">Who owns it?</text><text x="457" y="420">Who handles it?</text><text x="825" y="420">Can you restore?</text></g>
+<g fill="#c6d2c3" font-size="23"><text x="89" y="465">Account, access, billing.</text><text x="457" y="465">Updates, alerts, support.</text><text x="825" y="465">Backup, test, handoff.</text></g>
+<text x="63" y="582" font-size="24" font-weight="bold" fill="#182d28">AIProFreelancer</text>
+<text x="1137" y="582" text-anchor="end" font-size="20" fill="#52665a">Requirements first. Provider ratings later.</text>
+</g></svg>
