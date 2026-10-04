@@ -1,7 +1,7 @@
 ---
 title: "Keyword Research for Freelancers: A Practical SEO Workflow"
 date: 2026-10-02
-lastmod: 2026-10-03
+lastmod: 2026-10-04
 slug: "keyword-research-for-freelancers"
 draft: false
 description: "Build a keyword shortlist for your freelance website. Match intent, inspect competitors and measure results with Search Console and KWFinder."
@@ -76,6 +76,10 @@ A displayed zero or an unavailable panel should stay qualified: it does not esta
 Check existing pages before writing. Update a page when the reader need is unchanged. Create a separate page when the purpose differs: setup tutorials and product evaluations answer different questions.
 
 Our [Ahrefs–Semrush workflow comparison](/posts/ahrefs-vs-semrush-2026/) explains how to compare account limits and required outputs before buying a broader SEO suite. Verify the current plan details for the task you need to complete.
+
+## Turn the shortlist into a recorded decision
+
+Use our free [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to record the market, search intent, existing page, evidence and next reader action for each candidate. It includes a blank download and separates targets from observed results. The worksheet does not require a paid tool or forecast traffic; use it to decide whether to update, create or defer a page.
 
 ## Write a brief that can be checked
 
