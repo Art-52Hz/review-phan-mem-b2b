@@ -55,6 +55,22 @@ def report(root, today):
             unknown.append('thời hạn hoa hồng')
         lines.append(f"- {item['label']}: {item['status']}; đọc lần cuối {captured}; "
                      f"cần xác minh: {', '.join(unknown) or 'điều khoản và hiệu lực hiện tại'}.")
+    audience_path = root / 'data' / 'audience-pilot.json'
+    if audience_path.exists():
+        pilot = json.loads(audience_path.read_text(encoding='utf-8'))
+        program_ids = {item['program_id'] for item in catalog['records']}
+        lines += ['', '## Nhóm khách hàng pilot — giả thuyết cần kiểm chứng', '',
+                  f"Dữ liệu biên tập ngày {pilot['updated_on']}; chưa chứng minh nhu cầu hoặc doanh thu."]
+        for segment in pilot['segments']:
+            unknown_ids = set(segment['program_ids']) - program_ids
+            if unknown_ids:
+                raise ValueError(f"Unknown program IDs in {segment['id']}: {sorted(unknown_ids)}")
+            lines += [f"- {segment['id']}: {segment['audience']}",
+                      f"  Trang vào: {segment['entry_page']}; chương trình: {', '.join(segment['program_ids'])}.",
+                      f"  Điều kiện mua cần kiểm tra: {segment['purchase_gate']}",
+                      f"  Bằng chứng còn cần: {', '.join(segment['validation_needed'])}."]
+            if segment.get('top_traffic_countries') is None:
+                lines.append('  Top quốc gia traffic: chưa có dữ liệu phù hợp, không suy ra từ market keyword.')
     lines += ['', '## Kiểm tra bằng dữ liệu thực', '',
               '- Fanpage: đọc lịch sử trước khi đăng; tối đa 1/ngày, 3/tuần.',
               '- GA: cùng cửa sổ ngày cho sessions, affiliate_click và checklist_download_click.',
