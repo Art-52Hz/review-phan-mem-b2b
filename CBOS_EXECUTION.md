@@ -121,3 +121,29 @@ https://murf.ai/legal/affiliate-program-terms-of-service . Other catalog program
 retain their existing `noreferrer` policy. Four affiliate audit tests include
 regressions for masked, missing and overly permissive Murf policies. This is a
 referral-source compatibility fix, not proof of account approval or attribution.
+
+## Hermes local integration — verified October 4, 2026
+
+Existing runtime: D:\CBOS_workspace\hermes-runtime, with its integrity-checked
+launch.py. It is configured for local Ollama at 127.0.0.1:11435 and
+cbos-qwen35-4b (Qwen 3.5 4B). The installation was found after the October 2
+search; the earlier statement about no located installation is historical.
+
+Use the operator-owned driver D:\CBOS_workspace\hermes-pilot\run_aipro_checks.py
+through the existing launcher with --no-model-server and --script. It invokes
+this repository's tools/hermes_local_check.py, captures Git status/HEAD, executes
+6 preflight + 2 JSON inventory + 4 affiliate audit tests and creates the read-only
+daily report. Zero discovered tests fail the run. Evidence is written outside Git.
+The real launcher invocation passed with unchanged Git status on October 4.
+
+These routine checks use no model tokens, no paid API and no publication action.
+They do not establish live tracking, commission, autonomous operation or a running
+scheduler. No existing Hermes policy, provider, secret or scheduler was changed.
+
+Hermes local inference is suitable for draft ideas, summaries and first-pass
+review after a successful local model smoke. Codex retains code integration and
+verification; authenticated web actions and final publishing need live evidence.
+Local inference still consumes machine resources and output needs review. No
+percentage reduction in Plus usage or guarantee of content quality is claimed.
+
+Local model smoke completed: session 20261004_202746_098837, 1m55s, no tool calls. The loopback Ollama completion returned HTTP200, but answered 42 for 10+5+2+2*15 (correct:47). Connectivity passed; arithmetic accuracy failed. Use deterministic calculations/tests for decisions and review all local model drafts. Do not delegate publication approval or financial calculations to this model.
