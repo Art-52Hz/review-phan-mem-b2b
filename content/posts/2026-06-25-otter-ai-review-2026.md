@@ -155,7 +155,7 @@ Otter.ai in 2026 remains one of the most pleasant and reliable AI meeting assist
 
 ---
 
-**Related reviews:** [Descript Review 2026](https://aiprofreelancer.com/posts/2026-06-23-descript-review-2026/) (edit audio/video by transcript) · [Best AI Tools 2026](https://aiprofreelancer.com/posts/best-ai-tools-2026/) (our full roundup) · [Murf AI Review 2026](https://aiprofreelancer.com/posts/2026-06-21-murf-ai-review-2026/) (AI voice generation).
+**Related reviews:** [Descript Review 2026](https://aiprofreelancer.com/posts/2026-06-23-descript-review-2026/) (edit audio/video by transcript) · [Best AI Tools 2026](https://aiprofreelancer.com/posts/best-ai-tools-2026/) (our full roundup) · [Murf trial and client-usage checklist](/posts/murf-ai-review-2026/) (AI voice generation).
 
 ---
 
