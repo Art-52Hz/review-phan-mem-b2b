@@ -8,7 +8,7 @@ categories: ["Reviews", "Affiliate Marketing"]
 tags: ["elevenlabs", "review", "2026"]
 toc: true
 cover:
-  image: "/images/elevenlabs-ai-review-2026.webp"
+  image: "/images/elevenlabs-buying-checklist.svg"
   alt: "ElevenLabs voiceover workflow and plan evaluation guide"
   relative: false
 lastmod: 2026-10-04
