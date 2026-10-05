@@ -101,7 +101,7 @@ Notes:
 | **Rev** | Human-grade accuracy | Pay-per-use option | Offers human transcription for near-perfect accuracy |
 | **Descript** | Editing audio/video by text | Subscription | Built for content creators editing podcasts/video |
 
-**Takeaway:** Otter wins on live-transcription experience and ease of use. Pick **Fireflies** if you live in a CRM and need deep sales integrations. Pick **Rev** when accuracy is non-negotiable and you'll pay for human transcription. Pick **[Descript](https://aiprofreelancer.com/posts/2026-06-23-descript-review-2026/)** if your real goal is editing podcasts or video, not just taking notes.
+**Takeaway:** Otter wins on live-transcription experience and ease of use. Pick **Fireflies** if you live in a CRM and need deep sales integrations. Pick **Rev** when accuracy is non-negotiable and you'll pay for human transcription. Pick **[Descript](/posts/descript-review-2026/)** if your real goal is editing podcasts or video, not just taking notes.
 
 ---
 
@@ -155,7 +155,7 @@ Otter.ai in 2026 remains one of the most pleasant and reliable AI meeting assist
 
 ---
 
-**Related reviews:** [Descript Review 2026](https://aiprofreelancer.com/posts/2026-06-23-descript-review-2026/) (edit audio/video by transcript) · [Best AI Tools 2026](https://aiprofreelancer.com/posts/best-ai-tools-2026/) (our full roundup) · [Murf trial and client-usage checklist](/posts/murf-ai-review-2026/) (AI voice generation).
+**Related reviews:** [Descript Review 2026](/posts/descript-review-2026/) (edit audio/video by transcript) · [Best AI Tools 2026](https://aiprofreelancer.com/posts/best-ai-tools-2026/) (our full roundup) · [Murf trial and client-usage checklist](/posts/murf-ai-review-2026/) (AI voice generation).
 
 ---
 
