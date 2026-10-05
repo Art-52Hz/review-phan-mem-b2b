@@ -1,0 +1,87 @@
+NEWSLETTER PLATFORM DECISION WORKSHEET
+AIProFreelancer | Blank planning sheet | 05 October 2026
+
+Use one copy per platform. Do not put subscriber email addresses,
+passwords, API keys or personal consent records in this sheet.
+This sheet does not prove that a feature works or that a tool is suitable.
+
+PROJECT
+Audience:
+Primary job (useful updates / enquiries / publication / other):
+Content promise:
+Sustainable sending frequency:
+Monthly budget and currency:
+Account owner / handoff requirement:
+Platform / plan / quote date:
+
+Use statuses: NOT TESTED / PASS / FAIL / NEEDS FOLLOW-UP.
+Separate a vendor document from an observed account result.
+
+1. SIGNUP AND CONFIRMATION
+Expected permission flow:
+Vendor source and date:
+Permitted test performed:
+Observed result and evidence location:
+Status / correction / owner:
+
+2. UNSUBSCRIBE AND SUPPRESSION
+Expected: unsubscribe is available and the recipient remains suppressed.
+Vendor source and date:
+Permitted test performed:
+Observed result and evidence location:
+Status / correction / owner:
+
+3. SUBSCRIBER EXPORT
+Required fields (include status and permission evidence requirements):
+Documented export fields:
+Observed sample fields (no personal data here):
+Missing fields / separate export needed:
+Status / correction / owner:
+
+4. CONTENT AND AUTOMATION HANDOFF
+Required posts / pages / assets / workflows:
+Documented export or transfer method:
+Observed items retained / items requiring rebuild:
+Status / correction / owner:
+
+5. TOTAL COST
+Subscriber count assumed:
+Plan / currency / monthly or annual commitment / date:
+Required features and any extra charges:
+Upgrade trigger / cancellation terms source:
+Status / correction / owner:
+
+6. CLIENT OWNERSHIP
+Owner of account / sending domain / list / content:
+Access and transfer arrangement:
+Export storage and access policy:
+Status / correction / owner:
+
+7. OPERATOR WORKLOAD
+Measurement dates:
+Issues produced:
+Production / maintenance / support hours:
+Can this schedule be sustained? Evidence:
+Status / correction / owner:
+
+8. OUTCOME MEASUREMENT
+Date window and source:
+Landing sessions (operator traffic excluded or limitation stated):
+Qualified enquiries:
+Affiliate clicks / vendor signups, if verified:
+Approved commission / cash received, if verified:
+Unknown values stay UNKNOWN, not zero.
+
+DECISION
+Essential requirements passed:
+Unresolved blockers:
+Total expected bill and observed workload:
+Choose / defer / reject, with evidence:
+Reviewer / review date:
+
+Sources for initial research:
+https://www.beehiiv.com/support/article/12258595483543-exporting-post-content-or-subscriber-data-from-beehiiv
+https://help.kit.com/en/articles/2502489-how-to-export-subscribers-in-kit
+https://www.beehiiv.com/support/article/23235404312727-how-subscribers-can-manage-their-accounts
+
+Recheck current documentation and account behavior before relying on them.
