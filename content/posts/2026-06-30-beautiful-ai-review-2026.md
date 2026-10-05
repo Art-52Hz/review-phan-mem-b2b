@@ -8,8 +8,8 @@ keywords: ["beautiful.ai review 2026", "beautiful.ai review", "ai presentation t
 categories: ["AI Tools", "Design"]
 tags: ["beautiful.ai", "ai presentation", "slide deck", "powerpoint alternative"]
 cover:
-  image: "/images/beautiful-ai-review-2026.webp"
-  alt: "Beautiful.ai review 2026 cover"
+  image: "/images/presentation-handoff.svg"
+  alt: "Check whether a client needs editable PowerPoint objects or static slide pictures"
 lastmod: 2026-10-05
 ---
 

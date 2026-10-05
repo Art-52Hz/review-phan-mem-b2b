@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4f0e5"/>
+<rect x="0" y="0" width="1200" height="14" fill="#bad850"/>
+<text x="64" y="77" font-family="Arial,sans-serif" font-size="20" letter-spacing="3" fill="#18312b">AIPROFREELANCER / CLIENT HANDOFF</text>
+<text x="64" y="158" font-family="Georgia,serif" font-weight="bold" font-size="64" fill="#18312b">Can your client edit it?</text>
+<text x="64" y="205" font-family="Arial,sans-serif" font-size="27" fill="#657368">Check the export before choosing a presentation tool.</text>
+<rect x="64" y="256" width="508" height="238" rx="14" fill="#18312b"/>
+<text x="94" y="302" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#bad850">EDITABLE POWERPOINT</text>
+<rect x="94" y="329" width="84" height="106" rx="5" fill="none" stroke="#bad850" stroke-width="3"/>
+<path d="M110 352h48m-48 18h35m-35 18h48" fill="none" stroke="#f4f0e5" stroke-width="3"/>
+<text x="204" y="363" font-family="Arial,sans-serif" font-size="26" fill="#f4f0e5">Test text and objects</text>
+<text x="204" y="405" font-family="Arial,sans-serif" font-size="22" fill="#f4f0e5">Check fonts and notes</text>
+<rect x="604" y="256" width="532" height="238" rx="14" fill="#e4e8d8" stroke="#b8c4b0"/>
+<text x="634" y="302" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#18312b">POWERPOINT IMAGES</text>
+<rect x="634" y="338" width="90" height="75" rx="5" fill="none" stroke="#657368" stroke-width="3"/>
+<path d="M645 400l22-27 16 18 16-20 15 29" fill="none" stroke="#657368" stroke-width="3"/>
+<text x="750" y="363" font-family="Arial,sans-serif" font-size="26" fill="#18312b">Static slide pictures</text>
+<text x="750" y="405" font-family="Arial,sans-serif" font-size="22" fill="#657368">A different deliverable</text>
+<text x="64" y="557" font-family="Arial,sans-serif" font-size="24" fill="#18312b">Free blank handoff checklist • No invented product scores</text>
+<text x="64" y="598" font-family="Arial,sans-serif" font-size="18" fill="#657368">Original editorial graphic. Not a product screenshot or export test.</text>
+</svg>
