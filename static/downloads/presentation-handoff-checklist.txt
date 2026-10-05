@@ -1,0 +1,34 @@
+PRESENTATION HANDOFF CHECKLIST
+Blank planning template from AIProFreelancer.com
+No product test results, prices or savings claims are prefilled.
+
+Project / observation date:
+Required application and version:
+Required delivery format:
+Selected tool / plan / export option:
+Current plan and export documentation URL / date checked:
+
+Use a small representative deck with material you may process.
+Open the exported file in the recipient's intended application.
+For each item record: requirement | observed result | correction | status.
+Leave untested items UNKNOWN. Use PASS / REVISE / BLOCKED only with evidence.
+
+1. Representative text can be edited:
+2. Required chart and objects can be edited as agreed:
+3. Fonts are available and line breaks match the acceptance requirement:
+4. Required images, video and audio remain usable:
+5. Required transitions / animations remain usable:
+6. Speaker notes and intended slide selection are included:
+7. Source ownership / access after handoff is agreed:
+8. Usage rights and supplied material permissions are checked:
+
+Original deck reference / exported file reference:
+Active export cleanup time (minutes, measured or estimated):
+Remaining blockers:
+Recipient acceptance evidence / date:
+Decision: REJECT / REVISE / READY FOR THIS PROJECT
+
+An export option labeled PowerPoint does not by itself prove editable objects.
+Documented vendor capability is not a successful test of your own deck.
+Buying a subscription or downloading this template does not guarantee delivery.
+Keep payment due now separate from allocated project cost.

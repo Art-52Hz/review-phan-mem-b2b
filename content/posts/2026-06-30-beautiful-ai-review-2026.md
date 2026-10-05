@@ -53,6 +53,8 @@ Add a longer heading and a denser paragraph. Replace an image with a different a
 
 ## Test the handoff before committing
 
+[Download the blank presentation handoff checklist](/downloads/presentation-handoff-checklist.txt) to record requirements, observed export behavior and remaining corrections. It contains no prefilled product scores or benchmark results.
+
 Export the representative deck in the format the client requires and open it in the client's intended application. Inspect fonts, chart labels, line breaks and editable objects. Keep the original and exported versions so the differences can be compared.
 
 ### Editable PowerPoint is different from slide images
