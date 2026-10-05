@@ -1,0 +1,30 @@
+FREELANCER LEAD-FUNNEL CHECKLIST
+Blank planning worksheet. No observations or results are prefilled.
+
+Audience and service:
+Useful resource:
+One next action:
+Page URL and account owner:
+
+For each item record EXPECTED / OBSERVED / CORRECTION / STATUS.
+Status: NOT TESTED, PASS, REVISE, BLOCKED.
+
+1. Resource matches the service and audience.
+2. Mobile page and form are readable.
+3. Only necessary fields are collected.
+4. Consent and confirmation match the intended messages.
+5. Resource delivery works without duplicate automation.
+6. Unsubscribe and contact suppression are checked.
+7. Client ownership, export and maintenance are documented.
+8. Account limits and total cost are verified.
+
+Date window:
+Landing sessions, source and exclusions:
+Consent-based signups:
+Qualified client enquiries:
+Eligible sales or commissions:
+Actual cash received:
+
+Unknown is not zero. Do not count operator tests as customer results.
+Test only workflows you own or have permission to operate.
+Do not import purchased lists.
