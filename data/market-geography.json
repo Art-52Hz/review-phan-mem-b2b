@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "captured_on": "2026-10-05",
+  "displayed_period": "2026-08",
+  "source": "Similarweb public website analysis, estimated data",
+  "scope": "Vendor-domain traffic proxies; not AIProFreelancer audience, buyers or conversion rankings",
+  "traffic_scope_note": "Pages show All traffic in their header, while geography prose refers to desktop traffic. This inconsistency is unresolved; do not combine with GA or forecast purchases.",
+  "share_unit": "percent; first percentage displayed per country, excluding adjacent change percentage",
+  "records": [
+    {
+      "program_id": "mangools",
+      "domain": "mangools.com",
+      "source_url": "https://www.similarweb.com/website/mangools.com/",
+      "countries": [
+        {"country": "US", "share": 16.66},
+        {"country": "IN", "share": 10.39},
+        {"country": "DE", "share": 6.75},
+        {"country": "GB", "share": 6.00},
+        {"country": "FR", "share": 4.31}
+      ],
+      "other_share": 55.89
+    },
+    {
+      "program_id": "murf",
+      "domain": "murf.ai",
+      "source_url": "https://www.similarweb.com/website/murf.ai/",
+      "countries": [
+        {"country": "IN", "share": 16.77},
+        {"country": "US", "share": 14.32},
+        {"country": "TN", "share": 5.74},
+        {"country": "PK", "share": 3.37},
+        {"country": "GB", "share": 3.08}
+      ],
+      "other_share": 56.72
+    },
+    {
+      "program_id": "elevenlabs",
+      "domain": "elevenlabs.io",
+      "source_url": "https://www.similarweb.com/website/elevenlabs.io/",
+      "countries": [
+        {"country": "US", "share": 16.96},
+        {"country": "IN", "share": 13.05},
+        {"country": "PK", "share": 4.03},
+        {"country": "BR", "share": 4.01},
+        {"country": "DE", "share": 4.00}
+      ],
+      "other_share": 57.95
+    },
+    {
+      "program_id": "beautifulai",
+      "domain": "beautiful.ai",
+      "source_url": "https://www.similarweb.com/website/beautiful.ai/",
+      "countries": [
+        {"country": "US", "share": 30.23},
+        {"country": "IN", "share": 12.41},
+        {"country": "ID", "share": 4.55},
+        {"country": "NO", "share": 3.74},
+        {"country": "GB", "share": 3.30}
+      ],
+      "other_share": 45.77
+    }
+  ],
+  "decision": "Retain the US/English pilot. Treat these lists as research candidates only; no country expansion or spending before first-party landing, outbound-click and approved-commission evidence.",
+  "buyer_market_verified": false
+}

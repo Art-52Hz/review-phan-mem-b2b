@@ -71,6 +71,18 @@ def report(root, today):
                       f"  Bằng chứng còn cần: {', '.join(segment['validation_needed'])}."]
             if segment.get('top_traffic_countries') is None:
                 lines.append('  Top quốc gia traffic: chưa có dữ liệu phù hợp, không suy ra từ market keyword.')
+    geography_path = root / 'data' / 'market-geography.json'
+    if geography_path.exists():
+        geography = json.loads(geography_path.read_text(encoding='utf-8'))
+        lines += ['', '## Gợi ý thị trường — traffic nhà cung cấp, không phải khách mua', '',
+                  f"Similarweb ước tính kỳ {geography['displayed_period']}, đọc ngày {geography['captured_on']}.",
+                  geography['traffic_scope_note']]
+        for record in geography['records']:
+            if record['program_id'] not in {item['program_id'] for item in catalog['records']}:
+                raise ValueError(f"Unknown geography program: {record['program_id']}")
+            countries = ', '.join(f"{c['country']} {c['share']:.2f}%" for c in record['countries'])
+            lines.append(f"- {record['domain']}: {countries}. Nguồn: {record['source_url']}")
+        lines.append(geography['decision'])
     lines += ['', '## Kiểm tra bằng dữ liệu thực', '',
               '- Fanpage: đọc lịch sử trước khi đăng; tối đa 1/ngày, 3/tuần.',
               '- GA: cùng cửa sổ ngày cho sessions, affiliate_click và checklist_download_click.',

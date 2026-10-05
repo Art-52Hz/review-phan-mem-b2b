@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-10-04",
+  "updated_on": "2026-10-05",
   "scope": "Editorial targeting hypotheses, not verified customer research or country rankings",
   "segments": [
     {
@@ -40,6 +40,6 @@
       "top_traffic_countries": null
     }
   ],
-  "geography_note": "US/English keyword research is a selected pilot market. No SimilarWeb top-five country evidence is available; GA operator traffic is not a buyer ranking.",
+  "geography_note": "US/English remains a selected pilot market. market-geography.json records August 2026 Similarweb vendor-domain top-five estimates captured October 5. These are proxies, not segment-specific buyer rankings; top_traffic_countries stays unknown. Traffic-scope wording in the source is inconsistent; GA operator traffic is not a buyer ranking.",
   "distribution": "Existing website and authorized fanpage only; no paid ads or unsolicited messages"
 }
