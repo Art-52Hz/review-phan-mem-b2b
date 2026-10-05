@@ -61,7 +61,7 @@ Without actual samples, leave the observations unmeasured. Product marketing and
 
 ## Make the purchase decision
 
-Choose the workflow that passes the required gates and produces acceptable output at a project cost you can explain. Include revision and review time rather than comparing subscription stickers alone.
+Choose the workflow that passes the required gates and produces acceptable output at a project cost you can explain. Include revision and review time rather than comparing subscription stickers alone. Use our [project cost worksheet](/posts/freelance-tool-project-cost/) to record allocated fees, required add-ons and active working time in one currency.
 
 If one tool cannot provide a required export, defer it regardless of how appealing its demo sounds. If both meet the brief, the relevant difference may be your measured editing effort or repeat-project cost. If neither has been tested, the honest next step is a sample evaluation.
 

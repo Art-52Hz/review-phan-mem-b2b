@@ -43,7 +43,7 @@ For a single client project, compare the total commitment with the monthly optio
 
 Team pricing needs an extra checkout check: the page's FAQ describes per-user charges, while a plan card also mentions three included users. Confirm the seat count and full invoice rather than extrapolating a total from those mixed labels. Prices can change; record the checkout shown to you.
 
-Record subscription, seats, usage, fees and revision hours in the same project estimate.
+Record subscription, seats, usage, fees and revision hours in the same project estimate. Our [freelance tool cost worksheet](/posts/freelance-tool-project-cost/) separates the payment due now from the cost allocated to one client project.
 
 ## Evaluate layout and editing with your own content
 
