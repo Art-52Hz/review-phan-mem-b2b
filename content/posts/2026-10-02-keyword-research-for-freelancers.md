@@ -1,7 +1,7 @@
 ---
 title: "Keyword Research for Freelancers: A Practical SEO Workflow"
 date: 2026-10-02
-lastmod: 2026-10-04
+lastmod: 2026-10-05
 slug: "keyword-research-for-freelancers"
 draft: false
 description: "Build a keyword shortlist for your freelance website. Match intent, inspect competitors and measure results with Search Console and KWFinder."
@@ -40,6 +40,14 @@ Give readers the answer they came for. Someone needing a checklist should receiv
 Create a table with query, customer, country, language, intent, source, observation date and planned URL. Add volume and difficulty only when collected. Leave unknown values blank.
 
 Search Console provides queries associated with your website. Tool suggestions expand customer questions, but do not establish demand by themselves.
+
+### Continue when a research tool reaches its limit
+
+Keep the existing shortlist instead of treating an upgrade as the next automatic step. For a website you own, open Search Console's Performance report, record the date range and inspect queries and pages associated with your site. Use those observations to choose an existing answer to improve. For topics not represented there, record customer questions and inspect relevant search results; leave volume and difficulty unknown until measured.
+
+Search Console impressions and clicks describe your site's visibility, not the total number of searches in a market. A missing query does not prove there is no demand. Check the displayed report before interpreting an export: [Google's documentation](https://support.google.com/webmasters/answer/7576553?hl=en) notes that unavailable values shown as `~` or `-` can become zeros in downloaded data. Preserve that uncertainty in the worksheet rather than presenting it as a measured zero.
+
+Date the observations and keep query, page and country views distinct. Search results depend on the searcher's context, so a manual search is not a reliable reconstruction of every position reported for your site.
 
 According to the [official KWFinder page](https://mangools.com/kwfinder/), the tool supports keyword and domain research, historical volumes, difficulty metrics and location-specific search-result analysis. These are research inputs, not promises of rankings or income.
 
