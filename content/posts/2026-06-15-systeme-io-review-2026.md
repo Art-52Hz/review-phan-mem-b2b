@@ -1,6 +1,7 @@
 ---
 title: "Systeme.io Review: Check Your Freelancer Funnel Before Buying"
 date: 2026-06-15
+lastmod: 2026-10-05
 slug: "systeme-io-review-2026"
 draft: false
 description: "Evaluate Systeme.io for a freelancer lead funnel: consent, costs, account limits, client handoff and a free planning checklist."

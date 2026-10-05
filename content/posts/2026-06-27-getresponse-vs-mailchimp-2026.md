@@ -1,6 +1,7 @@
 ---
 title: "GetResponse vs Mailchimp: Compare the Plan and Project Cost"
 date: 2026-06-27
+lastmod: 2026-10-05
 slug: "getresponse-vs-mailchimp-2026"
 draft: false
 description: "A sourced GetResponse and Mailchimp buying checklist: plan limits, subscriber journeys, comparable costs and account handoff."
