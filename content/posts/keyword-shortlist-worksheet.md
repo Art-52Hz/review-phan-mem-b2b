@@ -46,6 +46,8 @@ List the sources, examples or original resources you can supply. If you have not
 
 For a commercial topic, record the offer's availability and the referral link actually issued to your account. A public affiliate program page does not prove that your account has been accepted. Leave the field blank when the relationship is not established.
 
+Before buying a research subscription, use the [freelance tool cost worksheet](/posts/freelance-tool-project-cost/) to record the payment commitment and the projects that would actually use it. A keyword estimate alone does not establish that the subscription will pay for itself.
+
 ## Give the reader one useful next step
 
 The primary action should follow from the page's purpose. A planning guide might offer a worksheet; a buying checklist might help the reader inspect a current plan. Specify the action before writing the CTA so the page does not end with a generic sales pitch.

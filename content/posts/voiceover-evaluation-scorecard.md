@@ -44,6 +44,8 @@ Change one sentence and try to preserve the surrounding delivery. Record your ac
 
 Separate active editing time from waiting for generation. Also separate the first output from the final acceptable output. If you estimate project cost, state the plan, allowance and number of expected revisions; do not treat the introductory subscription price as the entire production cost.
 
+Use the [freelance tool cost worksheet](/posts/freelance-tool-project-cost/) to combine those revision hours with the billing commitment and required add-ons. Keep the subscription payment due now separate from the share allocated to this voiceover project.
+
 ## Treat rights and exports as separate gates
 
 Before delivery, verify the selected plan's current commercial-use terms, the client's distribution channel and the required download format. Record the source and the date checked. A trial that lets you generate speech may not let you download or commercially use that output.
