@@ -10,7 +10,7 @@ tags: ["beautiful.ai", "ai presentation", "slide deck", "powerpoint alternative"
 cover:
   image: "/images/beautiful-ai-review-2026.webp"
   alt: "Beautiful.ai review 2026 cover"
-lastmod: 2026-10-04
+lastmod: 2026-10-05
 ---
 
 Beautiful.ai is worth shortlisting when your freelance work involves repeatable client presentations. The purchase decision should depend on the deck you need to deliver, the client's editing requirements and the selected plan—not a polished product demo alone.
@@ -54,6 +54,18 @@ Add a longer heading and a denser paragraph. Replace an image with a different a
 ## Test the handoff before committing
 
 Export the representative deck in the format the client requires and open it in the client's intended application. Inspect fonts, chart labels, line breaks and editable objects. Keep the original and exported versions so the differences can be compared.
+
+### Editable PowerPoint is different from slide images
+
+The vendor's [export guide](https://support.beautiful.ai/hc/en-us/articles/30629528652685-Exporting-your-slides-and-presentations), checked October 5, distinguishes these handoffs:
+
+| Export choice | Documented behavior | Check before client delivery |
+|---|---|---|
+| Editable PowerPoint | Available on Pro, Team and Enterprise; includes editable presentation elements and notes | Open the file on the client's machine and edit representative text and objects |
+| PowerPoint Images | Slides become static images; notes are included | Do not offer this as individually editable slide content |
+| Google Slides | Editable export on Pro, Team and Enterprise; embedded video, audio, transitions and animations are lost | Decide whether the missing media or effects are required |
+
+The [editable PowerPoint instructions](https://support.beautiful.ai/hc/en-us/articles/360035562031-How-do-I-export-as-an-editable-PowerPoint) also warn that missing fonts can change formatting. External exports do not retain Beautiful.ai's native transitions and animations. These are documented limitations, not results from a deck we tested. Keep cleanup time and unresolved delivery requirements in the purchase decision.
 
 If collaboration matters, verify the relevant viewing and editing permissions on the selected plan. Decide who owns the source deck, who can access it after the project ends and how the client will request revisions. Shared-link viewing is a different delivery from an editable source file.
 
