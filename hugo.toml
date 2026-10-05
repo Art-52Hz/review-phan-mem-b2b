@@ -23,7 +23,9 @@ enableRobotsTXT = true
     Content = """
 Independent guides, reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software**. Check each article's sources and current vendor details before choosing a product.
 
-**Start with a free checklist:** [Plan your keywords](/posts/keyword-research-for-freelancers/) · [Evaluate an AI voiceover](/posts/voiceover-evaluation-scorecard/) · [Check a VPS before buying](/posts/ultahost-vps-review/). These guides help you record requirements and evidence before choosing a paid tool.
+**Choose the job you need to do:** [Plan your keywords](/posts/keyword-research-for-freelancers/) · [Evaluate an AI voiceover](/posts/voiceover-evaluation-scorecard/) · [Hand off editable slides](/posts/beautiful-ai-review-2026/) · [Check a VPS before buying](/posts/ultahost-vps-review/). Each guide helps you record requirements before choosing a tool.
+
+**Before subscribing:** [Compare the whole project cost](/posts/freelance-tool-project-cost/) with our free worksheet. Include setup, revisions and maintenance; the lowest subscription price may not be the lowest project cost.
 
 Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categories/hosting/) · [VPN & Security](/categories/vpn/) · [SEO Tools](/categories/seo-tools/) · [Productivity](/categories/productivity/).
 """
