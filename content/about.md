@@ -5,8 +5,8 @@ date: 2026-05-27
 lastmod: 2026-10-03
 author: "Vincent Pham"
 cover:
-  image: "/images/vincent-pham-avatar.png"
-  alt: "Existing founder illustration for AI Pro Freelancer"
+  image: "/images/vincent-pham-avatar.webp"
+  alt: "Founder portrait used on the AI Pro Freelancer about page"
 ---
 
 AI Pro Freelancer publishes software guides for freelancers and small teams. Our focus is helping readers define a requirement, check current vendor terms and compare the cost of completing a real project.
