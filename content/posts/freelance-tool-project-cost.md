@@ -1,7 +1,7 @@
 ---
 title: "Freelance Tool Costs: Compare the Whole Project Before Subscribing"
 date: 2026-10-05T10:00:00+07:00
-draft: true
+draft: false
 author: "Vincent Pham"
 slug: "freelance-tool-project-cost"
 categories: ["Guides"]
