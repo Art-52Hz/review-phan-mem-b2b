@@ -3,7 +3,7 @@ title: "VPS for Freelancers: A Client-Site Operations Checklist"
 date: 2026-06-12
 slug: "best-vps-for-freelancers-2026"
 draft: false
-lastmod: 2026-10-04
+lastmod: 2026-10-05
 description: "Decide whether a VPS fits your client-site workload by checking maintenance ownership, recovery, access, resource limits and the complete operating cost."
 keywords: ["VPS for freelancers", "client website hosting checklist"]
 categories: ["Hosting", "Freelancing"]
@@ -56,6 +56,8 @@ Separate the server invoice from the portion allocated to each client. Explain t
 Restore a permitted sample in an isolated environment and check the user journeys the client needs. Record dependencies, steps and unresolved issues. Keep a rollback plan before changing production.
 
 Deliver the agreed documentation: ownership, access, billing, maintenance, backup and escalation details. Hosting access alone is not evidence that the client can operate or recover the site.
+
+For a WordPress client site, download the [blank handoff worksheet](/downloads/wordpress-handoff-worksheet.txt). Record account ownership, the quoted plan, recovery requirements, an authorized test result and ongoing costs. Leave untested items unknown; the worksheet is a planning aid, not proof that a provider passed a recovery test. Keep passwords, tokens and private customer data out of the shared record.
 
 ## Make a bounded decision
 

@@ -1,0 +1,14 @@
+WORDPRESS CLIENT HANDOFF WORKSHEET — blank, not evidence of a completed test
+Never record passwords, access tokens or private customer data here.
+Project / review date:
+Hosting plan / quote date / billing commitment:
+Client account owner / domain owner / billing contact:
+Freelancer retained role / access removal date:
+Included backup schedule / retention / download option:
+Acceptable data loss / outage duration:
+Authorized recovery test environment / date / observed result / unresolved issues:
+Staging push files / database scope / rollback owner:
+Recurring hosting / domain / add-ons / licenses / maintenance labour:
+Overage notification contact / approval owner:
+Acceptance checks / unresolved issues / owner sign-off:
+Status: unknown / documentation checked / tested / accepted
