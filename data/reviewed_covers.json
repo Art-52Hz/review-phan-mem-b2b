@@ -12,5 +12,47 @@
     "reviewed_date": "2026-10-03",
     "origin": "Built-in imagegen, original editorial illustration; no measured metrics",
     "alt": "Magnifying glass selecting a coral index card beside the title From Keywords to a Plan"
+  },
+  "getresponse-vs-mailchimp-2026": {
+    "image": "/images/newsletter-platform-checklist.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Newsletter permission, portability and workload"
+  },
+  "murf-ai-review-2026": {
+    "image": "/images/voiceover-scorecard.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Voiceover evaluation: listen, revise and check rights"
+  },
+  "kit-review-2026": {
+    "image": "/images/newsletter-platform-checklist.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Newsletter permission, portability and workload"
+  },
+  "beautiful-ai-review-2026": {
+    "image": "/images/presentation-handoff.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Editable slides versus static slide pictures"
+  },
+  "systeme-io-review-2026": {
+    "image": "/images/freelancer-lead-funnel.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Resource, consent and project enquiry"
+  },
+  "elevenlabs-ai-review-2026": {
+    "image": "/images/elevenlabs-buying-checklist.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-05",
+    "origin": "Original static editorial SVG; reviewed, no product rating",
+    "alt": "Voiceover rights, limits and revisions"
   }
 }
