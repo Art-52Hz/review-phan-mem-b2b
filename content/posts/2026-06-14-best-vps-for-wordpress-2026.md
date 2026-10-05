@@ -9,8 +9,8 @@ keywords: ["VPS for WordPress", "WordPress VPS checklist"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "wordpress"]
 cover:
-  image: "/images/best-vps-for-wordpress-2026.webp"
-  alt: "WordPress VPS evaluation checklist"
+  image: "/images/wordpress-restore-checklist.svg"
+  alt: "WordPress hosting: compatibility, restoration and support responsibility checks"
   relative: false
 ---
 
