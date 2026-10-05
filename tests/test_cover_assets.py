@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from tools.cover_assets import reviewed_cover
+from tools.cover_assets import reviewed_cover, audit_reviewed_covers
 
 
 class CoverAssetsTest(unittest.TestCase):
@@ -41,6 +41,21 @@ class CoverAssetsTest(unittest.TestCase):
         for content in ['<svg', '<!DOCTYPE svg><svg xmlns="http://www.w3.org/2000/svg"/>']:
             with self.subTest(content=content), self.assertRaises(ValueError):
                 self.cover(content)
+
+    def test_article_reference_mismatch_and_missing_article(self):
+        self.cover('<svg xmlns="http://www.w3.org/2000/svg"/>')
+        with self.assertRaises(ValueError):
+            audit_reviewed_covers(self.root)
+        posts = self.root / 'content/posts'
+        posts.mkdir(parents=True)
+        article = posts / 'test.md'
+        article.write_text('---\nslug: "test"\ncover:\n  image: "/images/wrong.svg"\n---\n', encoding='utf-8')
+        with self.assertRaises(ValueError):
+            audit_reviewed_covers(self.root)
+        article.write_text('---\nslug: "test"\ncover:\n  image: "/images/test.svg"\n---\n', encoding='utf-8')
+        self.assertEqual(1, len(audit_reviewed_covers(self.root)))
+        (posts / 'old-draft.md').write_text('---\nslug: "test"\ndraft: true\ncover:\n  image: "/images/old.svg"\n---\n', encoding='utf-8')
+        self.assertEqual(1, len(audit_reviewed_covers(self.root)))
 
 
 if __name__ == '__main__':

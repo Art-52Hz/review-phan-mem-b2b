@@ -24,12 +24,13 @@ def main():
         return p
     before = run('git_status_before', ['git', '--no-optional-locks', 'status', '--porcelain=v1'])
     run('head', ['git', '--no-optional-locks', 'rev-parse', 'HEAD'])
-    for pattern in ['test_content_preflight.py', 'test_publication_inventory_json.py', 'test_affiliate_audit.py']:
+    for pattern in ['test_content_preflight.py', 'test_publication_inventory_json.py', 'test_affiliate_audit.py', 'test_cover_assets.py']:
         result = run(pattern, [sys.executable, '-B', '-m', 'unittest', 'discover', '-s', 'tests', '-p', pattern])
         match = re.search(r'Ran (\d+) tests?', result.stdout + result.stderr)
         if not match or int(match.group(1)) == 0:
             results[-1]['exit_code'] = 1
             results[-1]['output'] += '\nNo executed tests; review required.'
+    run('reviewed_cover_references', [sys.executable, '-B', 'tools/cover_assets.py', str(ROOT)])
     run('daily_report', [sys.executable, '-B', 'tools/daily_status.py'])
     run('hypothetical_revenue_scenarios', [sys.executable, '-B', 'tools/revenue_model.py'])
     after = run('git_status_after', ['git', '--no-optional-locks', 'status', '--porcelain=v1'])

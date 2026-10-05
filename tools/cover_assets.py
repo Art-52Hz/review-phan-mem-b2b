@@ -2,6 +2,7 @@
 import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
+import re
 
 
 def _validate_svg(asset):
@@ -48,3 +49,52 @@ def reviewed_cover(repo_path, slug):
     if asset.suffix.lower() == '.svg':
         _validate_svg(asset)
     return url
+
+
+def audit_reviewed_covers(repo_path):
+    """Check declared reviewed covers and their matching article references."""
+    root = Path(repo_path).resolve()
+    manifest = root / 'data/reviewed_covers.json'
+    if not manifest.is_file():
+        raise FileNotFoundError(manifest)
+    entries = json.loads(manifest.read_text(encoding='utf-8'))
+    results = []
+    for slug in entries:
+        image = reviewed_cover(root, slug)
+        articles = []
+        for post in (root / 'content/posts').glob('*.md'):
+            text = post.read_text(encoding='utf-8')
+            if text.startswith('{'):
+                fields, _ = json.JSONDecoder().raw_decode(text)
+                if str(fields.get('draft', False)).lower() == 'true':
+                    continue
+                declared_slug = fields.get('slug', post.stem)
+                declared_cover = fields.get('cover', {}).get('image')
+            elif text.startswith('---'):
+                front = text.split('---', 2)[1]
+                if re.search(r'^draft:\s*[\"\']?true[\"\']?\s*$', front, re.M | re.I):
+                    continue
+                match = re.search(r'^slug:\s*[\"\']?([^\"\'\r\n]+)', front, re.M)
+                declared_slug = match.group(1).strip() if match else post.stem
+                cover = re.search(r'^cover:\s*\n(?:[ \t].*\n)*?[ \t]+image:\s*[\"\']?([^\"\'\r\n]+)', front, re.M)
+                declared_cover = cover.group(1).strip() if cover else None
+            else:
+                continue
+            if declared_slug != slug:
+                continue
+            if declared_cover != image:
+                raise ValueError(f'Article cover differs from reviewed cover: {post.name}')
+            articles.append(post.name)
+        if not articles:
+            raise ValueError(f'Reviewed cover has no matching article: {slug}')
+        results.append({'slug': slug, 'image': image, 'articles': articles})
+    return results
+
+
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('repo', type=Path)
+    args = parser.parse_args()
+    print(json.dumps({'scope': 'Local reviewed-cover references only; no publishing',
+                      'results': audit_reviewed_covers(args.repo)}, indent=2))
