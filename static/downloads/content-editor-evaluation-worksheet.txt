@@ -1,0 +1,19 @@
+CONTENT EDITOR EVALUATION — blank worksheet, not a completed benchmark
+Do not record passwords, access tokens or private client data.
+Status: not tested / documentation checked / sample reviewed / published
+Reader task / existing page URL / review date:
+Query / country / language / desktop or mobile:
+Tool / selected plan / source URL / terms checked date:
+Amount due now / renewal / billing period / seats / editor allowance / AI allowance:
+Authorized sample / original version saved location:
+Recommendation / reader benefit / source / accepted or rejected / reason:
+Unsupported claims found / correction / unresolved questions:
+Original score / revised score / score type / measurement date:
+Research minutes / editing minutes / fact-check minutes / CMS cleanup minutes:
+Published URL / date / link checks / owner:
+Search Console period / impressions / clicks / country / search type:
+Analytics period / landing sessions / reader actions:
+Other changes during comparison / sample limitations:
+Decision: keep evaluating / use for this task / defer purchase
+Evidence and reason:
+Unknown values stay unknown. Tool scores are not Google positions or revenue.

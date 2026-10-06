@@ -1,7 +1,7 @@
 ---
 title: "Surfer SEO Review: Evaluate Content Guidance Before Buying"
 date: 2026-06-12
-lastmod: 2026-10-05
+lastmod: 2026-10-06
 slug: "surfer-seo-review-2026"
 draft: false
 description: "Evaluate Surfer Content Editor using search intent, source quality, revision effort and current plan limits. Separate tool scores from measured SEO results."
@@ -49,6 +49,8 @@ Save the original article and a dated copy of the recommendations. Review each p
 | How much editing is required? | Active time, corrections and rejected suggestions |
 
 If no authorized sample has been evaluated, leave observations unmeasured. A vendor demo or a generated draft is not your test result.
+
+Use our [blank content editor evaluation worksheet](/downloads/content-editor-evaluation-worksheet.txt) to record the sample, accepted and rejected recommendations, subscription commitment and active editing time. It also separates tool scores from subsequent Search Console and Analytics observations. You can download it without buying Surfer; blank fields do not represent completed tests.
 
 ## Check the current subscription commitment
 
