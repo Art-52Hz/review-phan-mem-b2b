@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_on": "2026-10-05",
+  "updated_on": "2026-10-06",
   "scope": "Editorial targeting hypotheses, not verified customer research or country rankings",
   "segments": [
     {
@@ -33,7 +33,7 @@
       "problem_hypothesis": "A polished deck creates extra work when the client's required editable export fails",
       "program_ids": ["beautifulai"],
       "entry_page": "/posts/beautiful-ai-review-2026/",
-      "decision_asset": null,
+      "decision_asset": "/downloads/presentation-handoff-checklist.txt",
       "message": "Test the client handoff and full billing commitment before subscribing",
       "purchase_gate": "Open an exported representative deck in the client's application; confirm seats and invoice",
       "validation_needed": ["Reader export requirements", "Organic landing sessions", "Unique outbound-click sessions", "Approved commissions"],

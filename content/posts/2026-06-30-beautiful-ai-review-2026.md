@@ -17,7 +17,7 @@ Beautiful.ai is worth shortlisting when your freelance work involves repeatable 
 
 **Updated October 4, 2026:** This guide uses vendor documentation and a practical evaluation process. We have not completed a hands-on performance benchmark. Earlier unsupported ratings, drafting percentages and speed comparisons have been removed.
 
-**Affiliate disclosure:** This page uses our account-issued Beautiful.ai referral link. We may receive commission on a qualifying purchase. Eligibility depends on current program terms; it is not a fixed payment promised for every signup.
+**Affiliate disclosure:** This page uses our account-issued Beautiful.ai referral link. We may receive commission on a qualifying purchase. Eligibility depends on current program terms; it is not a fixed payment promised for every signup. [Read our affiliate disclosure policy](/affiliate-disclosure/).
 
 [Check current Beautiful.ai plans through our referral link](https://beautifulai.partnerlinks.io/g272chd8gv2e).
 
