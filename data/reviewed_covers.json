@@ -54,5 +54,12 @@
     "reviewed_date": "2026-10-05",
     "origin": "Original static editorial SVG; reviewed, no product rating",
     "alt": "Voiceover rights, limits and revisions"
+  },
+  "best-cheap-dedicated-server-2026": {
+    "image": "/images/dedicated-server-quote.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-07",
+    "origin": "Original static editorial SVG; browser preview reviewed; no product rating or benchmark",
+    "alt": "Dedicated server quote checklist: hardware, billing and operating owner"
   }
 }
