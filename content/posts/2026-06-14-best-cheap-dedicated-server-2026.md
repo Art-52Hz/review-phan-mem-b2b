@@ -8,8 +8,8 @@ description: "Compare dedicated server quotes by hardware, network, billing term
 categories: ["Hosting", "VPS"]
 tags: ["dedicated server", "hosting", "freelancers"]
 cover:
-  image: "/images/wordpress-restore-checklist.svg"
-  alt: "Hosting operating responsibility checklist without provider ratings"
+  image: "/images/dedicated-server-quote.svg"
+  alt: "Dedicated server quote checklist: hardware, billing and operating owner"
   relative: false
 ---
 
