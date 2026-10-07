@@ -61,5 +61,12 @@
     "reviewed_date": "2026-10-07",
     "origin": "Original static editorial SVG; browser preview reviewed; no product rating or benchmark",
     "alt": "Dedicated server quote checklist: hardware, billing and operating owner"
+  },
+  "best-windows-vps-hosting-2026": {
+    "image": "/images/dedicated-server-quote.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-07",
+    "origin": "Existing original editorial SVG reused for the Windows VPS quote checklist; no provider rating",
+    "alt": "Hosting quote checklist: hardware, full cost and operating responsibility"
   }
 }
