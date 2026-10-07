@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f6f3e9"/>
+<rect x="40" y="40" width="1120" height="550" rx="28" fill="#173f36"/>
+<g font-family="Arial,sans-serif">
+<text x="84" y="98" fill="#cdf28c" font-size="18" font-weight="700" letter-spacing="3">AIPROFREELANCER / NEWSLETTER DECISIONS</text>
+<text x="84" y="176" fill="#fffdf4" font-size="55" font-weight="700">Before you commit,</text>
+<text x="84" y="239" fill="#cdf28c" font-size="55" font-weight="700">check the exit.</text>
+<text x="84" y="289" fill="#d8e2d9" font-size="24">Choose a platform you can run — and leave.</text>
+<rect x="84" y="332" width="314" height="159" rx="16" fill="#fffdf4"/>
+<rect x="443" y="332" width="314" height="159" rx="16" fill="#cdf28c"/>
+<rect x="802" y="332" width="314" height="159" rx="16" fill="#efb27c"/>
+<g fill="#173f36">
+<text x="106" y="370" font-size="16" font-weight="700">01 / PERMISSION</text>
+<text x="106" y="410" font-size="26" font-weight="700">Who opted in?</text>
+<text x="106" y="451" font-size="19">Check consent and unsubscribe.</text>
+<text x="465" y="370" font-size="16" font-weight="700">02 / PORTABILITY</text>
+<text x="465" y="410" font-size="26" font-weight="700">What exports?</text>
+<text x="465" y="451" font-size="19">Check fields, content and status.</text>
+<text x="824" y="370" font-size="16" font-weight="700">03 / WORKLOAD</text>
+<text x="824" y="410" font-size="26" font-weight="700">Can you sustain it?</text>
+<text x="824" y="451" font-size="19">Record the bill and your hours.</text>
+</g>
+<text x="84" y="545" fill="#fffdf4" font-size="21">A practical checklist for freelancers. Evidence before a subscription.</text>
+</g>
+</svg>
