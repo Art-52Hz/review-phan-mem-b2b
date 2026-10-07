@@ -34,9 +34,11 @@ def audit(build, catalog):
         for link in parser.links:
             href = link.get('href', '')
             key = account_key(href)
-            # Mangools shares its domain with public documentation links.
+            # Shared vendor domains also contain ordinary product/help links.
             is_candidate = key[1] in hosts and (
-                key[1] != 'mangools.com' or key[3].startswith('a'))
+                (key[1] != 'mangools.com' or key[3].startswith('a')) and
+                (key[1] != 'ultahost.com' or bool(key[3]) or
+                 link.get('data-affiliate') == 'true'))
             if not is_candidate:
                 continue
             location = page.relative_to(build).as_posix()

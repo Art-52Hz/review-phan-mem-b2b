@@ -5,6 +5,16 @@ from tools.affiliate_audit import audit
 
 
 class AffiliateAuditTests(unittest.TestCase):
+    def test_ultahost_help_links_are_not_referrals_but_wrong_account_fails(self):
+        catalog = {'records': [{'program_id': 'ultahost', 'referral_url': 'https://ultahost.com/#art52hz'}]}
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            page = root / 'index.html'
+            page.write_text('<a href="https://ultahost.com/knowledge-base/export/">Help</a><a href="https://ultahost.com/#art52hz" data-affiliate="true" rel="sponsored noopener noreferrer">Offer</a>', encoding='utf-8')
+            self.assertFalse(audit(root, catalog)['errors'])
+            page.write_text('<a href="https://ultahost.com/#wrong-owner">Offer</a>', encoding='utf-8')
+            self.assertEqual(audit(root, catalog)['errors'][0]['problem'], 'account URL mismatch')
+
     def check(self, html):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)

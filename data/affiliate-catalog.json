@@ -147,6 +147,29 @@
         "pending_commissions_usd": 0,
         "paid_commissions_usd": 0
       }
+    },
+    {
+      "cookie_days": null,
+      "intent": "review",
+      "source_url": "https://ultahost.com/",
+      "referral_url": "https://ultahost.com/#art52hz",
+      "label": "UltaHost VPS",
+      "offer_id": "vps-hosting",
+      "program_id": "ultahost",
+      "commission": {
+        "value": "40",
+        "kind": "percent",
+        "currency": null
+      },
+      "status": "account_link_verified",
+      "keywords": [
+        "VPS for freelancers"
+      ],
+      "evidence": {
+        "source_url": "https://ultahost.postaffiliatepro.com/affiliates/panel.php#Campaigns-List-Wide",
+        "note": "Authenticated UI: General Affiliate Link matches existing art52hz source; VPS active/approved per Sale40%. Public60% not assumed for this account. Payout eligibility and cookie duration unresolved.",
+        "captured_at": "2026-10-07"
+      }
     }
   ]
 }
