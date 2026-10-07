@@ -51,6 +51,8 @@ An email arriving at one test address is not an inbox-placement benchmark. We ha
 
 ## Check the exit and client ownership
 
+Use the [newsletter client handoff checklist](/posts/newsletter-platform-exit-checklist/) for a five-step export and acceptance process. Record unresolved tasks before deciding the migration is complete.
+
 Agree who owns the account, sending domain, list and content. Identify required export fields and any content or workflow that would need rebuilding when leaving. An export button is not proof of a complete migration. Keep permission records and personal subscriber data private.
 
 [Download the blank newsletter decision worksheet](/downloads/newsletter-platform-worksheet.txt) to record requirements, sources, observations and unresolved tasks. Also compare the [whole project cost](/posts/freelance-tool-project-cost/) and the [Kit subscriber journey checklist](/posts/kit-review-2026/).
