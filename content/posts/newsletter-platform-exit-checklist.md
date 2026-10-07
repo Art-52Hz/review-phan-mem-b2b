@@ -2,7 +2,7 @@
 title: "Newsletter Client Handoff: An Export and Acceptance Checklist"
 date: 2026-10-06
 slug: "newsletter-platform-exit-checklist"
-draft: true
+draft: false
 description: "Prepare a client newsletter handoff with an export field map, rebuild list and acceptance checks. Includes a blank worksheet for evidence and open tasks."
 categories: ["Marketing Tools"]
 tags: ["newsletter", "freelancers", "client handoff"]
@@ -12,7 +12,7 @@ cover:
   relative: false
 ---
 
-Documentation-based draft. No product account test, deliverability benchmark or affiliate referral is claimed.
+This guide uses vendor documentation. We have not completed a controlled account test or deliverability benchmark. Links on this page lead to documentation and our planning guides; this article contains no affiliate referral link.
 
 This guide is for a freelancer handing a newsletter over to a client or another operator. For a platform buying decision, use the [Kit subscriber journey guide](/posts/kit-review-2026/) and [newsletter platform comparison](/posts/getresponse-vs-mailchimp-2026/). Here, the deliverable is a handoff record the incoming operator can review.
 
