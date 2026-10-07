@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>WordPress site transfer: ownership, dependencies and acceptance</title><desc>A blank client handoff checklist, not a hosting benchmark or completed test.</desc>
+<rect width="1200" height="630" fill="#f3eddf"/><rect x="0" y="0" width="18" height="630" fill="#e95735"/>
+<text x="65" y="66" font-family="Georgia" font-size="23" fill="#173e32">AIProFreelancer / CLIENT DELIVERY</text>
+<text x="65" y="165" font-family="Georgia" font-weight="bold" font-size="66" fill="#173e32">The site is ready.</text>
+<text x="65" y="243" font-family="Georgia" font-weight="bold" font-size="66" fill="#173e32">Is the handoff?</text>
+<text x="68" y="293" font-family="Verdana" font-size="23" fill="#4c5e52">Check the receiving owner, services and acceptance.</text>
+<rect x="65" y="342" width="335" height="186" rx="5" fill="#173e32"/><rect x="424" y="342" width="335" height="186" rx="5" fill="#173e32"/><rect x="783" y="342" width="352" height="186" rx="5" fill="#173e32"/>
+<text x="88" y="383" font-family="Verdana" font-size="17" fill="#dce7bd">01 / OWNERSHIP</text><text x="88" y="434" font-family="Georgia" font-size="34" fill="#fff7e8">Account + access</text><text x="88" y="479" font-family="Verdana" font-size="19" fill="#fff7e8">Name the responsible owner.</text>
+<text x="447" y="383" font-family="Verdana" font-size="17" fill="#dce7bd">02 / DEPENDENCIES</text><text x="447" y="434" font-family="Georgia" font-size="34" fill="#fff7e8">DNS + add-ons</text><text x="447" y="479" font-family="Verdana" font-size="19" fill="#fff7e8">Confirm what moves.</text>
+<text x="806" y="383" font-family="Verdana" font-size="17" fill="#dce7bd">03 / ACCEPTANCE</text><text x="806" y="434" font-family="Georgia" font-size="34" fill="#fff7e8">Checks + owner</text><text x="806" y="479" font-family="Verdana" font-size="19" fill="#fff7e8">Keep open issues visible.</text>
+<rect x="65" y="560" width="235" height="35" fill="#e95735"/><text x="79" y="584" font-family="Verdana" font-size="16" font-weight="bold" fill="#fff">BLANK WORKSHEET</text><text x="332" y="584" font-family="Verdana" font-size="17" fill="#4c5e52">A planning aid. Untested items stay unknown.</text>
+</svg>
+

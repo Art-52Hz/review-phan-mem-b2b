@@ -1,0 +1,24 @@
+WORDPRESS SINGLE-SITE TRANSFER — BLANK ACCEPTANCE WORKSHEET
+Planning aid, not a completed test. Keep secrets and customer data elsewhere.
+
+Source site reference:
+Destination company reference:
+Receiving owner and required role:
+Approved transfer scope:
+DNS owner / what moves / separate task:
+Required add-ons / what moves / what is disabled:
+Destination capacity / possible extra charge / cost approver:
+External domain, licenses, email and integrations:
+Backup location / retention / restore procedure / tested or unknown:
+
+For each permitted workflow check:
+Requirement:
+Expected result:
+Observed result or UNKNOWN:
+Evidence location and date:
+Open issue / owner / next action:
+
+Client acceptance / unresolved conditions:
+Maintenance and incident owner:
+Temporary access removal decision / date:
+Service cancellation decision / date:
