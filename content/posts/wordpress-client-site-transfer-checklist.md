@@ -1,6 +1,6 @@
 ---
 title: "WordPress Client Site Transfer: Ownership, Add-ons and Acceptance"
-date: 2026-10-07
+date: 2026-10-08
 slug: "wordpress-client-site-transfer-checklist"
 draft: true
 description: "Prepare a single WordPress site transfer from an agency account to a client: receiving roles, DNS, add-ons, billing and acceptance evidence."
