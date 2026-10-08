@@ -138,5 +138,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Built-in imagegen original editorial illustration; no testing, price, commission or rating claim",
     "alt": "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+  },
+  "zapier-review-2026": {
+    "image": "/images/freelance-tool-cost.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Reused reviewed editorial SVG; no benchmark or rating",
+    "alt": "Whole-project cost inputs for evaluating an automation workflow"
   }
 }
