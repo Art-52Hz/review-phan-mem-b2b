@@ -110,5 +110,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Reused previously reviewed editorial SVG; no performance claims",
     "alt": "VPS operating checklist covering access, backup and recovery"
+  },
+  "elevenlabs-vs-murf-ai-2026": {
+    "image": "/images/elevenlabs-murf-cover-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Built-in imagegen original editorial illustration; no measured quality or winner",
+    "alt": "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
   }
 }

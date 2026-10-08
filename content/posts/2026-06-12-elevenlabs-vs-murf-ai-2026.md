@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs vs Murf AI: Compare a Real Voiceover Brief Before Buying"
 date: 2026-06-12
-lastmod: 2026-10-03
+lastmod: 2026-10-08
 slug: "elevenlabs-vs-murf-ai-2026"
 draft: false
 description: "Compare ElevenLabs and Murf with the same sample script, export requirements, revision effort and current plan terms. Download a blank voiceover scorecard."
@@ -9,8 +9,8 @@ keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "voiceover comparison"
 categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "murf ai", "ai voice", "text to speech", "comparison"]
 cover:
-  image: "/images/elevenlabs-vs-murf-ai-2026.webp"
-  alt: "Editorial cover for comparing ElevenLabs and Murf voiceover workflows"
+  image: "/images/elevenlabs-murf-cover-v2.webp"
+  alt: "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
   relative: false
 ---
 
