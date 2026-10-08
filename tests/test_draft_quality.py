@@ -10,7 +10,7 @@ from tools.draft_quality import DraftReviewRequired, validate_generated_draft
 
 class DraftQualityTests(unittest.TestCase):
     def test_rejects_legacy_review_scores_and_metadata(self):
-        for draft in ('Score: **4.6 / 5**', '4.4/5', 'Rating: 4 out of 5',
+        for draft in ('Score: **4.6 / 5**', '4.4/5', 'Rating: 4 out of 5', '4.6/5.0',
                       '4.8 stars', 'rating: "4.6"', '"ratingValue": 4.6'):
             with self.subTest(draft=draft), self.assertRaises(DraftReviewRequired):
                 validate_generated_draft(draft)
@@ -23,7 +23,8 @@ class DraftQualityTests(unittest.TestCase):
 
     def test_accepts_planning_numbers_without_treating_them_as_ratings(self):
         draft = ('Proposed exercise, not a completed experiment: create 5 sample '
-                 'records. Compare 3 plans and record costs. REVIEW REQUIRED: pricing.')
+                 'records. Compare 3 plans; 10/50 records are incomplete and '
+                 '2 out of 50 need review. REVIEW REQUIRED: pricing.')
         self.assertEqual(draft, validate_generated_draft(draft))
 
     def test_empty_output_cannot_be_saved(self):
