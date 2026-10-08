@@ -38,7 +38,7 @@ The decision may differ for two sites of the same size. Required software, owner
 
 ## Define acceptance and escalation
 
-Before handoff, agree on who accepts the site, reports an incident and approves a change. Record the distinction between a provider support ticket and the freelancer's responsibility for the application. Do not promise an incident response time unless the applicable agreement supports it.
+When moving a client site out of an agency account, use the [WordPress site transfer checklist](/posts/wordpress-client-site-transfer-checklist/) to record the receiving owner, add-ons and acceptance evidence. Before handoff, agree on who accepts the site, reports an incident and approves a change. Record the distinction between a provider support ticket and the freelancer's responsibility for the application. Do not promise an incident response time unless the applicable agreement supports it.
 
 Define the restore target, acceptable data loss and the person allowed to approve recovery. Provider documentation describes a process; the client's acceptance record should state whether an authorized recovery test was completed and what remains unresolved.
 
@@ -65,3 +65,4 @@ Keep the subscription, domain and billing owner explicit. Record the freelancer'
 Select the operating model whose remaining responsibilities the client and freelancer can actually cover. If software support, recovery or escalation remains unanswered, resolve that item before committing to a hands-off service.
 
 [Read the specific Hostinger VPS evaluation](/posts/hostinger-vps-review-2026/). See the [freelancer hosting checklist](/posts/best-vps-for-freelancers-2026/) for broader requirements.
+

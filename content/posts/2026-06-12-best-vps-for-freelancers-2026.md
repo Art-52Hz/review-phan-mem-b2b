@@ -64,3 +64,8 @@ For a WordPress client site, download the [blank handoff worksheet](/downloads/w
 Keep the existing hosting arrangement as an option when it meets the requirements. Shortlist a VPS only when it resolves an identified need and the operating responsibilities are covered. Confirm the selected provider's current terms before buying; this guide does not certify a provider or promise uptime.
 
 For the site's content work, our [keyword research workflow](/posts/keyword-research-for-freelancers/) addresses a separate planning requirement. Better hosting and better keyword selection require their own evidence; neither substitutes for measured client outcomes.
+
+## Moving a client WordPress site
+
+For a site leaving an agency hosting account, use the [WordPress client site transfer checklist](/posts/wordpress-client-site-transfer-checklist/) to separate ownership, DNS, add-ons and acceptance. It includes a blank worksheet; it does not establish that a transfer or recovery test has passed.
+
