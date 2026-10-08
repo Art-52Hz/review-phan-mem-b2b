@@ -96,5 +96,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Previously visually reviewed original static editorial SVG; no product rating",
     "alt": "VPS decision checklist: ownership, operations and recovery"
+  },
+  "what-is-offshore-hosting-2026": {
+    "image": "/images/vps-client-operations.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Previously visually reviewed original static editorial SVG; no product rating",
+    "alt": "Hosting location decision checklist: ownership, operations and recovery"
   }
 }
