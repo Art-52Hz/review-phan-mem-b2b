@@ -19,11 +19,11 @@ enableRobotsTXT = true
   googleSiteVerification = "6zx8ayAQl6MTjYDpIFX7IkNt-IvRhtmUyGGvFeiFVpI"
 
   [params.homeInfoParams]
-    Title = "Honest software reviews that save you money 💡"
+    Title = "Choose software for the work you need to do"
     Content = """
 Independent guides, reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software**. Check each article's sources and current vendor details before choosing a product.
 
-**Choose the job you need to do:** [Plan your keywords](/posts/keyword-research-for-freelancers/) · [Evaluate an AI voiceover](/posts/voiceover-evaluation-scorecard/) · [Hand off editable slides](/posts/beautiful-ai-review-2026/) · [Check a VPS before buying](/posts/ultahost-vps-review/). Each guide helps you record requirements before choosing a tool.
+**Choose the job you need to do:** [Plan your keywords](/posts/keyword-research-for-freelancers/) · [Evaluate an AI voiceover](/posts/voiceover-evaluation-scorecard/) · [Hand off editable slides](/posts/beautiful-ai-review-2026/) · [Check a VPS before buying](/posts/ultahost-vps-review/) · [Transfer a client WordPress site](/posts/wordpress-client-site-transfer-checklist/). Each guide helps you record requirements before choosing a tool.
 
 **Before subscribing:** [Compare the whole project cost](/posts/freelance-tool-project-cost/) with our free worksheet. Include setup, revisions and maintenance; the lowest subscription price may not be the lowest project cost.
 
