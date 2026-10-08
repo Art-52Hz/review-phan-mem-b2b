@@ -1,7 +1,7 @@
 ---
 title: "AI Voice Generators: A Freelancer Shortlist for Different Audio Tasks"
 date: 2026-06-12
-lastmod: 2026-10-03
+lastmod: 2026-10-08
 slug: "best-ai-voice-generator-2026"
 draft: false
 description: "Separate narration, audio editing and reading assistance before choosing an AI voice tool. Compare project requirements with current vendor documentation."
@@ -9,8 +9,8 @@ keywords: ["ai voice generator", "ai text to speech", "elevenlabs alternatives",
 categories: ["AI Tools", "Content Creation"]
 tags: ["ai voice", "text to speech", "elevenlabs", "murf ai", "content creation"]
 cover:
-  image: "/images/best-ai-voice-generator-2026.webp"
-  alt: "Editorial cover for an AI voice tool shortlist"
+  image: "/images/voiceover-scorecard.svg"
+  alt: "Voiceover evaluation stages: listen, revise and check rights; no product ranking"
   relative: false
 ---
 

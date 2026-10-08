@@ -117,5 +117,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Built-in imagegen original editorial illustration; no measured quality or winner",
     "alt": "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
+  },
+  "best-ai-voice-generator-2026": {
+    "image": "/images/voiceover-scorecard.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Reused reviewed editorial SVG; replaces unsupported tested claim",
+    "alt": "Voiceover evaluation stages: listen, revise and check rights; no product ranking"
   }
 }
