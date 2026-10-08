@@ -7,6 +7,7 @@ import argparse
 from tools.content_preflight import eligible_candidates
 from PIL import Image, ImageDraw, ImageFont
 from tools.cover_assets import reviewed_cover
+from tools.draft_quality import validate_generated_draft
 
 # ==========================================
 # 1. CẤU HÌNH HỆ THỐNG
@@ -175,7 +176,7 @@ def generate_cover_image(slug, title):
 # 4. SINH NỘI DUNG BẰNG CLAUDE API
 # ==========================================
 def generate_content_with_claude(keyword, title, affiliate_url, affiliate_name):
-    prompt = f"""Act as a Senior Technical SEO Expert and Expert Copywriter with 10+ years of experience. Write an extremely comprehensive, SEO-optimized blog post in English. Current year is 2026.
+    prompt = f"""Write a source-conscious buying-guide draft in English. Current year is 2026. You have not been provided any hands-on test records or verified vendor pricing.
 
 Keyword to rank for: '{keyword}'
 Post Title: {title}
@@ -183,16 +184,24 @@ Post Title: {title}
 SEO & FORMATTING RULES:
 1. Include '{keyword}' naturally in the FIRST 100 words, in at least one H2, one H3, and the conclusion.
 2. MAXIMUM 3 sentences per paragraph. Bold important metrics. Use bullet points frequently.
-3. Minimum 1,200 words.
+3. Use only the length needed to answer the buying decision; do not pad to a word count.
+
+EVIDENCE RULES:
+- Do not invent numeric ratings, benchmark results, customer stories or personal testing experience.
+- Do not declare a product the best, fastest, cheapest or winner without supplied comparative evidence.
+- Do not invent current prices, plan limits, commission terms or URLs to sources. Flag missing facts as REVIEW REQUIRED.
+- Label sample briefs and acceptance tests as proposed exercises, never completed experiments.
+- Explain practical checks, total delivery costs, limitations and client handoff requirements.
+- This output is an unverified draft for review, not publication-ready evidence.
 
 STRUCTURE:
-1. Introduction (150 words) — Hook + first affiliate CTA.
-2. Key Factors to Consider (200 words) — H2, 4 critical factors.
-3. Why {affiliate_name} is the Top Pick in 2026 (500 words) — H2. Sub-sections: Performance, Security, Pricing, Support. Second affiliate CTA here.
+1. Introduction — Identify the user's job and required output.
+2. Key Factors to Consider — H2, 4 critical factors.
+3. How to Evaluate {affiliate_name} — H2. Sub-sections: Performance checks, Security questions, Pricing verification, Support requirements.
 4. Pros & Cons of {affiliate_name} — H2, Markdown lists.
-5. Alternative Options — H2. 2 brief alternatives, explain why {affiliate_name} still wins.
+5. Alternative Options — H2. Compare required workflows without an unsupported winner.
 6. FAQ — H2. Answer 3 common questions on the keyword.
-7. Conclusion & Final Verdict — H2. Summarize + final strong affiliate CTA.
+7. Decision Checklist — H2. State what must be verified before purchase.
 
 AFFILIATE LINK: Embed exactly 3 times: [{affiliate_name}]({affiliate_url}) or [Get started with {affiliate_name}]({affiliate_url})
 
@@ -247,6 +256,7 @@ OUTPUT RULES:
 # 5. LƯU FILE MARKDOWN (có frontmatter đầy đủ)
 # ==========================================
 def save_to_markdown(title, slug, content, keyword, img_path):
+    validate_generated_draft(content)
     now_date = datetime.now(timezone(timedelta(hours=7))).strftime("%Y-%m-%d")
     filename = f"{now_date}-{slug}.md"
     filepath = os.path.join(POSTS_DIR, filename)

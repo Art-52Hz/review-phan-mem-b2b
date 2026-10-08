@@ -62,6 +62,7 @@ jobs:
           python3 -B -m unittest discover -s tests -p 'test_content_preflight.py'
           python3 -B -m unittest discover -s tests -p 'test_publication_inventory_json.py'
           python3 -B -m unittest discover -s tests -p 'test_affiliate_audit.py'
+          python3 -B -m unittest discover -s tests -p 'test_draft_quality.py'
       - name: Check reviewed editorial cover references
         run: |
           python3 -B -m unittest discover -s tests -p 'test_cover_assets.py'

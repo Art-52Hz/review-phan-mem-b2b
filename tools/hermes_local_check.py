@@ -24,7 +24,7 @@ def main():
         return p
     before = run('git_status_before', ['git', '--no-optional-locks', 'status', '--porcelain=v1'])
     run('head', ['git', '--no-optional-locks', 'rev-parse', 'HEAD'])
-    for pattern in ['test_content_preflight.py', 'test_publication_inventory_json.py', 'test_affiliate_audit.py', 'test_cover_assets.py']:
+    for pattern in ['test_content_preflight.py', 'test_publication_inventory_json.py', 'test_affiliate_audit.py', 'test_cover_assets.py', 'test_draft_quality.py']:
         result = run(pattern, [sys.executable, '-B', '-m', 'unittest', 'discover', '-s', 'tests', '-p', pattern])
         match = re.search(r'Ran (\d+) tests?', result.stdout + result.stderr)
         if not match or int(match.group(1)) == 0:
