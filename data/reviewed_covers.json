@@ -68,5 +68,12 @@
     "reviewed_date": "2026-10-07",
     "origin": "Existing original editorial SVG reused for the Windows VPS quote checklist; no provider rating",
     "alt": "Hosting quote checklist: hardware, full cost and operating responsibility"
+  },
+  "vps-vs-shared-hosting-2026": {
+    "alt": "VPS client operations checklist: ownership, recovery and cost",
+    "image": "/images/vps-client-operations.svg",
+    "reviewed": true,
+    "origin": "Reused original static editorial SVG; no measured performance claims",
+    "reviewed_date": "2026-10-08"
   }
 }
