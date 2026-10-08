@@ -82,5 +82,12 @@
     "origin": "Reused original static editorial SVG; no provider rating or measured performance",
     "reviewed": true,
     "image": "/images/vps-client-operations.svg"
+  },
+  "ultahost-vs-contabo-2026": {
+    "reviewed": true,
+    "alt": "Hosting comparison checklist: ownership, operations and recovery",
+    "origin": "Reused original editorial SVG; no provider score or benchmark",
+    "reviewed_date": "2026-10-08",
+    "image": "/images/vps-client-operations.svg"
   }
 }
