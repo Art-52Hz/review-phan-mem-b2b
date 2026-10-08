@@ -89,5 +89,12 @@
     "origin": "Reused original editorial SVG; no provider score or benchmark",
     "reviewed_date": "2026-10-08",
     "image": "/images/vps-client-operations.svg"
+  },
+  "ultahost-vs-hostinger-vps-2026": {
+    "image": "/images/vps-client-operations.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Previously visually reviewed original static editorial SVG; no product rating",
+    "alt": "VPS decision checklist: ownership, operations and recovery"
   }
 }
