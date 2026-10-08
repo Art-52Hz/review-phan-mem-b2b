@@ -40,6 +40,10 @@ Write down the pages, forms and integrations the receiving owner expects to work
 
 Keep domain registration, third-party DNS, plugin licenses and external email services on the dependency list until their ownership is confirmed separately. Do not assume every connected service is included in the hosting transfer.
 
+## If the original site uses a website builder
+
+First identify whether the project involves transferring an existing WordPress installation or exporting content from a separate builder. These need different acceptance checks. The [Hostinger AI builder and client handoff guide](/posts/hostinger-ai-review-2026/) explains why supported content export does not establish that layout, forms, integrations or SEO settings will move with it. Confirm the specific product and mode before applying that guide to the client's site.
+
 ## Keep recovery separate from transfer
 
 Review the existing backup location, retention and recovery procedure with the incoming operator. If a recovery test has not been performed, mark it untested. Do not remove the agency's necessary access or cancel services until the client has reviewed the agreed acceptance evidence and open tasks.
