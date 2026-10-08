@@ -1,7 +1,7 @@
 ---
 title: "Anonymous VPS Providers: Check Privacy, Crypto Billing and Verification"
 date: 2026-07-18
-lastmod: 2026-10-02
+lastmod: 2026-10-08
 slug: "best-anonymous-vps-providers-2026"
 draft: false
 description: "Compare VPS privacy requirements: account verification, crypto billing, dedicated IPs and provider policies. Learn what to check before paying."
@@ -43,6 +43,10 @@ Ask which fields are mandatory, whether extra documents can be requested, and wh
 ### 2. Payment method and refunds
 
 Confirm the currency, network, invoice validity, fees and refund rules. Crypto checkout can differ from card checkout. A host accepting one currency does not necessarily accept another, and refund terms need to be read before payment.
+
+**Crypto refund check, October 8, 2026:** UltaHost's [published refund policy](https://ultahost.com/refund) states that purchases paid with cryptocurrency or digital assets are not eligible for refunds. Do not treat a general hosting refund period as covering a crypto-paid order. Confirm the current terms for your exact invoice before paying; no payment or refund was tested for this guide.
+
+For a written record, use the [VPS buying checklist](/downloads/vps-buying-checklist.txt) and leave unanswered fields marked unknown.
 
 ### 3. IP addresses and connectivity
 

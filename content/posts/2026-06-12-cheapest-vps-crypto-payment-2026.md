@@ -10,7 +10,7 @@ cover:
   image: "/images/cheapest-vps-crypto-payment-2026.webp"
   alt: "Guide to comparing VPS total cost and cryptocurrency payment options"
   relative: false
-lastmod: 2026-10-02
+lastmod: 2026-10-08
 description: "Compare crypto-payable VPS plans using renewal cost, backup scope and actual checkout details. No unsupported cheapest-provider ranking."
 ---
 
@@ -51,6 +51,8 @@ If an item is unclear, ask the vendor in writing. A support promise for one host
 The [official UltaHost billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) documents paying an invoice through a crypto processor. Confirm the available method on your own invoice. That evidence supports a payment workflow, not a cheapest-market ranking, account anonymity or server performance claim.
 
 The [Contabo verification guidance](https://help.contabo.com/en/support/solutions/articles/103000348466-why-do-i-need-to-verify-my-purchase-) illustrates why account requirements must be checked separately. Do not assume another provider's verification policy is identical.
+
+**Crypto refund check, October 8, 2026:** UltaHost's [published refund policy](https://ultahost.com/refund) states that purchases paid with cryptocurrency or digital assets are not eligible for refunds. Do not treat a general hosting refund period as covering a crypto-paid order. Confirm the current terms for your exact invoice before paying; no payment or refund was tested for this guide.
 
 ## A practical shortlist decision
 

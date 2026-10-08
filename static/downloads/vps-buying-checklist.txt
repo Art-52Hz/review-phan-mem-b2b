@@ -1,4 +1,4 @@
-AIProFreelancer — VPS buying checklist (2026-10-02)
+AIProFreelancer — VPS buying checklist (2026-10-08)
 
 [ ] Define the application and supported operating system.
 [ ] Record the provider and exact plan.
@@ -16,3 +16,15 @@ AIProFreelancer — VPS buying checklist (2026-10-02)
 
 No provider rating, benchmark, discount or profit guarantee is implied.
 Related guide: https://aiprofreelancer.com/posts/ultahost-vps-review/
+
+Blank invoice decision record (not a completed purchase test)
+Provider / exact plan: ____________________
+Policy URL / date checked: ____________________
+Payment method / network: ____________________
+Refund eligible for this payment method? yes / no / unknown
+Excluded charges or billing terms: ____________________
+Written clarification / unresolved requirement: ____________________
+Decision / responsible person: ____________________
+
+UltaHost policy checked 2026-10-08 excludes cryptocurrency/digital-asset payments from refunds. Recheck the current policy and exact order.
+Source: https://ultahost.com/refund
