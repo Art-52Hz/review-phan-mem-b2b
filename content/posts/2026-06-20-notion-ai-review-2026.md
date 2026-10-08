@@ -1,15 +1,15 @@
 ---
 title: "Notion AI Review: Check Plan Access and Test a Client Workflow"
 date: 2026-06-20
-lastmod: 2026-10-03
+lastmod: 2026-10-08
 slug: "notion-ai-review-2026"
 aliases: ["/posts/2026-06-20-notion-ai-review-2026/"]
 description: "Check Notion AI plan access, credit costs and workspace requirements. Use a small client-workflow evaluation before upgrading."
 tags: ["notion", "notion ai", "ai writing", "productivity", "workspace"]
 categories: ["AI Tools", "Productivity"]
 cover:
-  image: "/images/notion-ai-review-2026.webp"
-  alt: "Editorial cover for the Notion AI workflow evaluation guide"
+  image: "/images/client-writing-workflow-v2.webp"
+  alt: "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
 draft: false
 ---
 

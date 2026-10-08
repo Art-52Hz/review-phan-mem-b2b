@@ -124,5 +124,19 @@
     "reviewed_date": "2026-10-08",
     "origin": "Reused reviewed editorial SVG; replaces unsupported tested claim",
     "alt": "Voiceover evaluation stages: listen, revise and check rights; no product ranking"
+  },
+  "best-ai-writing-tools-2026": {
+    "image": "/images/client-writing-workflow-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Built-in imagegen original editorial illustration; no testing, price, commission or rating claim",
+    "alt": "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+  },
+  "notion-ai-review-2026": {
+    "image": "/images/client-writing-workflow-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Built-in imagegen original editorial illustration; no testing, price, commission or rating claim",
+    "alt": "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
   }
 }
