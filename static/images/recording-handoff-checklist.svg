@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Before you share a recording</title>
+<desc id="desc">An original recording handoff checklist: choose the capture, check access, and agree on the handoff. Conceptual illustration, not a Loom screenshot or a test result.</desc>
+<rect width="1200" height="630" fill="#f2ecdf"/>
+<rect x="32" y="32" width="1136" height="566" rx="22" fill="#143d3a"/>
+<path d="M32 478L550 598H32Z" fill="#1e514b"/>
+<text x="74" y="94" font-family="Trebuchet MS,sans-serif" font-size="20" letter-spacing="3" fill="#c6e1bd">AIPROFREELANCER / CLIENT WORK</text>
+<g font-family="Georgia,serif" font-size="73" font-weight="bold" fill="#f2ecdf">
+<text x="74" y="213">Before</text><text x="74" y="302">you share.</text>
+</g>
+<text x="76" y="369" font-family="Trebuchet MS,sans-serif" font-size="26" fill="#c6d8cf">Make the handoff part of the brief.</text>
+<circle cx="95" cy="445" r="17" fill="#f4997d"/>
+<rect x="88" y="438" width="14" height="14" rx="2" fill="#143d3a"/>
+<text x="126" y="453" font-family="Trebuchet MS,sans-serif" font-size="23" fill="#f2ecdf">A link is only the starting point.</text>
+<g font-family="Trebuchet MS,sans-serif">
+<rect x="670" y="133" width="424" height="111" rx="14" fill="#f2ecdf"/>
+<rect x="670" y="267" width="424" height="111" rx="14" fill="#c6e1bd"/>
+<rect x="670" y="401" width="424" height="111" rx="14" fill="#f4997d"/>
+<g fill="none" stroke="#143d3a" stroke-width="3">
+<rect x="697" y="166" width="56" height="38" rx="4"/>
+<path d="M714 211h22m-11-7v7"/>
+<rect x="704" y="313" width="42" height="35" rx="5"/>
+<path d="M713 313v-11a12 12 0 0 1 24 0v11"/>
+<path d="M698 456h53m-14-14 14 14-14 14"/>
+</g>
+<g fill="#143d3a" font-size="29" font-weight="bold">
+<text x="779" y="181">01  CAPTURE</text>
+<text x="779" y="315">02  ACCESS</text>
+<text x="779" y="449">03  HANDOFF</text>
+</g>
+<g fill="#31534b" font-size="22">
+<text x="779" y="214">Show only what is needed</text>
+<text x="779" y="348">Check who can open it</text>
+<text x="779" y="482">Agree who keeps a copy</text>
+</g></g>
+<text x="74" y="557" font-family="Trebuchet MS,sans-serif" font-size="19" fill="#c6d8cf">Original checklist illustration. No product score or measured claim.</text>
+</svg>

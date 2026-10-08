@@ -1,4 +1,11 @@
 {
+  "loom-review-2026": {
+    "image": "/images/recording-handoff-checklist.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Original static editorial SVG; browser preview reviewed; no product score or measured claim",
+    "alt": "Before sharing a recording: check capture, access and client handoff"
+  },
   "ultahost-vps-review": {
     "image": "/images/ultahost-vps-cover-v2.webp",
     "reviewed": true,
