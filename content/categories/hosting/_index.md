@@ -15,3 +15,11 @@ Use the guide that matches the task you need to complete. These articles help yo
 If you already have a shortlist, the [UltaHost buying guide](/posts/ultahost-vps-review/) explains which requirements to verify. The [bandwidth checklist](/posts/best-unlimited-bandwidth-vps-2026/) and [dedicated-server quote guide](/posts/best-cheap-dedicated-server-2026/) cover more specific order questions.
 
 Keep untested performance and unanswered policy questions marked unknown. Some linked articles contain disclosed affiliate links. Check the cited provider documentation and your exact order before paying; an empty worksheet is a planning aid, not a completed test.
+
+## Compare a specific shortlist
+
+- [UltaHost and Hostinger VPS: support scope and full cost](/posts/ultahost-vs-hostinger-vps-2026/) helps assign software maintenance and recovery responsibilities before comparing invoices.
+- [UltaHost and Contabo: quote, verification and operating work](/posts/ultahost-vs-contabo-2026/) helps record account requirements and compare the same workload.
+- [What offshore hosting means: location, account terms and recovery](/posts/what-is-offshore-hosting-2026/) separates server location from payment, account information and permitted use.
+
+These are documentation-based checklists. They do not report comparative purchases, speed measurements or support-response experiments.
