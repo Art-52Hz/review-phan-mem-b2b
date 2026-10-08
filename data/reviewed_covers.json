@@ -75,5 +75,12 @@
     "reviewed": true,
     "origin": "Reused original static editorial SVG; no measured performance claims",
     "reviewed_date": "2026-10-08"
+  },
+  "best-vps-under-10-dollars-2026": {
+    "reviewed_date": "2026-10-08",
+    "alt": "VPS ownership, operations and recovery checklist",
+    "origin": "Reused original static editorial SVG; no provider rating or measured performance",
+    "reviewed": true,
+    "image": "/images/vps-client-operations.svg"
   }
 }
