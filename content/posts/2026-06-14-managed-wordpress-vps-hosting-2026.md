@@ -1,7 +1,7 @@
 ---
 title: "Managed WordPress vs Self-Managed VPS: Agree on Responsibilities"
 date: 2026-06-14
-lastmod: 2026-10-06
+lastmod: 2026-10-08
 slug: "managed-wordpress-vps-hosting-2026"
 draft: false
 description: "Choose managed WordPress or a self-managed VPS by mapping client needs to maintenance ownership, incident coverage and application control."
@@ -35,6 +35,26 @@ Use this decision matrix as a planning method, not a provider ranking:
 | A small site with a limited operating budget | Compare simpler hosting first | Does the project need server control enough to justify administration time? |
 
 The decision may differ for two sites of the same size. Required software, ownership and incident coverage matter alongside resource limits. If the client cannot name an operator, a low VPS quote leaves a service gap unresolved.
+
+## What does "managed WordPress VPS hosting" include?
+
+Ask whether the quote covers the WordPress application, the server environment, or both. Record the exact product rather than treating these words as interchangeable. A WordPress installation on a VPS does not establish an agreement to maintain plugins, investigate application errors or recover client data.
+
+Before comparing two offers, ask each provider to mark which tasks are included, excluded or available at extra cost. Keep unresolved answers unknown. Match the service to the client's continuing maintenance agreement, not just the installation experience.
+
+## Who operates an unmanaged Linux VPS?
+
+For an unmanaged VPS, agree on the operating work before accepting a client project. Use this task list to assign an owner and establish how completion will be checked; it is not a claim that every provider excludes the same tasks.
+
+| Operating task | Record before handoff |
+|---|---|
+| System and application updates | Owner, maintenance window and rollback approach |
+| Administrator access and firewall changes | Authorized operator and access-review procedure |
+| Application monitoring | User journey to check, alert recipient and escalation route |
+| Backup and recovery | Schedule, retained copy, restore owner and authorized test result |
+| Incident work | Provider coverage, freelancer coverage and client approval contact |
+
+Add the time or administration quote for these tasks to the hosting invoice. If no one can cover an essential task, resolve that gap before choosing the plan. A low infrastructure price alone establishes no lower project cost.
 
 ## Define acceptance and escalation
 
