@@ -2,7 +2,7 @@
 title: "WordPress Client Site Transfer: Ownership, Add-ons and Acceptance"
 date: 2026-10-08
 slug: "wordpress-client-site-transfer-checklist"
-draft: true
+draft: false
 description: "Prepare a single WordPress site transfer from an agency account to a client: receiving roles, DNS, add-ons, billing and acceptance evidence."
 categories: ["Hosting"]
 tags: ["WordPress", "client handoff", "freelancers"]
@@ -55,3 +55,4 @@ Download the [blank site transfer worksheet](/downloads/wordpress-site-transfer-
 - Access removal and service cancellation have a named decision maker.
 
 No measured transfer time, performance score or commission is claimed here.
+
