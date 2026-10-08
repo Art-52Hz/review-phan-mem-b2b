@@ -1,6 +1,7 @@
 ---
 title: "HubSpot CRM Review: Check Free Limits, Seats and Client Handoff"
 date: 2026-07-04
+lastmod: 2026-10-08
 draft: false
 slug: "hubspot-review-2026"
 description: "A freelancer CRM checklist for HubSpot: verify free contact limits, product editions, seat costs, marketing contacts and a client-owned handoff."
