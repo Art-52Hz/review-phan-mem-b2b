@@ -25,6 +25,17 @@ class AffiliateAuditTests(unittest.TestCase):
         result = self.check('<a href="https://try.elevenlabs.io/other-account">Buy</a>')
         self.assertEqual(result['errors'][0]['problem'], 'account URL mismatch')
 
+    def test_new_vendor_affiliate_cannot_bypass_catalog(self):
+        result = self.check('<a href="https://www.copy.ai/?via=unverified" data-affiliate="true" rel="sponsored noopener noreferrer">Buy</a>')
+        self.assertEqual(result['errors'][0]['problem'], 'uncatalogued affiliate URL')
+
+    def test_ordinary_unknown_vendor_link_is_allowed(self):
+        self.assertFalse(self.check('<a href="https://www.copy.ai/prices">Plans</a>')['errors'])
+
+    def test_marked_ordinary_path_on_known_vendor_requires_catalog(self):
+        result = self.check('<a href="https://try.elevenlabs.io/other" data-affiliate="true">Buy</a>')
+        self.assertEqual(result['errors'][0]['problem'], 'uncatalogued affiliate URL')
+
     def test_missing_markers_are_detected(self):
         result = self.check('<a href="https://try.elevenlabs.io/issued">Buy</a>')
         self.assertEqual(result['errors'][0]['problem'], 'missing tracking/sponsored markers')

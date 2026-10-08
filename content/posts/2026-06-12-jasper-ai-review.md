@@ -17,7 +17,7 @@ Jasper AI has been one of the most talked-about AI writing tools since 2021. But
 
 In this review, I'll give you a straight answer based on real-world testing: what Jasper AI does well, where it falls short, and who it's actually built for.
 
-👉 **[Try Jasper AI Free for 7 Days — No Credit Card Required](https://www.jasper.ai/free-trial?fpr=aiprofreelancer)**
+👉 **[Check Jasper current options](https://www.jasper.ai/)**
 
 ---
 
@@ -166,7 +166,7 @@ But it's not for everyone. The premium price is hard to justify for solo creator
 
 **Bottom line:** If content is a core business operation for you, Jasper will save you time and money. If content is occasional, go with something cheaper.
 
-👉 **[Start Your Free 7-Day Jasper Trial →](https://www.jasper.ai/free-trial?fpr=aiprofreelancer)**
+👉 **[Check Jasper current options →](https://www.jasper.ai/)**
 
 ---
 

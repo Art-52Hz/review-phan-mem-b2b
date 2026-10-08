@@ -34,6 +34,12 @@ def audit(build, catalog):
         for link in parser.links:
             href = link.get('href', '')
             key = account_key(href)
+            location = page.relative_to(build).as_posix()
+            # Explicit affiliate markers require an issued catalog URL even
+            # when the destination belongs to a previously unseen vendor.
+            if link.get('data-affiliate') == 'true' and key not in expected:
+                errors.append({'page': location, 'problem': 'uncatalogued affiliate URL', 'host': key[1]})
+                continue
             # Shared vendor domains also contain ordinary product/help links.
             is_candidate = key[1] in hosts and (
                 (key[1] != 'mangools.com' or key[3].startswith('a')) and
@@ -41,7 +47,6 @@ def audit(build, catalog):
                  link.get('data-affiliate') == 'true'))
             if not is_candidate:
                 continue
-            location = page.relative_to(build).as_posix()
             if key not in expected:
                 errors.append({'page': location, 'problem': 'account URL mismatch', 'host': key[1]})
                 continue
