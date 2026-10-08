@@ -145,5 +145,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Reused reviewed editorial SVG; no benchmark or rating",
     "alt": "Whole-project cost inputs for evaluating an automation workflow"
+  },
+  "grammarly-review-2026": {
+    "image": "/images/client-writing-workflow-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-08",
+    "origin": "Reused reviewed editorial illustration; no product rating or price",
+    "alt": "Brief, draft and review stages for evaluating a client editing workflow"
   }
 }
