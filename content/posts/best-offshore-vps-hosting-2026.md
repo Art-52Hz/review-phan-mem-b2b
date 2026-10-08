@@ -49,6 +49,8 @@ This table provides no current price or performance comparison. Do not assume th
 
 ## Check service policies and recovery separately
 
+If the location terminology is unclear, start with the [offshore hosting decision guide](/posts/what-is-offshore-hosting-2026/) to separate server location, contracting entity and operational responsibility. For claims that complaints are ignored, use the [provider-policy checklist](/posts/dmca-ignored-hosting-2026/) before treating a marketing phrase as a service commitment.
+
 Read the provider's acceptable-use, abuse-handling and suspension policies for the selected service. Obtain clarification on an unclear requirement before ordering. This guide makes no guarantee that a provider will ignore a complaint or keep a disputed site online.
 
 Ask what any advertised DDoS protection covers, which layers it addresses, whether limits or extra charges apply and what support can actually do. No traffic-resilience measurements are available here.

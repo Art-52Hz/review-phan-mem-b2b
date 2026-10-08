@@ -56,6 +56,8 @@ Our [voiceover evaluation scorecard](/posts/voiceover-evaluation-scorecard/) hel
 
 ## Compare against your existing workflow
 
+If your baseline uses a free account, use the [free-tool limits checklist](/posts/best-free-tools-for-freelancers-2026/) to check required exports, collaboration and upgrade triggers before entering a zero subscription cost. Free access does not remove production or revision work.
+
 Use the same scope and quality requirement for both options. Record what happens if the project needs another revision or if fewer projects share the subscription than expected. A comparison that works only under optimistic assumptions should stay tentative.
 
 An estimated saving is not cash received. Keep it separate from paid invoices, approved affiliate commission or actual withdrawals. The goal of the worksheet is to improve a purchase decision with explicit inputs, not to manufacture a positive return.
