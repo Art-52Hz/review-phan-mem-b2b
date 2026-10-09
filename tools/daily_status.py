@@ -61,8 +61,17 @@ def report(root, today):
         program_ids = {item['program_id'] for item in catalog['records']}
         lines += ['', '## Nhóm khách hàng pilot — giả thuyết cần kiểm chứng', '',
                   f"Dữ liệu biên tập ngày {pilot['updated_on']}; chưa chứng minh nhu cầu hoặc doanh thu."]
+        active_ids = set(pilot.get('active_program_ids', program_ids))
+        if active_ids - program_ids:
+            raise ValueError('Active pilot contains unknown program IDs')
+        lines.append('Ưu tiên hiện tại: ' + ', '.join(sorted(active_ids)) + '.')
         for segment in pilot['segments']:
+            if segment.get('pilot_status') == 'backlog':
+                lines.append(f"- Dự phòng: {segment['id']}; chưa triển khai trong pilot hiện tại.")
+                continue
             unknown_ids = set(segment['program_ids']) - program_ids
+            if set(segment['program_ids']) - active_ids:
+                raise ValueError(f"Segment exceeds active pilot scope: {segment['id']}")
             if unknown_ids:
                 raise ValueError(f"Unknown program IDs in {segment['id']}: {sorted(unknown_ids)}")
             lines += [f"- {segment['id']}: {segment['audience']}",
