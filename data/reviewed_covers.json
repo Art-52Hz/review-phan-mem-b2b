@@ -187,5 +187,12 @@
     "reviewed_date": "2026-10-08",
     "origin": "Reused reviewed editorial image; no product score or price",
     "alt": "Keyword research shortlist and intent evaluation for client SEO work"
+  },
+  "mangools-kwfinder-review": {
+    "image": "/images/keyword-shortlist-cover-v2.webp",
+    "reviewed": true,
+    "reviewed_date": "2026-10-09",
+    "origin": "Reused reviewed editorial shortlist illustration; no scores or prices",
+    "alt": "Keyword shortlist cards for checking search intent and research evidence"
   }
 }
