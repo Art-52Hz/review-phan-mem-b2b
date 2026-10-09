@@ -1,0 +1,44 @@
+VOICEOVER PROJECT BUDGET — blank planning worksheet
+AIProFreelancer | Updated 2026-10-09
+No measured audio benchmark, purchase or licensing approval is implied.
+
+PROJECT AND ACCEPTANCE
+Client/project:
+Script version and approval date:
+Language, pronunciation notes and required delivery format:
+Voice source and documented permission:
+Commercial-use conditions checked (source URL and date):
+Client approval of sample:
+
+USAGE ESTIMATE
+Selected model and app/API route:
+First script characters x planned full generations:
+Correction characters x planned attempts:
+Client rewrite characters x planned attempts:
+Total planned generated characters:
+Actual model credit rate and source/date:
+Other product usage sharing the credit pool:
+Estimated credits (show calculation):
+Available balance checked on date:
+Contingency allowance:
+Do not assume free regenerations; inspect the displayed charge.
+
+CASH AND LABOR
+Selected plan and billing term:
+Initial payment, taxes and renewal amount/date:
+Proposed top-up, expiry and refund terms:
+Auto top-up status and spending cap (do not enable automatically):
+Editing/review hours x your hourly cost:
+Included client revision rounds:
+Changes requiring a revised quote:
+
+DELIVERY RECORD
+Accepted script and audio filenames:
+Settings/model/version/date:
+Known pronunciation issues resolved or disclosed:
+Client acceptance date:
+Usage permissions and distribution checked:
+Recovery/source files retained:
+
+DECISION: pending / revise estimate / proceed within approved budget
+This worksheet does not buy, generate or publish anything.

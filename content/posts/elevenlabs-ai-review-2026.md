@@ -11,13 +11,13 @@ cover:
   image: "/images/elevenlabs-buying-checklist.svg"
   alt: "ElevenLabs voiceover workflow and plan evaluation guide"
   relative: false
-lastmod: 2026-10-04
+lastmod: 2026-10-09
 description: "Evaluate ElevenLabs for freelance voiceover work using a sample script, commercial-use requirements, revision budget and current plan details."
 ---
 
 ElevenLabs is worth evaluating when your freelance work needs generated speech and you can define the required output. The useful question is whether your script, language and revision process fit the selected plan.
 
-**Updated October 4, 2026:** This revision uses vendor documentation and an evaluation checklist. It does not claim a hands-on voice benchmark, a measured time saving or a customer-review score. Earlier unsupported scores and conclusions have been removed.
+**Updated October 9, 2026:** This revision uses vendor documentation and an evaluation checklist. It does not claim a hands-on voice benchmark, a measured time saving or a customer-review score. Earlier unsupported scores and conclusions have been removed.
 
 **Affiliate disclosure:** The existing referral link may earn us a commission on a qualifying purchase. Check current terms yourself. [Disclosure](/affiliate-disclosure/).
 
@@ -57,6 +57,25 @@ The [Pay As You Go documentation](https://elevenlabs.io/docs/overview/administra
 For a client project, record included credits, expected revisions and any top-up you intend to buy. Auto Top Up can charge a saved payment method; inspect the threshold, amount and spending cap before enabling it. The documentation says top-ups are non-refundable and PAYG credits expire after twelve months. A prepaid balance is therefore a cash commitment, not evidence of cheaper finished audio.
 
 Keep legacy account terms separate from current signup offers when comparing costs. This checklist does not enable billing, buy credits or claim to have tested an account migration.
+
+## Worked budget: count revisions, not just the final script
+
+The current [pricing FAQ](https://elevenlabs.io/pricing), checked October 9, says credit usage depends on the model, credits are shared across products, and generation requests consume credits rather than downloads. It also describes conditional free regenerations; check the displayed charge instead of assuming every retry is free. The page contains time-limited promotions, so do not treat a temporary credit boost as a permanent production allowance.
+
+Here is an invented planning example, not measured output or a plan quotation:
+
+| Work item | Assumption | Planned characters |
+|---|---|---:|
+| First complete script | 4,000 characters once | 4,000 |
+| Pronunciation corrections | 800 characters twice | 1,600 |
+| Client rewrite | 1,200 characters once | 1,200 |
+| Total generated text | Before any additional work | 6,800 |
+
+At a hypothetical rate of one credit per character, that would require 6,800 credits. Replace that rate with the selected model's actual charge. This calculation does not establish how many finished minutes you will get, which plan you need or whether your account has sufficient credits after other usage.
+
+Allocate a separate allowance for script changes after client approval. Record the selected plan, billing term, renewal amount, unused balance and any proposed top-up before accepting a fixed-price job. Include your editing and review time in the quote; software credits are only one cost.
+
+Use the [voiceover project budget worksheet](/downloads/voiceover-project-budget.txt) to prepare an estimate without buying credits. For broader subscriptions, compare the [whole project cost](/posts/freelance-tool-project-cost/).
 
 ## A client delivery checklist
 
