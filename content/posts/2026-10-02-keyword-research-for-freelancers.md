@@ -1,7 +1,7 @@
 ---
 title: "Keyword Research for Freelancers: A Practical SEO Workflow"
 date: 2026-10-02
-lastmod: 2026-10-05
+lastmod: 2026-10-09
 slug: "keyword-research-for-freelancers"
 draft: false
 description: "Build a keyword shortlist for your freelance website. Match intent, inspect competitors and measure results with Search Console and KWFinder."
@@ -17,6 +17,12 @@ Keyword research for freelancers starts with a customer problem. A popular phras
 This is an editorial planning guide, not a ranking or conversion benchmark. The documentation-service ideas below remain unvalidated; a separate October 3 example records estimates and search-result observations collected from KWFinder.
 
 **Affiliate disclosure:** We may earn a commission through marked Mangools links. [Read our disclosure](/affiliate-disclosure/).
+
+## Choose your next step
+
+- **Need a plan first?** Use the free [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to record your audience, country, intent and existing page. No research subscription is required to start.
+- **Need location-specific estimates and a SERP view?** [Inspect KWFinder's current offering](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate") and compare its current limits with the number of client projects you actually research. This is an affiliate link; tool estimates do not guarantee traffic or sales.
+- **Already have Search Console data?** Follow the workflow below to improve an existing answer before paying for more keyword suggestions.
 
 ## Choose one service and one customer
 

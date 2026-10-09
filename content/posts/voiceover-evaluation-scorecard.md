@@ -1,6 +1,7 @@
 ---
 title: "AI Voiceover Evaluation: A Scorecard for Freelance Client Work"
 date: 2026-10-03T10:00:00+07:00
+lastmod: 2026-10-09
 draft: false
 author: "Vincent Pham"
 slug: "voiceover-evaluation-scorecard"
@@ -21,6 +22,12 @@ This guide provides an evaluation method, not a hands-on ranking. We have not me
 **Disclosure:** This page links to reviews that contain affiliate links. Those reviews identify the referral relationship. There is no paid recommendation in the blank scorecard.
 
 [Download the free voiceover evaluation scorecard](/downloads/voiceover-evaluation-scorecard.txt).
+
+## Choose your next step
+
+- **Still comparing output?** Start with the sample and scorecard below. Keep pronunciation and revision observations before choosing a plan.
+- **Already considering ElevenLabs?** Use the [ElevenLabs buying checklist](/posts/elevenlabs-ai-review-2026/) to check commercial-use requirements and billing, then fill in the [project budget worksheet](/downloads/voiceover-project-budget.txt). It includes space for retries and client rewrites.
+- **Not ready to subscribe?** Download the blank scorecard and record requirements first. A worksheet does not require a paid account.
 
 ## Start with one representative script
 
