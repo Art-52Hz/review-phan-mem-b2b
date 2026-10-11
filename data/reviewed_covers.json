@@ -217,17 +217,17 @@
     "alt": "Compare setup, maintenance and subscription cost for client work"
   },
   "nordvpn-vs-expressvpn-2026": {
-    "image": "/images/freelance-tool-cost.svg",
+    "image": "/images/vpn-connections-decision.svg",
     "reviewed": true,
     "reviewed_date": "2026-10-11",
-    "origin": "Reused reviewed original static project-cost SVG; no measured product rating",
-    "alt": "Project costs: check the invoice, limits and renewal"
+    "origin": "Original static editorial SVG; browser preview visually reviewed; no rating or measured performance claim",
+    "alt": "How many devices at once? Count sessions and check the subscription tier"
   },
   "nordvpn-vs-protonvpn-2026": {
-    "image": "/images/freelance-tool-cost.svg",
+    "image": "/images/vpn-free-plan-decision.svg",
     "reviewed": true,
     "reviewed_date": "2026-10-11",
-    "origin": "Reused reviewed original static project-cost SVG; no measured product rating",
-    "alt": "Project costs: check the invoice, limits and renewal"
+    "origin": "Original static editorial SVG; browser preview visually reviewed; no rating or measured performance claim",
+    "alt": "Try free, pay for a reason: observe a task and identify an unmet requirement"
   }
 }

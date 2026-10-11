@@ -9,8 +9,8 @@ keywords: ["nordvpn vs expressvpn", "nordvpn vs expressvpn 2026", "best vpn 2026
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "expressvpn", "vpn", "vpn comparison", "cybersecurity"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Project costs: check the invoice, limits and renewal"
+  image: "/images/vpn-connections-decision.svg"
+  alt: "How many devices at once? Count sessions and check the subscription tier"
   relative: false
 ---
 

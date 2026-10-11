@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Try free. Pay for a reason.</title><desc id="desc">NordVPN versus Proton VPN decision guide. Separate a free-plan observation from a requirement that needs a paid plan.</desc>
+<rect width="1200" height="630" fill="#f6edda"/>
+<rect x="0" y="0" width="18" height="630" fill="#d95636"/>
+<text x="72" y="81" fill="#4b5754" font-family="Trebuchet MS,sans-serif" font-size="19" letter-spacing="3">AI PRO FREELANCER / NORDVPN vs PROTON VPN</text>
+<text x="72" y="183" fill="#203c38" font-family="Georgia,serif" font-size="77" font-weight="bold">Try free.</text>
+<text x="72" y="270" fill="#203c38" font-family="Georgia,serif" font-size="77" font-weight="bold">Pay for a reason.</text>
+<text x="76" y="330" fill="#4b5754" font-family="Trebuchet MS,sans-serif" font-size="26">Can the free plan evaluate your actual task?</text>
+<rect x="76" y="392" width="443" height="170" rx="12" fill="#203c38"/>
+<text x="105" y="433" fill="#d5ec89" font-family="Trebuchet MS,sans-serif" font-size="18" letter-spacing="2">01 / OBSERVE</text>
+<text x="105" y="480" fill="#fff4dd" font-family="Georgia,serif" font-size="35">One permitted task.</text>
+<text x="105" y="526" fill="#fff4dd" font-family="Trebuchet MS,sans-serif" font-size="22">Record limits and reconnects.</text>
+<path d="M543 476 L620 476 M603 459 L620 476 L603 493" fill="none" stroke="#d95636" stroke-width="6"/>
+<rect x="648" y="392" width="475" height="170" rx="12" fill="#d95636"/>
+<text x="679" y="433" fill="#fff4dd" font-family="Trebuchet MS,sans-serif" font-size="18" letter-spacing="2">02 / DECIDE</text>
+<text x="679" y="480" fill="#fff4dd" font-family="Georgia,serif" font-size="35">An unmet requirement?</text>
+<text x="679" y="526" fill="#fff4dd" font-family="Trebuchet MS,sans-serif" font-size="22">Verify the plan before paying.</text>
+<circle cx="1053" cy="193" r="68" fill="none" stroke="#d95636" stroke-width="3"/>
+<text x="1018" y="216" fill="#d95636" font-family="Georgia,serif" font-size="68">?</text>
+</svg>

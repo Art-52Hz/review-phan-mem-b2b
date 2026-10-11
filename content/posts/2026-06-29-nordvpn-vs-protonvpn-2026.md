@@ -9,8 +9,8 @@ keywords: ["nordvpn vs protonvpn", "nordvpn vs protonvpn 2026", "protonvpn vs no
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "protonvpn", "vpn", "vpn comparison", "privacy"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Project costs: check the invoice, limits and renewal"
+  image: "/images/vpn-free-plan-decision.svg"
+  alt: "Try free, pay for a reason: observe a task and identify an unmet requirement"
   relative: false
 ---
 

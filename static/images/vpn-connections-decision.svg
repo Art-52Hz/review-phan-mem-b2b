@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">How many devices at once?</title><desc id="desc">Editorial connection diagram for comparing NordVPN and ExpressVPN. Count overlapping sessions, then check the subscription tier.</desc>
+<rect width="1200" height="630" fill="#173c35"/>
+<rect x="38" y="38" width="1124" height="554" rx="8" fill="none" stroke="#70877a"/>
+<text x="76" y="92" fill="#d5ec89" font-family="Trebuchet MS,sans-serif" font-size="20" letter-spacing="3">AI PRO FREELANCER / VPN BUYING GUIDE</text>
+<text x="76" y="191" fill="#fff4dd" font-family="Georgia,serif" font-size="73" font-weight="bold">How many</text>
+<text x="76" y="275" fill="#fff4dd" font-family="Georgia,serif" font-size="73" font-weight="bold">devices at once?</text>
+<text x="80" y="330" fill="#d5ec89" font-family="Trebuchet MS,sans-serif" font-size="25">NordVPN vs ExpressVPN</text>
+<line x1="80" y1="373" x2="618" y2="373" stroke="#70877a"/>
+<text x="80" y="424" fill="#fff4dd" font-family="Trebuchet MS,sans-serif" font-size="25">Count overlapping sessions.</text>
+<text x="80" y="465" fill="#fff4dd" font-family="Trebuchet MS,sans-serif" font-size="25">Check the tier. Compare the invoice.</text>
+<rect x="80" y="512" width="310" height="42" rx="21" fill="#d5ec89"/>
+<text x="104" y="540" fill="#173c35" font-family="Trebuchet MS,sans-serif" font-size="19" font-weight="bold">A CHECKLIST, NOT A RANKING</text>
+<path d="M880 305 L880 196 M880 305 L1012 399 M880 305 L746 399" fill="none" stroke="#d5ec89" stroke-width="7"/>
+<circle cx="880" cy="305" r="50" fill="#fa815d"/>
+<path d="M860 305 L875 320 L902 290" fill="none" stroke="#173c35" stroke-width="7"/>
+<rect x="794" y="116" width="172" height="106" rx="12" fill="#fff4dd"/>
+<rect x="807" y="128" width="146" height="75" rx="4" fill="#31564a"/>
+<path d="M775 226 L985 226 L968 241 L791 241 Z" fill="#fa815d"/>
+<rect x="694" y="396" width="101" height="150" rx="16" fill="#fff4dd"/>
+<rect x="706" y="409" width="77" height="109" rx="5" fill="#31564a"/>
+<circle cx="744" cy="532" r="5" fill="#173c35"/>
+<rect x="946" y="390" width="144" height="108" rx="10" fill="#fff4dd"/>
+<rect x="957" y="402" width="122" height="77" rx="3" fill="#31564a"/>
+<path d="M1018 499 L1018 526 M983 528 L1053 528" fill="none" stroke="#fa815d" stroke-width="9"/>
+</svg>
