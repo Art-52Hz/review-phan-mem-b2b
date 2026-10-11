@@ -1,0 +1,39 @@
+CLIENT ACCESS / VPN DECISION CHECKLIST
+AIProFreelancer.com — blank planning worksheet, October 11, 2026
+
+Do not enter passwords, tokens, client secrets or confidential file contents.
+
+1. WORK REQUIREMENT
+Approved service/application:
+Person or procedure authorizing access:
+Client-required connection method:
+Permitted device and operating system:
+Approved support/fallback route:
+Settings I am permitted to change:
+
+2. REPRESENTATIVE TASK (non-sensitive samples only)
+Application version / network / time:
+Portal access acceptance criterion:
+Sample transfer acceptance criterion:
+Short call acceptance criterion:
+Ordinary approved connection observations:
+Proposed VPN connection observations:
+Network-switch/reconnection observations, if relevant:
+Kill-switch behavior required:
+Exact platform documentation and observation:
+Unresolved failures / next support action:
+
+3. COMMITMENT
+Plan / market / currency:
+Cash due now / applicable taxes:
+Initial term:
+Renewal amount / period:
+Required extras:
+Trial/refund conditions for this purchase channel:
+Setup and maintenance effort:
+
+4. DECISION
+Keep existing setup / evaluate further / defer / consider purchase:
+Evidence and permission still missing:
+
+This worksheet is not a completed security test or a client-compliance certification.
