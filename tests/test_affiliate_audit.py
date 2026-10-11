@@ -29,6 +29,19 @@ class AffiliateAuditTests(unittest.TestCase):
         result = self.check('<a href="https://www.copy.ai/?via=unverified" data-affiliate="true" rel="sponsored noopener noreferrer">Buy</a>')
         self.assertEqual(result['errors'][0]['problem'], 'uncatalogued affiliate URL')
 
+    def test_unmarked_affiliate_id_and_redirect_host_cannot_bypass_catalog(self):
+        for url in [
+            'https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=150621',
+            'https://vendor.example/pricing?AFF_ID=unverified',
+            'https://vendor.example/pricing?affiliate_id=unverified',
+            'https://go.nordvpn.net/aff_c',
+            'https://go.nordprotect.net/aff_c',
+        ]:
+            with self.subTest(url=url):
+                result = self.check(f'<a href="{url}">Plans</a>')
+                self.assertEqual(result['errors'][0]['problem'], 'uncatalogued affiliate URL')
+        self.assertFalse(self.check('<a href="https://nordvpn.com/pricing/">Plans</a>')['errors'])
+
     def test_ordinary_unknown_vendor_link_is_allowed(self):
         self.assertFalse(self.check('<a href="https://www.copy.ai/prices">Plans</a>')['errors'])
 

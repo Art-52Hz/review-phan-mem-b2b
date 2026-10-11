@@ -37,7 +37,11 @@ def audit(build, catalog):
             location = page.relative_to(build).as_posix()
             # Explicit affiliate markers require an issued catalog URL even
             # when the destination belongs to a previously unseen vendor.
-            if link.get('data-affiliate') == 'true' and key not in expected:
+            query_keys = {name.lower() for name, _ in parse_qsl(urlsplit(href).query)}
+            explicit_referral = (link.get('data-affiliate') == 'true'
+                                 or bool(query_keys & {'aff_id', 'affiliate_id'})
+                                 or key[1] in {'go.nordvpn.net', 'go.nordprotect.net'})
+            if explicit_referral and key not in expected:
                 errors.append({'page': location, 'problem': 'uncatalogued affiliate URL', 'host': key[1]})
                 continue
             # Shared vendor domains also contain ordinary product/help links.
