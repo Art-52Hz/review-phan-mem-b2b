@@ -16,6 +16,7 @@ def validate_generated_draft(content):
     if not isinstance(content, str) or not content.strip():
         raise DraftReviewRequired('Empty generated draft')
     patterns = {
+        'star rating symbols': r'(?:[★⭐☆]\ufe0f?\s*){2,}',
         'numeric rating': (r'\b\d+(?:\.\d+)?\s*(?:'
                            r'(?:/\s*|out\s+of\s+)5(?:\.0+)?(?![\d.])|stars?\b)'),
         'rating metadata': r'["\']?(?:rating|ratingValue)["\']?\s*:\s*["\']?\d',

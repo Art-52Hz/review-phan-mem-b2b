@@ -15,6 +15,16 @@ class DraftQualityTests(unittest.TestCase):
             with self.subTest(draft=draft), self.assertRaises(DraftReviewRequired):
                 validate_generated_draft(draft)
 
+    def test_rejects_symbol_ratings_without_numeric_score(self):
+        for draft in ('| Speed | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |', 'Quality: ★ ★ ★ ★',
+                      'Score: ★★★☆☆', 'Rating: ⭐️⭐️', '⭐⭐'):
+            with self.subTest(draft=draft), self.assertRaises(DraftReviewRequired):
+                validate_generated_draft(draft)
+
+    def test_single_decorative_star_is_not_a_rating_sequence(self):
+        text = '⭐ Download the blank worksheet; no test result is claimed.'
+        self.assertEqual(text, validate_generated_draft(text))
+
     def test_rejects_invented_first_person_experience(self):
         for draft in ('We tested it for two months.', 'I personally used it.',
                       'We have extensively benchmarked this platform.'):
@@ -45,10 +55,11 @@ class DraftQualityTests(unittest.TestCase):
                              timedelta=timedelta, POSTS_DIR=str(posts),
                              validate_generated_draft=validate_generated_draft)
             exec(compile(module, str(source), 'exec'), namespace)
-            with self.assertRaises(DraftReviewRequired):
-                namespace['save_to_markdown']('Review', 'review', 'Score: 4.6/5',
-                                              'review', '/images/cover.svg')
-            self.assertFalse(posts.exists())
+            for body in ('Score: 4.6/5', '| Speed | ⭐⭐⭐⭐⭐ |'):
+                with self.subTest(body=body), self.assertRaises(DraftReviewRequired):
+                    namespace['save_to_markdown']('Review', 'review', body,
+                                                  'review', '/images/cover.svg')
+                self.assertFalse(posts.exists())
 
 
 if __name__ == '__main__':
