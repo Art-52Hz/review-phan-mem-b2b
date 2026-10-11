@@ -201,5 +201,12 @@
     "reviewed_date": "2026-10-11",
     "origin": "Original static editorial SVG, visually reviewed in browser; no vendor logo or quoted prices",
     "alt": "Three checks for an ElevenLabs budget: invoice, credits and revisions"
+  },
+  "nordvpn-vs-surfshark-2026": {
+    "image": "/images/freelance-tool-cost.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-11",
+    "origin": "Reused reviewed original static project-cost SVG; no VPN speed or rating claim",
+    "alt": "Compare subscription commitment and work requirements before choosing a VPN"
   }
 }
