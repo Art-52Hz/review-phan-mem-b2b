@@ -194,5 +194,12 @@
     "reviewed_date": "2026-10-09",
     "origin": "Reused reviewed editorial shortlist illustration; no scores or prices",
     "alt": "Keyword shortlist cards for checking search intent and research evidence"
+  },
+  "elevenlabs-pricing-freelancers": {
+    "image": "/images/elevenlabs-pricing-decision.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-11",
+    "origin": "Original static editorial SVG, visually reviewed in browser; no vendor logo or quoted prices",
+    "alt": "Three checks for an ElevenLabs budget: invoice, credits and revisions"
   }
 }

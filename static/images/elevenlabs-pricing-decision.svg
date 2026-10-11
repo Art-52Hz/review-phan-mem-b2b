@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">ElevenLabs pricing: budget the complete job</title><desc id="desc">Invoice, credits and revisions are three separate checks before choosing a plan.</desc>
+<rect width="1200" height="630" fill="#142a32"/>
+<path d="M880 0H1200V630H730Z" fill="#203e47"/>
+<path d="M60 480H1140M60 510H1140" stroke="#33545b" stroke-width="1"/>
+<text x="60" y="73" fill="#e4ba7f" font-family="Trebuchet MS, sans-serif" font-size="22" font-weight="700" letter-spacing="3">ELEVENLABS / PRICING DECISION</text>
+<text x="53" y="191" fill="#fff3db" font-family="Impact, sans-serif" font-size="94">BUDGET THE</text>
+<text x="53" y="289" fill="#fff3db" font-family="Impact, sans-serif" font-size="94">COMPLETE JOB.</text>
+<text x="62" y="342" fill="#bbd1cd" font-family="Trebuchet MS, sans-serif" font-size="26">A subscription is only the starting number.</text>
+<g font-family="Trebuchet MS, sans-serif">
+<rect x="60" y="393" width="342" height="138" rx="4" fill="#fff3db"/>
+<text x="85" y="431" fill="#536b6c" font-size="18" font-weight="700">01 / INVOICE</text>
+<text x="85" y="473" fill="#142a32" font-size="29" font-weight="700">Due now. Renewal.</text>
+<text x="85" y="507" fill="#536b6c" font-size="21">Keep both visible.</text>
+<rect x="429" y="393" width="342" height="138" rx="4" fill="#fff3db"/>
+<text x="454" y="431" fill="#536b6c" font-size="18" font-weight="700">02 / CREDITS</text>
+<text x="454" y="473" fill="#142a32" font-size="29" font-weight="700">Check the pool.</text>
+<text x="454" y="507" fill="#536b6c" font-size="21">Account for other work.</text>
+<rect x="798" y="393" width="342" height="138" rx="4" fill="#e4ba7f"/>
+<text x="823" y="431" fill="#67492b" font-size="18" font-weight="700">03 / REVISIONS</text>
+<text x="823" y="473" fill="#142a32" font-size="29" font-weight="700">Budget the retries.</text>
+<text x="823" y="507" fill="#67492b" font-size="21">Quote accepted output.</text>
+</g>
+<circle cx="1067" cy="172" r="67" fill="none" stroke="#e4ba7f" stroke-width="3"/>
+<path d="M1019 172L1052 205L1118 139" fill="none" stroke="#e4ba7f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="594" fill="#bbd1cd" font-family="Trebuchet MS, sans-serif" font-size="21" font-weight="700">AIPROFREELANCER.COM</text>
+<text x="1140" y="594" text-anchor="end" fill="#bbd1cd" font-family="Trebuchet MS, sans-serif" font-size="19">A planning guide. No promised savings.</text>
+</svg>

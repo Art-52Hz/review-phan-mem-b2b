@@ -11,7 +11,7 @@ cover:
   image: "/images/elevenlabs-buying-checklist.svg"
   alt: "ElevenLabs voiceover workflow and plan evaluation guide"
   relative: false
-lastmod: 2026-10-09
+lastmod: 2026-10-11
 description: "Evaluate ElevenLabs for freelance voiceover work using a sample script, commercial-use requirements, revision budget and current plan details."
 ---
 
@@ -41,6 +41,8 @@ Choose a short sample containing the vocabulary your client actually uses: names
 | Usage rights | Plan and permissions applicable to delivery |
 
 Use the same script when comparing tools. Keep the tested version, settings and date. These observations would support a future hands-on review; this article currently has no recorded audio test to report.
+
+For the invoice decision, use our [ElevenLabs pricing guide](/posts/elevenlabs-pricing-freelancers/): a dated plan snapshot, annual-versus-monthly cash comparison and a blank decision worksheet.
 
 ## Budget for accepted output
 

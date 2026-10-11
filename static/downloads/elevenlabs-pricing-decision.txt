@@ -1,0 +1,52 @@
+ELEVENLABS PRICING DECISION — BLANK WORKSHEET
+Guide: https://aiprofreelancer.com/posts/elevenlabs-pricing-freelancers/
+No vendor prices, benchmark results or permissions are prefilled.
+
+PROJECT
+Client/project:
+Script version and character count:
+Language, difficult names and delivery format:
+Required usage rights and source permissions:
+Sample acceptance result (leave untested if not evaluated):
+
+GENERATED TEXT BUDGET
+Initial script characters x planned takes:
+Correction characters x planned takes:
+Client rewrite characters x planned takes:
+Other work / reserve:
+Total planned generated characters:
+Selected model and UI/API channel:
+Actual credit rate, source and checked date:
+Estimated credits = generated characters x applicable rate:
+
+AVAILABLE CAPACITY
+Current usable balance and checked time:
+Other product/project usage already allocated:
+Credits reserved for revisions:
+Remaining capacity for this job:
+Temporary bonus conditions/expiry (exclude until verified):
+
+INVOICE
+Exact plan and billing term:
+Currency / amount due now / taxes:
+Introductory offer / end date:
+Renewal amount and date:
+Annual cash commitment, if relevant:
+Required seats / exports / feature limits:
+Optional top-up proposed (not purchased):
+Auto Top Up status and spend cap (do not change during planning):
+
+PROJECT COST
+Allocated subscription cost:
+Extra usage and fees:
+Active editing/review hours x hourly value:
+Total estimated project cost, in one currency:
+Client price and revision allowance:
+
+DECISION
+Stay free / subscribe / defer:
+Evidence supporting the decision:
+Unknowns or failed requirements:
+Account offer verified by / date:
+
+Estimates are assumptions until measured. This worksheet authorizes no purchase.
