@@ -215,5 +215,19 @@
     "reviewed_date": "2026-10-11",
     "origin": "Reused reviewed original static project-cost SVG; no VPN ranking or tested claim",
     "alt": "Compare setup, maintenance and subscription cost for client work"
+  },
+  "nordvpn-vs-expressvpn-2026": {
+    "image": "/images/freelance-tool-cost.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-11",
+    "origin": "Reused reviewed original static project-cost SVG; no measured product rating",
+    "alt": "Project costs: check the invoice, limits and renewal"
+  },
+  "nordvpn-vs-protonvpn-2026": {
+    "image": "/images/freelance-tool-cost.svg",
+    "reviewed": true,
+    "reviewed_date": "2026-10-11",
+    "origin": "Reused reviewed original static project-cost SVG; no measured product rating",
+    "alt": "Project costs: check the invoice, limits and renewal"
   }
 }
