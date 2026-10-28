@@ -64,10 +64,32 @@ class AffiliateAuditTests(unittest.TestCase):
         result = self.check('<a href="https://try.elevenlabs.io/issued">Buy</a>')
         self.assertEqual(result['errors'][0]['problem'], 'missing tracking/sponsored markers')
 
-    def test_unknown_query_is_detected_but_editorial_ref_is_allowed(self):
+    def test_unknown_query_and_legacy_ref_are_rejected(self):
         anchor = '<a href="https://try.elevenlabs.io/issued?{}" data-affiliate="true" rel="sponsored noopener noreferrer">Buy</a>'
-        self.assertFalse(self.check(anchor.format('ref=article'))['errors'])
+        self.assertEqual(self.check(anchor.format('ref=article'))['errors'][0]['problem'], 'unreviewed referral query')
         self.assertEqual(self.check(anchor.format('affiliate=other-account'))['errors'][0]['problem'], 'unreviewed referral query')
+
+    def test_only_declared_subid_with_slug_is_allowed(self):
+        for program, base, parameter in [
+            ('murf', 'https://get.murf.ai/issued', 'sid'),
+            ('hostinger', 'https://www.hostinger.com/vn?REFERRALCODE=ISSUED', ''),
+            ('ultahost', 'https://ultahost.com/#art52hz', ''),
+        ]:
+            from urllib.parse import urlsplit, urlunsplit
+            parts = urlsplit(base)
+            for extra, valid in [('sid=article-slug', bool(parameter)), ('sub_id=article', False),
+                                 ('sid=one&sid=two', False), ('sid=', False), ('sid=user%40mail.com', False),
+                                 ('sid=article&unknown=x', False), ('SID=article', False)]:
+                query = parts.query + ('&' if parts.query else '') + extra
+                href = urlunsplit(parts._replace(query=query))
+                rel = 'sponsored noopener' + ('' if program == 'murf' else ' noreferrer')
+                html = f'<a href="{href}" data-affiliate="true" rel="{rel}" referrerpolicy="strict-origin">Offer</a>'
+                with self.subTest(program=program, extra=extra), tempfile.TemporaryDirectory() as folder:
+                    root = Path(folder)
+                    (root / 'index.html').write_text(html, encoding='utf-8')
+                    result = audit(root, {'records': [{'program_id': program, 'referral_url': base,
+                                                     'subid_parameter': parameter}]})
+                    self.assertEqual(not result['errors'], valid)
 
     def test_murf_origin_only_policy_and_masking_regressions(self):
         catalog = {'records': [{'program_id': 'murf', 'referral_url': 'https://get.murf.ai/issued'}]}

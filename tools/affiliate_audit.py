@@ -1,6 +1,7 @@
 """Compare rendered affiliate links with account-issued catalog URLs, offline."""
 import argparse
 import json
+import re
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qsl
@@ -57,16 +58,20 @@ def audit(build, catalog):
             if key not in expected:
                 errors.append({'page': location, 'problem': 'account URL mismatch', 'host': key[1]})
                 continue
-            # Only the existing ElevenLabs editorial ref labels are recognized.
-            # Hostinger carries the account in the query, so its code must match the issued URL exactly.
-            allowed_query_keys = {'ref'} if expected[key] == 'elevenlabs' else set()
-            if expected[key] == 'hostinger':
-                allowed_query_keys = {'REFERRALCODE'}
-                if parse_qsl(urlsplit(href).query) != parse_qsl(urlsplit(issued[key]).query):
+            record = next(r for r in records if r['program_id'] == expected[key])
+            baseline = parse_qsl(urlsplit(issued[key]).query, keep_blank_values=True)
+            actual = parse_qsl(urlsplit(href).query, keep_blank_values=True)
+            subid = record.get('subid_parameter', '')
+            extras = list(actual)
+            for pair in baseline:
+                if pair not in extras:
                     errors.append({'page': location, 'problem': 'account URL mismatch', 'host': key[1]})
-                    continue
-            if any(name not in allowed_query_keys for name, _ in parse_qsl(urlsplit(href).query)):
-                errors.append({'page': location, 'problem': 'unreviewed referral query', 'program': expected[key]})
+                    break
+                extras.remove(pair)
+            else:
+                if extras and not (subid and len(extras) == 1 and extras[0][0] == subid
+                                   and re.fullmatch(r'[a-z0-9][a-z0-9-]{0,254}', extras[0][1])):
+                    errors.append({'page': location, 'problem': 'unreviewed referral query', 'program': expected[key]})
             occurrences[expected[key]] += 1
             rel = set(link.get('rel', '').split())
             required = {'sponsored', 'noopener'}
