@@ -51,8 +51,6 @@ Before relying on a backup arrangement, restore a permitted sample in an isolate
 
 Define a migration acceptance checklist and a rollback decision before changing production. Keep the existing working copy until the new environment has been verified against those requirements.
 
-> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
-
 ## Compare the full commitment
 
 For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.

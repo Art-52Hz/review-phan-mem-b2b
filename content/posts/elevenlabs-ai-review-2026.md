@@ -95,8 +95,6 @@ No generated voice should be presented as a real person's endorsement. For an id
 
 Consider alternatives when the sample cannot meet your pronunciation or editing requirements, or when your project's licensing and collaboration needs do not fit the plan. Our [Murf buying checklist](/posts/murf-ai-review-2026/) gives a comparable decision process. The [ElevenLabs versus Murf guide](/posts/elevenlabs-vs-murf-ai-2026/) is related reading; rely on current vendor documentation for changing plan details.
 
-> **Need a voiceover made for you?** I produce AI narration with ElevenLabs or Murf from $15, using your approved script and voice. Provider credits and licences are separate. → [See voiceover services](/services/)
-
 ## Next step
 
 Use our [voiceover evaluation guide](/posts/voiceover-evaluation-scorecard/) and [downloadable scorecard](/downloads/voiceover-evaluation-scorecard.txt) to record pronunciation, revisions and licensing checks. The blank template contains no benchmark results.

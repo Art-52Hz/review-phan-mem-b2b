@@ -80,8 +80,6 @@ Include maintenance and incident-response time. Our [project cost guide](/posts/
 | Billing | Upfront total, renewal, licenses and add-ons |
 | Handoff | Client account owner, freelancer role and access removal plan |
 
-> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
-
 ## Hand over ownership, not just a login
 
 Keep the subscription, domain and billing owner explicit. Record the freelancer's continuing role and when temporary access should end. Do not put passwords or access tokens in the worksheet. Confirm what happens if the maintenance agreement ends or the original developer is unavailable.

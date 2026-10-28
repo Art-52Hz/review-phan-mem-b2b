@@ -59,8 +59,6 @@ Keep the input script unchanged across tools. Record the voice, settings, date a
 
 Without actual samples, leave the observations unmeasured. Product marketing and an attractive interface do not establish a comparative result. Our [evaluation scorecard guide](/posts/voiceover-evaluation-scorecard/) explains how to keep observations and gates separate.
 
-> **Need a voiceover made for you?** I produce AI narration with ElevenLabs or Murf from $15, using your approved script and voice. Provider credits and licences are separate. → [See voiceover services](/services/)
-
 ## Make the purchase decision
 
 Choose the workflow that passes the required gates and produces acceptable output at a project cost you can explain. Include revision and review time rather than comparing subscription stickers alone. Use our [project cost worksheet](/posts/freelance-tool-project-cost/) to record allocated fees, required add-ons and active working time in one currency.

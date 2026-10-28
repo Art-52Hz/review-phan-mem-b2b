@@ -47,8 +47,6 @@ Include maintenance and incident-response time. Our [project cost guide](/posts/
 | Billing | Upfront total, renewal, licenses and add-ons |
 | Handoff | Client account owner, freelancer role and access removal plan |
 
-> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
-
 Choose a plan after its responsibilities and full cost fit the work you can deliver. Documentation alone does not prove a fastest provider, hands-off operation or client outcome.
 
 [Compare managed WordPress responsibilities](/posts/managed-wordpress-vps-hosting-2026/). See the [freelancer hosting checklist](/posts/best-vps-for-freelancers-2026/) for broader requirements.

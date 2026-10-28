@@ -50,8 +50,6 @@ Review the existing backup location, retention and recovery procedure with the i
 
 Download the [blank site transfer worksheet](/downloads/wordpress-site-transfer-worksheet.txt). It records requirements and observations; it is not evidence that Kinsta or another provider passed a test. Keep passwords, tokens, billing details and private customer data out of the shared worksheet.
 
-> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
-
 ## Before calling the handoff complete
 
 - The receiving owner can access the intended site under the agreed role.

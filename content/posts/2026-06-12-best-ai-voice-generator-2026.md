@@ -48,8 +48,6 @@ Our [ElevenLabs checklist](/posts/elevenlabs-ai-review-2026/) and [Murf checklis
 
 We could not retrieve the Play.ht homepage during the October 3 source check. That does not prove a shutdown. We have removed the old voice-library counts, price and high-volume recommendation until availability and current terms can be established.
 
-> **Need a voiceover made for you?** I produce AI narration with ElevenLabs or Murf from $15, using your approved script and voice. Provider credits and licences are separate. → [See voiceover services](/services/)
-
 ## Build a shortlist you can defend
 
 Write the language, required file format, intended distribution, project length and revision allowance. Eliminate candidates that cannot establish a mandatory requirement before scoring preferences such as tone.
