@@ -67,7 +67,7 @@ If one tool cannot provide a required export, defer it regardless of how appeali
 
 Read the individual [ElevenLabs buying checklist](/posts/elevenlabs-ai-review-2026/) and [Murf trial and delivery checklist](/posts/murf-ai-review-2026/) for the questions to resolve before subscribing.
 
-[Evaluate ElevenLabs with the existing referral link](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-vs-murf-cta).
+[Evaluate ElevenLabs with the existing referral link](https://try.elevenlabs.io/01vzwhie5ubt).
 
 [Evaluate Murf with the existing referral link](https://get.murf.ai/hebxeow3cn2z).
 

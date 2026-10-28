@@ -1,3 +1,12 @@
 {{- $affiliate := or (eq (.Text | plainify) "Link affiliate") (eq .Title "affiliate") (gt (len (findRE `(?i)([?&#](fpr|ref|referral|referralcode|aff|affiliate|via)=|#a5d5c1d50feebf852f6d6f462|#art52hz|https://try\.elevenlabs\.io/|https://get\.murf\.ai/|https://beautifulai\.partnerlinks\.io/)` .Destination)) 0) -}}
 {{- $murf := gt (len (findRE `(?i)^https://get\.murf\.ai/` .Destination)) 0 -}}
-<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $affiliate }} rel="sponsored nofollow noopener{{ if not $murf }} noreferrer{{ end }}"{{ if $murf }} referrerpolicy="strict-origin"{{ end }} data-affiliate="true"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- $destination := .Destination -}}
+{{- if and $affiliate .Page.File -}}
+  {{- $slug := .Page.File.ContentBaseName -}}
+  {{- range (index .Page.Site.Data "affiliate-catalog").records -}}
+    {{- if and .subid_parameter (eq (index (split $destination "?") 0) .referral_url) -}}
+      {{- $destination = printf "%s?%s=%s" .referral_url .subid_parameter (urlquery $slug) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $affiliate }} rel="sponsored nofollow noopener{{ if not $murf }} noreferrer{{ end }}"{{ if $murf }} referrerpolicy="strict-origin"{{ end }} data-affiliate="true"{{ with .Page.File }} data-article="{{ .ContentBaseName }}"{{ end }}{{ end }}>{{ .Text | safeHTML }}</a>

@@ -95,4 +95,4 @@ Our [whole-project cost guide](/posts/freelance-tool-project-cost/) helps add ed
 | Consider Creator or another plan | A specific feature or measured workload requires it; not simply because a promotion looks attractive |
 | Defer payment | You do not yet know the script, revision scope, required rights or cash commitment |
 
-[Inspect ElevenLabs' current offer through our referral link](https://try.elevenlabs.io/01vzwhie5ubt?ref=elevenlabs-pricing-freelancers). Compare it with your completed worksheet before subscribing. Choose the smallest commitment that meets the actual job; no plan is a guarantee of profitable freelance work.
+[Inspect ElevenLabs' current offer through our referral link](https://try.elevenlabs.io/01vzwhie5ubt). Compare it with your completed worksheet before subscribing. Choose the smallest commitment that meets the actual job; no plan is a guarantee of profitable freelance work.

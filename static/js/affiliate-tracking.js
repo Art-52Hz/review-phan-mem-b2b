@@ -24,9 +24,21 @@
     var target;
     try { target = new URL(link.href, window.location.href); } catch (_) { return; }
     if (target.protocol !== "https:" || target.hostname === window.location.hostname) return;
+    var programs = {
+      "mangools.com": "mangools", "get.murf.ai": "murf",
+      "try.elevenlabs.io": "elevenlabs", "beautifulai.partnerlinks.io": "beautifulai",
+      "ultahost.com": "ultahost", "www.hostinger.com": "hostinger"
+    };
+    var article = link.getAttribute("data-article");
+    var content = link.closest(".post-content");
+    if (!programs[target.hostname] || !article || !/^[a-z0-9][a-z0-9-]{0,254}$/.test(article) || !content) return;
+    var bounds = content.getBoundingClientRect();
+    var ratio = bounds.height > 0 ? (link.getBoundingClientRect().top - bounds.top) / bounds.height : 0;
+    var position = ratio < 1 / 3 ? "top" : ratio < 2 / 3 ? "middle" : "bottom";
     window.gtag("event", "affiliate_click", {
-      affiliate_domain: target.hostname,
-      article_path: window.location.pathname,
+      program: programs[target.hostname],
+      article: article,
+      position: position,
       transport_type: "beacon"
     });
   });

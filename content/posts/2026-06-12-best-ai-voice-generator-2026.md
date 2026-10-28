@@ -56,7 +56,7 @@ Evaluate the same short script in each remaining candidate. Include names, numbe
 
 [Download the blank voiceover scorecard](/downloads/voiceover-evaluation-scorecard.txt), or read the [evaluation guide](/posts/voiceover-evaluation-scorecard/). The template contains no invented test results.
 
-[Inspect ElevenLabs through our referral link](https://try.elevenlabs.io/01vzwhie5ubt?ref=best-ai-voice-top).
+[Inspect ElevenLabs through our referral link](https://try.elevenlabs.io/01vzwhie5ubt).
 
 [Inspect Murf through our referral link](https://get.murf.ai/hebxeow3cn2z).
 

@@ -25,7 +25,13 @@
       ],
       "intent": "review",
       "status": "approved",
-      "referral_url": "https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462"
+      "referral_url": "https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462",
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://mangools.com/faq",
+        "checked_at": "2026-10-28",
+        "note": "No official SubID parameter established for this issued link format; left blank. This does not prove the program has no SubID support."
+      }
     },
     {
       "program_id": "murf",
@@ -73,6 +79,12 @@
         "duration_months": 24,
         "attribution_days": 90,
         "account_applicability": "not confirmed against account-specific contract"
+      },
+      "subid_parameter": "sid",
+      "subid_documentation": {
+        "source_url": "https://support.partnerstack.com/hc/en-us/articles/360044949774-Tracking-conversions-via-Sub-IDs",
+        "checked_at": "2026-10-28",
+        "note": "Official PartnerStack link syntax is ?sid=. Per-company attribution not verified; documentation warns support varies."
       }
     },
     {
@@ -115,6 +127,12 @@
         "payment_delay_days": 90,
         "captured_at": "2026-10-03",
         "interpretation": "Offer description explicitly states first 12 months; payment widget is not a customer-lifetime cap."
+      },
+      "subid_parameter": "sid",
+      "subid_documentation": {
+        "source_url": "https://support.partnerstack.com/hc/en-us/articles/360044949774-Tracking-conversions-via-Sub-IDs",
+        "checked_at": "2026-10-28",
+        "note": "Official PartnerStack link syntax is ?sid=. Per-company attribution not verified; documentation warns support varies."
       }
     },
     {
@@ -146,6 +164,12 @@
         "paid_signups": 0,
         "pending_commissions_usd": 0,
         "paid_commissions_usd": 0
+      },
+      "subid_parameter": "sid",
+      "subid_documentation": {
+        "source_url": "https://support.partnerstack.com/hc/en-us/articles/360044949774-Tracking-conversions-via-Sub-IDs",
+        "checked_at": "2026-10-28",
+        "note": "Official PartnerStack link syntax is ?sid=. Per-company attribution not verified; documentation warns support varies."
       }
     },
     {
@@ -194,6 +218,12 @@
         "trademark_bidding_prohibited": true,
         "payout_eligibility_verified": false,
         "cash_received_verified": false
+      },
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://ultahost.com/affiliates/about",
+        "checked_at": "2026-10-28",
+        "note": "No official SubID parameter established for this issued link format; left blank. This does not prove the program has no SubID support."
       }
     },
     {
@@ -218,7 +248,13 @@
         "Hostinger hosting"
       ],
       "intent": "review",
-      "status": "account_link_verified"
+      "status": "account_link_verified",
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://www.hostinger.com/support/6080777-how-to-use-the-referral-program-at-hostinger/",
+        "checked_at": "2026-10-28",
+        "note": "No official SubID parameter established for this issued link format; left blank. This does not prove the program has no SubID support."
+      }
     }
   ]
 }
