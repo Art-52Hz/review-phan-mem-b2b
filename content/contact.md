@@ -10,6 +10,19 @@ hidemeta: true
 robots: "index, follow"
 ---
 
+## Service enquiries
+
+For [setup and voiceover services](/services/), email **[tung.samtek@gmail.com](mailto:tung.samtek@gmail.com)**. I reply to service enquiries within 24 hours.
+
+Copy this four-line brief into your email:
+
+```text
+Service: VPS setup / WordPress on Hostinger / AI voiceover
+Goal:
+Deadline:
+Tools currently used:
+```
+
 We'd love to hear from you.
 
 Whether you have a question about a review, a correction, a partnership or advertising enquiry, or a suggestion for a tool we should test next — get in touch.
@@ -18,7 +31,7 @@ Whether you have a question about a review, a correction, a partnership or adver
 
 **[tung.samtek@gmail.com](mailto:tung.samtek@gmail.com)**
 
-We aim to reply within 2–3 business days.
+For other enquiries, we aim to reply within 2–3 business days.
 
 ## What to reach out about
 

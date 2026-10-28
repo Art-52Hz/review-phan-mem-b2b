@@ -57,6 +57,8 @@ Check the current checkout for your country, currency and billing period. Record
 
 Include the time to review generated content, rebuild excluded export elements and train the client. Use our [project cost guide](/posts/freelance-tool-project-cost/) to separate cash due now from costs allocated to a project.
 
+> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
+
 ## Agree on handoff before buying
 
 Record ownership, the client's editing needs and continuing support in the [blank WordPress handoff worksheet](/downloads/wordpress-handoff-worksheet.txt). Do not store passwords or tokens in that worksheet. Our [managed WordPress versus self-managed VPS guide](/posts/managed-wordpress-vps-hosting-2026/) addresses hosting responsibilities; it is a different decision from selecting a website editor.

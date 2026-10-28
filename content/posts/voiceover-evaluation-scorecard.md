@@ -61,6 +61,8 @@ For uploaded or cloned voices, document the relevant permission before testing. 
 
 Our [ElevenLabs buying checklist](/posts/elevenlabs-ai-review-2026/) and [Murf trial and licensing checklist](/posts/murf-ai-review-2026/) explain the plan questions to investigate. Read the current vendor documentation before committing to a client deliverable.
 
+> **Need a voiceover made for you?** I produce AI narration with ElevenLabs or Murf from $15, using your approved script and voice. Provider credits and licences are separate. → [See voiceover services](/services/)
+
 ## Make a project-specific decision
 
 Use four possible outcomes: reject, revise, shortlist or ready for the specified project. Keep the remaining blockers visible. Repeat the evaluation when the script, voice, model or plan changes substantially.

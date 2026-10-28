@@ -51,6 +51,8 @@ An infrastructure restart can repeat application actions if the software is not 
 
 Prepare a documented backup, a clean restore path and monitoring for process failures, disk space and connectivity. Check an actual application function after restoration. A running server alone is not proof the bot behaves as intended.
 
+> **Need it set up for you?** I configure a compatible VPS for MT4/MT5 or your supplied crypto bot from $25. Hosting and licences are separate. → [See setup services](/services/)
+
 ## Provider shortlist
 
 This revision does not declare a best overall host. Compare providers against the table above and keep the evidence attached to each plan. If UltaHost is a candidate, [view its current offering](https://ultahost.com/#art52hz "affiliate") and confirm management scope and workload permission.

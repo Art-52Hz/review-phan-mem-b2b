@@ -66,7 +66,7 @@ Includes 1 / 2 / 2 correction rounds respectively using the approved script and 
 
 ### Do you earn a commission?
 
-I may earn a commission if you buy through a referral link. You can buy directly using your own account or use my referral link; the price to you stays the same. My setup fee is separate, and using a referral link is optional.
+I may earn a commission if you buy through a referral link. You can buy directly using your own account or use my referral link; the price to you stays the same. My setup fee is separate, and using a referral link is optional. For example, you can use my [Hostinger referral link](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate").
 
 ### Who owns the accounts and pays the subscriptions?
 

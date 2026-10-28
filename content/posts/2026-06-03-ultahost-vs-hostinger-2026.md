@@ -52,6 +52,8 @@ Ask each provider what information, verification and workload restrictions apply
 
 For UltaHost, consult its [crypto billing instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) and verify the available method in the invoice. Its [refund policy](https://ultahost.com/refund), checked October 8, excludes cryptocurrency-paid purchases and includes other restrictions. Read the [terms](https://ultahost.com/terms) for renewal and service conditions before paying. Payment acceptance alone is not a reason to choose a plan.
 
+> **Need help launching WordPress?** I set up WordPress on Hostinger from $59, with an SSL check and handoff. Hosting is separate; confirm compatibility and scope first. → [See setup services](/services/)
+
 ## Make the decision against your requirements
 
 Shortlist a plan only when its complete cost, operating responsibilities, permitted workload and recovery procedure fit your project. Defer the purchase if an essential answer is missing. For a WordPress client project, complete the [ownership and handoff checklist](/posts/wordpress-client-site-transfer-checklist/) alongside the quote.

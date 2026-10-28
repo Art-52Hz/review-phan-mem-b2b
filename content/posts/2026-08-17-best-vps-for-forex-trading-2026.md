@@ -63,6 +63,8 @@ Read [UltaHost's terms](https://ultahost.com/terms) and [refund policy](https://
 
 For another starting point, visit [Hostinger](https://www.hostinger.com/) and verify compatibility against its current documentation. Do not assume that a Linux VPS offer includes a supported Windows deployment.
 
+> **Need it set up for you?** I configure a compatible VPS for MT4/MT5 or your supplied crypto bot from $25. Hosting and licences are separate. → [See setup services](/services/)
+
 ## Frequently asked questions
 
 ### How much memory should I buy?

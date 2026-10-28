@@ -86,6 +86,8 @@ Use the same short sample to check the difficult names, numbers and language swi
 
 Our [whole-project cost guide](/posts/freelance-tool-project-cost/) helps add editing, review and handoff time. Software is one line in the estimate, not the whole production cost.
 
+> **Need a voiceover made for you?** I produce AI narration with ElevenLabs or Murf from $15, using your approved script and voice. Provider credits and licences are separate. → [See voiceover services](/services/)
+
 ## Choose a plan only after these checks
 
 | Decision | Evidence to obtain |
