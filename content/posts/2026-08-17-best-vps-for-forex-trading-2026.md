@@ -61,7 +61,7 @@ If UltaHost is on your shortlist, [request the exact plan details from UltaHost]
 
 Read [UltaHost's terms](https://ultahost.com/terms) and [refund policy](https://ultahost.com/refund) before checkout. Payment methods can affect refund eligibility; do not treat crypto payment as proof of anonymity or a refundable trial.
 
-For another starting point, visit [Hostinger](https://www.hostinger.com/) and verify compatibility against its current documentation. Do not assume that a Linux VPS offer includes a supported Windows deployment.
+For another starting point, visit [Hostinger](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO) and verify compatibility against its current documentation. Do not assume that a Linux VPS offer includes a supported Windows deployment.
 
 ## Frequently asked questions
 

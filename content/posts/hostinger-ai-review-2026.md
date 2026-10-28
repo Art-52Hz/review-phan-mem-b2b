@@ -22,7 +22,7 @@ Hostinger's AI-assisted website tools are candidates for a client site when the 
 
 ## Identify the product before comparing offers
 
-Hostinger documents [AI Website Builder for WordPress](https://www.hostinger.com/support/how-to-use-hostinger-ai-website-builder-for-wordpress/) separately from [AI Builder content export in manual mode](https://www.hostinger.com/support/6572573-hostinger-ai-builder-manual-mode-how-to-export-content-to-wordpress/). Both sources were checked October 6.
+Hostinger documents [AI Website Builder for WordPress](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO) separately from [AI Builder content export in manual mode](https://www.hostinger.com/support/6572573-hostinger-ai-builder-manual-mode-how-to-export-content-to-wordpress/). Both sources were checked October 6.
 
 Write down the product, mode, plan and intended site. Do not transfer a feature, export permission or allowance from one offer to another merely because both use the Hostinger name. Verify the particular workflow in the documentation and account applicable to your purchase.
 

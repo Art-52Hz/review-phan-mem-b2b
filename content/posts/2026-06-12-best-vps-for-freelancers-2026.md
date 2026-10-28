@@ -45,7 +45,7 @@ Use that map to choose the hosting model. If the client wants a finished applica
 
 ## Compare cost at the project level
 
-The [official VPS offer](https://www.hostinger.com/vps-hosting), checked October 28, presents prices tied to a billing term. Record the amount due now, renewal and any required extras from the actual country-specific offer. An equivalent monthly rate does not by itself tell the client what they must authorize today.
+The [official VPS offer](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO), checked October 28, presents prices tied to a billing term. Record the amount due now, renewal and any required extras from the actual country-specific offer. An equivalent monthly rate does not by itself tell the client what they must authorize today.
 
 Add your setup work, ongoing maintenance and recovery preparation to the estimate. Keep the hosting invoice separate from your fee so a client does not mistake a small infrastructure cost for a promise of free operations. If the project cannot support that ongoing work, revisit the hosting model before reducing the maintenance scope invisibly.
 

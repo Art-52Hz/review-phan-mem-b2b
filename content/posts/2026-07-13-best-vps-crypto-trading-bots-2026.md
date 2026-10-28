@@ -31,7 +31,7 @@ Best for a Linux bot operator preparing an infrastructure evaluation: shortlist 
 
 ## Who should choose UltaHost / who should not
 
-Choose it for further evaluation if you can operate the application, have a permitted workload and can test the selected region against the actual API endpoints. The [official VPS offer](https://ultahost.com/vps-hosting), checked October 28, 2026, provides a starting point for configuration comparison. It does not prove a particular route or execution quality.
+Choose it for further evaluation if you can operate the application, have a permitted workload and can test the selected region against the actual API endpoints. The [official VPS offer](https://ultahost.com/#art52hz), checked October 28, 2026, provides a starting point for configuration comparison. It does not prove a particular route or execution quality.
 
 Do not choose a host because a search result combines no-KYC, crypto billing and low latency in one sentence. Those are separate claims requiring separate evidence. A host may accept your payment while a required endpoint refuses requests from its network. Establish connectivity before moving a working application.
 

@@ -55,7 +55,7 @@ Search Console impressions and clicks describe your site's visibility, not the t
 
 Date the observations and keep query, page and country views distinct. Search results depend on the searcher's context, so a manual search is not a reliable reconstruction of every position reported for your site.
 
-According to the [official KWFinder page](https://mangools.com/kwfinder/), the tool supports keyword and domain research, historical volumes, difficulty metrics and location-specific search-result analysis. These are research inputs, not promises of rankings or income.
+According to the [official KWFinder page](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462), the tool supports keyword and domain research, historical volumes, difficulty metrics and location-specific search-result analysis. These are research inputs, not promises of rankings or income.
 
 If those features fit your workload, [explore KWFinder](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate"). Check current prices and plan limits on the vendor website before subscribing.
 

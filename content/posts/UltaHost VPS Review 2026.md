@@ -36,7 +36,7 @@ UltaHost is a reasonable candidate when you need server configuration beyond you
 
 Do not buy it simply because the entry price looks small or the product page says managed. If your client expects you to resolve every plugin fault and recover deleted orders, list those tasks explicitly. A server-management offer and a maintenance contract for a particular website can have different boundaries.
 
-The [official VPS page](https://ultahost.com/vps-hosting), checked October 28, 2026, advertises managed configurations. Its headline and entry-card pricing are not identical in the retrieved page. We therefore use “check current pricing” instead of presenting a single starting amount as a quotation. Compare the selected invoice, not a number copied from a search snippet.
+The [official VPS page](https://ultahost.com/#art52hz), checked October 28, 2026, advertises managed configurations. Its headline and entry-card pricing are not identical in the retrieved page. We therefore use “check current pricing” instead of presenting a single starting amount as a quotation. Compare the selected invoice, not a number copied from a search snippet.
 
 ## The useful comparison is responsibility per invoice
 

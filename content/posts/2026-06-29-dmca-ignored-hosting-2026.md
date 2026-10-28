@@ -54,7 +54,7 @@ Keep publication permissions with the source records so that a restored site doe
 
 ## The purchase decision
 
-Buy only when the application's hosting needs, complaint procedure, account ownership and recovery plan are sufficiently clear. The [VPS product page](https://ultahost.com/vps-hosting), checked October 28, is useful for the configuration shortlist, but no advertised hardware feature proves complaint immunity. A provider unwilling to clarify a mandatory requirement should remain outside the final selection.
+Buy only when the application's hosting needs, complaint procedure, account ownership and recovery plan are sufficiently clear. The [VPS product page](https://ultahost.com/#art52hz), checked October 28, is useful for the configuration shortlist, but no advertised hardware feature proves complaint immunity. A provider unwilling to clarify a mandatory requirement should remain outside the final selection.
 
 [Inspect the current offer against your requirements](https://ultahost.com/#art52hz "affiliate")
 

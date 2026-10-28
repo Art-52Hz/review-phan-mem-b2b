@@ -19,7 +19,7 @@ A cheap dedicated server quote is useful only when it covers the hardware, netwo
 
 ## Match the hardware to a requirement
 
-UltaHost's [dedicated hosting page](https://ultahost.com/dedicated-hosting), checked October 7, 2026, lists configurations with different processor generations, SSD or NVMe storage, memory types and network ports. The page has multiple billing periods and promotional prices. That evidence does not support the old claim that every plan has the latest processor and NVMe storage, or that a fixed old starting price applies today.
+UltaHost's [dedicated hosting page](https://ultahost.com/#art52hz), checked October 7, 2026, lists configurations with different processor generations, SSD or NVMe storage, memory types and network ports. The page has multiple billing periods and promotional prices. That evidence does not support the old claim that every plan has the latest processor and NVMe storage, or that a fixed old starting price applies today.
 
 Record the processor model, cores, memory, usable storage and port speed for the selected order. State what application requirement each item must satisfy. Do not prescribe one minimum RAM size for every application or infer performance from a product label alone.
 

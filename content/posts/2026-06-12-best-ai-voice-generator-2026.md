@@ -34,7 +34,7 @@ The rows are starting points, not quality scores or endorsements. Do not infer t
 
 ## Narration: inspect ElevenLabs and Murf
 
-The [ElevenLabs plan page](https://elevenlabs.io/pricing) lists a Free credit allowance and a commercial license in Starter. Check the current billing and usage details for your account rather than treating a preview as a finished client deliverable.
+The [ElevenLabs plan page](https://try.elevenlabs.io/01vzwhie5ubt) lists a Free credit allowance and a commercial license in Starter. Check the current billing and usage details for your account rather than treating a preview as a finished client deliverable.
 
 [Murf's trial-download help](https://help.murf.ai/can-i-download-my-project-during-the-free-trial) says downloads and exports require a paid plan. Its trial can be used to evaluate Studio with a sample script. Establish the required export and permitted use before committing to a client delivery.
 

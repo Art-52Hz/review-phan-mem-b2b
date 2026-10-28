@@ -39,9 +39,9 @@ These vendor links are starting points for your own policy review, not tested wi
 
 | Candidate | Check before ordering |
 |---|---|
-| [UltaHost](https://ultahost.com/) | Exact location, account requirements, renewal and service-specific policies |
+| [UltaHost](https://ultahost.com/#art52hz) | Exact location, account requirements, renewal and service-specific policies |
 | [Contabo](https://contabo.com/) | Selected location, billing commitment, allowances and support scope |
-| [Hostinger](https://www.hostinger.com/) | Product eligibility, renewal, management responsibilities and backup terms |
+| [Hostinger](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO) | Product eligibility, renewal, management responsibilities and backup terms |
 | [Hetzner](https://www.hetzner.com/) | Product/location combination, verification and acceptable-use requirements |
 | [DigitalOcean](https://www.digitalocean.com/) | Region, usage-based billing, resource limits and recovery workflow |
 

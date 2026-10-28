@@ -31,7 +31,7 @@ Best for technically capable buyers checking a sub-$10 advertised VPS rate: shor
 | Another truly monthly VPS offer | Check current pricing | Check exact offer | Must still verify software, backups and total invoice | Buyer with a strict initial cash limit |
 | Existing hosting | Current invoice | No additional trial needed | May not support the required runtime | Project that does not need a separate server |
 
-Price source: [official Hostinger VPS page](https://www.hostinger.com/vps-hosting), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked the same day.
+Price source: [official Hostinger VPS page](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked the same day.
 
 ## Who should choose Hostinger / who should not
 
