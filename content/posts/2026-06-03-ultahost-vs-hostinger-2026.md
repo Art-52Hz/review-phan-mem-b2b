@@ -14,7 +14,7 @@ cover:
   relative: false
 ---
 
-**Best for developers who manage their own software: Hostinger.** Its entry plan offers more memory for a modest increase in starting price.
+**Best for developers who manage their own software: Hostinger.** Its entry plan offers more memory for a modest increase in starting price. [See Hostinger VPS plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO).
 **Pick UltaHost instead if server assistance matters more:** shortlist its managed offering, then confirm support covers your stack before paying.
 [Compare UltaHost plans and management options](https://ultahost.com/#art52hz).
 
@@ -116,4 +116,4 @@ UltaHost documents cryptocurrency payments in its [billing instructions](https:/
 
 Pick Hostinger VPS if you will operate the stack and its configuration fits the site. Shortlist UltaHost if you want an agreed server-support scope. If the client expects application maintenance without a separate operator, evaluate managed WordPress hosting before committing to either VPS.
 
-**Ready to choose?** Developers can start with the [official Hostinger VPS options](https://www.hostinger.com/vps-hosting). If server assistance is your priority, [compare UltaHost plans](https://ultahost.com/#art52hz) and confirm support tasks before ordering.
+**Ready to choose?** Developers can start with the [official Hostinger VPS options](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO). If server assistance is your priority, [compare UltaHost plans](https://ultahost.com/#art52hz) and confirm support tasks before ordering.
