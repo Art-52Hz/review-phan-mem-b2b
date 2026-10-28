@@ -13,11 +13,11 @@ cover:
   relative: false
 ---
 
+**Affiliate disclosure:** The marked Hostinger referral links may earn us a commission on a qualifying purchase. Read our [affiliate disclosure](/affiliate-disclosure/).
+
 Hostinger VPS is a candidate when the project needs server control and someone can administer it. Evaluate that responsibility alongside recovery and renewal costs.
 
 **Scope, October 6, 2026:** This guide uses official documentation and a buying checklist. We have not measured hosting speed, uptime or support response times. Earlier unsupported benchmark figures, free licensing claims and provider rankings have been removed.
-
-**Links:** Hostinger links here are ordinary vendor sources. Ownership and approval of the referral code previously used on this page have not been verified, so the code has been removed. Related guides may contain separately disclosed affiliate links. [Disclosure](/affiliate-disclosure/).
 
 ## Who manages the server?
 
@@ -32,6 +32,8 @@ Consult the [official VPS backup and restore instructions](https://www.hostinger
 A backup option is not a completed recovery test. Record observations in the [blank WordPress handoff worksheet](/downloads/wordpress-handoff-worksheet.txt); leave untested fields unknown.
 
 ## Compare the payment commitment and human work
+
+For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
 
 Use the current checkout for your country, currency and billing period. Record the amount due now, renewal amount, taxes, licenses and backup add-ons. Hostinger's [renewal guidance](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/) explains where to inspect subscription renewal information. No fixed promotional price or discount is promised here.
 
@@ -48,3 +50,5 @@ Include maintenance and incident-response time. Our [project cost guide](/posts/
 Choose a plan after its responsibilities and full cost fit the work you can deliver. Documentation alone does not prove a fastest provider, hands-off operation or client outcome.
 
 [Compare managed WordPress responsibilities](/posts/managed-wordpress-vps-hosting-2026/). See the [freelancer hosting checklist](/posts/best-vps-for-freelancers-2026/) for broader requirements.
+
+> **[Check current Hostinger VPS plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

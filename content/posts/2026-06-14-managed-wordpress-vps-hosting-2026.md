@@ -13,11 +13,11 @@ cover:
   relative: false
 ---
 
+**Affiliate disclosure:** The marked Hostinger referral links may earn us a commission on a qualifying purchase. Read our [affiliate disclosure](/affiliate-disclosure/).
+
 Buying managed WordPress hosting and buying a self-managed VPS can assign different responsibilities. The previous article incorrectly described Hostinger VPS as managed WordPress hosting; this guide corrects that distinction.
 
 **Scope, October 6, 2026:** This guide uses official documentation and a buying checklist. We have not measured hosting speed, uptime or support response times. Earlier unsupported benchmark figures, free licensing claims and provider rankings have been removed.
-
-**Links:** Hostinger links here are ordinary vendor sources. Ownership and approval of the referral code previously used on this page have not been verified, so the code has been removed. Related guides may contain separately disclosed affiliate links. [Disclosure](/affiliate-disclosure/).
 
 ## Choose the operating model before the vendor
 
@@ -66,6 +66,8 @@ A backup option is not a completed recovery test. Record observations in the [bl
 
 ## Compare service scope with total project cost
 
+For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+
 Compare quotes using the same billing period and a written list of included work. Separate hosting, licenses, backups, routine maintenance and incident work. A cheaper infrastructure quote can still leave work that the client must pay someone to perform. This is a cost-planning consideration, not a measured savings result.
 
 Include maintenance and incident-response time. Our [project cost guide](/posts/freelance-tool-project-cost/) separates upfront payments from costs allocated to one client project.
@@ -86,3 +88,4 @@ Select the operating model whose remaining responsibilities the client and freel
 
 [Read the specific Hostinger VPS evaluation](/posts/hostinger-vps-review-2026/). See the [freelancer hosting checklist](/posts/best-vps-for-freelancers-2026/) for broader requirements.
 
+> **[Check current Hostinger VPS plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

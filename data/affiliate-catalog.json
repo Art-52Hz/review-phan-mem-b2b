@@ -195,6 +195,30 @@
         "payout_eligibility_verified": false,
         "cash_received_verified": false
       }
+    },
+    {
+      "program_id": "hostinger",
+      "offer_id": "hostinger-referral",
+      "label": "Hostinger Referral",
+      "source_url": "https://www.hostinger.com/vn",
+      "referral_url": "https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO",
+      "evidence": {
+        "source_url": "https://hpanel.hostinger.com/",
+        "captured_at": "2026-10-28",
+        "note": "Claude verified in hPanel on 2026-10-28 per assignment giao-viec/01-gan-lai-link-affiliate.md. Referral 20%; exact issued URL retained. Not independently verified by Codex."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "20",
+        "currency": null
+      },
+      "cookie_days": null,
+      "keywords": [
+        "Hostinger VPS",
+        "Hostinger hosting"
+      ],
+      "intent": "review",
+      "status": "account_link_verified"
     }
   ]
 }

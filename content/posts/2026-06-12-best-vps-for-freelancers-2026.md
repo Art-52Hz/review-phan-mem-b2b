@@ -14,11 +14,11 @@ cover:
   relative: false
 ---
 
+**Affiliate disclosure:** The marked Hostinger referral links may earn us a commission on a qualifying purchase. Read our [affiliate disclosure](/affiliate-disclosure/).
+
 A freelancer should choose hosting around the client's workload and the operational responsibilities they can fulfill. Do not assume that moving to a VPS automatically improves speed, reliability or profit.
 
 **Updated October 4, 2026:** Unsupported provider scores, fixed price comparisons and unverified referral links have been removed. We have no documented comparative server benchmark. This page provides a purchase and handoff checklist.
-
-**Disclosure:** Related pages may contain disclosed affiliate links. No purchase is required to use this checklist.
 
 ## Write down the reason for changing hosting
 
@@ -47,6 +47,8 @@ For WordPress projects, use our [compatibility and backup checklist](/posts/best
 
 ## Budget for operating work
 
+For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+
 Record the initial invoice, renewal, billing term, required licenses, backups, traffic charges and paid support. Mark unresolved charges unknown. Include your active maintenance and migration time with the same hourly value used for your baseline workflow.
 
 Separate the server invoice from the portion allocated to each client. Explain the allocation basis and what happens if a client leaves or uses more resources. A lower allocated figure does not reduce the payment due now.
@@ -69,3 +71,4 @@ For the site's content work, our [keyword research workflow](/posts/keyword-rese
 
 For a site leaving an agency hosting account, use the [WordPress client site transfer checklist](/posts/wordpress-client-site-transfer-checklist/) to separate ownership, DNS, add-ons and acceptance. It includes a blank worksheet; it does not establish that a transfer or recovery test has passed.
 
+> **[Check current Hostinger VPS plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

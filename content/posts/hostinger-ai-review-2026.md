@@ -14,11 +14,11 @@ cover:
   relative: false
 ---
 
+**Affiliate disclosure:** The marked Hostinger referral links may earn us a commission on a qualifying purchase. Read our [affiliate disclosure](/affiliate-disclosure/).
+
 Hostinger's AI-assisted website tools are candidates for a client site when the editing workflow, ownership and future changes fit the project. First identify which product and mode the client would actually use. An AI-generated first version is only one part of delivery.
 
 **Scope, October 6, 2026:** This is a documentation-based buying guide. We have not completed a hands-on build, export test or comparative reliability benchmark. Earlier numerical ratings, unsupported reviewer conclusions and fixed promotional prices have been removed.
-
-**Links:** Hostinger links below are ordinary vendor sources. We have not verified ownership or approval of the previously used referral code. Related guides may contain separately disclosed affiliate links. [Disclosure](/affiliate-disclosure/).
 
 ## Identify the product before comparing offers
 
@@ -51,6 +51,8 @@ Leave the observations unmeasured until a real sample has been reviewed. A vendo
 
 ## Budget for the complete commitment
 
+For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+
 Check the current checkout for your country, currency and billing period. Record upfront payment, renewal, required add-ons, domain renewal and cancellation terms. Do not assume a displayed monthly equivalent is a monthly payment or that a domain is permanently free.
 
 Include the time to review generated content, rebuild excluded export elements and train the client. Use our [project cost guide](/posts/freelance-tool-project-cost/) to separate cash due now from costs allocated to a project.
@@ -60,3 +62,5 @@ Include the time to review generated content, rebuild excluded export elements a
 Record ownership, the client's editing needs and continuing support in the [blank WordPress handoff worksheet](/downloads/wordpress-handoff-worksheet.txt). Do not store passwords or tokens in that worksheet. Our [managed WordPress versus self-managed VPS guide](/posts/managed-wordpress-vps-hosting-2026/) addresses hosting responsibilities; it is a different decision from selecting a website editor.
 
 Shortlist the specific builder when an authorized sample fits the client's work and its export limitations are acceptable. Resolve unanswered editing, portability and billing questions before committing. This guide does not prove that Hostinger is the cheapest, fastest or most reliable option.
+
+> **[Check current Hostinger plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
