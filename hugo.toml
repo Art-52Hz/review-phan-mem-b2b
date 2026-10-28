@@ -68,11 +68,6 @@ Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categorie
     name = "About"
     url = "/about/"
     weight = 6
-  [[menu.main]]
-    identifier = "menu-services"
-    name = "Services"
-    url = "/services/"
-    weight = 7
   [[menu.footer]]
     name = "About"
     url = "/about/"
