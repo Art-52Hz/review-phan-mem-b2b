@@ -11,8 +11,6 @@ hidemeta: true
 
 Get the setup done, then take control. Tell me what you need; we agree the scope before work starts. You keep your own accounts.
 
-[Bạn ở Việt Nam? Xem bảng giá tiếng Việt](/vi/vps-forex/)
-
 **[Discuss your project →](/contact/)**
 
 ## A. VPS for MT4, MT5 or a crypto bot — from $25
