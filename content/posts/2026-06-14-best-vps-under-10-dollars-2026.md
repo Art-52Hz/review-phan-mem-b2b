@@ -18,7 +18,7 @@ Best for technically capable buyers checking a sub-$10 advertised VPS rate: shor
 
 **Affiliate disclosure:** We may earn a commission on a qualifying purchase through the marked links. [Read our disclosure](/affiliate-disclosure/).
 
-[Compare the current hosting offer](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+[Compare the current hosting offer](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
 
 *Based on official documentation and pricing checked October 28, 2026. Confirm the final invoice at checkout.*
 
@@ -31,7 +31,7 @@ Best for technically capable buyers checking a sub-$10 advertised VPS rate: shor
 | Another truly monthly VPS offer | Check current pricing | Check exact offer | Must still verify software, backups and total invoice | Buyer with a strict initial cash limit |
 | Existing hosting | Current invoice | No additional trial needed | May not support the required runtime | Project that does not need a separate server |
 
-Price source: [official Hostinger VPS page](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked the same day.
+Price source: [official Hostinger VPS page](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked the same day.
 
 ## Who should choose Hostinger / who should not
 
@@ -61,7 +61,7 @@ Likewise, no production reliability conclusion follows from a resource list. Use
 
 Do not upgrade automatically when a requirement remains unclear. First decide whether the problem is capacity, compatibility or responsibility. More memory can help a measured capacity problem; it cannot determine who patches the application or whether a payment method is accepted. Stop the purchase when a mandatory requirement is still unknown.
 
-[Inspect the current offer against your requirements](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+[Inspect the current offer against your requirements](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
 
 ## How to test it yourself in 15 minutes
 
@@ -131,4 +131,4 @@ Define and test application behavior, monitoring, backup and recovery under an a
 
 ## Make the next decision
 
-Use the written requirements and evaluation record to choose the smallest suitable commitment. [Review the current offer when your mandatory checks pass](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate").
+Use the written requirements and evaluation record to choose the smallest suitable commitment. [Review the current offer when your mandatory checks pass](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate").

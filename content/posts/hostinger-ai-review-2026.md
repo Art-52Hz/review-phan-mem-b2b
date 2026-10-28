@@ -22,7 +22,7 @@ Hostinger's AI-assisted website tools are candidates for a client site when the 
 
 ## Identify the product before comparing offers
 
-Hostinger documents [AI Website Builder for WordPress](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO) separately from [AI Builder content export in manual mode](https://www.hostinger.com/support/6572573-hostinger-ai-builder-manual-mode-how-to-export-content-to-wordpress/). Both sources were checked October 6.
+Hostinger documents [AI Website Builder for WordPress](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO) separately from [AI Builder content export in manual mode](https://www.hostinger.com/support/6572573-hostinger-ai-builder-manual-mode-how-to-export-content-to-wordpress/). Both sources were checked October 6.
 
 Write down the product, mode, plan and intended site. Do not transfer a feature, export permission or allowance from one offer to another merely because both use the Hostinger name. Verify the particular workflow in the documentation and account applicable to your purchase.
 
@@ -51,7 +51,7 @@ Leave the observations unmeasured until a real sample has been reviewed. A vendo
 
 ## Budget for the complete commitment
 
-For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+For a current quote, [check Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
 
 Check the current checkout for your country, currency and billing period. Record upfront payment, renewal, required add-ons, domain renewal and cancellation terms. Do not assume a displayed monthly equivalent is a monthly payment or that a domain is permanently free.
 
@@ -63,4 +63,4 @@ Record ownership, the client's editing needs and continuing support in the [blan
 
 Shortlist the specific builder when an authorized sample fits the client's work and its export limitations are acceptable. Resolve unanswered editing, portability and billing questions before committing. This guide does not prove that Hostinger is the cheapest, fastest or most reliable option.
 
-> **[Check current Hostinger plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+> **[Check current Hostinger plans →](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

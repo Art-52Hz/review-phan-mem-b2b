@@ -53,7 +53,7 @@ Define a migration acceptance checklist and a rollback decision before changing 
 
 ## Compare the full commitment
 
-For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+For a current quote, [check Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
 
 Record initial payment, billing term, renewal amount, control-panel licensing, backup storage, traffic allowances and required support. Leave uncertain fees unknown until resolved. Include the active maintenance time your workflow requires.
 
@@ -61,4 +61,4 @@ Use the same workload and acceptance gates for each candidate. Our [VPS selectio
 
 Choose a provider after compatibility, restoration, responsibilities and cost have been resolved. Keep a dated decision record instead of substituting a generic rating for those checks.
 
-> **[Check current Hostinger VPS plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+> **[Check current Hostinger VPS plans →](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

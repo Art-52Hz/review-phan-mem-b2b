@@ -107,7 +107,7 @@ The [Contabo verification guidance](https://help.contabo.com/en/support/solution
 
 ### A practical shortlist decision
 
-You can inspect UltaHost's current plans using the table above. Treat it as a candidate, not a proven winner. If comparing the existing [Hostinger published offer](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO), independently confirm payment availability and all final costs; this guide does not verify its crypto checkout.
+You can inspect UltaHost's current plans using the table above. Treat it as a candidate, not a proven winner. If comparing the existing [Hostinger published offer](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO), independently confirm payment availability and all final costs; this guide does not verify its crypto checkout.
 
 Reject a candidate when an essential requirement remains unanswered. Choose between the remaining quotes using your actual workload, management capacity and total commitment. Paying slightly less is not useful if the plan cannot support a reliable restore.
 

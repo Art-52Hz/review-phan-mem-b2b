@@ -33,7 +33,7 @@ A backup option is not a completed recovery test. Record observations in the [bl
 
 ## Compare the payment commitment and human work
 
-For a current quote, [check Hostinger plans](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
+For a current quote, [check Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate") and compare the full commitment with the requirements below.
 
 Use the current checkout for your country, currency and billing period. Record the amount due now, renewal amount, taxes, licenses and backup add-ons. Hostinger's [renewal guidance](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/) explains where to inspect subscription renewal information. No fixed promotional price or discount is promised here.
 
@@ -51,4 +51,4 @@ Choose a plan after its responsibilities and full cost fit the work you can deli
 
 [Compare managed WordPress responsibilities](/posts/managed-wordpress-vps-hosting-2026/). See the [freelancer hosting checklist](/posts/best-vps-for-freelancers-2026/) for broader requirements.
 
-> **[Check current Hostinger VPS plans →](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+> **[Check current Hostinger VPS plans →](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**

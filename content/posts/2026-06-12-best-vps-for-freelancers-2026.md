@@ -18,7 +18,7 @@ Best for freelancers who can own Linux application operations: shortlist Hosting
 
 **Affiliate disclosure:** We may earn a commission on a qualifying purchase through the marked links. [Read our disclosure](/affiliate-disclosure/).
 
-[Compare the current hosting offer](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+[Compare the current hosting offer](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
 
 *Based on official documentation and pricing checked October 28, 2026. Confirm the final invoice at checkout.*
 
@@ -45,7 +45,7 @@ Use that map to choose the hosting model. If the client wants a finished applica
 
 ## Compare cost at the project level
 
-The [official VPS offer](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO), checked October 28, presents prices tied to a billing term. Record the amount due now, renewal and any required extras from the actual country-specific offer. An equivalent monthly rate does not by itself tell the client what they must authorize today.
+The [official VPS offer](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO), checked October 28, presents prices tied to a billing term. Record the amount due now, renewal and any required extras from the actual country-specific offer. An equivalent monthly rate does not by itself tell the client what they must authorize today.
 
 Add your setup work, ongoing maintenance and recovery preparation to the estimate. Keep the hosting invoice separate from your fee so a client does not mistake a small infrastructure cost for a promise of free operations. If the project cannot support that ongoing work, revisit the hosting model before reducing the maintenance scope invisibly.
 
@@ -61,7 +61,7 @@ A useful acceptance plan includes a safe restore, followed by a check of the cli
 
 Keep the previous working deployment until the replacement passes the agreed criteria. If the client will not fund recovery preparation, explain that operating boundary before buying a plan. Upgrading infrastructure is not a substitute for deciding who accepts the result and who handles a future incident.
 
-[Inspect the current offer against your requirements](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+[Inspect the current offer against your requirements](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
 
 ## How to test it yourself in 15 minutes
 
@@ -156,4 +156,4 @@ Decide ownership before purchase and document billing and recovery access. The a
 
 ## Make the next decision
 
-Use the written requirements and evaluation record to choose the smallest suitable commitment. [Review the current offer when your mandatory checks pass](https://www.hostinger.com/vn?REFERRALCODE=ACFTUNGSAAEO "affiliate").
+Use the written requirements and evaluation record to choose the smallest suitable commitment. [Review the current offer when your mandatory checks pass](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate").
