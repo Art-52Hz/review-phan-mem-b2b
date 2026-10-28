@@ -25,6 +25,7 @@ def audit(build, catalog):
     records = catalog['records']
     expected = {account_key(r['referral_url']): r['program_id']
                 for r in records if r.get('referral_url')}
+    issued = {account_key(r['referral_url']): r['referral_url'] for r in records if r.get('referral_url')}
     hosts = {key[1] for key in expected}
     errors = []
     occurrences = {r['program_id']: 0 for r in records}
@@ -48,6 +49,8 @@ def audit(build, catalog):
             is_candidate = key[1] in hosts and (
                 (key[1] != 'mangools.com' or key[3].startswith('a')) and
                 (key[1] != 'ultahost.com' or bool(key[3]) or
+                 link.get('data-affiliate') == 'true') and
+                (key[1] != 'www.hostinger.com' or 'referralcode' in query_keys or
                  link.get('data-affiliate') == 'true'))
             if not is_candidate:
                 continue
@@ -55,7 +58,13 @@ def audit(build, catalog):
                 errors.append({'page': location, 'problem': 'account URL mismatch', 'host': key[1]})
                 continue
             # Only the existing ElevenLabs editorial ref labels are recognized.
+            # Hostinger carries the account in the query, so its code must match the issued URL exactly.
             allowed_query_keys = {'ref'} if expected[key] == 'elevenlabs' else set()
+            if expected[key] == 'hostinger':
+                allowed_query_keys = {'REFERRALCODE'}
+                if parse_qsl(urlsplit(href).query) != parse_qsl(urlsplit(issued[key]).query):
+                    errors.append({'page': location, 'problem': 'account URL mismatch', 'host': key[1]})
+                    continue
             if any(name not in allowed_query_keys for name, _ in parse_qsl(urlsplit(href).query)):
                 errors.append({'page': location, 'problem': 'unreviewed referral query', 'program': expected[key]})
             occurrences[expected[key]] += 1
