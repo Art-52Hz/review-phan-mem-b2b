@@ -285,6 +285,36 @@
         "checked_at": "2026-10-29",
         "note": "SubID support not established; left blank."
       }
+    },
+    {
+      "cookie_days": null,
+      "intent": "review",
+      "source_url": "https://www.tradingview.com/partner-program/",
+      "referral_url": "https://www.tradingview.com/?aff_id=1173587",
+      "label": "TradingView",
+      "offer_id": "charting-platform",
+      "program_id": "tradingview",
+      "commission": {
+        "value": "10-400",
+        "kind": "fixed",
+        "currency": "USD"
+      },
+      "status": "account_link_verified",
+      "keywords": [
+        "tradingview plans",
+        "tradingview for forex traders"
+      ],
+      "evidence": {
+        "source_url": "TradingView partner dashboard (Links tab), account tung.samtek@gmail.com",
+        "note": "Link copied from the partner dashboard on 2026-10-29. Public page lists fixed commissions per new subscriber: Essential $10/$60, Plus $25/$100, Premium $50/$120, Ultimate $200/$400 (monthly/annual). Referred users get a $15 discount. Brand-keyword ads and self-purchase are prohibited. Payout method not yet set up.",
+        "captured_at": "2026-10-29"
+      },
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://www.tradingview.com/partner-program/",
+        "checked_at": "2026-10-29",
+        "note": "Dashboard offers a link identifier field, but its URL parameter was not verified; left blank."
+      }
     }
   ]
 }

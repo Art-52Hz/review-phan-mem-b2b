@@ -43,6 +43,8 @@ A process that sends a small request periodically can have a different resource 
 
 Keep the acceptance check concrete: the application starts with the correct configuration, reaches the required endpoint, records errors and resumes without repeating an uncertain action. These are proposed criteria, not results from a funded trading deployment. This article evaluates infrastructure and does not assess a strategy's expected return.
 
+Signals and charting are a third job. If your bot acts on chart alerts, you can keep the charting in TradingView and have its webhook alerts (a paid-plan feature; check the current plan table) call an endpoint on your VPS. The VPS then only has to receive the request and run the order logic, which keeps the server small. [Compare TradingView plans](https://www.tradingview.com/?aff_id=1173587); new subscribers get a $15 discount through this link.
+
 ## Measure the route that matters
 
 Test from the proposed server region to the endpoint the software actually uses. Record request type, timestamp, success or failure and response duration. Separate connection setup from a complete application response if your tool allows it. A short isolated sample can identify a blocker; it cannot demonstrate long-term reliability or justify a guaranteed latency claim.

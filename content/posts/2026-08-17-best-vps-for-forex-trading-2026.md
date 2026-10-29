@@ -61,6 +61,14 @@ Hostinger explicitly offers only Linux VPS templates. MetaQuotes documents insta
 
 **[Compare Hostinger plans for a Linux setup](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
+## Charting does not need a VPS
+
+A VPS is for software that must keep running when your computer is off: an MT4/MT5 terminal with an Expert Advisor, a bot or a copier. Chart analysis is different. TradingView runs in the browser and its alerts are processed on TradingView's servers, so you do not need to rent a server only to watch charts or get price alerts.
+
+Many traders split the job: TradingView for charts and alerts, a small VPS for the terminal that executes. TradingView has a free plan; paid plans (Essential, Plus, Premium, Ultimate) add more indicators per chart, more alerts and, on the plan table, webhook alerts that a bot on your VPS can receive. Check the current plan table before paying, because limits change.
+
+**[See TradingView plans (new subscribers get a $15 discount through this link)](https://www.tradingview.com/?aff_id=1173587)**
+
 ## Start with the application, not a provider ranking
 
 Write down the exact terminal version, operating system, number of application instances, plug-ins and intended workload. Ask the application publisher and your broker which deployment environments they support. A generic VPS product name does not prove that a particular Windows image, license or application is included.
