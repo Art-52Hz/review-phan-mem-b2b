@@ -100,7 +100,7 @@ It is a reasonable shortlist choice when WordPress needs a custom environment an
 
 ### Which KVM plan should I start with?
 
-Choose KVM 1 for a lean project with a clear resource budget. Consider KVM 2 when your expected services need more room. Use the trial deployment checklist to decide; do not buy a larger tier solely because it is labeled popular.
+Choose KVM 1 for a lean project with a clear resource budget. Consider KVM 2 when your expected services need more room. Use the trial deployment checklist to decide; do not buy a larger tier solely because it is labeled popular. Our [KVM 1 vs KVM 2 guide](/posts/hostinger-kvm1-vs-kvm2-2026/) matches common workloads to each plan.
 
 ### Is Hostinger VPS managed?
 
