@@ -60,7 +60,7 @@ What usually does not fit: WordPress with a database plus plugins under real tra
 
 - **WordPress or WooCommerce.** PHP plus MySQL is comfortable in 2 GB for a small site; 1 GB leaves little room for caching.
 - **n8n or another automation tool** with several active workflows.
-- **A trading or crypto bot** that keeps market data in memory; see [VPS for crypto trading bots](/posts/best-vps-crypto-trading-bots-2026/).
+- **A trading or crypto bot** that keeps market data in memory; see [VPS for crypto trading bots](/posts/best-vps-for-crypto-trading-bots-2026/).
 - **You need DDoS protection or unlimited bandwidth on paper**, for a public-facing site or API.
 
 Two cores also help when a backup, an update and real traffic hit at the same time.

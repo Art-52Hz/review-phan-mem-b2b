@@ -156,4 +156,4 @@ Check a long random secret in the message, allow only TradingView's IP addresses
 
 ### Is a bigger VPS faster for alerts?
 
-Not in a way that matters. The alert's delay is mostly TradingView's processing and network time; a 1–4 GB VPS answers a webhook in milliseconds. See [running trading bots on a VPS](/posts/best-vps-crypto-trading-bots-2026/) for heavier workloads.
+Not in a way that matters. The alert's delay is mostly TradingView's processing and network time; a 1–4 GB VPS answers a webhook in milliseconds. See [running trading bots on a VPS](/posts/best-vps-for-crypto-trading-bots-2026/) for heavier workloads.
