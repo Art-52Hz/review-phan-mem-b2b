@@ -1,4 +1,4 @@
-{{- $affiliate := or (eq (.Text | plainify) "Link affiliate") (eq .Title "affiliate") (gt (len (findRE `(?i)([?&#](fpr|ref|referral|referralcode|aff|affiliate|via|sa)=|#a5d5c1d50feebf852f6d6f462|#art52hz|https://try\.elevenlabs\.io/|https://get\.murf\.ai/|https://beautifulai\.partnerlinks\.io/)` .Destination)) 0) -}}
+{{- $affiliate := or (eq (.Text | plainify) "Link affiliate") (eq .Title "affiliate") (gt (len (findRE `(?i)([?&#](fpr|ref|referral|referralcode|aff|affiliate|via|sa|aff_id)=|#a5d5c1d50feebf852f6d6f462|#art52hz|https://try\.elevenlabs\.io/|https://get\.murf\.ai/|https://beautifulai\.partnerlinks\.io/)` .Destination)) 0) -}}
 {{- $murf := gt (len (findRE `(?i)^https://get\.murf\.ai/` .Destination)) 0 -}}
 {{- $destination := .Destination -}}
 {{- if and $affiliate .Page.File -}}

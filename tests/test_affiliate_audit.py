@@ -37,6 +37,17 @@ class AffiliateAuditTests(unittest.TestCase):
             page.write_text(marked.format('OTHER'), encoding='utf-8')
             self.assertEqual(audit(root, catalog)['errors'][0]['problem'], 'account URL mismatch')
 
+    def test_tradingview_aff_id_must_match_and_plain_links_are_ignored(self):
+        catalog = {'records': [{'program_id': 'tradingview', 'referral_url': 'https://www.tradingview.com/?aff_id=1'}]}
+        marked = '<a href="https://www.tradingview.com/?aff_id={}" data-affiliate="true" rel="sponsored nofollow noopener noreferrer">Plans</a>'
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            page = root / 'index.html'
+            page.write_text('<a href="https://www.tradingview.com/pricing/">Pricing</a>' + marked.format('1'), encoding='utf-8')
+            self.assertFalse(audit(root, catalog)['errors'])
+            page.write_text(marked.format('2'), encoding='utf-8')
+            self.assertEqual(audit(root, catalog)['errors'][0]['problem'], 'account URL mismatch')
+
     def check(self, html):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)

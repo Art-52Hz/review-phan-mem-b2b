@@ -54,6 +54,8 @@ def audit(build, catalog):
                 (key[1] != 'www.hostinger.com' or 'referralcode' in query_keys or
                  link.get('data-affiliate') == 'true') and
                 (key[1] != 'systeme.io' or 'sa' in query_keys or
+                 link.get('data-affiliate') == 'true') and
+                (key[1] != 'www.tradingview.com' or 'aff_id' in query_keys or
                  link.get('data-affiliate') == 'true'))
             if not is_candidate:
                 continue
