@@ -57,7 +57,7 @@ The free plan gives you 3 price alerts and no alerts on indicators or strategies
 
 ### Webhooks start at Essential
 
-A webhook alert sends an HTTP request to a URL you choose when the alert fires. That is how traders connect TradingView signals to a bot, a Telegram notifier or an order script. Webhooks are available from Essential upward, so you do not need Premium to automate. What you do need is a server that is always on to receive the request; see our guide to [running trading bots on a VPS](/posts/best-vps-crypto-trading-bots-2026/).
+A webhook alert sends an HTTP request to a URL you choose when the alert fires. That is how traders connect TradingView signals to a bot, a Telegram notifier or an order script. Webhooks are available from Essential upward, so you do not need Premium to automate. What you do need is a server that is always on to receive the request; our [TradingView webhook setup guide](/posts/tradingview-webhook-alerts-bot-vps-2026/) covers the rules, a minimal receiver and the monthly cost.
 
 ### Plus is for combined conditions
 
