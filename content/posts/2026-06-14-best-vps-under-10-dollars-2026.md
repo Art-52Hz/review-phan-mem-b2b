@@ -132,3 +132,8 @@ Define and test application behavior, monitoring, backup and recovery under an a
 ## Make the next decision
 
 Use the written requirements and evaluation record to choose the smallest suitable commitment. [Review the current offer when your mandatory checks pass](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate").
+
+
+## Compare the full VPS commitment
+
+Use our [VPS cost calculator](/tools/vps-cost-calculator/) to compare upfront base costs and renewals, then cite the dated [VPS price index](/vps-price-index-2026/) for entry prices and RAM per dollar.

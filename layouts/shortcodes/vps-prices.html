@@ -1,0 +1,34 @@
+{{ $snapshot := resources.FromString "data/vps-prices.json" ((index site.Data "vps-prices") | jsonify) }}{{ $publish := $snapshot.RelPermalink }}
+{{ $data := index site.Data "vps-prices" }}
+<link rel="stylesheet" href="/css/vps-cost.css">
+<section class="vps-tool" aria-label="VPS price comparison">
+<p class="vps-eyebrow">THE VPS COST DESK &middot; USD &middot; CHECKED {{ $data.checked }}</p>
+{{ if eq (.Get 0) "calculator" }}
+<div class="vps-controls">
+<label>Operating system<select id="vps-os"><option>Linux</option><option>Windows</option></select></label>
+<label>Minimum RAM<select id="vps-ram"><option value="1">1 GB</option><option value="2">2 GB</option><option value="4" selected>4 GB</option><option value="8">8 GB</option><option value="16">16 GB</option><option value="32">32 GB</option></select></label>
+<label>Months prepaid<select id="vps-term"><option value="1">1 month</option><option value="12">12 months</option><option value="24" selected>24 months</option></select></label>
+</div>
+<p id="vps-status" role="status" aria-live="polite"></p><div id="vps-results" class="vps-results"></div>
+<noscript>Enable JavaScript to filter plans. The full price table is available in our <a href="/vps-price-index-2026/">VPS price index</a>.</noscript>
+{{ else }}
+{{ $linux := where $data.plans "os" "Linux" }}
+{{ $host := index (sort (where $linux "provider" "Hostinger") "monthly_usd") 0 }}
+{{ $contabo := index (sort (where $linux "provider" "Contabo") "monthly_usd") 0 }}
+<p>Among the three entry Linux offers captured on {{ $data.checked }}, Contabo starts at ${{ printf "%.2f" $contabo.monthly_usd }}/month for {{ $contabo.ram_gb }} GB; Hostinger {{ $host.name }} starts at ${{ printf "%.2f" $host.monthly_usd }}/month for {{ $host.ram_gb }} GB. Hostinger's entry renewal is {{ printf "%.1f" (mul (sub (div $host.renewal_monthly_usd $host.monthly_usd) 1) 100) }}% above its introductory rate.</p>
+<p>These are observations of advertised plans, not performance measurements or a market-wide average.</p>
+<div class="vps-table-wrap"><table><caption>Lowest advertised Linux offer captured per provider &middot; 24-month term &middot; USD</caption><thead><tr><th>Provider / plan</th><th>First / month</th><th>Renewal / month</th><th>RAM</th><th>GB / USD per month</th><th>Checked / source</th></tr></thead><tbody>
+{{ range $provider := slice "Hostinger" "UltaHost" "Contabo" }}
+{{ $matches := where (where $data.plans "provider" $provider) "os" "Linux" }}
+{{ range first 1 (sort $matches "monthly_usd") }}
+<tr><td>{{ .provider }} {{ .name }}</td><td>${{ printf "%.2f" .monthly_usd }}</td><td>{{ if .renewal_monthly_usd }}${{ printf "%.2f" .renewal_monthly_usd }}{{ else }}Not displayed{{ end }}</td><td>{{ .ram_gb }} GB</td><td>{{ printf "%.2f" (div (float .ram_gb) .monthly_usd) }}</td><td><a href="{{ .source_url }}">Pricing source</a> &middot; {{ .checked }}</td></tr>
+{{ end }}{{ end }}</tbody></table></div>
+{{ end }}
+<p class="vps-note">Base hosting only. Taxes, region surcharges, optional licenses and add-ons excluded. Contabo setup fee and renewal: not displayed in captured pricing; its 24-month base subtotal is an estimate, not a checkout total. Only verified billing terms are calculated.</p>
+</section>
+{{ if eq (.Get 0) "calculator" }}
+<script id="vps-data" type="application/json">{{ $data | jsonify | safeJS }}</script>
+<script src="/js/vps-cost-calculator.js" defer></script>
+{{ end }}
+<p><strong>Affiliate disclosure:</strong> Hostinger and UltaHost links below are affiliate/referral links. An eligible purchase may earn us a commission.</p>
+<p class="vps-ctas">{{ range (index site.Data "affiliate-catalog").records }}{{ if in (slice "hostinger" "ultahost") .program_id }}<a href="{{ .referral_url }}" rel="sponsored nofollow noopener noreferrer" data-affiliate="true" data-article="{{ $.Page.File.ContentBaseName }}">Compare {{ .label }} plans &rarr;</a> {{ end }}{{ end }}</p>
