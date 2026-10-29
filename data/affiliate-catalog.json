@@ -255,6 +255,36 @@
         "checked_at": "2026-10-28",
         "note": "No official SubID parameter established for this issued link format; left blank. This does not prove the program has no SubID support."
       }
+    },
+    {
+      "cookie_days": null,
+      "intent": "review",
+      "source_url": "https://systeme.io/",
+      "referral_url": "https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70",
+      "label": "Systeme.io",
+      "offer_id": "funnel-builder",
+      "program_id": "systeme",
+      "commission": {
+        "value": "60",
+        "kind": "percent",
+        "currency": null
+      },
+      "status": "account_link_verified",
+      "keywords": [
+        "systeme.io review",
+        "funnel builder for freelancers"
+      ],
+      "evidence": {
+        "source_url": "email from newsletter@systeme.io 'Your affiliate link to promote systeme.io' to tung.samtek@gmail.com",
+        "note": "Affiliate link issued by email after signup on systeme.io/affiliate-program. Email states 60% lifetime commissions. Dashboard not yet reviewed; payout eligibility not verified.",
+        "captured_at": "2026-10-29"
+      },
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://systeme.io/affiliate-program",
+        "checked_at": "2026-10-29",
+        "note": "SubID support not established; left blank."
+      }
     }
   ]
 }

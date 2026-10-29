@@ -53,6 +53,8 @@ Include setup, migration, revisions, maintenance and client support. A claim tha
 
 ## Decision
 
+**[Try the free Systeme.io plan first](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
+
 Choose after essential requirements pass and the complete bill and workload fit your budget. Defer when ownership, permissions, export or an essential integration remains unresolved. We do not recommend upgrading solely because a free plan exists or a vendor promises higher conversion.
 
-**Disclosure:** the vendor links in this article are ordinary links. Legacy Systeme.io referral links were removed pending account ownership verification. No controlled performance test or verified partner attribution is claimed here.
+**Disclosure:** the Systeme.io button in this article is an affiliate link; we may earn a commission if you later buy a paid plan. ClickFunnels links are ordinary links. No controlled performance test is claimed here.

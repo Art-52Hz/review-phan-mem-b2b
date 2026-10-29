@@ -16,7 +16,7 @@ cover:
 
 Systeme.io combines funnel, email and course tools. Start by defining the client journey you need before deciding whether combining tools will save money. This guide uses vendor documentation checked October 5, 2026; a controlled product test and deliverability benchmark have not been completed. The earlier claim that this website used the platform was not supported by recorded evidence.
 
-**[Check current Systeme.io plans](https://systeme.io/pricing)**
+**[Start the free Systeme.io plan](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
 
 ---
 
@@ -138,11 +138,11 @@ The help page lists 60% lifetime commissions with applicable VAT deducted first.
 
 Evaluate the free plan if its current limits cover a small, defined workflow. Upgrade only when you can name the limit blocking an actual task and justify its full cost. No ranking, conversion or income improvement is promised. Start with the worksheet and record unresolved questions before buying.
 
-**[Review the current plans before choosing](https://systeme.io/pricing)**
+**[Try Systeme.io free (no card required)](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
 
 ---
 
-*Disclosure: This page currently uses ordinary Systeme.io vendor links while ownership and eligibility of the legacy referral ID await dashboard verification. Other pages may contain affiliate links. Commission terms do not establish hands-on experience or determine this guide's recommendation.*
+*Disclosure: The Systeme.io buttons on this page are affiliate links. If you sign up and later buy a paid plan, we may earn a commission at no extra cost to you. Commission terms do not determine this guide's recommendation, and we do not claim hands-on test results.*
 
 
 ---
