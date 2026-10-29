@@ -77,6 +77,8 @@ On Essential and Plus, alerts expire after 2 months and have to be recreated. Pr
 
 ## TradingView and MT4/MT5: different jobs
 
+For a forex-specific buying decision, read [TradingView for forex traders: charts, alerts and the MT4/MT5 workflow](/posts/tradingview-for-forex-traders/) before choosing a tier.
+
 TradingView is for charting, analysis and alerts. It runs in the browser and on TradingView's servers, so it keeps working when your computer is off. It does not run MetaTrader Expert Advisors. If you trade with an EA on MT4 or MT5, that terminal needs its own always-on machine; our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) covers the specs and what a VPS costs after the promo price ends. You can estimate the monthly total with the [VPS cost calculator](/tools/vps-cost-calculator/).
 
 A common low-cost setup is TradingView Essential for charts and webhook alerts plus a small VPS that receives the alerts and places orders through your broker's API.
