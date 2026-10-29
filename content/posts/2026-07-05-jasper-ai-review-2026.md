@@ -1,5 +1,5 @@
 ---
-title: "Jasper Review: Test Brand Rules, Source Fidelity and Review Costs"
+title: "Jasper Review: Brand Rules, Source Checks and Review Costs"
 date: 2026-07-05
 lastmod: 2026-10-08
 draft: false

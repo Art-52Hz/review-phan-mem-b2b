@@ -1,5 +1,5 @@
 ---
-title: "ClickUp Review: Check Workspace Limits, Automation and Client Access"
+title: "ClickUp Review: Workspace Limits, Automation and Access"
 date: 2026-07-10
 lastmod: 2026-10-09
 draft: false

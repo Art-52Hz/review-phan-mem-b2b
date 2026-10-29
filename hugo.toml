@@ -46,12 +46,12 @@ Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categorie
   [[menu.main]]
     identifier = "menu-hosting"
     name = "VPS & Hosting"
-    url = "/categories/hosting/"
+    url = "/vps-hosting/"
     weight = 2
   [[menu.main]]
     identifier = "menu-vpn"
     name = "VPN & Security"
-    url = "/categories/vpn/"
+    url = "/vpn/"
     weight = 3
   [[menu.main]]
     identifier = "menu-seo"
@@ -98,3 +98,9 @@ Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categorie
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[[menu.main]]
+identifier = "menu-ai-voice"
+name = "AI Voice Tools"
+url = "/ai-voice-tools/"
+weight = 2

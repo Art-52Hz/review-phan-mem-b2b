@@ -1,5 +1,5 @@
 ---
-title: "Newsletter Client Handoff: An Export and Acceptance Checklist"
+title: "Newsletter Client Handoff: Export and Acceptance Checklist"
 date: 2026-10-06
 slug: "newsletter-platform-exit-checklist"
 draft: false
@@ -13,6 +13,8 @@ cover:
 ---
 
 This guide uses vendor documentation. We have not completed a controlled account test or deliverability benchmark. Links on this page lead to documentation and our planning guides; this article contains no affiliate referral link.
+
+If the handoff also needs landing pages and a lead funnel, use our [Systeme.io funnel buying checklist](/posts/systeme-io-review-2026/) to compare the new scope before moving platforms.
 
 This guide is for a freelancer handing a newsletter over to a client or another operator. For a platform buying decision, use the [Kit subscriber journey guide](/posts/kit-review-2026/) and [newsletter platform comparison](/posts/getresponse-vs-mailchimp-2026/). Here, the deliverable is a handoff record the incoming operator can review.
 

@@ -1,9 +1,9 @@
 ---
-title: "Writesonic Review 2026: The AI Search Visibility Platform That Tracks Your Brand on ChatGPT, Claude & Gemini"
+title: "Writesonic Review 2026: AI Search Visibility Tools"
 date: 2026-06-12
 slug: "writesonic-review-2026"
 draft: false
-description: "Writesonic 2026 review: how this AI search visibility platform tracks your brand across ChatGPT, Perplexity, Gemini and helps you win more AI-driven traffic."
+description: "Explore Writesonic for AI search visibility and content work. Compare monitoring needs, plan access and project costs before choosing a subscription."
 keywords: ["writesonic review 2026", "writesonic ai search", "ai visibility platform", "brand visibility chatgpt", "writesonic vs semrush"]
 categories: ["AI Tools", "SEO"]
 tags: ["writesonic", "ai search", "seo", "brand visibility", "ai tools"]

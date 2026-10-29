@@ -1,5 +1,5 @@
 ---
-title: "Typeform Review: Check Response Limits, Form Logic and Client Handoff"
+title: "Typeform Review: Response Limits, Form Logic and Handoff"
 date: 2026-07-06
 lastmod: 2026-10-08
 draft: false

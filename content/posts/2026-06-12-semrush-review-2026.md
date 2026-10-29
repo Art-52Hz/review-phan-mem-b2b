@@ -1,5 +1,5 @@
 ---
-title: "Semrush Review: Match SEO Limits and Reporting to Client Work"
+title: "Semrush Review: SEO Limits, Reports and Client Work"
 date: 2026-06-12
 lastmod: 2026-10-08
 slug: "semrush-review-2026"

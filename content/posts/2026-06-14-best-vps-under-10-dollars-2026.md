@@ -1,5 +1,5 @@
 ---
-title: "Best VPS Under $10 (2026): Hostinger KVM 1 vs UltaHost VPS Basic"
+title: "Best VPS Under $10: Hostinger KVM 1 vs UltaHost Basic"
 date: 2026-06-14
 lastmod: 2026-10-28
 slug: "best-vps-under-10-dollars-2026"

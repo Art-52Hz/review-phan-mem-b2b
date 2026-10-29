@@ -15,6 +15,8 @@ cover:
 
 GetResponse and Mailchimp can both appear on an email-platform shortlist. For a freelancer or small business, the decision should start with a defined subscriber journey, required integrations and a complete cost quote.
 
+If the project also needs a funnel, compare the requirements in our [Systeme.io review for freelancer lead funnels](/posts/systeme-io-review-2026/) before choosing separate subscriptions.
+
 **Scope:** this is a documentation-based comparison checked on 5 October 2026. We have not run a controlled account comparison, inbox-placement benchmark or conversion study. We do not name an overall winner or assign product scores.
 
 ## Compare the plan you would actually buy

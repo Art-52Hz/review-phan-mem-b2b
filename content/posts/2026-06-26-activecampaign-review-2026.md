@@ -1,5 +1,5 @@
 ---
-title: "ActiveCampaign Review: Check Automation Limits and Client Handoff"
+title: "ActiveCampaign Review: Automation Limits and Handoff"
 date: 2026-06-26
 lastmod: 2026-10-08
 slug: "activecampaign-review-2026"

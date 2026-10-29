@@ -1,5 +1,5 @@
 ---
-title: "Notion AI Review: Check Plan Access and Test a Client Workflow"
+title: "Notion AI Review: Plan Access and Client Workflows"
 date: 2026-06-20
 lastmod: 2026-10-08
 slug: "notion-ai-review-2026"

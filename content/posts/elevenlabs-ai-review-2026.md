@@ -1,5 +1,5 @@
 ---
-title: "ElevenLabs Review (2026): Pricing, Free Plan Limits and Who Should Pay"
+title: "ElevenLabs Review 2026: Pricing, Free Limits and Paid Plans"
 date: 2026-06-11T21:42:49+07:00
 draft: false
 author: "Vincent Pham"

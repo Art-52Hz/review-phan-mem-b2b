@@ -1,5 +1,5 @@
 ---
-title: "Monday.com Review: Check Seats, Action Limits and Client Handoff"
+title: "Monday.com Review: Seats, Action Limits and Handoff"
 date: 2026-06-28
 lastmod: 2026-10-09
 slug: "monday-com-review-2026"

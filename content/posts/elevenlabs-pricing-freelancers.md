@@ -1,5 +1,5 @@
 ---
-title: "ElevenLabs Pricing for Freelancers: Credits, Revisions and the Real Invoice"
+title: "ElevenLabs Pricing: Credits, Revisions and Your Invoice"
 date: 2026-10-11T18:10:00+07:00
 lastmod: 2026-10-11
 draft: false

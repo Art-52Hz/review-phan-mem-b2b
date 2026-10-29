@@ -3,8 +3,19 @@
 {{- $data = merge $data (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL "description" .Site.Params.description) -}}
 {{- else if .IsPage -}}
 {{- $type := "WebPage" -}}
-{{- if eq .Section "posts" }}{{ $type = "BlogPosting" }}{{ end -}}
+{{- if eq .Section "posts" }}{{ $type = "Article" }}{{ end -}}
 {{- $data = merge $data (dict "@type" $type "headline" .Title "url" .Permalink "description" (.Description | default (.Summary | plainify)) "datePublished" (.PublishDate.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" (.Params.author | default .Site.Params.author) "url" ("about/" | absURL))) -}}
 {{- with .Params.cover.image }}{{ $data = merge $data (dict "image" (. | absURL)) }}{{ end -}}
 {{- end -}}
 {{- if or .IsHome .IsPage }}<script type="application/ld+json">{{ $data | jsonify | safeJS }}</script>{{ end -}}
+
+{{- if .IsPage -}}
+{{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.Home.Permalink) -}}
+{{- $position := 2 -}}
+{{- if eq .Section "posts" -}}
+{{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" "All Reviews" "item" ("posts/" | absURL)) -}}
+{{- $position = 3 -}}
+{{- end -}}
+{{- $items = $items | append (dict "@type" "ListItem" "position" $position "name" .Title "item" .Permalink) -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items | jsonify | safeJS }}</script>
+{{- end -}}

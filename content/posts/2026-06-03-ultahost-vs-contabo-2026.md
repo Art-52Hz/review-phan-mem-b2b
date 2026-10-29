@@ -1,5 +1,5 @@
 ---
-title: "UltaHost vs Contabo (2026): Cheap VPS Compared on Price and Support"
+title: "UltaHost vs Contabo 2026: VPS Price and Support"
 date: 2026-06-03
 lastmod: 2026-10-28
 slug: "ultahost-vs-contabo-2026"

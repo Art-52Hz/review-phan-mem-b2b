@@ -1,5 +1,5 @@
 ---
-title: "Systeme.io Review: Check Your Freelancer Funnel Before Buying"
+title: "Systeme.io Review: Is It Right for Your Freelancer Funnel?"
 date: 2026-06-15
 lastmod: 2026-10-05
 slug: "systeme-io-review-2026"

@@ -1,5 +1,5 @@
 ---
-title: "Descript Review: Check Transcript Edits, Usage and Client Handoff"
+title: "Descript Review: Transcript Editing, Usage and Handoff"
 date: 2026-06-23
 lastmod: 2026-10-08
 slug: "descript-review-2026"

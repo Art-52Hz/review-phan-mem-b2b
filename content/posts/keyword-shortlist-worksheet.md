@@ -1,12 +1,12 @@
 ---
-title: "Build a Freelance SEO Keyword Shortlist: A Worksheet for Intent and Results"
+title: "Freelance SEO Keyword Shortlist: Intent and Results"
 date: 2026-10-04T10:00:00+07:00
 draft: false
 author: "Vincent Pham"
 slug: "keyword-shortlist-worksheet"
 categories: ["Guides", "SEO Tools"]
 tags: ["keyword research", "freelancers", "search intent"]
-description: "Turn keyword candidates into a practical content shortlist. Record intent, existing pages, useful reader actions and measured results with a free worksheet."
+description: "Turn keyword candidates into a content shortlist. Record intent, existing pages, useful reader actions and measured results with a free worksheet."
 toc: true
 cover:
   image: "/images/keyword-shortlist-cover-v2.webp"

@@ -1,5 +1,5 @@
 ---
-title: "AI Voiceover Evaluation: A Scorecard for Freelance Client Work"
+title: "AI Voiceover Evaluation: A Scorecard for Client Work"
 date: 2026-10-03T10:00:00+07:00
 lastmod: 2026-10-09
 draft: false
@@ -16,6 +16,8 @@ cover:
 ---
 
 A convincing voice demo is a starting point. For a freelance project, the more useful test is whether the voice can pronounce your script, survive revisions and meet the client's delivery requirements. Use a repeatable scorecard before choosing a subscription.
+
+Once the sample meets your delivery requirements, use the [ElevenLabs buying guide](/posts/elevenlabs-ai-review-2026/) to check plan limits, downloads and the paid commitment.
 
 This guide provides an evaluation method, not a hands-on ranking. We have not measured the tools against this scorecard yet. A high listening score also does not establish commercial rights or permission to clone a person's voice.
 

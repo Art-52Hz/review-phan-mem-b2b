@@ -1,5 +1,5 @@
 ---
-title: "HubSpot CRM Review: Check Free Limits, Seats and Client Handoff"
+title: "HubSpot CRM Review: Free Limits, Seats and Handoff"
 date: 2026-07-04
 lastmod: 2026-10-08
 draft: false

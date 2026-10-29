@@ -1,5 +1,5 @@
 ---
-title: "Grammarly Review: Check Client Editing Rules Before Upgrading"
+title: "Grammarly Review: Client Editing Rules and Upgrade Costs"
 date: 2026-06-18
 lastmod: 2026-10-08
 slug: "grammarly-review-2026"

@@ -1,5 +1,5 @@
 ---
-title: "How to Pay for a VPS with Crypto in 2026: Invoice, Network and Refund Rules"
+title: "Pay for VPS with Crypto: Invoice, Network and Refunds"
 date: 2026-06-03
 slug: "pay-for-vps-with-crypto-bitcoin-2026"
 draft: false
