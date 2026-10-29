@@ -2,7 +2,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
+{{- /* Auto-generated tag/category listings (no _index.md) are thin: keep them crawlable but out of the index. */}}
+{{- $thinListing := and (in (slice "taxonomy" "term") .Kind) (not .File) }}
+{{- if $thinListing }}
+<meta name="robots" content="noindex, follow">
+{{- else if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
 <meta name="robots" content="index, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
