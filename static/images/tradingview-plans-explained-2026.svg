@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="TradingView plan prices per month, billed annually, October 2026">
+  <rect width="1200" height="630" fill="#101418"/>
+  <text x="80" y="110" fill="#f2f4f7" font-family="Arial, sans-serif" font-size="52" font-weight="700">TradingView plans 2026</text>
+  <text x="80" y="160" fill="#9aa4b2" font-family="Arial, sans-serif" font-size="28">Price per month, billed annually (checked Oct 29, 2026)</text>
+  <g font-family="Arial, sans-serif" font-size="28" fill="#f2f4f7">
+    <text x="80" y="262">Basic</text>
+    <rect x="300" y="232" width="8" height="44" fill="#4c6ef5"/>
+    <text x="330" y="262">$0</text>
+    <text x="80" y="342">Essential</text>
+    <rect x="300" y="312" width="52" height="44" fill="#4c6ef5"/>
+    <text x="372" y="342">$12.95</text>
+    <text x="80" y="422">Plus</text>
+    <rect x="300" y="392" width="120" height="44" fill="#4c6ef5"/>
+    <text x="440" y="422">$29.95</text>
+    <text x="80" y="502">Premium</text>
+    <rect x="300" y="472" width="240" height="44" fill="#4c6ef5"/>
+    <text x="560" y="502">$59.95</text>
+    <text x="80" y="582">Ultimate</text>
+    <rect x="300" y="552" width="800" height="44" fill="#4c6ef5"/>
+    <text x="900" y="540" fill="#9aa4b2">$199.95</text>
+  </g>
+</svg>
