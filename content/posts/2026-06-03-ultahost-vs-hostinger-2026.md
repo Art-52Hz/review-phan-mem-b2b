@@ -18,7 +18,7 @@ cover:
 **Pick UltaHost instead if server assistance matters more:** shortlist its managed offering, then confirm support covers your stack before paying.
 [Compare UltaHost plans and management options](https://ultahost.com/#art52hz).
 
-**Disclosure:** This page contains UltaHost affiliate links; an eligible purchase may earn us a commission. Hostinger links are ordinary source links.
+**Disclosure:** This page contains UltaHost and Hostinger affiliate links; an eligible purchase may earn us a commission at no extra cost to you.
 
 Based on official documentation and USD pricing checked October 28, 2026.
 
