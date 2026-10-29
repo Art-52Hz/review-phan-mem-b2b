@@ -43,7 +43,7 @@ A process that sends a small request periodically can have a different resource 
 
 Keep the acceptance check concrete: the application starts with the correct configuration, reaches the required endpoint, records errors and resumes without repeating an uncertain action. These are proposed criteria, not results from a funded trading deployment. This article evaluates infrastructure and does not assess a strategy's expected return.
 
-Signals and charting are a third job. If your bot acts on chart alerts, you can keep the charting in TradingView and have its webhook alerts (a paid-plan feature; check the current plan table) call an endpoint on your VPS. The VPS then only has to receive the request and run the order logic, which keeps the server small. [Compare TradingView plans](https://www.tradingview.com/?aff_id=1173587); new subscribers get a $15 discount through this link.
+Signals and charting are a third job. If your bot acts on chart alerts, you can keep the charting in TradingView and have its webhook alerts (available from the Essential plan; see our [TradingView plan comparison](/posts/tradingview-plans-explained-2026/)) call an endpoint on your VPS. The VPS then only has to receive the request and run the order logic, which keeps the server small. [Compare TradingView plans](https://www.tradingview.com/?aff_id=1173587); new subscribers get a $15 discount through this link.
 
 ## Measure the route that matters
 

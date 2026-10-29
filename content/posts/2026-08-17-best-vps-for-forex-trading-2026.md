@@ -65,7 +65,7 @@ Hostinger explicitly offers only Linux VPS templates. MetaQuotes documents insta
 
 A VPS is for software that must keep running when your computer is off: an MT4/MT5 terminal with an Expert Advisor, a bot or a copier. Chart analysis is different. TradingView runs in the browser and its alerts are processed on TradingView's servers, so you do not need to rent a server only to watch charts or get price alerts.
 
-Many traders split the job: TradingView for charts and alerts, a small VPS for the terminal that executes. TradingView has a free plan; paid plans (Essential, Plus, Premium, Ultimate) add more indicators per chart, more alerts and, on the plan table, webhook alerts that a bot on your VPS can receive. Check the current plan table before paying, because limits change.
+Many traders split the job: TradingView for charts and alerts, a small VPS for the terminal that executes. TradingView has a free plan; paid plans (Essential, Plus, Premium, Ultimate) add more indicators per chart, more alerts and, on the plan table, webhook alerts that a bot on your VPS can receive. Our [TradingView plan comparison](/posts/tradingview-plans-explained-2026/) lists which plan includes webhooks and how many alerts each tier allows.
 
 **[See TradingView plans (new subscribers get a $15 discount through this link)](https://www.tradingview.com/?aff_id=1173587)**
 
