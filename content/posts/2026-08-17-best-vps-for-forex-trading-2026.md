@@ -22,6 +22,8 @@ For a conventional Windows remote desktop, compare Windows plans first.
 
 Compare operating-system and remote-access costs with our [Windows VPS buying guide](/posts/best-windows-vps-hosting-2026/) before matching a quote to your terminal requirements.
 
+For an MT4-only budget, compare minimum requirements, prepaid totals and renewal costs in our [cheapest VPS for MT4 guide](/posts/cheapest-vps-for-mt4/).
+
 **[See UltaHost plans](https://ultahost.com/#art52hz)**
 
 *Affiliate disclosure: Some links are affiliate or referral links. We may earn a commission from eligible purchases.*
