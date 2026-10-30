@@ -81,6 +81,8 @@ If you are unsure, look at what you run today: if it already needs more than abo
 
 ## Before you buy
 
+For the difference between the public sale, referral eligibility and the ongoing bill, read our [Hostinger VPS discount and renewal guide](/posts/hostinger-vps-coupon-discount/).
+
 1. Decide the term. The prices here are for 24 months; shorter terms cost more per month. Check the term selector at checkout.
 2. Write down the renewal date and price. The day-one total is the promo; the renewal is the real long-term cost.
 3. Use the 30-day money-back window to load your actual workload and check memory and CPU before the refund period ends.
