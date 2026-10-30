@@ -81,6 +81,8 @@ If you are unsure, look at what you run today: if it already needs more than abo
 
 For a game world, use our [Minecraft VPS guide by player count](/posts/best-vps-for-minecraft-server/) to compare RAM needs and the separate Game Panel offers.
 
+For an automation-specific buying decision, see our [best VPS for self-hosted n8n guide](/posts/best-vps-for-n8n/), covering RAM planning, monthly cost and a practical workload check.
+
 ## Before you buy
 
 Still choosing a provider? Read our [Hostinger vs Contabo VPS comparison](/posts/hostinger-vs-contabo-vps/) for entry pricing, backup costs and support responsibilities.
