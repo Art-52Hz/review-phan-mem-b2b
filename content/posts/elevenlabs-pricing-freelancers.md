@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Pricing: Credits, Revisions and Your Invoice"
 date: 2026-10-11T18:10:00+07:00
-lastmod: 2026-10-11
+lastmod: 2026-10-30
 draft: false
 author: "Vincent Pham"
 slug: "elevenlabs-pricing-freelancers"
@@ -24,6 +24,8 @@ ElevenLabs pricing becomes useful when you connect it to a project you can descr
 [Download the blank pricing decision worksheet](/downloads/elevenlabs-pricing-decision.txt). No signup is needed.
 
 ## What the public pricing page shows
+
+For a newer tier-by-tier buying guide, see [ElevenLabs Free, Starter, Creator and Pro pricing explained](/posts/elevenlabs-pricing-plans-explained/). Use that October 30 snapshot for plan selection and the worksheet below for project allocation.
 
 The [official ElevenCreative pricing page](https://elevenlabs.io/pricing), checked October 11, lists these standard monthly figures in its FAQ:
 
