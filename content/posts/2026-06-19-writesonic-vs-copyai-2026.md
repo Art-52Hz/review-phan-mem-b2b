@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Writesonic vs Copy.ai: Choose for Your Content Job"
 date: 2026-06-19
 lastmod: 2026-10-08

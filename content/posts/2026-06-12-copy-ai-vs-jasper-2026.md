@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Copy.ai vs Jasper: Compare the Same Brief and Delivery Costs"
 date: 2026-06-12
 lastmod: 2026-10-08

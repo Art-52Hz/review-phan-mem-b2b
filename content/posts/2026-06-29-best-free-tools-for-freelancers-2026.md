@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Free Tools for Freelancers: Check Limits Before Client Work"
 date: 2026-06-29
 lastmod: 2026-10-08

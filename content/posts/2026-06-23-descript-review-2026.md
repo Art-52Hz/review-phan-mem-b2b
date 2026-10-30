@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Descript Review: Transcript Editing, Usage and Handoff"
 date: 2026-06-23
 lastmod: 2026-10-08

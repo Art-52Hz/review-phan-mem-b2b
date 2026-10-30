@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Midjourney Review: Plans, Visibility and Client Delivery"
 date: 2026-07-09
 lastmod: 2026-10-09

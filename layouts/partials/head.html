@@ -6,7 +6,10 @@
 {{- $thinListing := and (in (slice "taxonomy" "term") .Kind) (not .File) }}
 {{- if $thinListing }}
 <meta name="robots" content="noindex, follow">
-{{- else if hugo.IsProduction | or (eq site.Params.env "production") | and (ne .Params.robotsNoIndex true) }}
+{{- else if and (hugo.IsProduction | or (eq site.Params.env "production")) (eq .Params.robotsNoIndex true) }}
+{{- /* Off-niche pages with no affiliate offer: keep them for readers and pass link equity, but out of the index. */}}
+<meta name="robots" content="noindex, follow">
+{{- else if hugo.IsProduction | or (eq site.Params.env "production") }}
 <meta name="robots" content="index, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">

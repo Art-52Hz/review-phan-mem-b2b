@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Otter.ai Review: Meeting Limits, Notes and Client Handoff"
 date: 2026-06-25
 lastmod: 2026-10-08

@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Monday.com Review: Seats, Action Limits and Handoff"
 date: 2026-06-28
 lastmod: 2026-10-09
