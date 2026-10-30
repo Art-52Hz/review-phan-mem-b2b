@@ -1,7 +1,7 @@
 ---
 title: "Hostinger KVM 1 vs KVM 2 (2026): Which VPS Plan Do You Need?"
 date: 2026-10-29
-lastmod: 2026-10-29
+lastmod: 2026-10-30
 slug: "hostinger-kvm1-vs-kvm2-2026"
 summary: "KVM 1 and KVM 2 side by side: specs, the real day-one payment, renewal, and which workloads fit in 4 GB versus 8 GB of RAM."
 draft: false
@@ -78,6 +78,8 @@ If you are unsure, look at what you run today: if it already needs more than abo
 | Bot plus backtesting on the same server | KVM 2 | Two CPU-heavy jobs |
 | Self-hosted AI agent calling external APIs | KVM 1 | The model runs elsewhere |
 | Windows or MetaTrader terminals | Neither by default | These are Linux plans; see our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) |
+
+For an automation-specific buying decision, see our [best VPS for self-hosted n8n guide](/posts/best-vps-for-n8n/), covering RAM planning, monthly cost and a practical workload check.
 
 ## Before you buy
 
