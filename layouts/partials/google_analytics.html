@@ -1,0 +1,36 @@
+{{- /* GA4 chi tai khi co dau hieu nguoi that (tuong tac hoac trang hien 8 giay) va khong phai trinh duyet tu dong.
+   Muc dich: loai bot vao 0 giay (vd. luong "Direct" tu Singapore) khoi so lieu. Khong chan theo quoc gia. */ -}}
+{{- with site.Config.Services.GoogleAnalytics.ID }}
+{{- if hugo.IsProduction }}
+<script>
+(function () {
+  var id = "{{ . }}";
+  var ua = navigator.userAgent || "";
+  if (navigator.webdriver || /Headless|PhantomJS|Lighthouse|bot|crawl|spider/i.test(ua)) return;
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { dataLayer.push(arguments); };
+  var started = false, visibleMs = 0, last = Date.now(), timer;
+  var events = ["pointerdown", "mousemove", "scroll", "touchstart", "keydown"];
+  function start() {
+    if (started) return;
+    started = true;
+    clearInterval(timer);
+    events.forEach(function (e) { removeEventListener(e, start, true); });
+    gtag("js", new Date());
+    gtag("config", id);
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "https://www.googletagmanager.com/gtag/js?id=" + id;
+    document.head.appendChild(s);
+  }
+  events.forEach(function (e) { addEventListener(e, start, { capture: true, passive: true }); });
+  timer = setInterval(function () {
+    var now = Date.now();
+    if (document.visibilityState === "visible") visibleMs += now - last;
+    last = now;
+    if (visibleMs >= 8000) start();
+  }, 1000);
+})();
+</script>
+{{- end }}
+{{- end }}
