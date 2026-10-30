@@ -83,6 +83,8 @@ For a game world, use our [Minecraft VPS guide by player count](/posts/best-vps-
 
 ## Before you buy
 
+Still choosing a provider? Read our [Hostinger vs Contabo VPS comparison](/posts/hostinger-vs-contabo-vps/) for entry pricing, backup costs and support responsibilities.
+
 For the difference between the public sale, referral eligibility and the ongoing bill, read our [Hostinger VPS discount and renewal guide](/posts/hostinger-vps-coupon-discount/).
 
 1. Decide the term. The prices here are for 24 months; shorter terms cost more per month. Check the term selector at checkout.
