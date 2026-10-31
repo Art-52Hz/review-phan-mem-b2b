@@ -87,11 +87,11 @@ Decide where an independent backup will live and who can restore it. A backup la
 
 Use an already provisioned, authorized test server with a disposable application. This is an initial acceptance exercise; purchasing, provisioning, DNS propagation and a full recovery rehearsal may take longer.
 
-1. **Minutes 0?3: record the baseline.** Save the plan, location, operating system, invoice term and enabled extras. Write down what successful deployment should look like.
-2. **Minutes 3?6: deploy a small sample.** Use a staging hostname and synthetic data. Check the public page and one application action that matters, such as submitting a sample form.
-3. **Minutes 6?9: inspect resources.** Record memory, disk usage and application errors during that action. Save the environment details so any later comparison can use the same workload.
-4. **Minutes 9?12: inspect recovery.** Create a disposable file, back it up and restore it to a separate location where possible. If the operation takes longer, record it as incomplete and continue later.
-5. **Minutes 12?15: prepare a support question.** Describe a specific failure and ask whether resolving it is included. Record the eventual answer, elapsed time and outcome separately from the initial exercise.
+1. **Minutes 0–3: record the baseline.** Save the plan, location, operating system, invoice term and enabled extras. Write down what successful deployment should look like.
+2. **Minutes 3–6: deploy a small sample.** Use a staging hostname and synthetic data. Check the public page and one application action that matters, such as submitting a sample form.
+3. **Minutes 6–9: inspect resources.** Record memory, disk usage and application errors during that action. Save the environment details so any later comparison can use the same workload.
+4. **Minutes 9–12: inspect recovery.** Create a disposable file, back it up and restore it to a separate location where possible. If the operation takes longer, record it as incomplete and continue later.
+5. **Minutes 12–15: prepare a support question.** Describe a specific failure and ask whether resolving it is included. Record the eventual answer, elapsed time and outcome separately from the initial exercise.
 
 <!-- FIRST-HAND: Evidence needed: matched dated invoices, panel configuration, identical disposable app deployments, resource/error logs, completed restore evidence, and timestamped support tickets for both providers. Remove private account and client data before publication. -->
 

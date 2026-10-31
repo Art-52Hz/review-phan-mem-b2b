@@ -89,11 +89,11 @@ For example, a voice-tool comparison and a sample-evaluation worksheet have diff
 
 This is a suggested exercise. Begin with an account ready to use and the worksheet open; setup time is separate.
 
-1. **Minutes 0?3:** Write the audience, market and one decision. Add a seed phrase and an existing URL if relevant.
-2. **Minutes 3?6:** Search the seed in KWFinder with the intended location and language. Record promising related phrases and the displayed date/context alongside any estimates.
-3. **Minutes 6?10:** Inspect a candidate's result panel and relevant ranking pages. Note the dominant page type and an unanswered buying question. Record missing or unavailable results explicitly.
-4. **Minutes 10?13:** Choose one page to update, create or defer. Draft a title, opening answer, comparison criteria and the evidence you need.
-5. **Minutes 13?15:** Save the brief and record whether a tool limit prevented completion. Upgrade only if that blocked task is likely to recur.
+1. **Minutes 0–3:** Write the audience, market and one decision. Add a seed phrase and an existing URL if relevant.
+2. **Minutes 3–6:** Search the seed in KWFinder with the intended location and language. Record promising related phrases and the displayed date/context alongside any estimates.
+3. **Minutes 6–10:** Inspect a candidate's result panel and relevant ranking pages. Note the dominant page type and an unanswered buying question. Record missing or unavailable results explicitly.
+4. **Minutes 10–13:** Choose one page to update, create or defer. Draft a title, opening answer, comparison criteria and the evidence you need.
+5. **Minutes 13–15:** Save the brief and record whether a tool limit prevented completion. Upgrade only if that blocked task is likely to recur.
 
 <!-- FIRST-HAND: evidence still needed: capture a permitted KWFinder session showing the selected market, available allowance, seed, suggestions and usable SERP panel; redact account details; save the matching worksheet and dated page decision before adding first-hand claims. -->
 

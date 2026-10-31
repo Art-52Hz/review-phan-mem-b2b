@@ -50,7 +50,7 @@ For Murf, the annual Creator price is attractive only when you expect to keep us
 
 Leave room in your project estimate for revisions. A client changing a product name after approval can mean another generation and another editing pass. Our [project cost worksheet](/posts/freelance-tool-project-cost/) helps separate subscription allocation, required add-ons and your active working time. The cheaper subscription wins only if the finished result also meets the brief.
 
-## Who should choose ElevenLabs ? and who should not?
+## Who should choose ElevenLabs, and who should not?
 
 **Choose ElevenLabs if you already edit video elsewhere and primarily need a voice track.** It is a sensible starting point for a solo creator who wants to validate narration before building a more elaborate production workflow. Keep your existing video editor and evaluate the voice against your audience, pacing and pronunciation requirements.
 
@@ -62,7 +62,7 @@ The other important limit is licensing at generation time. ElevenLabs' [commerci
 
 For more detail before buying, read our [ElevenLabs plan and pricing review](/posts/elevenlabs-ai-review-2026/).
 
-## Who should choose Murf ? and who should not?
+## Who should choose Murf, and who should not?
 
 **Choose Murf Creator when narration is part of a visual production routine.** A freelancer making explainers in Canva has a concrete reason to evaluate its integration: fewer handoffs may matter more than choosing a voice tool in isolation. Use your real storyboard during the trial, including the passage you expect the client to revise.
 
@@ -80,11 +80,11 @@ Our [Murf trial and delivery checklist](/posts/murf-ai-review-2026/) covers the 
 
 Treat this as a suggested evaluation schedule, not a promised setup time. Have your script ready before starting; account setup can take additional time.
 
-1. **Minutes 0?3: define one shared brief.** Choose a short passage you own or have permission to use. Include a name, a number, specialist vocabulary and a transition between ideas. Write down the target audience and delivery format.
-2. **Minutes 3?7: generate comparable previews.** Keep the wording identical in both tools. Choose voices intended for the same audience. Record the voice names and settings so you can repeat the comparison later.
-3. **Minutes 7?11: correct the difficult sentence.** Try fixing the name or pacing without rewriting the entire brief. Note what you changed, whether the correction worked, and the usage consumed. Leave unavailable observations blank.
-4. **Minutes 11?13: check the handoff.** Inspect the export options for the plan you would buy. In Murf's trial, record the paid export requirement rather than trying to work around it. For an existing paid account, open a permitted export in your intended editor.
-5. **Minutes 13?15: make a purchase decision.** Pick the tool that passes pronunciation, delivery and usage requirements with an editing process you can repeat. If neither passes, revise the brief or keep looking before spending.
+1. **Minutes 0–3: define one shared brief.** Choose a short passage you own or have permission to use. Include a name, a number, specialist vocabulary and a transition between ideas. Write down the target audience and delivery format.
+2. **Minutes 3–7: generate comparable previews.** Keep the wording identical in both tools. Choose voices intended for the same audience. Record the voice names and settings so you can repeat the comparison later.
+3. **Minutes 7–11: correct the difficult sentence.** Try fixing the name or pacing without rewriting the entire brief. Note what you changed, whether the correction worked, and the usage consumed. Leave unavailable observations blank.
+4. **Minutes 11–13: check the handoff.** Inspect the export options for the plan you would buy. In Murf's trial, record the paid export requirement rather than trying to work around it. For an existing paid account, open a permitted export in your intended editor.
+5. **Minutes 13–15: make a purchase decision.** Pick the tool that passes pronunciation, delivery and usage requirements with an editing process you can repeat. If neither passes, revise the brief or keep looking before spending.
 
 [Download the blank voiceover scorecard](/downloads/voiceover-evaluation-scorecard.txt) to keep the comparison consistent. Our [evaluation scorecard guide](/posts/voiceover-evaluation-scorecard/) explains how to separate mandatory delivery checks from listening preferences.
 

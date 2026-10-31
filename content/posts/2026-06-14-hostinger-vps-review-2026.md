@@ -84,11 +84,11 @@ A backup listing is only the beginning of the evidence. The practical question i
 
 Use this as an initial inspection on an already provisioned, disposable server you are authorized to access. Provisioning, purchasing and a complete recovery exercise sit outside this short check. Set a timer and write down failures as well as successes.
 
-1. **Minutes 0?3: verify the order.** Match the selected tier, region and term to the receipt. Record the upfront payment and renewal information. The [official renewal guide](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/) explains where to inspect renewal details; checked October 28, 2026.
-2. **Minutes 3?6: inspect access and capacity.** Confirm your SSH access, then use `free -h`, `df -h` and `nproc` to record the environment. These observations verify configuration; they do not establish application performance.
-3. **Minutes 6?10: deploy something representative.** Use a sanitized copy of your application or a minimal sample with the same runtime. Check a page, a database operation and a background job. Record what works without importing client secrets.
-4. **Minutes 10?13: inspect recovery controls.** Locate the backup schedule and snapshot controls. Write down the available restore points. Leave destructive restoration for a separate, explicitly authorized exercise on disposable data.
-5. **Minutes 13?15: make the decision.** List missing configuration, unresolved support questions and expected maintenance tasks in the worksheet. Continue only if you can assign each task to an owner.
+1. **Minutes 0–3: verify the order.** Match the selected tier, region and term to the receipt. Record the upfront payment and renewal information. The [official renewal guide](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/) explains where to inspect renewal details; checked October 28, 2026.
+2. **Minutes 3–6: inspect access and capacity.** Confirm your SSH access, then use `free -h`, `df -h` and `nproc` to record the environment. These observations verify configuration; they do not establish application performance.
+3. **Minutes 6–10: deploy something representative.** Use a sanitized copy of your application or a minimal sample with the same runtime. Check a page, a database operation and a background job. Record what works without importing client secrets.
+4. **Minutes 10–13: inspect recovery controls.** Locate the backup schedule and snapshot controls. Write down the available restore points. Leave destructive restoration for a separate, explicitly authorized exercise on disposable data.
+5. **Minutes 13–15: make the decision.** List missing configuration, unresolved support questions and expected maintenance tasks in the worksheet. Continue only if you can assign each task to an owner.
 
 <!-- FIRST-HAND: Real screenshots or measurements still required: sanitized order and renewal screenshots, tier and region, dated resource output, representative application checks, backup schedule and a separately authorized disposable-server restore log. -->
 

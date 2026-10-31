@@ -34,7 +34,7 @@ USD prices below were checked October 29, 2026. Monthly equivalents on long cont
 
 | Buyer criterion | Hostinger Premium shared hosting | UltaHost VPS Basic |
 |---|---|---|
-| Advertised entry price | $2.49/month on a 48-month term; $119.52 upfront | $5.52/month on a 2-year term; $132.48 calculated as $5.52 ? 24 |
+| Advertised entry price | $2.49/month on a 48-month term; $119.52 upfront | $5.52/month on a 2-year term; $132.48 calculated as $5.52 × 24 |
 | Listed renewal | $10.99/month for the same term | $5.52/month for 2 years |
 | Main published limits | 3 websites, 20 GB SSD storage; weekly backups | 1 CPU core, 1 GB RAM, 30 GB NVMe storage |
 | Free plan or trial | Paid hosting; a money-back guarantee is advertised, not a free trial | Paid VPS; refund exclusions make the guarantee different from a free trial |
@@ -85,11 +85,11 @@ If you want alternatives, use our [VPS comparison for freelancers](/posts/best-v
 
 Use this as an initial fit check on an existing account or an environment you are authorized to evaluate. It does not require buying hosting, and it is not a complete migration test.
 
-1. **Minutes 0?3:** Write down the page or job that matters most, the current failure and what a successful result would look like. Save the relevant error or resource-limit message.
-2. **Minutes 3?6:** Check the candidate's plan details against your runtime, storage and background-task requirements. Send unresolved questions to support before ordering.
-3. **Minutes 6?10:** If you already have a staging environment, run the same workflow there. For a website, open the main page, submit a test form and verify the expected result without sending real customer data.
-4. **Minutes 10?13:** Locate backup and restore controls. Establish who can restore the site and where the recovery instructions are kept; schedule a separate restoration drill.
-5. **Minutes 13?15:** Save the quoted term, renewal and add-ons. Mark each requirement passed, failed or unresolved, and choose the next action from that evidence.
+1. **Minutes 0–3:** Write down the page or job that matters most, the current failure and what a successful result would look like. Save the relevant error or resource-limit message.
+2. **Minutes 3–6:** Check the candidate's plan details against your runtime, storage and background-task requirements. Send unresolved questions to support before ordering.
+3. **Minutes 6–10:** If you already have a staging environment, run the same workflow there. For a website, open the main page, submit a test form and verify the expected result without sending real customer data.
+4. **Minutes 10–13:** Locate backup and restore controls. Establish who can restore the site and where the recovery instructions are kept; schedule a separate restoration drill.
+5. **Minutes 13–15:** Save the quoted term, renewal and add-ons. Mark each requirement passed, failed or unresolved, and choose the next action from that evidence.
 
 <!-- FIRST-HAND: Evidence needed: capture a redacted plan invoice, current shared-host resource-limit evidence, the same staging workflow on each candidate, and a documented backup restoration result with environment and date. -->
 
