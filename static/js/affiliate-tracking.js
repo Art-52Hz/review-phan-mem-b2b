@@ -27,7 +27,8 @@
     var programs = {
       "mangools.com": "mangools", "get.murf.ai": "murf",
       "try.elevenlabs.io": "elevenlabs", "beautifulai.partnerlinks.io": "beautifulai",
-      "ultahost.com": "ultahost", "www.hostinger.com": "hostinger"
+      "ultahost.com": "ultahost", "www.hostinger.com": "hostinger",
+      "systeme.io": "systeme", "www.tradingview.com": "tradingview"
     };
     var article = link.getAttribute("data-article");
     var content = link.closest(".post-content");

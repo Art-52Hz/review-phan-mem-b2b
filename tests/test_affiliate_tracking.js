@@ -26,7 +26,8 @@ for (const options of [{dnt:'1'},{dnt:'yes'},{marked:false},{gtag:false},{inCont
   {article:'person@example.com'},{href:'https://unknown.example/'},{href:'https://aiprofreelancer.com/'},
   {href:'javascript:alert(1)'}]) assert.equal(click(options).length, 0);
 for (const [host, program] of Object.entries({'mangools.com':'mangools','try.elevenlabs.io':'elevenlabs',
-  'beautifulai.partnerlinks.io':'beautifulai','ultahost.com':'ultahost','www.hostinger.com':'hostinger'})) {
+  'beautifulai.partnerlinks.io':'beautifulai','ultahost.com':'ultahost','www.hostinger.com':'hostinger',
+  'systeme.io':'systeme','www.tradingview.com':'tradingview'})) {
   assert.equal(click({href:`https://${host}/issued`})[0][2].program,program);
 }
 console.log('Affiliate tracking: positions, host mapping, privacy, DNT, nested targets and exclusions passed');
