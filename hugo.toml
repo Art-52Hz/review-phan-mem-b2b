@@ -6,6 +6,7 @@ googleAnalytics = "G-FHNLXVNY7R"
 enableRobotsTXT = true
 
 [params]
+  mainSections = ["posts"]
   description = "Honest reviews of B2B software, SaaS tools, and AI products to help freelancers and businesses make smarter decisions."
   author = "Vincent Phạm"
   ShowReadingTime = true
@@ -18,24 +19,14 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   googleSiteVerification = "6zx8ayAQl6MTjYDpIFX7IkNt-IvRhtmUyGGvFeiFVpI"
 
+  [params.label]
+    text = "AI Pro Freelancer"
+    icon = "/images/logo-mark.svg"
+    iconHeight = 30
+
   [params.homeInfoParams]
-    Title = "Choose software for the work you need to do"
-    Content = """
-Independent guides, reviews and comparisons of **AI tools, VPS & hosting, VPNs, and SEO software**. Check each article's sources and current vendor details before choosing a product.
-
-**Start with your next client project:**
-
-- **Need a voiceover?** [Evaluate one sample](/posts/voiceover-evaluation-scorecard/) → [Check ElevenLabs costs and usage rights](/posts/elevenlabs-ai-review-2026/) → [Download the project budget](/downloads/voiceover-project-budget.txt).
-- **Need a search content plan?** [Follow the keyword workflow](/posts/keyword-research-for-freelancers/) → [Build your shortlist](/posts/keyword-shortlist-worksheet/). The workflow explains when a keyword tool is useful and when to continue with free evidence.
-
-The linked buying guides disclose affiliate relationships. Worksheets are free to download; no signup is required.
-
-**Choose the job you need to do:** [Plan your keywords](/posts/keyword-research-for-freelancers/) · [Evaluate an AI voiceover](/posts/voiceover-evaluation-scorecard/) · [Hand off editable slides](/posts/beautiful-ai-review-2026/) · [Check a VPS before buying](/posts/ultahost-vps-review/) · [Transfer a client WordPress site](/posts/wordpress-client-site-transfer-checklist/). Each guide helps you record requirements before choosing a tool.
-
-**Before subscribing:** [Compare the whole project cost](/posts/freelance-tool-project-cost/) with our free worksheet. Include setup, revisions and maintenance; the lowest subscription price may not be the lowest project cost.
-
-Browse by topic: [AI Tools](/categories/ai-tools/) · [VPS & Hosting](/categories/hosting/) · [VPN & Security](/categories/vpn/) · [SEO Tools](/categories/seo-tools/) · [Productivity](/categories/productivity/).
-"""
+    Title = "Know the real price **before** you buy that VPS or AI tool"
+    Subtitle = "Plain-English reviews and side-by-side comparisons of VPS hosting, AI voice, trading and SEO tools — with the renewal price, the limits and who each plan actually fits."
 
 [menu]
   [[menu.main]]

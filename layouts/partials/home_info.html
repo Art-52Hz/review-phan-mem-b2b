@@ -1,0 +1,50 @@
+{{- with site.Params.homeInfoParams }}
+<section class="first-entry home-info hero">
+  <p class="hero-eyebrow">Independent buying guides · prices re-checked monthly</p>
+  <h1>{{ .Title | markdownify }}</h1>
+  <p class="hero-sub">{{ .Subtitle | markdownify }}</p>
+  <div class="hero-actions">
+    <a class="btn btn-primary" href="/vps-price-index-2026/">Compare VPS prices</a>
+    <a class="btn btn-ghost" href="/posts/">Browse all guides</a>
+  </div>
+  <ul class="hero-trust">
+    <li>Renewal price shown, not just the promo</li>
+    <li>Sources linked and dated</li>
+    <li>Affiliate links always disclosed</li>
+  </ul>
+</section>
+{{- end }}
+
+<h2 class="section-title">Pick a topic</h2>
+<div class="topic-grid">
+  <a class="topic t-vps" href="/vps-hosting/"><strong>VPS &amp; Hosting</strong><span>Hostinger, UltaHost, Contabo — real monthly cost</span></a>
+  <a class="topic t-voice" href="/ai-voice-tools/"><strong>AI Voice</strong><span>ElevenLabs vs Murf, credits and usage rights</span></a>
+  <a class="topic t-trade" href="/categories/trading-tools/"><strong>Trading</strong><span>TradingView plans, MT4/MT5 VPS specs</span></a>
+  <a class="topic t-seo" href="/categories/seo-tools/"><strong>SEO Tools</strong><span>KWFinder and free keyword workflows</span></a>
+  <a class="topic t-vpn" href="/vpn/"><strong>VPN &amp; Security</strong><span>What a freelancer actually needs</span></a>
+  <a class="topic t-mkt" href="/tools/vps-cost-calculator/"><strong>VPS Cost Calculator</strong><span>Upfront bill vs renewal, in one minute</span></a>
+</div>
+
+{{- $featured := slice "2026-06-03-ultahost-vs-hostinger-2026" "2026-06-14-hostinger-vps-review-2026" "2026-08-17-best-vps-for-forex-trading-2026" "elevenlabs-pricing-plans-explained" "2026-06-21-murf-ai-review-2026" "mangools-kwfinder-review" }}
+<h2 class="section-title">Most-read buying guides</h2>
+<div class="post-grid featured">
+{{- range $featured }}
+{{- with site.GetPage (printf "/posts/%s" .) }}
+<article class="post-entry card">
+  {{- partial "card_thumb.html" . }}
+  <div class="card-body">
+    <header class="entry-header"><h3>{{ .Title }}</h3></header>
+    <footer class="entry-footer">{{ .ReadingTime }} min read</footer>
+  </div>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+</article>
+{{- end }}
+{{- end }}
+</div>
+
+<aside class="freebies">
+  <div>
+    <strong>Free worksheets, no signup</strong>
+    <p>Budget a client project before you subscribe: <a href="/posts/freelance-tool-project-cost/">project cost worksheet</a> · <a href="/posts/voiceover-evaluation-scorecard/">voiceover scorecard</a> · <a href="/posts/keyword-shortlist-worksheet/">keyword shortlist</a> · <a href="/posts/wordpress-client-site-transfer-checklist/">WordPress transfer checklist</a>.</p>
+  </div>
+</aside>

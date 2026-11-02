@@ -1,0 +1,31 @@
+{{- /* Card thumbnail: topic gradient + line icon. Avoids repeating shared cover images in lists. */ -}}
+{{- $t := lower (printf "%s %s %s" .Title (delimit (.Params.tags | default slice) " ") (delimit (.Params.categories | default slice) " ")) -}}
+{{- $topic := "ai" -}}
+{{- $label := "AI Tools" -}}
+{{- if findRE `tradingview|forex|mt4|mt5|trading` $t -}}{{- $topic = "trade" -}}{{- $label = "Trading" -}}
+{{- else if findRE `vpn|security|privacy` $t -}}{{- $topic = "vpn" -}}{{- $label = "VPN & Security" -}}
+{{- else if findRE `vps|hosting|server|wordpress|n8n|docker|minecraft` $t -}}{{- $topic = "vps" -}}{{- $label = "VPS & Hosting" -}}
+{{- else if findRE `voice|elevenlabs|murf|audio|narration|voiceover` $t -}}{{- $topic = "voice" -}}{{- $label = "AI Voice" -}}
+{{- else if findRE `seo|keyword|kwfinder|mangools|semrush|ahrefs` $t -}}{{- $topic = "seo" -}}{{- $label = "SEO" -}}
+{{- else if findRE `systeme|funnel|email|newsletter|marketing` $t -}}{{- $topic = "mkt" -}}{{- $label = "Marketing" -}}
+{{- end -}}
+{{- $kind := "Guide" -}}
+{{- if findRE `(?i)\bvs\.?\b|compared|alternatives` .Title -}}{{- $kind = "Comparison" -}}
+{{- else if findRE `(?i)review` .Title -}}{{- $kind = "Review" -}}
+{{- else if findRE `(?i)pricing|price|cost|coupon|discount|renewal` .Title -}}{{- $kind = "Pricing" -}}
+{{- else if findRE `(?i)^best|cheapest` .Title -}}{{- $kind = "Best of" -}}
+{{- end -}}
+<div class="card-thumb t-{{ $topic }}" aria-hidden="true">
+  <span class="card-chip">{{ $label }}</span>
+  <span class="card-kind">{{ $kind }}</span>
+  <svg class="card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+  {{- if eq $topic "vps" }}<rect x="3" y="4" width="18" height="6" rx="1.5"/><rect x="3" y="14" width="18" height="6" rx="1.5"/><circle cx="7" cy="7" r=".6"/><circle cx="7" cy="17" r=".6"/><path d="M11 7h6M11 17h6"/>
+  {{- else if eq $topic "voice" }}<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3M8 21h8"/>
+  {{- else if eq $topic "trade" }}<path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-7"/><path d="M16 7h4v4"/>
+  {{- else if eq $topic "seo" }}<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21M8 12l2-2 2 2 2-3"/>
+  {{- else if eq $topic "vpn" }}<path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/>
+  {{- else if eq $topic "mkt" }}<path d="M3 5h18l-7 8v6l-4 2v-8z"/>
+  {{- else }}<path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/>
+  {{- end }}
+  </svg>
+</div>
