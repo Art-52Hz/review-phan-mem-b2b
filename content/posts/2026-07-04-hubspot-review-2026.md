@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "HubSpot CRM Review: Free Limits, Seats and Handoff"
 date: 2026-07-04
 lastmod: 2026-10-08

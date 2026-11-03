@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "NordVPN vs ExpressVPN: Connection Limits and Work Setup"
 date: 2026-06-16
 slug: "nordvpn-vs-expressvpn-2026"

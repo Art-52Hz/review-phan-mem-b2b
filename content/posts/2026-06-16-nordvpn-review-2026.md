@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "NordVPN Review: Plan Costs, Devices and Work Access"
 date: 2026-06-16
 lastmod: 2026-10-09

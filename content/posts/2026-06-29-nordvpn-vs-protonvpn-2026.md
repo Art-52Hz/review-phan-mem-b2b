@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "NordVPN vs Proton VPN: Check Free-Plan Limits Before Paying"
 date: 2026-06-29
 lastmod: 2026-10-11

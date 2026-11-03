@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Semrush Review: SEO Limits, Reports and Client Work"
 date: 2026-06-12
 lastmod: 2026-10-08

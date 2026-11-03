@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Newsletter Client Handoff: Export and Acceptance Checklist"
 date: 2026-10-06
 slug: "newsletter-platform-exit-checklist"

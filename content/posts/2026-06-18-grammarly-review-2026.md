@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Grammarly Review: Client Editing Rules and Upgrade Costs"
 date: 2026-06-18
 lastmod: 2026-10-08

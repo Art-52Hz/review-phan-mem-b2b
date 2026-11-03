@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "VPN for Crypto Accounts: Connections and Login Safety"
 date: 2026-08-17
 lastmod: 2026-10-09

@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "GetResponse vs Mailchimp: Compare the Plan and Project Cost"
 date: 2026-06-27
 lastmod: 2026-10-05

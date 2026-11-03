@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "NordVPN vs Surfshark: Devices, Renewal and Work Access"
 date: 2026-06-17
 lastmod: 2026-10-11

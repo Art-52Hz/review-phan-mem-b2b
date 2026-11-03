@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "Ahrefs vs Semrush: Choose for Your SEO Work"
 date: 2026-06-29
 lastmod: 2026-10-03

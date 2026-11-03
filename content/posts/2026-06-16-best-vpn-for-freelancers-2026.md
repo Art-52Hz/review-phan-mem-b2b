@@ -1,4 +1,5 @@
 ---
+robotsNoIndex: true
 title: "VPN for Freelancers: Check Client Access Before Buying"
 date: 2026-06-16
 slug: "best-vpn-for-freelancers-2026"
