@@ -33,7 +33,7 @@ These are the USD offers displayed on the official pages, with different commitm
 | Hostinger KVM 1 VPS | $6.49/month; $155.76 paid for 24 months | $11.99/month for the same term | 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB bandwidth; weekly backups | Advertised 30-day money-back guarantee; not a free trial | Developer needing a configurable server |
 | UltaHost VPS Basic | $5.52/month on the displayed 2-year offer | $5.52/month for 2 years | 1 CPU core, 1 GB RAM, 30 GB NVMe; management depends on configuration | Advertised 30-day money-back guarantee; not a free trial | Buyer seeking server control with management help |
 
-**Table sources, checked October 29, 2026:** [Hostinger WordPress pricing and features](https://www.hostinger.com/wordpress-hosting), [Hostinger VPS pricing and features](https://www.hostinger.com/vps-hosting), and [UltaHost VPS pricing and management FAQ](https://ultahost.com/vps-hosting). UltaHost's headline says $5.51/month, but its Basic plan card says $5.52; the table uses the specific plan card. A refund offer requires an upfront purchase and its applicable conditions.
+**Table sources, checked October 29, 2026:** [Hostinger WordPress pricing and features](https://www.hostinger.com/wordpress-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger VPS pricing and features](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost VPS pricing and management FAQ](https://ultahost.com/vps-hosting#art52hz). UltaHost's headline says $5.51/month, but its Basic plan card says $5.52; the table uses the specific plan card. A refund offer requires an upfront purchase and its applicable conditions.
 
 Do not rank these options by memory or storage alone. A WordPress hosting allowance and a VPS allocation describe different products. The useful question is whether your application fits and whether someone can operate it reliably.
 
@@ -41,7 +41,7 @@ Do not rank these options by memory or storage alone. A WordPress hosting allowa
 
 Managed WordPress is the sensible starting point when the deliverable is a conventional WordPress website. Your buying checklist can focus on publishing, migration, backups and the support boundary. You still need someone to approve changes, check forms and handle the site's content.
 
-A VPS gives you a server environment to configure. Hostinger's [VPS responsibility documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 29, 2026, assigns the internal software to you while Hostinger maintains the physical infrastructure. Templates and AI tools can assist the operator; they do not replace that ownership.
+A VPS gives you a server environment to configure. Hostinger's [VPS responsibility documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, assigns the internal software to you while Hostinger maintains the physical infrastructure. Templates and AI tools can assist the operator; they do not replace that ownership.
 
 UltaHost's management FAQ, cited above, distinguishes unmanaged, semi-managed and fully managed configurations. It links full management to adding a control panel, with free and paid panel choices. Ask for the scope attached to your exact configuration before treating its advertised managed service as your maintenance agreement.
 

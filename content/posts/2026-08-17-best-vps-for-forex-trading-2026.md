@@ -41,7 +41,7 @@ Compare operating environments before headline prices. The cheapest Linux server
 | Hostinger KVM 1 | $6.49/month equivalent; $155.76 prepaid for 24 months; renews at $11.99/month for same term | 1 vCPU / 4 GB / 50 GB NVMe | Advertised 30-day money-back guarantee, subject to eligibility | Linux with Wine; no Windows VPS template |
 | Hostinger KVM 2 | $8.79/month equivalent; $210.96 prepaid for 24 months; renews at $14.99/month for same term | 2 vCPU / 8 GB / 100 GB NVMe | Same advertised guarantee | More Linux capacity; software compatibility still needs checking |
 
-Table sources, checked October 28, 2026: [UltaHost Windows pricing cards](https://ultahost.com/windows-hosting), [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting), [Hostinger OS documentation](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/), and [UltaHost refund policy](https://ultahost.com/refund).
+Table sources, checked October 28, 2026: [UltaHost Windows pricing cards](https://ultahost.com/windows-hosting#art52hz), [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger OS documentation](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost refund policy](https://ultahost.com/refund#art52hz).
 
 UltaHost displays conflicting prices: its hero shows $16.24/month, while a lower comparison table lists Basic at $20.29/month. The table above uses named plan cards with explicit terms and renewals. Confirm the final invoice, Windows license inclusion and tax before buying. Hostinger's monthly equivalents require the stated upfront payment, rather than monthly billing.
 
@@ -51,13 +51,13 @@ UltaHost displays conflicting prices: its hero shows $16.24/month, while a lower
 
 **Do not choose it solely because it says managed.** Establish who owns terminal updates, plug-in failures, reboots and EA recovery. The inconsistent advertised prices also make written billing confirmation essential before a long commitment.
 
-The [refund policy checked October 28, 2026](https://ultahost.com/refund) excludes yearly, biennial and triennial VPS refunds, limits eligibility to a first qualifying package, and excludes promotional purchases and specified payment methods including cryptocurrency. A guarantee badge is not a free trial. Confirm eligibility for your exact order.
+The [refund policy checked October 28, 2026](https://ultahost.com/refund#art52hz) excludes yearly, biennial and triennial VPS refunds, limits eligibility to a first qualifying package, and excludes promotional purchases and specified payment methods including cryptocurrency. A guarantee badge is not a free trial. Confirm eligibility for your exact order.
 
 ## Who should choose Hostinger / who should not
 
 **Choose Hostinger if** you already administer Linux and can validate the terminal and its dependencies. Its lower advertised entry price makes it a budget candidate for that workflow, rather than a substitute for Windows licensing.
 
-Hostinger explicitly offers only Linux VPS templates. MetaQuotes documents installing MT5 through Wine; that does not establish compatibility for every broker build or MT4 extension. Sources: [Hostinger OS restrictions](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/) and [MetaQuotes Linux installation guide](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux), checked October 28, 2026.
+Hostinger explicitly offers only Linux VPS templates. MetaQuotes documents installing MT5 through Wine; that does not establish compatibility for every broker build or MT4 extension. Sources: [Hostinger OS restrictions](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) and [MetaQuotes Linux installation guide](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux), checked October 28, 2026.
 
 **Do not choose Hostinger if** your requirement is a supported Windows image or nobody can maintain Linux and Wine updates. Cheap infrastructure loses its appeal when application recovery has no owner.
 
@@ -96,7 +96,7 @@ A location label or a provider's network advertisement is not a measurement of y
 
 Ask who handles operating-system updates, application updates, access failures, reboots, backup checks and incident escalation. An infrastructure SLA and application monitoring describe different responsibilities. Do not assume a terminal or automation will restart correctly after an update.
 
-Hostinger's [self-managed VPS documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/) describes the split between provider infrastructure and user software responsibility. Read its [backup and restore documentation](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/) separately before relying on recovery. These documents do not establish that a quoted plan supports your application or Windows requirements.
+Hostinger's [self-managed VPS documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) describes the split between provider infrastructure and user software responsibility. Read its [backup and restore documentation](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) separately before relying on recovery. These documents do not establish that a quoted plan supports your application or Windows requirements.
 
 See our [managed WordPress and self-managed VPS responsibility guide](/posts/managed-wordpress-vps-hosting-2026/) for an example of assigning operating tasks. WordPress-specific management is not equivalent to managing a trading terminal.
 
@@ -120,7 +120,7 @@ Keep a recovery record with the operator, access recovery route, backup location
 
 For a Windows terminal, shortlist UltaHost and resolve the license, invoice and refund eligibility first. Consider Basic after a representative demo workload fits; compare Business when memory is the bottleneck. For an intentionally maintained Linux setup, Hostinger is the lower advertised entry-price alternative here.
 
-Read [UltaHost's terms](https://ultahost.com/terms) and [refund policy](https://ultahost.com/refund) before checkout. Payment methods can affect refund eligibility; do not treat crypto payment as proof of anonymity or a refundable trial.
+Read [UltaHost's terms](https://ultahost.com/terms) and [refund policy](https://ultahost.com/refund#art52hz) before checkout. Payment methods can affect refund eligibility; do not treat crypto payment as proof of anonymity or a refundable trial.
 
 **[Start with UltaHost's plan comparison](https://ultahost.com/#art52hz)**
 

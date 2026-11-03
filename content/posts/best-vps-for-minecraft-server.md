@@ -28,7 +28,7 @@ Based on official pricing and documentation checked October 30, 2026; capacity g
 
 For a friends-only world, start by deciding whether you want to maintain a Linux server or use a game panel. The cheapest general VPS and the cheapest Minecraft-oriented plan are separate products. A lower price is useful only if you can manage the software it buys.
 
-The following USD figures and resources come from the official [Hostinger VPS pricing source](https://www.hostinger.com/vps-hosting) and [Minecraft Game Panel pricing source](https://www.hostinger.com/vps/minecraft-hosting), checked October 30, 2026. All displayed Hostinger offers below require payment upfront for 24 months.
+The following USD figures and resources come from the official [Hostinger VPS pricing source](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [Minecraft Game Panel pricing source](https://www.hostinger.com/vps/minecraft-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026. All displayed Hostinger offers below require payment upfront for 24 months.
 
 | Plan | Intro monthly equivalent | Upfront payment | Renewal monthly equivalent, same term | vCPU / RAM / NVMe | Best buying fit |
 |---|---|---|---|---|---|
@@ -40,13 +40,13 @@ The following USD figures and resources come from the official [Hostinger VPS pr
 
 Hostinger advertises a 30-day money-back guarantee on both source pages; this is a paid purchase, not a free trial. Check the final currency, taxes, selected term and refund conditions before paying. The advertised monthly equivalent is not a monthly invoice.
 
-For comparison, the official [UltaHost VPS pricing source](https://ultahost.com/vps-hosting), checked October 30, 2026, lists VPS Basic at **$5.52/month for two years**, with **1 CPU core, 1 GB RAM and 30 GB NVMe**, renewing at the same displayed monthly rate for that term. That is a lower entry price, but its memory is below Hostinger's vanilla Minecraft guidance. UltaHost Professional lists **3 CPU cores, 4 GB RAM and 75 GB NVMe at $15.87/month** on the displayed two-year offer, with the same displayed renewal rate. Its managed positioning is the reason to investigate it, rather than assuming its cheapest tier is a comparable Minecraft server.
+For comparison, the official [UltaHost VPS pricing source](https://ultahost.com/vps-hosting#art52hz), checked October 30, 2026, lists VPS Basic at **$5.52/month for two years**, with **1 CPU core, 1 GB RAM and 30 GB NVMe**, renewing at the same displayed monthly rate for that term. That is a lower entry price, but its memory is below Hostinger's vanilla Minecraft guidance. UltaHost Professional lists **3 CPU cores, 4 GB RAM and 75 GB NVMe at $15.87/month** on the displayed two-year offer, with the same displayed renewal rate. Its managed positioning is the reason to investigate it, rather than assuming its cheapest tier is a comparable Minecraft server.
 
 ## Specs per player count: buy for concurrent players
 
 Count people playing at once, not everyone in your Discord. Also write down the edition, world size and exact modpack before ordering. A small group exploring new terrain can behave differently from the same group building near spawn.
 
-Hostinger's official [Game Panel sizing guide](https://www.hostinger.com/support/7854557-how-to-choose-a-game-panel-server-hosting-plan-at-hostinger/), checked October 30, 2026, recommends about **4 GB RAM for basic vanilla**, **4–6 GB for up to 10 players with a small world**, and **8 GB or more for larger worlds and more players**. It recommends **6–8 GB for mods or resource packs**. The table translates those broad recommendations into a purchase shortlist; the provider does not publish an exact capacity guarantee for each player band.
+Hostinger's official [Game Panel sizing guide](https://www.hostinger.com/support/7854557-how-to-choose-a-game-panel-server-hosting-plan-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, recommends about **4 GB RAM for basic vanilla**, **4–6 GB for up to 10 players with a small world**, and **8 GB or more for larger worlds and more players**. It recommends **6–8 GB for mods or resource packs**. The table translates those broad recommendations into a purchase shortlist; the provider does not publish an exact capacity guarantee for each player band.
 
 | Concurrent-player scenario | Memory basis from official guidance | Plan to evaluate | What changes the decision |
 |---|---|---|---|
@@ -57,7 +57,7 @@ Hostinger's official [Game Panel sizing guide](https://www.hostinger.com/support
 
 The vCPU and disk specifications for these plans are in the price table above. They describe purchased resources, not proof of game performance. Do not turn a RAM recommendation into a promise that every modpack will support the same group.
 
-For memory allocation, Hostinger's [official RAM configuration guide](https://www.hostinger.com/support/5605849-how-to-allocate-more-ram-to-minecraft-server-at-hostinger/), checked October 30, 2026, says to reserve at least **512 MB** for other server operations and adjust the game memory limit manually after a plan upgrade. Leave additional headroom if the panel or other processes need it. Buying an 8 GB VPS does not mean assigning all its memory to Java.
+For memory allocation, Hostinger's [official RAM configuration guide](https://www.hostinger.com/support/5605849-how-to-allocate-more-ram-to-minecraft-server-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, says to reserve at least **512 MB** for other server operations and adjust the game memory limit manually after a plan upgrade. Leave additional headroom if the panel or other processes need it. Buying an 8 GB VPS does not mean assigning all its memory to Java.
 
 ## Who should choose Hostinger, and who should not?
 
@@ -83,12 +83,12 @@ Compare a suitable configuration rather than the cheapest card from each provide
 
 ## How to test it yourself in 15 minutes
 
-Use this as an initial acceptance check after provisioning and installing the intended server software. It is not a full load test. Hostinger's [official instance setup guide](https://www.hostinger.com/support/5605828-how-to-create-and-start-a-minecraft-server-at-hostinger/), checked October 30, 2026, describes creating a Game Panel instance, selecting the edition and connecting through its displayed endpoint.
+Use this as an initial acceptance check after provisioning and installing the intended server software. It is not a full load test. Hostinger's [official instance setup guide](https://www.hostinger.com/support/5605828-how-to-create-and-start-a-minecraft-server-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, describes creating a Game Panel instance, selecting the edition and connecting through its displayed endpoint.
 
 1. **Open the correct instance.** Confirm the edition and game version match your clients. Start with a private or allowlisted world, and keep administrator access restricted.
 2. **Load your real configuration.** Import a backup copy of the world and the intended plugins or mods. An empty demonstration map will not represent your existing save.
 3. **Invite the expected group.** Have people explore, build and use the features that matter to them. Watch the panel's memory and CPU readings and note when problems appear.
-4. **Check settings before buying more resources.** Review view distance, simulation distance and player limits. The official [server.properties guide](https://www.hostinger.com/uk/tutorials/minecraft-server-properties/), checked October 30, 2026, explains these controls. Change one setting at a time so you can interpret the result.
+4. **Check settings before buying more resources.** Review view distance, simulation distance and player limits. The official [server.properties guide](https://www.hostinger.com/uk/tutorials/minecraft-server-properties/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, explains these controls. Change one setting at a time so you can interpret the result.
 5. **Save and restart.** Confirm the world persists and players can reconnect. Schedule a separate backup-and-restore rehearsal before treating the server as ready for regular use.
 
 Record the game version, mod list, concurrent players, settings and observations. Repeat during a normal busy session before deciding whether to keep or upgrade the plan. An upgrade should solve an observed resource constraint, rather than simply increase the bill.

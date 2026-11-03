@@ -24,7 +24,7 @@ Based on official documentation and USD pricing checked October 28, 2026.
 
 ## Price and specs: compare the actual plans
 
-The cheapest plans are different configurations. Start with the resources your application requires, then decide how much administration you can handle. Figures below come from the [UltaHost VPS plan cards](https://ultahost.com/vps-hosting) and [Hostinger VPS plan cards](https://www.hostinger.com/vps-hosting), both checked October 28, 2026.
+The cheapest plans are different configurations. Start with the resources your application requires, then decide how much administration you can handle. Figures below come from the [UltaHost VPS plan cards](https://ultahost.com/vps-hosting#art52hz) and [Hostinger VPS plan cards](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), both checked October 28, 2026.
 
 | Buying criterion | UltaHost VPS Basic | Hostinger KVM 1 |
 |---|---|---|
@@ -58,7 +58,7 @@ Write down the software components before selecting a plan: database, runtime, w
 
 ## Who should choose Hostinger, and who should not?
 
-Choose Hostinger when you want root control and can maintain the environment yourself. Its [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 28, 2026, assigns the software environment to the customer while Hostinger supplies infrastructure and assistance tools. That suits a developer who already has a deployment and maintenance process.
+Choose Hostinger when you want root control and can maintain the environment yourself. Its [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, assigns the software environment to the customer while Hostinger supplies infrastructure and assistance tools. That suits a developer who already has a deployment and maintenance process.
 
 Avoid choosing it on the assumption that an AI terminal or installation template transfers responsibility for your application to support. You still need someone to inspect changes, protect access and fix a failed deployment. If a client expects you to handle every incident, include that work in your service agreement instead of hiding it inside the hosting bill.
 
@@ -76,7 +76,7 @@ Avoid Basic if your stack's memory or storage requirements exceed its allocation
 
 Use the [VPS buying worksheet](/downloads/vps-buying-checklist.txt) to record both offers. Include initial payment, renewal, tax, panel licensing, additional backups and administration you must supply. Separate provider charges from your maintenance fee. A panel advertised on a product page does not establish that every panel license is included in your configuration.
 
-Hostinger's [backup documentation](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/), checked October 28, 2026, describes automatic weekly backups, paid daily backups and temporary snapshots. Restoration overwrites the current server contents. A snapshot is therefore not a substitute for a separate recovery plan or an export of important application data.
+Hostinger's [backup documentation](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, describes automatic weekly backups, paid daily backups and temporary snapshots. Restoration overwrites the current server contents. A snapshot is therefore not a substitute for a separate recovery plan or an export of important application data.
 
 Ask UltaHost to confirm the selected plan's backup schedule, retention and restore procedure. For both providers, decide how much recent data your project can afford to lose and who can authorize a restore. A brochure feature is less useful than a recovery procedure your client can follow.
 
@@ -108,11 +108,11 @@ Its official overview says you manage the software environment. Assistance tools
 
 ### Does either provider offer a free VPS trial?
 
-Do not confuse a refund guarantee with free service. Both plan pages display a money-back headline. Hostinger's [free-hosting explanation](https://support.hostinger.com/en/articles/1583320-are-free-hosting-plans-available-at-hostinger), checked October 28, 2026, says it does not offer free hosting. Check eligibility before treating a paid order as an evaluation.
+Do not confuse a refund guarantee with free service. Both plan pages display a money-back headline. Hostinger's [free-hosting explanation](https://support.hostinger.com/en/articles/1583320-are-free-hosting-plans-available-at-hostinger?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, says it does not offer free hosting. Check eligibility before treating a paid order as an evaluation.
 
 ### Can I pay UltaHost with cryptocurrency and still get a refund?
 
-UltaHost documents cryptocurrency payments in its [billing instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/). Its [refund policy](https://ultahost.com/refund), checked October 28, 2026, excludes cryptocurrency-paid purchases. It also excludes yearly, biennial and triennial VPS plans, plus purchases using special promotions or discount links. The two-year offer compared here should therefore not be treated as a refundable trial. Confirm the method, term and invoice eligibility before payment.
+UltaHost documents cryptocurrency payments in its [billing instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz). Its [refund policy](https://ultahost.com/refund#art52hz), checked October 28, 2026, excludes cryptocurrency-paid purchases. It also excludes yearly, biennial and triennial VPS plans, plus purchases using special promotions or discount links. The two-year offer compared here should therefore not be treated as a refundable trial. Confirm the method, term and invoice eligibility before payment.
 
 ### Which should I pick for a client WordPress site?
 

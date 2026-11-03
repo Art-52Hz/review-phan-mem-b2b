@@ -28,7 +28,7 @@ The best cheap dedicated server is the least expensive complete configuration th
 | Hostinger KVM 1 VPS | $6.49/month equivalent; $155.76 prepaid for 24 months; renews at $11.99/month for the same term | 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB bandwidth | Paid plan; page advertises a 30-day money-back guarantee | Small workloads with an administrator |
 | UltaHost Ulta-X1 dedicated | Monthly page card shows $93.50/month; banner says from $93.54/month | Listed Xeon 3-1265L V3, 4 cores, 16 GB DDR3, 256 GB SSD, 300 Mbit/s port | Paid plan; confirm dedicated refund eligibility | Buyers needing this physical configuration |
 
-Sources checked October 29, 2026: [Hostinger pricing source](https://www.hostinger.com/vps-hosting) and [UltaHost dedicated pricing source](https://ultahost.com/dedicated-hosting/monthly). Different products and billing commitments make this a purchasing comparison, not a performance ranking. Confirm UltaHost's conflicting displayed amounts in the final order quote.
+Sources checked October 29, 2026: [Hostinger pricing source](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost dedicated pricing source](https://ultahost.com/dedicated-hosting/monthly#art52hz). Different products and billing commitments make this a purchasing comparison, not a performance ranking. Confirm UltaHost's conflicting displayed amounts in the final order quote.
 
 ## When a VPS is enough instead
 
@@ -46,7 +46,7 @@ Compare smaller options in our [VPS plans under $10 guide](/posts/best-vps-under
 
 **Choose Hostinger VPS if you have an operator and want a virtual server.** It belongs on the shortlist for a developer who can deploy, maintain and recover the application. Evaluate the smaller purchase before committing to bare metal.
 
-**Do not choose it simply because administration tools look easy.** Hostinger explains customer server-management responsibilities in its [VPS documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 29, 2026. Assign operating-system updates, access control, application maintenance and recovery before buying.
+**Do not choose it simply because administration tools look easy.** Hostinger explains customer server-management responsibilities in its [VPS documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026. Assign operating-system updates, access control, application maintenance and recovery before buying.
 
 Separate the monthly equivalent from cash due today. If a client might cancel soon, scrutinize the prepaid term. Decide who owns the subscription, approves renewal and receives access if your maintenance arrangement ends.
 

@@ -39,7 +39,7 @@ USD prices below were checked October 29, 2026. Monthly equivalents on long cont
 | Main published limits | 3 websites, 20 GB SSD storage; weekly backups | 1 CPU core, 1 GB RAM, 30 GB NVMe storage |
 | Free plan or trial | Paid hosting; a money-back guarantee is advertised, not a free trial | Paid VPS; refund exclusions make the guarantee different from a free trial |
 | Best fit | A small site owner prioritizing simpler operation | A developer needing a separate server environment |
-| Official source, checked October 29, 2026 | [Hostinger pricing source](https://www.hostinger.com/web-hosting) | [UltaHost pricing source](https://ultahost.com/vps-hosting) |
+| Official source, checked October 29, 2026 | [Hostinger pricing source](https://www.hostinger.com/web-hosting?REFERRALCODE=ACFTUNGSAAEO) | [UltaHost pricing source](https://ultahost.com/vps-hosting#art52hz) |
 
 UltaHost's headline says $5.51/month while its Basic plan card says $5.52; this comparison uses the plan card. Confirm the final currency, term, tax and extras before paying. Hostinger and UltaHost are different buying routes here: compare shared hosting against the VPS you need, rather than assuming the word ?VPS? makes any plan the better purchase.
 
@@ -77,7 +77,7 @@ Compare the initial invoice and the recurring operating cost separately. The fir
 
 A control panel can make administration more convenient, but verify its license price and resource requirements before adding it. Likewise, a server snapshot is useful only alongside a recovery procedure that someone can carry out. Decide where an independent backup will live and who will check it.
 
-Refund terms deserve attention before a long VPS commitment. UltaHost's [official refund policy](https://ultahost.com/refund), checked October 29, 2026, excludes yearly, biennial and triennial VPS plans, and also excludes purchases using special promotions or special discount links. Confirm eligibility for your exact order before treating a guarantee as purchase protection.
+Refund terms deserve attention before a long VPS commitment. UltaHost's [official refund policy](https://ultahost.com/refund#art52hz), checked October 29, 2026, excludes yearly, biennial and triennial VPS plans, and also excludes purchases using special promotions or special discount links. Confirm eligibility for your exact order before treating a guarantee as purchase protection.
 
 If you want alternatives, use our [VPS comparison for freelancers](/posts/best-vps-for-freelancers-2026/) and [VPS plans below $10](/posts/best-vps-under-10-dollars-2026/). Compare equivalent responsibilities as well as invoices: maintaining your own server consumes time even when no separate management fee appears.
 

@@ -27,7 +27,7 @@ Based on official pricing and policies checked October 30, 2026; the final order
 
 ## UltaHost prices: compare the plan and the billing term
 
-The table uses the displayed plan cards, rather than a search snippet or crossed-out reference price. Sources checked October 30, 2026: [UltaHost shared pricing](https://ultahost.com/shared-hosting), [UltaHost VPS pricing](https://ultahost.com/vps-hosting) and [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting). Amounts are USD.
+The table uses the displayed plan cards, rather than a search snippet or crossed-out reference price. Sources checked October 30, 2026: [UltaHost shared pricing](https://ultahost.com/shared-hosting#art52hz), [UltaHost VPS pricing](https://ultahost.com/vps-hosting#art52hz) and [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO). Amounts are USD.
 
 | Choice | Displayed monthly equivalent / term | Renewal shown | Main capacity | Trial or refund position | Best fit |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@ The table uses the displayed plan cards, rather than a search snippet or crossed
 | UltaHost VPS Business | $9.78 / 2 years | $9.78/month for 2 years | 2 CPU cores; 2 GB RAM; 50 GB NVMe | Same VPS term exclusion | A workload requiring more resources |
 | Hostinger KVM 1 | $6.49 / 24 months | $11.99/month for the same term | 1 vCPU; 4 GB RAM; 50 GB NVMe | Paid hosting; advertises a 30-day guarantee, with conditions | An operator maintaining their own software |
 
-Refund positions for UltaHost come from its [refund policy](https://ultahost.com/refund), checked October 30, 2026. Neither an advertised guarantee nor a low monthly equivalent makes a purchase a free trial.
+Refund positions for UltaHost come from its [refund policy](https://ultahost.com/refund#art52hz), checked October 30, 2026. Neither an advertised guarantee nor a low monthly equivalent makes a purchase a free trial.
 
 My buying recommendation is to choose the hosting category before shopping for a coupon. A conventional portfolio does not automatically need a VPS. An application requiring root access needs a different decision, including who maintains it. For a deeper comparison, read [UltaHost versus Hostinger VPS](/posts/ultahost-vs-hostinger-vps-2026/).
 
@@ -52,7 +52,7 @@ Then compare like-for-like configurations. If your application needs more memory
 
 The plan-card renewal figures are shown in the table. Treat them as the current offer for that configuration, rather than a promise that hosting prices can never change.
 
-UltaHost's [official pricing-update notice](https://ultahost.com/blog/hosting-prices-ultahost-pricing-update/), checked October 30, 2026, says its hosting price update took effect August 1, 2026. It directs existing customers to the Client Area for current renewal details and says existing discounts continue when the new pricing applies at renewal. That distinction matters: a discount can remain while the underlying price changes.
+UltaHost's [official pricing-update notice](https://ultahost.com/blog/hosting-prices-ultahost-pricing-update/#art52hz), checked October 30, 2026, says its hosting price update took effect August 1, 2026. It directs existing customers to the Client Area for current renewal details and says existing discounts continue when the new pricing applies at renewal. That distinction matters: a discount can remain while the underlying price changes.
 
 For an existing service, use your renewal invoice when deciding whether to stay. For a new service, keep a copy of the order summary and renewal wording. Put a reminder in your calendar before the next invoice and review whether the service still fits your workload. This is especially useful when a client approved the launch budget but has not discussed ongoing hosting costs.
 
@@ -68,7 +68,7 @@ The refund policy also excludes purchases using special promotions, promo codes 
 
 ## Refund rules that affect your choice
 
-The [official cancellation and refunds policy](https://ultahost.com/refund), checked October 30, 2026, gives these material restrictions:
+The [official cancellation and refunds policy](https://ultahost.com/refund#art52hz), checked October 30, 2026, gives these material restrictions:
 
 - VPS annual, biennial and triennial plans are excluded.
 - Shared hosting excludes biennial and triennial terms; monthly and annual eligibility has conditions.

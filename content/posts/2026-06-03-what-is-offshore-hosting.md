@@ -38,7 +38,7 @@ Read the provider's own agreement, privacy information and complaint-handling po
 
 ## Payment and location are separate decisions
 
-A payment method does not establish the location of a server, the information needed for an account or permission to run a workload. Confirm payment availability for the actual invoice. Check refund conditions before sending funds: UltaHost's [refund policy](https://ultahost.com/refund), checked October 8, excludes cryptocurrency-paid purchases and includes other restrictions.
+A payment method does not establish the location of a server, the information needed for an account or permission to run a workload. Confirm payment availability for the actual invoice. Check refund conditions before sending funds: UltaHost's [refund policy](https://ultahost.com/refund#art52hz), checked October 8, excludes cryptocurrency-paid purchases and includes other restrictions.
 
 For order details, use the [crypto-payment VPS guide](/posts/cheapest-vps-crypto-payment-2026/) and keep the unresolved fields in the [buying worksheet](/downloads/vps-buying-checklist.txt). No payment or refund was tested for this article.
 

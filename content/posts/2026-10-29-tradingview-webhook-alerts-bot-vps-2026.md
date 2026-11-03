@@ -22,7 +22,7 @@ cover:
 
 *Affiliate disclosure: links marked above are referral links. We may earn a commission if you buy, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-TradingView rules below come from the official [webhook help article](https://www.tradingview.com/support/solutions/43000529348-how-to-configure-webhook-alerts/) and [pricing page](https://www.tradingview.com/pricing/), checked October 29, 2026. VPS prices come from our [VPS price index](/vps-price-index-2026/). This guide covers plumbing, not trading strategy or results.
+TradingView rules below come from the official [webhook help article](https://www.tradingview.com/support/solutions/43000529348-how-to-configure-webhook-alerts/?aff_id=1173587) and [pricing page](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. VPS prices come from our [VPS price index](/vps-price-index-2026/). This guide covers plumbing, not trading strategy or results.
 
 ## How a TradingView webhook works
 

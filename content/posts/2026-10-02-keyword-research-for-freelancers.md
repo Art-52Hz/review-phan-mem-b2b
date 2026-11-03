@@ -33,7 +33,7 @@ The useful output is a decision about your next page: who it helps, which questi
 | Ahrefs Free Keyword Generator | Free public tool | Idea discovery is distinct from the broader paid research suite | Getting another set of seed-based suggestions |
 | Google Search Console | Free service | Reports your site's search visibility rather than the whole market | Improving pages that already appear in Google |
 
-Sources, checked October 29, 2026: [KWFinder free allowance documentation](https://mangools.com/kwfinder/features/long-tail-keyword-research/), [Mangools pricing and billing policies](https://mangools.com/plans-and-pricing), [Mangools bundle FAQ](https://mangools.com/faq), [Ahrefs generator documentation](https://ahrefs.com/keyword-generator), and [Google's Search Console overview](https://support.google.com/webmasters/answer/9128668?hl=en).
+Sources, checked October 29, 2026: [KWFinder free allowance documentation](https://mangools.com/kwfinder/features/long-tail-keyword-research/#a5d5c1d50feebf852f6d6f462), [Mangools pricing and billing policies](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462), [Mangools bundle FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), [Ahrefs generator documentation](https://ahrefs.com/keyword-generator), and [Google's Search Console overview](https://support.google.com/webmasters/answer/9128668?hl=en).
 
 The free allowance is enough to explore a deliberately small brief. For paid plans, record the billing period, total due, renewal terms and actual research limits before purchasing. A monthly equivalent on an annual subscription is a different commitment from a monthly payment.
 
@@ -41,13 +41,13 @@ Our [Mangools and KWFinder review](/posts/mangools-kwfinder-review/) helps with 
 
 ## Who should choose KWFinder, and who should not?
 
-**Choose KWFinder Free** when you have a defined topic and want to compare related phrases, inspect the search results, and record a manageable shortlist. Its keyword and domain research routes suit different starting points: a customer question or a competing page. The [official KWFinder guide](https://mangools.com/blog/kwfinder-guide/) documents those workflows, checked October 29, 2026.
+**Choose KWFinder Free** when you have a defined topic and want to compare related phrases, inspect the search results, and record a manageable shortlist. Its keyword and domain research routes suit different starting points: a customer question or a competing page. The [official KWFinder guide](https://mangools.com/blog/kwfinder-guide/#a5d5c1d50feebf852f6d6f462) documents those workflows, checked October 29, 2026.
 
 **Consider a paid Mangools plan** when you repeatedly stop useful research because your allowance runs out. Keep a record of the task you could not finish. An upgrade should solve that specific capacity problem; more suggestions alone do not make a better content brief.
 
 **Stay with Search Console** when the immediate task is improving a page already receiving impressions. Its query and page reports give you a starting point grounded in your own visibility. Buying another keyword database will not explain an unclear introduction or a missing answer on that page.
 
-**Skip the subscription for now** if your audience is undefined, you need occasional ideas only, or a team requires purchasing KWFinder as a standalone product. Mangools says its tools are bundled. Its pricing page also states automatic renewal and a refund window of 48 hours, with an exclusion for consecutive subscriptions; these are buying constraints worth reading before payment. Sources: [bundle documentation](https://mangools.com/faq) and [billing/refund policy](https://mangools.com/plans-and-pricing), checked October 29, 2026.
+**Skip the subscription for now** if your audience is undefined, you need occasional ideas only, or a team requires purchasing KWFinder as a standalone product. Mangools says its tools are bundled. Its pricing page also states automatic renewal and a refund window of 48 hours, with an exclusion for consecutive subscriptions; these are buying constraints worth reading before payment. Sources: [bundle documentation](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462) and [billing/refund policy](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
 ## A free workflow: from customer question to page brief
 
@@ -113,11 +113,11 @@ Use equivalent comparison windows and keep a change log. If visits arrive but re
 
 ### Is KWFinder free for keyword research?
 
-Yes. Mangools documents a free account with a limited allowance, shown in the comparison above. Use it for a focused shortlist before considering paid access. Source: [free-plan documentation](https://mangools.com/kwfinder/features/long-tail-keyword-research/), checked October 29, 2026.
+Yes. Mangools documents a free account with a limited allowance, shown in the comparison above. Use it for a focused shortlist before considering paid access. Source: [free-plan documentation](https://mangools.com/kwfinder/features/long-tail-keyword-research/#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
 ### What is the difference between a seed and a long-tail keyword?
 
-A seed is the broad starting topic. A long-tail phrase narrows the question or situation, such as a transcription tool for occasional interviews. Specific wording helps you define the page's purpose; inspect the results before deciding it is a worthwhile target. Source: [Mangools' keyword definitions](https://mangools.com/kwfinder/features/long-tail-keyword-research/), checked October 29, 2026.
+A seed is the broad starting topic. A long-tail phrase narrows the question or situation, such as a transcription tool for occasional interviews. Specific wording helps you define the page's purpose; inspect the results before deciding it is a worthwhile target. Source: [Mangools' keyword definitions](https://mangools.com/kwfinder/features/long-tail-keyword-research/#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
 ### How do I find good long-tail keywords?
 
@@ -125,10 +125,10 @@ Start with the reader's problem, explore related suggestions, and check the resu
 
 ### Can I buy KWFinder without the other Mangools tools?
 
-No. Mangools says the tools are sold together. Judge the subscription against the work you will actually do with the package. Source: [official bundle FAQ](https://mangools.com/faq), checked October 29, 2026.
+No. Mangools says the tools are sold together. Judge the subscription against the work you will actually do with the package. Source: [official bundle FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
 ### When do lookup limits refresh?
 
-Mangools describes a rolling 24-hour period starting with your first request, rather than a universal midnight reset. Check your available resources before planning a research session. Source: [limits and lookups FAQ](https://mangools.com/faq), checked October 29, 2026.
+Mangools describes a rolling 24-hour period starting with your first request, rather than a universal midnight reset. Check your available resources before planning a research session. Source: [limits and lookups FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
 **Next step:** use the [free keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to define your next page, then [start with KWFinder Free or compare paid options](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate") if your research needs more capacity.

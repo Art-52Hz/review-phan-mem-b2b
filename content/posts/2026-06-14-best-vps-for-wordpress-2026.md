@@ -35,7 +35,7 @@ Prices below are advertised US-dollar monthly equivalents for the displayed two-
 | UltaHost VPS Basic | $5.52 / $5.52; displayed two-year term | 1 CPU core, 1 GB RAM, 30 GB NVMe; managed server | No free plan shown; 30-day money-back guarantee advertised | A lean site whose owner values server assistance |
 | UltaHost VPS Business | $9.78 / $9.78; displayed two-year term | 2 CPU cores, 2 GB RAM, 50 GB NVMe; managed server | Same advertised guarantee | Buyers wanting more capacity than Basic with management |
 
-**Table sources, checked October 29, 2026:** [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting) and [UltaHost official VPS pricing](https://ultahost.com/vps-hosting). UltaHost's banner says $5.51, while its Basic plan card says $5.52; this comparison uses the plan card. A money-back guarantee requires payment and is different from a free trial; read its applicable conditions before relying on a refund.
+**Table sources, checked October 29, 2026:** [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost official VPS pricing](https://ultahost.com/vps-hosting#art52hz). UltaHost's banner says $5.51, while its Basic plan card says $5.52; this comparison uses the plan card. A money-back guarantee requires payment and is different from a free trial; read its applicable conditions before relying on a refund.
 
 The useful comparison is resources plus responsibility. A cheaper managed plan may save you administration work, while a larger self-managed plan may suit someone who already maintains Linux servers. Neither resource labels nor the monthly price tell you how your checkout, editor or scheduled jobs will behave.
 
@@ -43,7 +43,7 @@ The useful comparison is resources plus responsibility. A cheaper managed plan m
 
 Choose **KVM 1** as the starting candidate for a modest WordPress site when you can maintain the operating system, configure access and restore the application. Move your shortlist to **KVM 2** when your existing resource graphs show pressure or you need room for staging and background tasks. This is a sizing recommendation, not a visitor-capacity promise.
 
-Hostinger explicitly classifies VPS as self-managed in its [official managed-hosting explanation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/), checked October 29, 2026. That distinction should drive your purchase: installing a template does not assign ongoing responsibility for WordPress, plugin compatibility or incident recovery to someone else.
+Hostinger explicitly classifies VPS as self-managed in its [official managed-hosting explanation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026. That distinction should drive your purchase: installing a template does not assign ongoing responsibility for WordPress, plugin compatibility or incident recovery to someone else.
 
 **Do not choose Hostinger VPS** simply because it looks cheaper than a managed WordPress package. If an update breaks the site, somebody still needs to diagnose the failure, recover a working version and decide when it is safe to reopen orders. Include that person's time in the budget.
 
@@ -93,7 +93,7 @@ Use the [keyword research workflow](/posts/keyword-research-for-freelancers/) to
 
 ## Frequently asked questions
 
-These questions follow the public WordPress VPS buying topics covered in [UltaHost's WordPress VPS overview and FAQ](https://ultahost.com/wordpress-vps-hosting), checked October 29, 2026; they are not presented as private Search Console query data.
+These questions follow the public WordPress VPS buying topics covered in [UltaHost's WordPress VPS overview and FAQ](https://ultahost.com/wordpress-vps-hosting#art52hz), checked October 29, 2026; they are not presented as private Search Console query data.
 
 ### Is a VPS better than shared hosting for WordPress?
 

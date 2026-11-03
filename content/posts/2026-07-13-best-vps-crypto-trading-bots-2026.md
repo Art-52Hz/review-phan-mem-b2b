@@ -26,8 +26,8 @@ For a Windows trading terminal, check the [Forex VPS compatibility and pricing g
 
 | Infrastructure option | Starting price | Free plan or trial | Main limitation | Suitable operator |
 |---|---|---|---|---|
-| UltaHost Linux VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free trial established | No measured exchange latency in this review | Linux application operator with a test plan |
-| Hostinger KVM 2 | From $8.79/mo (KVM 2: 2 vCPU, 8 GB RAM; 24-month term, renews $14.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting) | 30-day money-back guarantee listed on the pricing page | Self-managed; you maintain the bot environment | Linux bot operator who wants more RAM per dollar |
+| UltaHost Linux VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free trial established | No measured exchange latency in this review | Linux application operator with a test plan |
+| Hostinger KVM 2 | From $8.79/mo (KVM 2: 2 vCPU, 8 GB RAM; 24-month term, renews $14.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) | 30-day money-back guarantee listed on the pricing page | Self-managed; you maintain the bot environment | Linux bot operator who wants more RAM per dollar |
 | Windows VPS | Check current pricing on the Windows offer | Check current offer | OS and application licenses must fit | Operator whose software requires Windows |
 | Existing test environment | Existing operating cost | No new subscription required | Does not reproduce a remote server route | Developer checking startup and recovery before buying |
 
@@ -57,7 +57,7 @@ An operator needs a documented way to recreate the environment and reconcile the
 
 If a restart might repeat an external action, define reconciliation before enabling automatic restarts. A restored virtual machine can be healthy while its application state is wrong. Evaluate recovery with simulated inputs or an appropriate test mode. No live funds or production credentials are needed to write the acceptance plan.
 
-For crypto-funded hosting, the [vendor refund policy](https://ultahost.com/refund), checked October 28, excludes crypto-paid purchases. Resolve compatibility and verification questions before making that commitment. The convenience of a payment method is not evidence that the application will operate correctly.
+For crypto-funded hosting, the [vendor refund policy](https://ultahost.com/refund#art52hz), checked October 28, excludes crypto-paid purchases. Resolve compatibility and verification questions before making that commitment. The convenience of a payment method is not evidence that the application will operate correctly.
 
 [Inspect the current offer against your requirements](https://ultahost.com/#art52hz "affiliate")
 
@@ -90,7 +90,7 @@ Record the software version, supported operating system, memory/storage requirem
 
 Mining, node hosting and a trading application are different workloads. For example, [Contabo's VPS documentation](https://docs.contabo.com/docs/servers-hosting/vps/) describes its virtual servers and states that cryptocurrency mining is not permitted on VPS (checked October 28, 2026). Do not infer permission for another workload from that restriction; check its relevant policy.
 
-If crypto billing matters, [UltaHost's billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) documents a payment flow. Confirm currently available currencies and account requirements at checkout. Payment support is independent of workload permission and account verification.
+If crypto billing matters, [UltaHost's billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz) documents a payment flow. Confirm currently available currencies and account requirements at checkout. Payment support is independent of workload permission and account verification.
 
 ### Test connectivity rather than accepting latency claims
 

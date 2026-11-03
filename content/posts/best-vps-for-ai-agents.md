@@ -35,9 +35,9 @@ An always-on agent needs somewhere to run its scheduler, tools and saved state. 
 | UltaHost VPS Basic | $5.52; displayed two-year offer | $5.52/month for two years | 1 CPU / 1 GB / 30 GB | Small bot with an agreed management scope |
 | UltaHost VPS Professional | $15.87; displayed two-year offer | $15.87/month for two years | 3 CPU / 4 GB / 75 GB | Buyer seeking managed-server help and more memory |
 
-Sources for every price and resource figure in the table: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting) and [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting), checked October 30, 2026. UltaHost's banner says $5.51; its Basic card says $5.52, used here. Confirm currency, taxes, extras and the selected term before paying.
+Sources for every price and resource figure in the table: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked October 30, 2026. UltaHost's banner says $5.51; its Basic card says $5.52, used here. Confirm currency, taxes, extras and the selected term before paying.
 
-Neither page shows a free trial in the offers compared here. A money-back headline is a paid purchase with conditions, not free testing; read the selected term's refund policy. Hostinger bills the displayed term upfront. UltaHost markets these servers as managed, while Hostinger's [management documentation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/), checked October 30, 2026, describes its VPS plans as self-managed.
+Neither page shows a free trial in the offers compared here. A money-back headline is a paid purchase with conditions, not free testing; read the selected term's refund policy. Hostinger bills the displayed term upfront. UltaHost markets these servers as managed, while Hostinger's [management documentation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, describes its VPS plans as self-managed.
 
 ## Why Hostinger KVM 2 is the main recommendation
 

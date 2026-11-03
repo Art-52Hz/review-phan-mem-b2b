@@ -15,6 +15,22 @@ class AffiliateAuditTests(unittest.TestCase):
             page.write_text('<a href="https://ultahost.com/#wrong-owner">Offer</a>', encoding='utf-8')
             self.assertEqual(audit(root, catalog)['errors'][0]['problem'], 'account URL mismatch')
 
+    def test_deep_links_with_our_code_pass_and_other_codes_fail(self):
+        catalog = {'records': [
+            {'program_id': 'hostinger', 'referral_url': 'https://www.hostinger.com/refer?REFERRALCODE=ISSUED'},
+            {'program_id': 'ultahost', 'referral_url': 'https://ultahost.com/#art52hz'}]}
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            page = root / 'index.html'
+            page.write_text('<a href="https://www.hostinger.com/vps-hosting?REFERRALCODE=ISSUED">Pricing</a>'
+                            '<a href="https://support.hostinger.com/en/articles/1?REFERRALCODE=ISSUED">Help</a>'
+                            '<a href="https://ultahost.com/vps-hosting#art52hz">VPS</a>', encoding='utf-8')
+            result = audit(root, catalog)
+            self.assertFalse(result['errors'])
+            self.assertEqual(result['rendered_link_occurrences'], {'hostinger': 2, 'ultahost': 1})
+            page.write_text('<a href="https://www.hostinger.com/vps-hosting?REFERRALCODE=OTHER">Pricing</a>', encoding='utf-8')
+            self.assertEqual(audit(root, catalog)['errors'][0]['problem'], 'account URL mismatch')
+
     def test_hostinger_referral_code_must_match_and_help_links_are_ignored(self):
         catalog = {'records': [{'program_id': 'hostinger', 'referral_url': 'https://www.hostinger.com/vn?REFERRALCODE=ISSUED'}]}
         marked = '<a href="https://www.hostinger.com/vn?REFERRALCODE={}" data-affiliate="true" rel="sponsored nofollow noopener noreferrer">Plans</a>'

@@ -27,11 +27,11 @@ Best for technically capable buyers checking a sub-$10 advertised VPS rate: shor
 | Option | Starting price | Free plan or trial | Main limitation | Suitable buyer |
 |---|---|---|---|---|
 | Hostinger KVM 1 | $6.49/month equivalent for 24 months; $155.76 due initially; renewal $11.99/month for the same term | No free VPS trial established here | Initial commitment exceeds $10; software is customer-managed | Operator who accepts the complete term |
-| UltaHost VPS Basic | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | 30-day money-back guarantee listed on the pricing page | 1 GB RAM limits heavier apps; 24-month term for this rate | Buyer who wants the lowest listed monthly equivalent |
+| UltaHost VPS Basic | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | 30-day money-back guarantee listed on the pricing page | 1 GB RAM limits heavier apps; 24-month term for this rate | Buyer who wants the lowest listed monthly equivalent |
 | Another truly monthly VPS offer | Check current pricing | Check exact offer | Must still verify software, backups and total invoice | Buyer with a strict initial cash limit |
 | Existing hosting | Current invoice | No additional trial needed | May not support the required runtime | Project that does not need a separate server |
 
-Price source: [official Hostinger VPS page](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked the same day.
+Price source: [official Hostinger VPS page](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. The figures are a public-page snapshot, not a checkout quote; verify tax and country-specific charges. Operating scope: [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked the same day.
 
 ## Who should choose Hostinger / who should not
 
@@ -97,7 +97,7 @@ Download the [blank VPS buying checklist](/downloads/vps-buying-checklist.txt) a
 
 UltaHost's [published terms](https://ultahost.com/terms), read October 28, describe renewal at the applicable non-promotional rate. Check the exact term and recurring amount on your order instead of assuming an introductory rate continues.
 
-Its [refund policy](https://ultahost.com/refund) also contains payment-method and product exclusions, including cryptocurrency-paid purchases. Read the conditions for the exact order before paying. A headline refund period does not make every plan a free trial, and no refund was tested for this guide.
+Its [refund policy](https://ultahost.com/refund#art52hz) also contains payment-method and product exclusions, including cryptocurrency-paid purchases. Read the conditions for the exact order before paying. A headline refund period does not make every plan a free trial, and no refund was tested for this guide.
 
 ### Decide whether the plan fits the work
 

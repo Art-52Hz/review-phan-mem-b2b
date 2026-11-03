@@ -35,7 +35,7 @@ The useful question is whether you need inexpensive server capacity or help oper
 | Main constraint | Small entry-level memory allocation | Administration and application maintenance remain your job |
 | Best fit | Freelancer seeking server assistance | Developer comfortable maintaining their own environment |
 
-Sources for prices, specifications and management descriptions, checked October 28, 2026: [UltaHost VPS pricing and FAQ](https://ultahost.com/vps-hosting), [Contabo unmanaged VPS offer](https://contabo.com/en-us/unmanaged-vps/). Refund restrictions are covered below.
+Sources for prices, specifications and management descriptions, checked October 28, 2026: [UltaHost VPS pricing and FAQ](https://ultahost.com/vps-hosting#art52hz), [Contabo unmanaged VPS offer](https://contabo.com/en-us/unmanaged-vps/). Refund restrictions are covered below.
 
 UltaHost's banner shows $5.51 while its Basic card shows $5.52; the table uses the card. Confirm the selected term and payable total. Contabo's retrieved offer is in euros despite its English-US URL. These are different currencies: the table establishes no same-currency price winner.
 
@@ -51,7 +51,7 @@ Also price your own operating work. If you already maintain servers, adding anot
 
 ## Who should choose UltaHost, and who should not?
 
-Shortlist UltaHost when you want assistance with an ordinary website stack and would rather spend your time on client delivery. Its VPS FAQ distinguishes unmanaged, semi-managed and fully managed arrangements, with full management tied to a control panel. Ask which configuration your quote includes. The page advertises round-the-clock support, but availability alone establishes no response-time advantage. Source: [management and support FAQ, checked October 28, 2026](https://ultahost.com/vps-hosting).
+Shortlist UltaHost when you want assistance with an ordinary website stack and would rather spend your time on client delivery. Its VPS FAQ distinguishes unmanaged, semi-managed and fully managed arrangements, with full management tied to a control panel. Ask which configuration your quote includes. The page advertises round-the-clock support, but availability alone establishes no response-time advantage. Source: [management and support FAQ, checked October 28, 2026](https://ultahost.com/vps-hosting#art52hz).
 
 Before buying, describe your application in concrete terms. State the operating system, web server, database, deployment method and any background jobs. Ask who handles a failed update, a full disk, a broken certificate and restoration after a mistake. A reply that names responsibilities is more valuable than a general promise to help.
 
@@ -61,7 +61,7 @@ Do not choose the smallest plan merely because the price looks manageable. Write
 
 ### The refund limitation that matters before committing
 
-The [UltaHost refund policy, checked October 28, 2026](https://ultahost.com/refund), excludes yearly, biennial and triennial VPS plans from refunds. It also excludes cryptocurrency payments and special-promotion purchases, among other restrictions. Its general 30-day language therefore does not make the two-year advertised offer a risk-free trial. Confirm eligibility for the exact order before payment.
+The [UltaHost refund policy, checked October 28, 2026](https://ultahost.com/refund#art52hz), excludes yearly, biennial and triennial VPS plans from refunds. It also excludes cryptocurrency payments and special-promotion purchases, among other restrictions. Its general 30-day language therefore does not make the two-year advertised offer a risk-free trial. Confirm eligibility for the exact order before payment.
 
 Choose another arrangement if you require a refundable long commitment, documented application-level incident ownership, or a service guarantee that the provider has not confirmed. Buying a smaller initial commitment can be sensible even when its monthly equivalent is higher.
 

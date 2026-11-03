@@ -36,9 +36,9 @@ Decide whether you need a conventional Windows remote desktop before comparing p
 | UltaHost Business Windows VPS | $24.14/month equivalent, two-year card; $579.36 calculated base total; same displayed renewal rate | 2 CPU cores, 4 GB RAM, 80 GB NVMe | Same refund restrictions | More memory; not more listed CPU cores |
 | Hostinger KVM 1 | $6.49/month equivalent; $155.76 paid for 24 months; renews at $11.99/month for that term | 1 vCPU, 4 GB RAM, 50 GB NVMe | Advertised 30-day money-back guarantee; check order eligibility | Linux administrator; no Windows VPS template |
 
-Sources for every advertised figure in the table, checked October 29, 2026: [UltaHost Forex plan cards](https://ultahost.com/forex-vps-hosting), [Hostinger pricing](https://www.hostinger.com/vps-hosting), [Hostinger supported operating systems](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/), and [UltaHost refund policy](https://ultahost.com/refund). Calculated totals multiply the displayed monthly equivalents by the stated term; they are not checkout invoices.
+Sources for every advertised figure in the table, checked October 29, 2026: [UltaHost Forex plan cards](https://ultahost.com/forex-vps-hosting#art52hz), [Hostinger pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger supported operating systems](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost refund policy](https://ultahost.com/refund#art52hz). Calculated totals multiply the displayed monthly equivalents by the stated term; they are not checkout invoices.
 
-UltaHost's Forex hero says $16.24, while its Basic card says $16.10. Its separate [Windows pricing page](https://ultahost.com/windows-hosting) also has a lower comparison table showing Basic at $20.29. These public sections disagree; use the named card for this shortlist and request a final itemized quote.
+UltaHost's Forex hero says $16.24, while its Basic card says $16.10. Its separate [Windows pricing page](https://ultahost.com/windows-hosting#art52hz) also has a lower comparison table showing Basic at $20.29. These public sections disagree; use the named card for this shortlist and request a final itemized quote.
 
 For the broader operating decision, read our [Forex VPS comparison for MT4 and MT5](/posts/best-vps-for-forex-trading-2026/).
 
@@ -76,7 +76,7 @@ A genuine month-to-month quote was not verified in this research. The crossed-ou
 
 **Choose UltaHost's Windows route** when you want a Windows desktop and your broker or EA vendor supports the quoted image. Keep the initial configuration small: the terminal, necessary dependencies and a documented recovery path.
 
-**Do not commit to a long term before compatibility is clear.** Its refund policy excludes yearly, biennial and triennial VPS plans; cryptocurrency purchases are also excluded. The guarantee badge is therefore not a substitute for checking your exact order's eligibility. Source: [official refund conditions](https://ultahost.com/refund), checked October 29, 2026.
+**Do not commit to a long term before compatibility is clear.** Its refund policy excludes yearly, biennial and triennial VPS plans; cryptocurrency purchases are also excluded. The guarantee badge is therefore not a substitute for checking your exact order's eligibility. Source: [official refund conditions](https://ultahost.com/refund#art52hz), checked October 29, 2026.
 
 Ask support which tasks “managed” covers. You still need an owner for EA settings, terminal logs, software updates and a restart rehearsal. Keep a copy of your configuration outside the server so a lost remote desktop does not become a lost setup.
 

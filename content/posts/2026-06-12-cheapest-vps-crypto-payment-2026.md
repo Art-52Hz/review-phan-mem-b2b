@@ -28,7 +28,7 @@ Compare the invoice with our [under-$10 VPS shortlist](/posts/best-vps-under-10-
 
 | Option | Starting price | Free plan or trial | Main limitation | Best fit |
 |---|---|---|---|---|
-| UltaHost crypto-paid VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free trial established | Crypto-paid orders are excluded from refunds | Buyer accepting a verified complete quote |
+| UltaHost crypto-paid VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free trial established | Crypto-paid orders are excluded from refunds | Buyer accepting a verified complete quote |
 | Shorter-term eligible VPS offer | Check current pricing | Check product and payment conditions | Potentially different effective price and refund scope | Buyer limiting cash committed before testing |
 | Existing hosting | Current invoice | No additional trial needed | May lack the required server control | A project already supported by its environment |
 
@@ -52,9 +52,9 @@ Use your expected project duration, not an optimistic number of future clients, 
 
 ## Crypto can remove the option of a refundable evaluation
 
-The [official refund policy](https://ultahost.com/refund), checked October 28, excludes crypto-funded purchases. This is a concrete downside for a buyer who wants to test before settling on a provider. A general money-back banner should not be treated as covering every payment method and billing term.
+The [official refund policy](https://ultahost.com/refund#art52hz), checked October 28, excludes crypto-funded purchases. This is a concrete downside for a buyer who wants to test before settling on a provider. A general money-back banner should not be treated as covering every payment method and billing term.
 
-The [crypto guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/), checked October 28, documents supported payment choices. Confirm the asset and network on the actual invoice, and account for wallet fees without underpaying the required amount. Do not send funds merely to discover whether a plan supports your application.
+The [crypto guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz), checked October 28, documents supported payment choices. Confirm the asset and network on the actual invoice, and account for wallet fees without underpaying the required amount. Do not send funds merely to discover whether a plan supports your application.
 
 ## What makes a comparison actionable
 
@@ -103,7 +103,7 @@ If an item is unclear, ask the vendor in writing. A support promise for one host
 
 ### What crypto checkout establishes
 
-The [official UltaHost billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) documents paying an invoice through a crypto processor. Confirm the available method on your own invoice. That evidence supports a payment workflow, not a cheapest-market ranking, account anonymity or server performance claim.
+The [official UltaHost billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz) documents paying an invoice through a crypto processor. Confirm the available method on your own invoice. That evidence supports a payment workflow, not a cheapest-market ranking, account anonymity or server performance claim.
 
 The [Contabo verification guidance](https://help.contabo.com/en/support/solutions/articles/103000348466-why-do-i-need-to-verify-my-purchase-) illustrates why account requirements must be checked separately (checked October 28, 2026). Do not assume another provider's verification policy is identical.
 

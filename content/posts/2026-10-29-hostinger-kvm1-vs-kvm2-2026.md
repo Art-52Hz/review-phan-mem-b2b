@@ -22,7 +22,7 @@ cover:
 
 *Affiliate disclosure: the link above is a referral link. We may earn a commission if you buy, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Prices and specs come from the official [Hostinger VPS page](https://www.hostinger.com/vps-hosting), checked October 29, 2026, for the 24-month term. Promotional prices change often; the checkout page is the final word.
+Prices and specs come from the official [Hostinger VPS page](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, for the 24-month term. Promotional prices change often; the checkout page is the final word.
 
 ## Specs and prices side by side
 

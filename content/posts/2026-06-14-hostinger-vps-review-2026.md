@@ -23,7 +23,7 @@ Based on official documentation and pricing checked October 28, 2026.
 
 ## Hostinger KVM plans and prices
 
-The table uses USD prices displayed on the [official pricing source](https://www.hostinger.com/vps-hosting), checked October 28, 2026. These are prepaid 24-month offers, not monthly billing. The upfront amounts below are displayed plan totals; confirm taxes and optional extras for your country before paying.
+The table uses USD prices displayed on the [official pricing source](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. These are prepaid 24-month offers, not monthly billing. The upfront amounts below are displayed plan totals; confirm taxes and optional extras for your country before paying.
 
 | Plan | Intro/month | Due upfront | Renewal/month, same term | vCPU / RAM | NVMe / bandwidth |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@ This comparison is about buying fit. The service scopes differ, so the lowest he
 | Free trial / refund distinction | No free trial shown; 30-day money-back offer | No free trial shown; 30-day money-back offer |
 | Best fit in this comparison | A developer who wants control and can maintain the stack | A buyer prioritizing help with server administration |
 
-Sources checked October 28, 2026: [Hostinger pricing and responsibility FAQ](https://www.hostinger.com/vps-hosting) and [UltaHost pricing and managed-server specifications](https://ultahost.com/vps-hosting). UltaHost's banner says $5.51, while its Basic plan card says $5.52; this comparison uses the plan card. Ask for the selected term's final quote and management scope. A money-back offer requires payment and is not a free trial.
+Sources checked October 28, 2026: [Hostinger pricing and responsibility FAQ](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost pricing and managed-server specifications](https://ultahost.com/vps-hosting#art52hz). UltaHost's banner says $5.51, while its Basic plan card says $5.52; this comparison uses the plan card. Ask for the selected term's final quote and management scope. A money-back offer requires payment and is not a free trial.
 
 For a freelancer comfortable with Linux administration, my preference here is Hostinger: keeping control of the stack is useful when a client needs a particular runtime or deployment process. For someone who wants an operator to help manage the server, UltaHost deserves a closer look. Ask who handles OS updates, application errors, migrations and recovery before deciding that managed hosting covers your workload.
 
@@ -68,13 +68,13 @@ For an agency, account ownership matters as much as installation. Decide whether
 
 Skip a self-administered VPS if you want to publish a simple business website and have no interest in server maintenance. Paying someone to operate it may erase the apparent saving. Compare [managed WordPress responsibilities](/posts/managed-wordpress-vps-hosting-2026/) before committing to infrastructure you do not need.
 
-Hostinger's [official KVM responsibility FAQ](https://www.hostinger.com/vps-hosting), checked October 28, 2026, assigns responsibility for the virtual server to the customer. A dashboard or installer can shorten setup; it does not appoint an administrator for your application.
+Hostinger's [official KVM responsibility FAQ](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, assigns responsibility for the virtual server to the customer. A dashboard or installer can shorten setup; it does not appoint an administrator for your application.
 
 Also reconsider a long prepaid term if the client has not approved the project, the application is still changing substantially, or you cannot fund maintenance. Budget for licenses, monitoring and operator time separately. Our [project cost guide](/posts/freelance-tool-project-cost/) helps distinguish the subscription payment from the real cost of delivering client work.
 
 ## Backups: useful, with a recovery trade-off
 
-Hostinger's [backup and restore instructions](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/), checked October 28, 2026, describe weekly backups by default and daily backups as a paid upgrade. A manual snapshot expires after one day; only one snapshot can be stored at a time. Restoring replaces the current VPS contents, and the server is locked during the operation.
+Hostinger's [backup and restore instructions](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, describe weekly backups by default and daily backups as a paid upgrade. A manual snapshot expires after one day; only one snapshot can be stored at a time. Restoring replaces the current VPS contents, and the server is locked during the operation.
 
 That makes snapshots useful before a controlled change, but unsuitable as your only long-term recovery plan. If your client cannot afford to lose recent transactions, decide how the database will be protected between server backups. Keep an independent copy of critical data and document who is authorized to restore it.
 
@@ -84,7 +84,7 @@ A backup listing is only the beginning of the evidence. The practical question i
 
 Use this as an initial inspection on an already provisioned, disposable server you are authorized to access. Provisioning, purchasing and a complete recovery exercise sit outside this short check. Set a timer and write down failures as well as successes.
 
-1. **Minutes 0–3: verify the order.** Match the selected tier, region and term to the receipt. Record the upfront payment and renewal information. The [official renewal guide](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/) explains where to inspect renewal details; checked October 28, 2026.
+1. **Minutes 0–3: verify the order.** Match the selected tier, region and term to the receipt. Record the upfront payment and renewal information. The [official renewal guide](https://www.hostinger.com/support/1583464-how-to-renew-a-hosting-plan-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) explains where to inspect renewal details; checked October 28, 2026.
 2. **Minutes 3–6: inspect access and capacity.** Confirm your SSH access, then use `free -h`, `df -h` and `nproc` to record the environment. These observations verify configuration; they do not establish application performance.
 3. **Minutes 6–10: deploy something representative.** Use a sanitized copy of your application or a minimal sample with the same runtime. Check a page, a database operation and a background job. Record what works without importing client secrets.
 4. **Minutes 10–13: inspect recovery controls.** Locate the backup schedule and snapshot controls. Write down the available restore points. Leave destructive restoration for a separate, explicitly authorized exercise on disposable data.
@@ -110,7 +110,7 @@ Treat it as a server you administer. Write down who handles patches, application
 
 ### Can I install custom software?
 
-Root access makes a custom stack possible, as described in the [official custom-software FAQ](https://www.hostinger.com/vps-hosting), checked October 28, 2026. Check your application's dependencies and licensing before selecting an image. An available control-panel template does not prove a paid license is included.
+Root access makes a custom stack possible, as described in the [official custom-software FAQ](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026. Check your application's dependencies and licensing before selecting an image. An available control-panel template does not prove a paid license is included.
 
 ### Is the displayed monthly price my monthly bill?
 

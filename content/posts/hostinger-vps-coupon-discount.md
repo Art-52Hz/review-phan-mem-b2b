@@ -28,7 +28,7 @@ Based on official pricing and documentation checked October 29, 2026.
 
 ## Hostinger VPS pricing: the public offer versus renewal
 
-The following USD figures are from the [official Hostinger VPS pricing cards](https://www.hostinger.com/vps-hosting), checked October 29, 2026. They describe the public offer, before any separately verified referral adjustment.
+The following USD figures are from the [official Hostinger VPS pricing cards](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026. They describe the public offer, before any separately verified referral adjustment.
 
 | Buying criterion | KVM 1 | KVM 2 |
 |---|---|---|
@@ -56,7 +56,7 @@ For budgeting, call the eligible subtotal **B** and the confirmed discount fract
 
 ### Eligibility needs a check, especially on shorter terms
 
-The [official referral help article](https://www.hostinger.com/support/6080777-how-to-use-the-referral-program-at-hostinger/), checked October 29, 2026, lists VPS subscriptions of one month or longer, while the agreement above lists eligible services with subscriptions of at least twelve months. The help article also excludes already registered users from its new-customer definition. Ask support to resolve eligibility for your order rather than assuming a short term qualifies.
+The [official referral help article](https://www.hostinger.com/support/6080777-how-to-use-the-referral-program-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, lists VPS subscriptions of one month or longer, while the agreement above lists eligible services with subscriptions of at least twelve months. The help article also excludes already registered users from its new-customer definition. Ask support to resolve eligibility for your order rather than assuming a short term qualifies.
 
 **Publisher note:** that same help article restricts ordinary referral sharing to personal contacts and says commercial websites and blogs should not publish those links. The catalog link used here is a referral link; permission for this site's commercial use needs confirmation before publication.
 
@@ -74,7 +74,7 @@ Before ordering, write down the initial payment, expected renewal amount and ren
 
 ## Hostinger versus UltaHost: compare the service you need
 
-The alternative is not simply a different coupon. It can be a different allocation of server work. The [official UltaHost VPS cards](https://ultahost.com/vps-hosting), checked October 29, 2026, show the following entry offer in USD.
+The alternative is not simply a different coupon. It can be a different allocation of server work. The [official UltaHost VPS cards](https://ultahost.com/vps-hosting#art52hz), checked October 29, 2026, show the following entry offer in USD.
 
 | Buying criterion | UltaHost VPS Basic |
 |---|---|
@@ -91,7 +91,7 @@ Choose between the operating models before hunting for an extra saving. Ask Ulta
 
 ## Who should choose Hostinger, and who should not?
 
-**Choose it if you want control and already have someone to operate the stack.** Hostinger's [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 29, 2026, describes a self-managed environment. Infrastructure access and installation tools do not replace an owner for updates, application incidents and recovery.
+**Choose it if you want control and already have someone to operate the stack.** Hostinger's [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, describes a self-managed environment. Infrastructure access and installation tools do not replace an owner for updates, application incidents and recovery.
 
 **Do not choose it just because the launch price is lower than your current bill.** First list everything that bill includes. If the existing service handles application maintenance, replacing it with a server can introduce work that outweighs the saving. Include your own time when comparing costs.
 

@@ -22,7 +22,7 @@ cover:
 
 *Affiliate disclosure: the link above is a referral link. We may earn a commission if you buy, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Specs and prices come from the official [UltaHost VPS page](https://ultahost.com/vps-hosting) (Linux, 2-year term), checked October 29, 2026. UltaHost also sells monthly, 1-year and 3-year terms at different rates.
+Specs and prices come from the official [UltaHost VPS page](https://ultahost.com/vps-hosting#art52hz) (Linux, 2-year term), checked October 29, 2026. UltaHost also sells monthly, 1-year and 3-year terms at different rates.
 
 ## Specs and prices side by side
 

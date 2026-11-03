@@ -26,15 +26,15 @@ Best for buyers who specifically need a documented crypto invoice workflow: shor
 
 | Payment choice | Hosting starting price | Free trial | Main limitation | Best fit |
 |---|---|---|---|---|
-| UltaHost with crypto | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free trial established | Crypto-paid purchases are excluded from refunds | Buyer who accepts the selected invoice commitment |
+| UltaHost with crypto | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free trial established | Crypto-paid purchases are excluded from refunds | Buyer who accepts the selected invoice commitment |
 | An eligible conventional payment method | Check current pricing and complete refund conditions | Refund eligibility is not a free trial | Eligibility depends on product, term and method | Buyer prioritizing a reversible evaluation |
 | Another crypto-accepting host | Check current pricing | Check the precise offer | Coin, network and verification need independent checks | Buyer whose required payment route is unavailable |
 
 ## Who should choose UltaHost / who should not
 
-Choose it for the shortlist if you need crypto billing, can satisfy account requirements and have already checked that the hosting plan fits. The [official payment guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/), checked October 28, 2026, documents an invoice-based workflow. That is a reason to evaluate the payment route, not an instruction to transfer funds before comparing the service.
+Choose it for the shortlist if you need crypto billing, can satisfy account requirements and have already checked that the hosting plan fits. The [official payment guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz), checked October 28, 2026, documents an invoice-based workflow. That is a reason to evaluate the payment route, not an instruction to transfer funds before comparing the service.
 
-Do not choose crypto merely because a general money-back banner makes the purchase look reversible. The [refund policy](https://ultahost.com/refund), checked October 28, excludes crypto purchases. Also do not equate paying with Bitcoin or Monero with having an anonymous account. Registration and verification questions remain separate.
+Do not choose crypto merely because a general money-back banner makes the purchase look reversible. The [refund policy](https://ultahost.com/refund#art52hz), checked October 28, excludes crypto purchases. Also do not equate paying with Bitcoin or Monero with having an anonymous account. Registration and verification questions remain separate.
 
 ## Four fields that must agree before a transfer
 
@@ -82,7 +82,7 @@ Account eligibility and verification must be resolved before sending funds. A cr
 
 ### The documented invoice workflow
 
-UltaHost's [official billing instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) describe selecting crypto on an invoice, opening the processor's payment page and using its transaction details. The guide emphasizes the requested amount and says invoice status changes after confirmations; its stated confirmation range is 30 minutes to two hours (documentation checked October 28, 2026). This is vendor guidance, not a timing guarantee from our own transaction.
+UltaHost's [official billing instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz) describe selecting crypto on an invoice, opening the processor's payment page and using its transaction details. The guide emphasizes the requested amount and says invoice status changes after confirmations; its stated confirmation range is 30 minutes to two hours (documentation checked October 28, 2026). This is vendor guidance, not a timing guarantee from our own transaction.
 
 Before acting on any payment page, verify:
 

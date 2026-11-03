@@ -43,11 +43,11 @@ What the numbers mean for your budget:
 - **Premium costs $90 a year more than Basic** on annual billing. That buys five times the daily lookups and three extra seats. If you work alone and rarely hit 100 searches a day, the upgrade buys capacity you will not use.
 - **Agency only makes sense with a team** or daily rank tracking for client reports. Weekly updates on Basic and Premium are fine for most freelance work.
 
-Pricing source: [Mangools plans and pricing](https://mangools.com/plans-and-pricing), checked November 1, 2026. Confirm the amount due on the checkout page before paying, because tax and currency can change the total.
+Pricing source: [Mangools plans and pricing](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462), checked November 1, 2026. Confirm the amount due on the checkout page before paying, because tax and currency can change the total.
 
 ## How the daily limits really work
 
-The [Mangools FAQ](https://mangools.com/faq), checked November 1, 2026, separates two counters:
+The [Mangools FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), checked November 1, 2026, separates two counters:
 
 1. **Keyword lookup:** a search typed in the main KWFinder box, or a keyword import.
 2. **SERP lookup:** loading a SERPChecker panel, or clicking a keyword suggestion to get its difficulty score.

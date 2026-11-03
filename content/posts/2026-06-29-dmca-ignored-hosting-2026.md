@@ -24,7 +24,7 @@ Best for a legitimate publisher checking complaint procedures: compare UltaHost 
 
 | Choice | Starting price | Free plan or trial | Main limitation | Appropriate buyer |
 |---|---|---|---|---|
-| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free trial established | No complaint-immunity promise verified | Publisher checking a documented hosting offer |
+| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free trial established | No complaint-immunity promise verified | Publisher checking a documented hosting offer |
 | Alternative host with a documented complaint process | Check current pricing | Check the exact offer | Needs product-specific policy review | Publisher prioritizing a clear response procedure |
 | Existing hosting plus a tested backup | Current invoice and backup cost | No new hosting trial needed | Does not resolve uncertain content rights | Publisher whose present service remains suitable |
 
@@ -74,7 +74,7 @@ Buy only when the application's hosting needs, complaint procedure, account owne
 
 Before purchasing, collect the provider's acceptable-use rules, complaint-handling procedure and service terms. Record the date and which hosting product they apply to. A claim on a marketing page does not answer every policy question.
 
-UltaHost's [official abuse-complaint guide](https://ultahost.com/knowledge-base/faqs/domain/where-and-how-can-i-submit-abuse-complaints/) includes copyright/DMCA complaints and describes information to provide (checked October 28, 2026). Its [investigation guidance](https://ultahost.com/knowledge-base/faqs/domain/is-the-investigation-process-different-for-registered-and-hosted-domains/) distinguishes registered and hosted domains (checked October 28, 2026). These documents are reasons to read the applicable procedure rather than assume complaints are ignored.
+UltaHost's [official abuse-complaint guide](https://ultahost.com/knowledge-base/faqs/domain/where-and-how-can-i-submit-abuse-complaints/#art52hz) includes copyright/DMCA complaints and describes information to provide (checked October 28, 2026). Its [investigation guidance](https://ultahost.com/knowledge-base/faqs/domain/is-the-investigation-process-different-for-registered-and-hosted-domains/#art52hz) distinguishes registered and hosted domains (checked October 28, 2026). These documents are reasons to read the applicable procedure rather than assume complaints are ignored.
 
 ### A comparison table that asks the right questions
 

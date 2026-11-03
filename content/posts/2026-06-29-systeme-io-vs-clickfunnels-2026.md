@@ -26,7 +26,7 @@ Write down the resource or offer, signup permission, follow-up and next action y
 
 ## Compare current plan limits
 
-Use [Systeme.io pricing](https://systeme.io/pricing) and [ClickFunnels pricing](https://www.clickfunnels.com/pricing) for a dated quote. Do not assume email or course features always require ClickFunnels' higher tiers: its current Launch listing includes email and course allowances. Confirm the exact allowance you need rather than treating a product name as unlimited access.
+Use [Systeme.io pricing](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70) and [ClickFunnels pricing](https://www.clickfunnels.com/pricing) for a dated quote. Do not assume email or course features always require ClickFunnels' higher tiers: its current Launch listing includes email and course allowances. Confirm the exact allowance you need rather than treating a product name as unlimited access.
 
 The ClickFunnels page lists Launch at $97 monthly and $81 per month billed annually. These are different commitments, not interchangeable monthly checkout prices. Promotions and limits can change. Systeme.io lists a Free plan, but whether its limits fit your project needs a requirement check; free access is not a measured product-quality verdict.
 

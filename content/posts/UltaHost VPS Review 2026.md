@@ -28,8 +28,8 @@ If you are comparing quotes, read [UltaHost versus Contabo on cost and support](
 
 | Choice | Starting price | Free plan or trial | Main limitation | Who should use it |
 |---|---|---|---|---|
-| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free trial established; refund eligibility varies | Management wording needs a task-by-task check | Buyers able to verify operational scope |
-| Hostinger VPS | From $6.49/mo (KVM 1: 1 vCPU, 4 GB RAM, 50 GB NVMe; 24-month term, renews $11.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting) | Check current offer and refund conditions | Customer manages the software environment | Operators comfortable maintaining applications |
+| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free trial established; refund eligibility varies | Management wording needs a task-by-task check | Buyers able to verify operational scope |
+| Hostinger VPS | From $6.49/mo (KVM 1: 1 vCPU, 4 GB RAM, 50 GB NVMe; 24-month term, renews $11.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) | Check current offer and refund conditions | Customer manages the software environment | Operators comfortable maintaining applications |
 | Managed application hosting | Check current pricing for the application | Check the selected service | May restrict custom server configuration | Clients buying application maintenance rather than root access |
 
 ## Who should choose UltaHost / who should not
@@ -44,13 +44,13 @@ The [official VPS page](https://ultahost.com/#art52hz), checked October 28, 2026
 
 Imagine a client asking why checkout stopped working after a software update. Before choosing a host, identify who investigates the application, who restores the database and who can approve an interruption. Put those responsibilities beside the quoted service. This is more useful than assuming that support availability means all repair work is included.
 
-For comparison, [Hostinger's VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 28, describes a software environment the customer manages. That makes it a relevant alternative for an operator who wants control and accepts maintenance work. It does not establish that either provider has better support in a real incident.
+For comparison, [Hostinger's VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 28, describes a software environment the customer manages. That makes it a relevant alternative for an operator who wants control and accepts maintenance work. It does not establish that either provider has better support in a real incident.
 
 ## The downside to a long commitment
 
 An annual equivalent can make a service look inexpensive while increasing the cash you commit before proving application compatibility. Compare the amount due now with the cost of a shorter evaluation period. Keep license charges, backup options and your own administration time in the same estimate.
 
-Read the [refund policy](https://ultahost.com/refund), checked October 28, before choosing a payment method. It contains payment-method and term exclusions, including crypto-paid purchases. Do not describe the service as a free trial or assume cancellation automatically returns the money. Choose a commitment you can justify even if the evaluation finds a mismatch.
+Read the [refund policy](https://ultahost.com/refund#art52hz), checked October 28, before choosing a payment method. It contains payment-method and term exclusions, including crypto-paid purchases. Do not describe the service as a free trial or assume cancellation automatically returns the money. Choose a commitment you can justify even if the evaluation finds a mismatch.
 
 ## A decision you can explain to the client
 
@@ -72,7 +72,7 @@ Recommend the plan only after you can state its job: which application it runs, 
 
 ### What we checked
 
-The [official crypto-payment guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) documents paying an invoice using crypto. It says the amount must match the invoice and payment confirmation can take time. This establishes a documented billing workflow, not anonymity, benchmark performance or support quality.
+The [official crypto-payment guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz) documents paying an invoice using crypto. It says the amount must match the invoice and payment confirmation can take time. This establishes a documented billing workflow, not anonymity, benchmark performance or support quality.
 
 ### Compare total cost, not just the entry price
 

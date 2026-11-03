@@ -40,7 +40,7 @@ The entry offers have different configurations and currencies. Use this table to
 | Free tier or trial | Paid plan; advertised 30-day money-back guarantee | No free tier or trial established by the cited offer |
 | Best fit | Operator who values guided setup and recovery tools | Operator prioritizing capacity and controlling the software stack |
 
-Sources checked October 30, 2026: [Hostinger pricing, plan specifications and backup features](https://www.hostinger.com/vps-hosting), [Contabo offer and backup add-on](https://contabo.com/en-us/vps/), and [Contabo's published Linux VPS specification table](https://contabo.com/blog/linux-web-hosting/).
+Sources checked October 30, 2026: [Hostinger pricing, plan specifications and backup features](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Contabo offer and backup add-on](https://contabo.com/en-us/vps/), and [Contabo's published Linux VPS specification table](https://contabo.com/blog/linux-web-hosting/).
 
 **Contabo source limitation:** its pages returned HTTP 403 on direct retrieval. The official search-index excerpts supplied the offer and specifications above. Its Linux guide labels its table as a 12-month, VAT-inclusive example, while the current offer excerpt advertises a 24-month promotion. Treat the guide as a configuration reference and confirm the exact order; do not combine these into a guaranteed quote.
 
@@ -58,11 +58,11 @@ For a memory-heavy container stack, compare Contabo's entry configuration with a
 
 Choose Hostinger when you can operate a Linux application but want guidance around configuration and routine tasks. Its documentation describes application templates, Docker tooling and AI assistance. These are useful reasons to shortlist it for a personal automation service or a freelancer's application deployment.
 
-The boundary is explicit: Hostinger handles hardware, networking and dashboard functionality; you handle the software inside the server. Advanced configuration and scripts may require manual work. Source: [Hostinger VPS support responsibilities, checked October 30, 2026](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/).
+The boundary is explicit: Hostinger handles hardware, networking and dashboard functionality; you handle the software inside the server. Advanced configuration and scripts may require manual work. Source: [Hostinger VPS support responsibilities, checked October 30, 2026](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO).
 
 That makes Hostinger a reasonable fit for someone willing to learn operations while retaining root control. It is a weaker fit for a business owner expecting the provider to maintain every plugin, repair a custom database query or own an application outage. An AI-generated command still needs your review, particularly when it changes access, deletes data or restarts services.
 
-Before buying, write down who will apply updates, monitor disk space, rotate application secrets and restore a failed deployment. If those jobs have no owner, choose a service with an explicit management agreement. Hostinger's support article also distinguishes its managed Web and Cloud hosting from its self-managed VPS products: [management definitions, checked October 30, 2026](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/).
+Before buying, write down who will apply updates, monitor disk space, rotate application secrets and restore a failed deployment. If those jobs have no owner, choose a service with an explicit management agreement. Hostinger's support article also distinguishes its managed Web and Cloud hosting from its self-managed VPS products: [management definitions, checked October 30, 2026](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO).
 
 **[See Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** if its tools match the work you want to do yourself. Choose the configuration around your application's documented requirements and an initial deployment check.
 

@@ -22,7 +22,7 @@ cover:
 
 *Affiliate disclosure: the link above is a referral link. We may earn a commission if you buy a plan, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Prices and limits below come from the official [TradingView pricing page](https://www.tradingview.com/pricing/), checked October 29, 2026. Sales tax may be added depending on your country, and TradingView changes promotions often, so confirm the number on the checkout page.
+Prices and limits below come from the official [TradingView pricing page](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. Sales tax may be added depending on your country, and TradingView changes promotions often, so confirm the number on the checkout page.
 
 ## TradingView prices in 2026
 
@@ -87,7 +87,7 @@ A common low-cost setup is TradingView Essential for charts and webhook alerts p
 
 1. Use the free plan for a week and note which limit you hit first: alerts, indicators or charts.
 2. Check that your broker or exchange supports the data feed you want; some real-time data costs extra on every plan.
-3. Read the [refund terms on the pricing page FAQ](https://www.tradingview.com/pricing/) before choosing annual billing.
+3. Read the [refund terms on the pricing page FAQ](https://www.tradingview.com/pricing/?aff_id=1173587) before choosing annual billing.
 4. If you sign up through a referral link, the $15 discount applies to your next plan purchase, not to the free plan.
 
 **[Compare TradingView plans on the official site](https://www.tradingview.com/?aff_id=1173587)**

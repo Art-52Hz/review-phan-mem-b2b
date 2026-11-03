@@ -31,7 +31,7 @@ Based on official pricing and documentation checked October 29, 2026; this is a 
 | Plus | $29.95 | 4 / 10 | 100 / 100 | Broader monitoring |
 | Premium | $59.95 | 8 / 25 | 400 / 400 | Larger chart workspace |
 
-Source for all table prices and limits: [TradingView pricing and plan comparison](https://www.tradingview.com/pricing/), checked October 29, 2026. Annual billing is upfront: the displayed equivalents imply $155.40, $359.40 and $719.40 per year respectively, before applicable taxes. Basic has no subscription charge; verify trial and renewal terms before accepting a paid offer.
+Source for all table prices and limits: [TradingView pricing and plan comparison](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. Annual billing is upfront: the displayed equivalents imply $155.40, $359.40 and $719.40 per year respectively, before applicable taxes. Basic has no subscription charge; verify trial and renewal terms before accepting a paid offer.
 
 Choose the smallest tier that covers your workflow. Our [full TradingView plan comparison](/posts/tradingview-plans-explained-2026/) covers additional limits.
 
@@ -49,7 +49,7 @@ The practical choice is often to keep your broker terminal and add a separate an
 | Account fit | Verify a supported broker integration before planning direct execution | Verify your broker's supported terminal and account server |
 | Switching cost to consider | Rebuild indicators or add an integration when necessary | Preserve working EA code and broker-specific settings |
 
-TradingView documents Pine Script and external notifications in its [alerts guide](https://www.tradingview.com/support/solutions/43000520149-introduction-to-tradingview-alerts/). MetaTrader explains MQL4/MQL5, Expert Advisors and its development tools in the official [algorithmic trading FAQ](https://www.metatrader.com/en/help/algotrading). Both sources checked October 29, 2026.
+TradingView documents Pine Script and external notifications in its [alerts guide](https://www.tradingview.com/support/solutions/43000520149-introduction-to-tradingview-alerts/?aff_id=1173587). MetaTrader explains MQL4/MQL5, Expert Advisors and its development tools in the official [algorithmic trading FAQ](https://www.metatrader.com/en/help/algotrading). Both sources checked October 29, 2026.
 
 For a discretionary trader, my suggested split is to prepare the chart in TradingView, wait for the notification, then inspect the executable quote in the broker terminal before deciding whether to place an order. For an EA user, keep the EA's terminal as the operating center and decide whether another chart subscription adds enough convenience to justify its cost.
 
@@ -59,19 +59,19 @@ These are workflow recommendations. A charting subscription does not establish a
 
 Searching for a currency pair is only the beginning. Check the provider attached to the symbol and use that same provider consistently when reviewing a setup.
 
-TradingView explains that ICE forex symbols combine contributions, while other providers represent individual brokers; available volume and trading hours can also differ. Source: [forex provider differences](https://www.tradingview.com/support/solutions/43000480629-what-is-the-difference-between-ice-and-other-forex-providers/), checked October 29, 2026.
+TradingView explains that ICE forex symbols combine contributions, while other providers represent individual brokers; available volume and trading hours can also differ. Source: [forex provider differences](https://www.tradingview.com/support/solutions/43000480629-what-is-the-difference-between-ice-and-other-forex-providers/?aff_id=1173587), checked October 29, 2026.
 
 That makes provider selection a buying prerequisite. Before paying for more chart space, put your intended TradingView symbol beside your broker's chart. Compare the session, timeframe and candle shape. If they differ, investigate the feed instead of assuming a more expensive subscription will fix it.
 
 Keep a short note with the provider name, pair, timeframe and timezone used for analysis. This makes it easier to revisit a chart without accidentally switching to another version of the same pair. It also gives you something concrete to send to support if a chart discrepancy affects your workflow.
 
-For execution, TradingView separately warns that its chart data and a connected broker's order-panel data can come from different sources. Consult its [real-time data and broker quote guidance](https://www.tradingview.com/support/solutions/43000739323-how-does-the-source-of-real-time-data-affect-the-trading-experience/), checked October 29, 2026. Confirm your account and instruments work with the intended integration before treating direct chart trading as a reason to subscribe.
+For execution, TradingView separately warns that its chart data and a connected broker's order-panel data can come from different sources. Consult its [real-time data and broker quote guidance](https://www.tradingview.com/support/solutions/43000739323-how-does-the-source-of-real-time-data-affect-the-trading-experience/?aff_id=1173587), checked October 29, 2026. Confirm your account and instruments work with the intended integration before treating direct chart trading as a reason to subscribe.
 
 ## Alerts: pay for a repeatable routine
 
 Begin with a written condition: which pair, what event, which timeframe and what you will inspect after notification. A price-level reminder and an indicator-based condition serve different purposes. Avoid buying a large alert allowance before you know which type your routine needs.
 
-TradingView's official alerts documentation says alerts run on its servers and can deliver app or email notifications. It also states that an indicator alert retains the settings used when it was created, even if you later change the indicator. Source: [alert behavior and notifications](https://www.tradingview.com/support/solutions/43000520149-introduction-to-tradingview-alerts/), checked October 29, 2026.
+TradingView's official alerts documentation says alerts run on its servers and can deliver app or email notifications. It also states that an indicator alert retains the settings used when it was created, even if you later change the indicator. Source: [alert behavior and notifications](https://www.tradingview.com/support/solutions/43000520149-introduction-to-tradingview-alerts/?aff_id=1173587), checked October 29, 2026.
 
 Review alert settings after changing a chart template. Otherwise, the chart you are looking at and the condition being monitored may no longer describe the same setup. Choose deliberately whether your process needs a completed candle or an event during a forming candle, then verify the behavior yourself.
 
@@ -91,7 +91,7 @@ Review alert settings after changing a chart template. Otherwise, the chart you 
 
 A webhook sends a message to another application; a receiver or bridge must interpret that message before an external trading system can act on it. Map that entire route before buying subscriptions for automation.
 
-TradingView requires two-factor authentication for webhooks, accepts ports 80 and 443, cancels requests taking longer than three seconds, and warns delivery can fail. These are documented restrictions, not measured performance results. Source: [official webhook configuration guide](https://www.tradingview.com/support/solutions/43000529348-how-to-configure-webhook-alerts/), checked October 29, 2026.
+TradingView requires two-factor authentication for webhooks, accepts ports 80 and 443, cancels requests taking longer than three seconds, and warns delivery can fail. These are documented restrictions, not measured performance results. Source: [official webhook configuration guide](https://www.tradingview.com/support/solutions/43000529348-how-to-configure-webhook-alerts/?aff_id=1173587), checked October 29, 2026.
 
 If you plan to connect signals to MetaTrader, ask the bridge provider which terminal, broker symbol format and order controls it supports. Include bridge charges and maintenance in the budget. Use a demo account to check duplicate handling, rejected orders and what happens when the terminal disconnects.
 

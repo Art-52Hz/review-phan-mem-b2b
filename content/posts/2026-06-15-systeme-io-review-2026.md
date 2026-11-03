@@ -37,7 +37,7 @@ The buying question is whether one account can support your actual workflow. Com
 
 ## Pricing (2026)
 
-The [official pricing FAQ](https://systeme.io/pricing), checked October 5, describes a free plan with 2,000 contacts, three funnels and one course, with no expiry or credit card requirement. Verify the live plan table and account limits before purchase: our source extraction did not expose every dynamic comparison cell.
+The [official pricing FAQ](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked October 5, describes a free plan with 2,000 contacts, three funnels and one course, with no expiry or credit card requirement. Verify the live plan table and account limits before purchase: our source extraction did not expose every dynamic comparison cell.
 
 Check billing currency, taxes, payment-processing charges and annual commitment separately. Use the [project cost worksheet](/posts/freelance-tool-project-cost/) to include setup, revisions and maintenance. Do not assume a platform's advertised transaction fee represents the entire cost of accepting payments.
 
@@ -72,7 +72,7 @@ The vendor describes the following affiliate terms; a high rate does not establi
 - **Commission basis** — applicable VAT is deducted before the 60% calculation; no second-tier earnings are assumed here
 - **Cookie duration** — 365 days
 
-Affiliate income depends on eligible purchases and attribution. The official help page specifies a payout threshold above $30 and at least a 30-day hold, with payments on the 10th. Referral association after signup has an exception when another affiliate's payment-page link is used. These terms do not establish our account's eligibility or forecast income. See the [official affiliate help](https://help.systeme.io/article/162-how-the-systeme-io-affiliate-program-works).
+Affiliate income depends on eligible purchases and attribution. The official help page specifies a payout threshold above $30 and at least a 30-day hold, with payments on the 10th. Referral association after signup has an exception when another affiliate's payment-page link is used. These terms do not establish our account's eligibility or forecast income. See the [official affiliate help](https://help.systeme.io/article/162-how-the-systeme-io-affiliate-program-works?sa=sa0240953427819ac8307d665a325f6afb57632d70).
 
 ---
 

@@ -26,14 +26,14 @@ Best for freelancers who can own Linux application operations: shortlist Hosting
 
 | Hosting model | Starting price | Free plan or trial | Main limitation | Best-fit freelancer |
 |---|---|---|---|---|
-| Hostinger VPS | From $6.49/mo (KVM 1: 1 vCPU, 4 GB RAM, 50 GB NVMe; 24-month term, renews $11.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting) | No free trial established here | Customer operates the software environment | Developer comfortable with maintenance and recovery |
-| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | 30-day money-back guarantee listed on the pricing page | Entry plan has 1 GB RAM; check what "managed" covers | Freelancer who wants provider-side server management |
+| Hostinger VPS | From $6.49/mo (KVM 1: 1 vCPU, 4 GB RAM, 50 GB NVMe; 24-month term, renews $11.99/mo), checked Oct 28, 2026 — [pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) | No free trial established here | Customer operates the software environment | Developer comfortable with maintenance and recovery |
+| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | 30-day money-back guarantee listed on the pricing page | Entry plan has 1 GB RAM; check what "managed" covers | Freelancer who wants provider-side server management |
 | Managed application hosting | Check current pricing for the specific application | Check selected service | Less flexibility for arbitrary server software | Freelancer selling a maintained application outcome |
 | Existing shared or static hosting | Current invoice | No new trial needed | May restrict background jobs or custom runtimes | Freelancer whose current delivery already works |
 
 ## Who should choose Hostinger / who should not
 
-Choose Hostinger for evaluation when the client project actually needs server control and you can maintain the environment. Its [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/), checked October 28, 2026, describes a software environment managed by the customer. That operating model is the key selection criterion here.
+Choose Hostinger for evaluation when the client project actually needs server control and you can maintain the environment. Its [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 28, 2026, describes a software environment managed by the customer. That operating model is the key selection criterion here.
 
 Do not choose a VPS just to make a basic portfolio look more professional. If your current platform supports the site, another server can add patching, backup and access work without improving the deliverable. Also avoid selling all-inclusive maintenance until the scope and price of your own operating service are explicit.
 

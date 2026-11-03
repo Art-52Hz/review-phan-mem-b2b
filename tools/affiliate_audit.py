@@ -22,6 +22,26 @@ def account_key(url):
     return parts.scheme, parts.hostname, parts.path.rstrip('/'), parts.fragment
 
 
+def deep_link_program(href, records):
+    """Program id when href is any page of the vendor's domain carrying our issued code."""
+    parts = urlsplit(href)
+    host = (parts.hostname or '').lower()
+    actual = parse_qsl(parts.query, keep_blank_values=True)
+    for record in records:
+        ref = urlsplit(record.get('referral_url') or '')
+        if not ref.hostname:
+            continue
+        base = '.'.join(ref.hostname.lower().split('.')[-2:])
+        if host != base and not host.endswith('.' + base):
+            continue
+        code = parse_qsl(ref.query, keep_blank_values=True)
+        if ref.fragment and parts.fragment == ref.fragment and not code:
+            return record['program_id']
+        if code and all(pair in actual for pair in code):
+            return record['program_id']
+    return None
+
+
 def audit(build, catalog):
     records = catalog['records']
     expected = {account_key(r['referral_url']): r['program_id']
@@ -37,6 +57,12 @@ def audit(build, catalog):
             href = link.get('href', '')
             key = account_key(href)
             location = page.relative_to(build).as_posix()
+            # Deep links (vendor pricing/product pages) carrying our own account
+            # code are valid: the code, not the path, is what attributes the sale.
+            deep = deep_link_program(href, records)
+            if deep and key not in expected:
+                occurrences[deep] += 1
+                continue
             # Explicit affiliate markers require an issued catalog URL even
             # when the destination belongs to a previously unseen vendor.
             query_keys = {name.lower() for name, _ in parse_qsl(urlsplit(href).query)}

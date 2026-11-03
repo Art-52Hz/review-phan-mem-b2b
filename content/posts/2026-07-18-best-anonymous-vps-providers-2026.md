@@ -26,7 +26,7 @@ If your workload is a trading terminal, start with the [Forex VPS compatibility 
 
 | Option | Starting price | Free plan or trial | Main limitation | Best fit |
 |---|---|---|---|---|
-| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting) | No free VPS trial established; a refund promise is conditional | Crypto support does not establish anonymous registration | Developers who can meet account requirements |
+| UltaHost VPS | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | No free VPS trial established; a refund promise is conditional | Crypto support does not establish anonymous registration | Developers who can meet account requirements |
 | A provider offering explicit privacy commitments | Check current pricing | Check the exact offer | Requires evidence about collection, retention and verification | Buyers with a defined privacy requirement |
 | Existing hosting | Your current invoice | No new trial needed | May lack the runtime or network configuration you need | Projects whose present environment already works |
 
@@ -46,9 +46,9 @@ For European hosting, distinguish server location from the locations in which ac
 
 ## Compare payment privacy with account privacy
 
-The [official crypto billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/), checked October 28, 2026, lists crypto payment options, including XMR. A documented currency list does not guarantee that every invoice, network or country currently supports that currency. Check availability for your own order without treating the list as a promise of anonymous checkout.
+The [official crypto billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz), checked October 28, 2026, lists crypto payment options, including XMR. A documented currency list does not guarantee that every invoice, network or country currently supports that currency. Check availability for your own order without treating the list as a promise of anonymous checkout.
 
-There is a meaningful downside to paying before resolving these questions: the [refund policy](https://ultahost.com/refund), checked October 28, excludes crypto-paid purchases. If verification or workload permission later becomes a problem, a generic money-back banner is not sufficient protection. Obtain the required answers before authorizing a transfer.
+There is a meaningful downside to paying before resolving these questions: the [refund policy](https://ultahost.com/refund#art52hz), checked October 28, excludes crypto-paid purchases. If verification or workload permission later becomes a problem, a generic money-back banner is not sufficient protection. Obtain the required answers before authorizing a transfer.
 
 [Inspect the current offer against your requirements](https://ultahost.com/#art52hz "affiliate")
 
@@ -76,7 +76,7 @@ Separate three questions: can you pay using your preferred method, what account 
 | Contabo | Official support explains that orders require customer-data verification | Current payment options and exact server specifications | Do not assume no-KYC registration |
 | Other providers | No current account purchase verified for this article | Account data, payment, workload policy, network and support | Request evidence before comparing |
 
-UltaHost's [official crypto billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/) describes choosing crypto when paying an invoice. It instructs customers to pay the displayed amount and allow for confirmation. The guide lists XMR as of October 28, 2026; confirm currency and network availability on the actual invoice before payment.
+UltaHost's [official crypto billing guide](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz) describes choosing crypto when paying an invoice. It instructs customers to pay the displayed amount and allow for confirmation. The guide lists XMR as of October 28, 2026; confirm currency and network availability on the actual invoice before payment.
 
 Contabo's [verification guidance](https://help.contabo.com/en/support/solutions/articles/103000348466-why-do-i-need-to-verify-my-purchase-) says customer-data verification is required for orders (checked October 28, 2026). That is useful evidence when comparing a host against a strict no-verification requirement.
 

@@ -26,7 +26,7 @@ Based on official documentation and public USD pricing checked October 30, 2026;
 
 ## Compare the bill and resources first
 
-The table uses the official [Hostinger pricing source](https://www.hostinger.com/vps-hosting) and [UltaHost pricing source](https://ultahost.com/vps-hosting), checked October 30, 2026. Both display long-term offers here. A monthly-equivalent price is different from a monthly payment.
+The table uses the official [Hostinger pricing source](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost pricing source](https://ultahost.com/vps-hosting#art52hz), checked October 30, 2026. Both display long-term offers here. A monthly-equivalent price is different from a monthly payment.
 
 | Buyer criterion | Hostinger KVM 1 | Hostinger KVM 2 | UltaHost VPS Business |
 |---|---|---|---|
@@ -61,9 +61,9 @@ For an AI workflow, distinguish calling an external model API from running a mod
 
 **Choose KVM 2** if the same machine will host a separate database, additional containers, or workflows that may overlap. The extra resources buy flexibility, while the larger prepaid bill is the tradeoff. For more detail on that decision, read our [Hostinger KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/).
 
-Hostinger's [official n8n template guide](https://www.hostinger.com/support/10473267-how-to-use-the-n8n-vps-template-at-hostinger/), checked October 30, 2026, describes a preinstalled Docker environment. That helps with initial deployment, but it does not remove ongoing administration. Its [VPS management explanation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/), checked the same day, identifies VPS hosting as self-managed.
+Hostinger's [official n8n template guide](https://www.hostinger.com/support/10473267-how-to-use-the-n8n-vps-template-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, describes a preinstalled Docker environment. That helps with initial deployment, but it does not remove ongoing administration. Its [VPS management explanation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked the same day, identifies VPS hosting as self-managed.
 
-**Do not choose a self-managed VPS** if nobody owns patching, backups and recovery. A template can get software running; someone must still decide when to update it and what to do when a workflow fails. Hostinger also offers a separate Managed n8n product, described in its [managed application documentation](https://www.hostinger.com/support/hostinger-managed-n8n-overview-and-setup/), checked October 30, 2026. Verify which product you are ordering rather than treating the two as interchangeable.
+**Do not choose a self-managed VPS** if nobody owns patching, backups and recovery. A template can get software running; someone must still decide when to update it and what to do when a workflow fails. Hostinger also offers a separate Managed n8n product, described in its [managed application documentation](https://www.hostinger.com/support/hostinger-managed-n8n-overview-and-setup/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026. Verify which product you are ordering rather than treating the two as interchangeable.
 
 **[Compare Hostinger plans for your n8n stack](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
@@ -99,7 +99,7 @@ A successful short check establishes basic behavior only. Before relying on the 
 
 ## FAQ
 
-These questions follow the public installation FAQ topics in [Hostinger's n8n tutorial](https://www.hostinger.com/uk/tutorials/how-to-install-n8n/) and the official n8n hosting and memory guides, checked October 30, 2026.
+These questions follow the public installation FAQ topics in [Hostinger's n8n tutorial](https://www.hostinger.com/uk/tutorials/how-to-install-n8n/?REFERRALCODE=ACFTUNGSAAEO) and the official n8n hosting and memory guides, checked October 30, 2026.
 
 ### Which VPS plan should I choose for n8n?
 
