@@ -1,7 +1,7 @@
 ---
 title: "Hostinger VPS Review 2026: KVM Plans, Prices and Fit"
 date: 2026-06-14
-lastmod: 2026-10-30
+lastmod: 2026-11-04
 slug: "hostinger-vps-review-2026"
 draft: false
 description: "Compare Hostinger KVM plans, upfront prices and renewals. Check server maintenance, backups and client handoff before buying a VPS for your work."
@@ -20,6 +20,8 @@ cover:
 **[See Hostinger plans ?](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
 
 Based on official documentation and pricing checked October 28, 2026.
+
+> **Black Friday 2026:** Hostinger's sale is live. Compare its current offers with UltaHost, October prices and renewal costs in our [Black Friday VPS deals comparison](/posts/black-friday-vps-deals-2026/), checked November 4, 2026.
 
 ## Hostinger KVM plans and prices
 
