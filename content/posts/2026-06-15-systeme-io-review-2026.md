@@ -35,7 +35,7 @@ The table uses USD monthly billing. The recommendation column is our buying judg
 | Webinar | $47 | 10,000 | 50 | 20 | Add evergreen webinars or capacity |
 | Unlimited | $97 | Unlimited | Unlimited | Unlimited | Operate beyond the lower tiers |
 
-Source for prices and capacities: [Systeme.io pricing FAQ](https://systeme.io/pricing), checked November 4, 2026. It also states that Free has no expiry and requires no credit card.
+Source for prices and capacities: [Systeme.io pricing FAQ](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026. It also states that Free has no expiry and requires no credit card.
 
 Start with monthly billing while validating the workflow. The pricing page advertises annual billing with two months free, but a lower monthly equivalent means an upfront commitment. Check the annual total, currency and taxes at checkout before choosing that option.
 
@@ -43,13 +43,13 @@ Use the [project cost worksheet](/posts/freelance-tool-project-cost/) to record 
 
 ## Free plan limits: what can stop you first?
 
-The easy mistake is to watch only contact growth. Free also limits you to one automation rule, one email campaign and one custom domain, according to the [official Free plan FAQ](https://systeme.io/pricing), checked November 4, 2026.
+The easy mistake is to watch only contact growth. Free also limits you to one automation rule, one email campaign and one custom domain, according to the [official Free plan FAQ](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026.
 
 For a simple resource funnel, that can be enough: collect permission, deliver the download and follow up with a relevant offer. It becomes restrictive when you want separate onboarding journeys for different products. Sketch those journeys before importing an audience. A small list with several offers may outgrow the automation allowance before it outgrows the contact allowance.
 
 Download the [blank lead-funnel checklist](/downloads/freelancer-lead-funnel-checklist.txt) and adapt it to your audience and product. Write down the entry page, promised resource, follow-up and purchase destination. Filling out this worksheet does not establish that the funnel works.
 
-There is an inconsistency on the pricing page: its benefits section says unlimited students, while its Free FAQ mentions 500 students. If learner capacity determines your purchase, obtain confirmation from support rather than planning around the more generous statement. Source: [pricing benefits and Free FAQ](https://systeme.io/pricing), checked November 4, 2026.
+There is an inconsistency on the pricing page: its benefits section says unlimited students, while its Free FAQ mentions 500 students. If learner capacity determines your purchase, obtain confirmation from support rather than planning around the more generous statement. Source: [pricing benefits and Free FAQ](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026.
 
 ## When is a paid plan worth it?
 
@@ -81,7 +81,7 @@ Shortlist Unlimited when smaller tiers would force you to split a working busine
 | Email sending | Unlimited sends across plans | 50,000 emails per month |
 | Recommended buyer | Solo creator combining basic tools | Business needing a specific ClickFunnels workflow |
 
-Systeme.io figures: the pricing FAQ above and [official email-volume and contact guide](https://help.systeme.io/article/4512-how-much-does-it-cost-to-send-1-million-emails-a-month-with-systeme-io), checked November 4, 2026. ClickFunnels figures: [official Launch pricing and inclusions](https://www.clickfunnels.com/pricing), checked November 4, 2026. Monthly prices are compared with monthly prices.
+Systeme.io figures: the pricing FAQ above and [official email-volume and contact guide](https://help.systeme.io/article/4512-how-much-does-it-cost-to-send-1-million-emails-a-month-with-systeme-io?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026. ClickFunnels figures: [official Launch pricing and inclusions](https://www.clickfunnels.com/pricing), checked November 4, 2026. Monthly prices are compared with monthly prices.
 
 For a new creator, I would shortlist Systeme.io first because you can check the journey without starting a paid subscription. An established ClickFunnels user should price migration before switching: rebuilding checkout pages, recreating sequences and checking customer access all have a cost. This recommendation concerns budget and workflow, not measured conversion performance.
 
@@ -95,7 +95,7 @@ Use the [Systeme.io versus ClickFunnels project checklist](/posts/systeme-io-vs-
 
 **Investigate alternatives first** if your purchase depends on a specialist integration, complex access controls or a precise learner allowance. Make that requirement your first acceptance check. A feature list does not establish compatibility with existing systems.
 
-The most concrete downside is that exceeding allowances can interrupt operations. Systeme.io documents warnings and restrictions when contact or feature limits are exceeded, including after a downgrade. Review the plan summary before reducing your subscription. Source: [official account restriction process](https://help.systeme.io/article/1086), checked November 4, 2026.
+The most concrete downside is that exceeding allowances can interrupt operations. Systeme.io documents warnings and restrictions when contact or feature limits are exceeded, including after a downgrade. Review the plan summary before reducing your subscription. Source: [official account restriction process](https://help.systeme.io/article/1086?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026.
 
 Unlimited sending does not establish inbox placement. Authenticate the sending domain and use a permission-based list before evaluating performance. The official email-volume guide cited above recommends domain authentication and list hygiene. Its published account results are vendor evidence, not a forecast for your list.
 
@@ -134,7 +134,7 @@ No. The comparison above includes course capacity on lower tiers. Choose Webinar
 
 ### Can I cancel or downgrade later?
 
-The pricing FAQ says cancellation keeps the current plan until the next billing date, then returns the account to Free. Review restrictions before downgrading an account with assets above the lower allowance. Source: [official cancellation and downgrade FAQ](https://systeme.io/pricing), checked November 4, 2026.
+The pricing FAQ says cancellation keeps the current plan until the next billing date, then returns the account to Free. Review restrictions before downgrading an account with assets above the lower allowance. Source: [official cancellation and downgrade FAQ](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 4, 2026.
 
 ## Verdict: pay for a named constraint
 
