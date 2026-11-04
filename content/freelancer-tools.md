@@ -18,6 +18,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [Systeme.io Review](/posts/systeme-io-review-2026/) | Free Plan Limits and When to Upgrade |
 | [Systeme.io vs ClickFunnels](/posts/systeme-io-vs-clickfunnels-2026/) | Funnel Fit and Full Cost |
 | [Beautiful.ai Review](/posts/beautiful-ai-review-2026/) | Pricing, Free Trial and Who Should Pay |
+| [Mangools Black Friday 2026](/posts/mangools-black-friday-2026/) | Sale status, regular prices and which KWFinder plan to shortlist |
 | [KWFinder Review](/posts/mangools-kwfinder-review/) | Mangools Pricing and Lookup Limits |
 | [Keyword Research for Freelancers](/posts/keyword-research-for-freelancers/) | A Free Workflow with KWFinder |
 | [Keyword Shortlist Worksheet](/posts/keyword-shortlist-worksheet/) | Intent and Results for Client SEO |

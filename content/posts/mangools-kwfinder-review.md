@@ -1,7 +1,7 @@
 ---
 title: "KWFinder Review (2026): Mangools Pricing, Limits and Cheaper Alternatives"
 date: 2026-10-09T22:30:00+07:00
-lastmod: 2026-11-01
+lastmod: 2026-11-04
 draft: false
 author: "Vincent Pham"
 slug: "mangools-kwfinder-review"
@@ -24,6 +24,8 @@ Skip a paid plan for now if you have not yet run one real client brief. Google S
 **Affiliate disclosure:** This guide contains a Mangools affiliate link. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).
 
 **Review scope, November 1, 2026:** Prices and limits below were read from the Mangools plans page on November 1, 2026 (USD, before tax). Keyword observations come from our signed-in KWFinder sessions in October 2026. This is not a paid-plan capacity benchmark or a data-accuracy comparison, and no star rating is assigned.
+
+> **Black Friday 2026:** No active seasonal offer was visible in official material checked November 4. Our [Mangools Black Friday guide](/posts/mangools-black-friday-2026/) lists the current official indexed baseline, which differs from the November 1 prices below, and explains what to check before buying.
 
 ## Mangools pricing in 2026: Basic vs Premium vs Agency
 
