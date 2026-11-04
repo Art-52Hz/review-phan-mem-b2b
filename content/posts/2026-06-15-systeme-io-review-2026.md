@@ -24,6 +24,8 @@ For a new solo business, my recommendation is to validate the offer on Free befo
 
 Based on official pricing and documentation checked November 4, 2026; this is a document-based buying guide, not a hands-on review.
 
+> **Black Friday 2026:** No 2026 sale was confirmed on the official pages checked November 4. Read our [Systeme.io Black Friday guide](/posts/systeme-io-black-friday-2026/) for regular annual prices and which plan to pick.
+
 ## Systeme.io pricing: which plan should you buy?
 
 The table uses USD monthly billing. The recommendation column is our buying judgment based on capacity, rather than an assumed conversion benefit.
