@@ -20,6 +20,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [KWFinder Review](/posts/mangools-kwfinder-review/) | Mangools Pricing and Lookup Limits |
 | [Keyword Research for Freelancers](/posts/keyword-research-for-freelancers/) | A Free Workflow with KWFinder |
 | [Keyword Shortlist Worksheet](/posts/keyword-shortlist-worksheet/) | Intent and Results for Client SEO |
+| [TradingView Black Friday 2026](/posts/tradingview-black-friday-2026/) | Sale dates, 2025 discount and which annual plan to buy |
 | [TradingView Plans Explained](/posts/tradingview-plans-explained-2026/) | Basic vs Essential vs Plus vs Premium |
 | [TradingView for Forex Traders](/posts/tradingview-for-forex-traders/) | Charts, Alerts and MT4/MT5 |
 | [Hostinger AI Review](/posts/hostinger-ai-review-2026/) | Builder, Export and Client Handoff |

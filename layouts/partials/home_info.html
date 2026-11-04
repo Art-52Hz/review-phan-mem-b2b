@@ -15,6 +15,15 @@
 </section>
 {{- end }}
 
+{{- if lt now.Unix ("2026-12-03" | time).Unix }}
+<aside class="deal-strip" aria-label="Black Friday 2026 guides">
+  <strong>Black Friday 2026</strong>
+  <span>Checked against our October prices, so you can see what is really discounted.</span>
+  <a href="/posts/hostinger-black-friday-vps-2026/">Hostinger VPS</a>
+  <a href="/posts/tradingview-black-friday-2026/">TradingView</a>
+</aside>
+{{- end }}
+
 <h2 class="section-title">Pick a topic</h2>
 <div class="topic-grid">
   <a class="topic t-vps" href="/vps-hosting/"><strong>VPS &amp; Hosting</strong><span>Hostinger, UltaHost, Contabo — real monthly cost</span></a>

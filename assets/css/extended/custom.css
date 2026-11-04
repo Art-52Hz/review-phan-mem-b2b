@@ -210,3 +210,12 @@ aside[aria-label="Related reading"] li a:hover { border-color: var(--accent); co
   .post-content { font-size: 17px; }
   .post-content p.cta a { display: flex; justify-content: center; }
 }
+
+/* ---------- Seasonal deal strip (home) ---------- */
+.deal-strip { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin: 0 0 28px; padding: 14px 18px;
+  border-radius: var(--card-radius); border: 1px solid var(--accent); background: var(--accent-soft); font-size: 14px; }
+.deal-strip strong { color: var(--accent); font-size: 15px; }
+.deal-strip span { color: var(--secondary); flex: 1 1 260px; }
+.deal-strip a { font-weight: 600; color: var(--accent); text-decoration: none; padding: 6px 12px; border-radius: 999px;
+  background: var(--entry); border: 1px solid var(--accent); }
+.deal-strip a:hover { background: var(--accent); color: #fff; }

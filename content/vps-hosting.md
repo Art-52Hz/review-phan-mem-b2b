@@ -45,6 +45,7 @@ Already know the provider? These guides compare individual plans, discounts and 
 
 | Guide | Use it to decide |
 |---|---|
+| [Hostinger Black Friday VPS 2026](/posts/hostinger-black-friday-vps-2026/) | Whether the Black Friday price is really lower, day-one cost and renewal |
 | [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/) | Which Plan Size You Need |
 | [UltaHost VPS Basic vs Business](/posts/ultahost-vps-basic-vs-business-2026/) | Is 1 GB RAM Enough? |
 | [Hostinger VPS Discount](/posts/hostinger-vps-coupon-discount/) | Referral Price and Renewal |

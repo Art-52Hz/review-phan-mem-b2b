@@ -22,6 +22,8 @@ The decision is whether you need extra resource headroom now, rather than whethe
 
 *Affiliate disclosure: purchase links in this article are referral links. We may earn a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
+> **Black Friday 2026:** Hostinger's Black Friday VPS page is live. We compared it with these prices: see [Hostinger Black Friday VPS 2026](/posts/hostinger-black-friday-vps-2026/).
+
 Based on official pricing and documentation checked November 4, 2026; workload recommendations below are planning judgments.
 
 ## KVM 1 vs KVM 2: price and resource comparison

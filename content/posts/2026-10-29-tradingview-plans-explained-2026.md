@@ -24,6 +24,8 @@ cover:
 
 Prices and limits below come from the official [TradingView pricing page](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. Sales tax may be added depending on your country, and TradingView changes promotions often, so confirm the number on the checkout page.
 
+> **Black Friday:** TradingView usually runs its biggest sale of the year in late November (up to 80% off annual plans in 2025). See [TradingView Black Friday 2026](/posts/tradingview-black-friday-2026/) before you buy an annual plan.
+
 ## TradingView prices in 2026
 
 | Plan | Billed monthly | Billed annually (per month) | Charts per tab | Indicators per chart |
