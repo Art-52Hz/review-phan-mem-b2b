@@ -15,6 +15,7 @@ Write down the script length, target language, delivery format and likely revisi
 | Your next reading | Use it to decide |
 |---|---|
 | [ElevenLabs Review 2026](/posts/elevenlabs-ai-review-2026/) | Pricing, Free Limits and Paid Plans |
+| [ElevenLabs Black Friday 2026](/posts/elevenlabs-black-friday-2026/) | Sale status, regular prices and the cheapest billing choice |
 | [ElevenLabs Pricing](/posts/elevenlabs-pricing-plans-explained/) | Free, Starter, Creator and Pro Credits |
 | [ElevenLabs Alternatives](/posts/elevenlabs-alternatives/) | Cheaper Voice Tools by Cost and Rights |
 | [ElevenLabs vs Murf AI](/posts/elevenlabs-vs-murf-ai-2026/) | Which Fits Your Voiceover? |

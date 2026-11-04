@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Pricing (2026): Free, Starter, Creator and Pro Credits Explained"
 date: 2026-10-30T09:00:00+07:00
-lastmod: 2026-10-30
+lastmod: 2026-11-04
 draft: false
 author: "Vincent Pham"
 slug: "elevenlabs-pricing-plans-explained"
@@ -24,6 +24,8 @@ Compare **Murf** instead if your main buying question is how narration fits into
 [See ElevenLabs plans](https://try.elevenlabs.io/01vzwhie5ubt "affiliate").
 
 Based on official pricing and documentation checked October 30, 2026.
+
+> **Black Friday 2026:** No named sale was displayed on the official pricing page checked November 4, 2026. Read our [ElevenLabs Black Friday guide](/posts/elevenlabs-black-friday-2026/) for current introductory offers, regular prices and monthly versus annual payment advice.
 
 ## Free, Starter, Creator and Pro at a glance
 
