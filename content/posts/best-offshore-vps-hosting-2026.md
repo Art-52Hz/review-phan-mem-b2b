@@ -36,15 +36,15 @@ The shortlist below compares two providers already covered by this site's affili
 | Free trial or refund offer | Advertised 30-day money-back guarantee, not a free trial | Advertised 30-day money-back guarantee, not a free trial |
 | Best fit | Small deployment where managed assistance matters | Technical owner needing more memory |
 
-Pricing and specification sources: [UltaHost VPS Basic pricing and inclusions](https://ultahost.com/vps-hosting), checked November 4, 2026; [Hostinger KVM plan pricing and billing terms](https://www.hostinger.com/vps-hosting), checked November 4, 2026. UltaHost's hero banner says $5.51, while its Basic card says $5.52; the table uses the named plan card. Confirm the final order total, tax and selected configuration before payment.
+Pricing and specification sources: [UltaHost VPS Basic pricing and inclusions](https://ultahost.com/vps-hosting#art52hz), checked November 4, 2026; [Hostinger KVM plan pricing and billing terms](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 4, 2026. UltaHost's hero banner says $5.51, while its Basic card says $5.52; the table uses the named plan card. Confirm the final order total, tax and selected configuration before payment.
 
 ## Locations: choose the actual VPS region
 
 For European customers, compare a European region before paying for a distant server simply because it is marketed as offshore. For an application aimed at Southeast Asia, shortlist nearby Asian locations and check routing from the networks your users actually use. Geographic proximity is a useful starting point, not a measured latency result.
 
-Hostinger's VPS-specific list includes France, Germany, Lithuania and the United Kingdom in Europe; India, Indonesia and Malaysia in Asia; Phoenix and Boston in the USA; and Brazil. Its current documentation explicitly excludes the Netherlands and Asheville from VPS availability. Source: [Hostinger server locations by hosting product](https://www.hostinger.com/support/1583267-where-are-hostinger-servers-located/), checked November 4, 2026.
+Hostinger's VPS-specific list includes France, Germany, Lithuania and the United Kingdom in Europe; India, Indonesia and Malaysia in Asia; Phoenix and Boston in the USA; and Brazil. Its current documentation explicitly excludes the Netherlands and Asheville from VPS availability. Source: [Hostinger server locations by hosting product](https://www.hostinger.com/support/1583267-where-are-hostinger-servers-located/?REFERRALCODE=ACFTUNGSAAEO), checked November 4, 2026.
 
-UltaHost's general data-center directory lists Amsterdam, London, Frankfurt, Singapore, Tokyo and Sydney among its locations. Use that directory to build a shortlist, then obtain confirmation for the exact VPS plan and operating system you intend to order. Source: [UltaHost data-center location directory](https://ultahost.com/data-center), checked November 4, 2026.
+UltaHost's general data-center directory lists Amsterdam, London, Frankfurt, Singapore, Tokyo and Sydney among its locations. Use that directory to build a shortlist, then obtain confirmation for the exact VPS plan and operating system you intend to order. Source: [UltaHost data-center location directory](https://ultahost.com/data-center#art52hz), checked November 4, 2026.
 
 Record the selected city, product name and contracting entity with your quote. A directory covering several hosting products is not an inventory promise for the entry plan. If a specific country is essential to your project, make its availability a purchase condition rather than an assumption.
 
@@ -70,11 +70,11 @@ Treat server ownership as an ongoing task. Decide who receives alerts, who appli
 
 ## Payment options: card, PayPal or crypto?
 
-UltaHost lists major cards, PayPal, bank transfer and cryptocurrency among its payment options. Hostinger's Global payment documentation lists cards, PayPal, Apple Pay, Google Pay, AliPay and crypto; availability depends on regional brand and account currency. Sources: [UltaHost accepted payment methods](https://ultahost.com/payments), checked November 4, 2026; [Hostinger payment methods by regional brand](https://www.hostinger.com/support/1583236-what-payment-methods-are-available-at-hostinger/), checked November 4, 2026.
+UltaHost lists major cards, PayPal, bank transfer and cryptocurrency among its payment options. Hostinger's Global payment documentation lists cards, PayPal, Apple Pay, Google Pay, AliPay and crypto; availability depends on regional brand and account currency. Sources: [UltaHost accepted payment methods](https://ultahost.com/payments#art52hz), checked November 4, 2026; [Hostinger payment methods by regional brand](https://www.hostinger.com/support/1583236-what-payment-methods-are-available-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 4, 2026.
 
 Choose a method your business can reconcile and use for future invoices. Check the invoice currency, any conversion charge from your payment provider and whether renewals will be automatic. A method shown on a general payment page still needs to appear on your own order.
 
-For crypto, verify the coin, network, invoice amount and expiry before sending funds. UltaHost's instructions require the exact invoice amount after wallet transaction fees. Source: [UltaHost crypto-payment instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/), checked November 4, 2026. The [VPS crypto-payment checklist](/posts/pay-for-vps-with-crypto-bitcoin-2026/) helps organize those checks.
+For crypto, verify the coin, network, invoice amount and expiry before sending funds. UltaHost's instructions require the exact invoice amount after wallet transaction fees. Source: [UltaHost crypto-payment instructions](https://ultahost.com/knowledge-base/account-management/billing/crypto-currency-payments/#art52hz), checked November 4, 2026. The [VPS crypto-payment checklist](/posts/pay-for-vps-with-crypto-bitcoin-2026/) helps organize those checks.
 
 Payment choice does not remove account requirements. UltaHost's terms require accurate account information and allow pricing changes. Source: [UltaHost account and billing terms](https://ultahost.com/terms), checked November 4, 2026. For privacy questions, use the [anonymous VPS evaluation guide](/posts/best-anonymous-vps-providers-2026/) before choosing a payment method.
 
@@ -88,7 +88,7 @@ The table's base totals exclude those additional items. UltaHost's amount is ari
 
 Build a separate renewal budget using the renewal row, rather than extending the introductory rate indefinitely. Save the quote date and cancellation instructions with the invoice. If the final order differs from the public card, resolve the difference before authorizing payment.
 
-A money-back offer also differs from a free sandbox. Read the exclusions for the chosen service, payment method and extras before treating a purchase as reversible. Source: [UltaHost cancellation and refund conditions](https://ultahost.com/refund), checked November 4, 2026.
+A money-back offer also differs from a free sandbox. Read the exclusions for the chosen service, payment method and extras before treating a purchase as reversible. Source: [UltaHost cancellation and refund conditions](https://ultahost.com/refund#art52hz), checked November 4, 2026.
 
 ## How to test it yourself in 15 minutes
 
