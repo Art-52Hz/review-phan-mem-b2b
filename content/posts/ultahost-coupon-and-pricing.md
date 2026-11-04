@@ -1,7 +1,7 @@
 ﻿---
 title: "UltaHost Pricing (2026): Plans, Renewal and Refund Rules Explained"
 date: 2026-10-30
-lastmod: 2026-10-30
+lastmod: 2026-11-04
 slug: "ultahost-coupon-and-pricing"
 draft: false
 description: "Compare UltaHost shared and VPS prices, renewal wording and coupon refund exclusions before choosing a billing term. Includes a Hostinger price comparison."
@@ -26,6 +26,8 @@ cover:
 Based on official pricing and policies checked October 30, 2026; the final order determines your bill.
 
 ## UltaHost prices: compare the plan and the billing term
+
+> **Black Friday 2026:** A separate 2026 sale is not confirmed live as of November 4. Read our [UltaHost Black Friday price comparison](/posts/ultahost-black-friday-2026/) for current prices vs October and what to check before buying.
 
 The table uses the displayed plan cards, rather than a search snippet or crossed-out reference price. Sources checked October 30, 2026: [UltaHost shared pricing](https://ultahost.com/shared-hosting#art52hz), [UltaHost VPS pricing](https://ultahost.com/vps-hosting#art52hz) and [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO). Amounts are USD.
 
