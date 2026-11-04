@@ -39,6 +39,24 @@ A low monthly headline can hide a substantial upfront commitment. Put the initia
 | [WordPress Site Transfer](/posts/wordpress-client-site-transfer-checklist/) | Ownership, Add-ons and Acceptance |
 
 
+## Plan-level comparisons and workload guides
+
+Already know the provider? These guides compare individual plans, discounts and specific workloads.
+
+| Guide | Use it to decide |
+|---|---|
+| [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/) | Which Plan Size You Need |
+| [UltaHost VPS Basic vs Business](/posts/ultahost-vps-basic-vs-business-2026/) | Is 1 GB RAM Enough? |
+| [Hostinger VPS Discount](/posts/hostinger-vps-coupon-discount/) | Referral Price and Renewal |
+| [UltaHost Pricing](/posts/ultahost-coupon-and-pricing/) | Plans, Renewal and Refund Rules |
+| [Hostinger vs Contabo VPS](/posts/hostinger-vs-contabo-vps/) | Price, Support and Fit |
+| [UltaHost vs Contabo](/posts/ultahost-vs-contabo-2026/) | Cheap VPS Price and Support |
+| [Cheapest VPS for MT4](/posts/cheapest-vps-for-mt4/) | Minimum Specs and Monthly Cost |
+| [Best VPS for n8n](/posts/best-vps-for-n8n/) | RAM Needs for Self-Hosted Automation |
+| [Best VPS for AI Agents](/posts/best-vps-for-ai-agents/) | Always-On Bots Without a GPU |
+| [Best VPS for a Minecraft Server](/posts/best-vps-for-minecraft-server/) | RAM by Player Count |
+| [TradingView Webhook Alerts to a VPS Bot](/posts/tradingview-webhook-alerts-bot-vps-2026/) | Setup and Monthly Cost |
+
 ## Turn a shortlist into a purchase decision
 
 Pick two plausible offers and compare the same RAM, storage, billing term and support needs. Record what you must administer yourself and the recovery work you would need after a failed deployment. A server that fits your application but requires more maintenance than you can provide is a poor client fit.

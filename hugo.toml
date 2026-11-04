@@ -45,9 +45,9 @@ enableRobotsTXT = true
     url = "/vpn/"
     weight = 3
   [[menu.main]]
-    identifier = "menu-seo"
-    name = "SEO Tools"
-    url = "/categories/seo-tools/"
+    identifier = "menu-tools"
+    name = "Freelancer Tools"
+    url = "/freelancer-tools/"
     weight = 4
   [[menu.main]]
     identifier = "menu-reviews"
@@ -95,3 +95,7 @@ identifier = "menu-ai-voice"
 name = "AI Voice Tools"
 url = "/ai-voice-tools/"
 weight = 2
+
+# 04/11: tat trang /tags/ (153 trang mong, Google "da thu thap - chua lap chi muc"); chi giu categories (co menu)
+[taxonomies]
+  category = "categories"
