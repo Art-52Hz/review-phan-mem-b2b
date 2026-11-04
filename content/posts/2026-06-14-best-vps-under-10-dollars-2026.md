@@ -1,7 +1,7 @@
 ---
 title: "Best VPS Under $10: Hostinger KVM 1 vs UltaHost Basic"
 date: 2026-06-14
-lastmod: 2026-10-28
+lastmod: 2026-11-04
 slug: "best-vps-under-10-dollars-2026"
 draft: false
 description: "Evaluate a VPS budget below $10 using the actual invoice, renewal, licenses, backups and operating responsibilities. Includes a blank buying checklist."
@@ -27,7 +27,7 @@ Best for technically capable buyers checking a sub-$10 advertised VPS rate: shor
 | Option | Starting price | Free plan or trial | Main limitation | Suitable buyer |
 |---|---|---|---|---|
 | Hostinger KVM 1 | $6.49/month equivalent for 24 months; $155.76 due initially; renewal $11.99/month for the same term | No free VPS trial established here | Initial commitment exceeds $10; software is customer-managed | Operator who accepts the complete term |
-| UltaHost VPS Basic | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | 30-day money-back guarantee listed on the pricing page | 1 GB RAM limits heavier apps; 24-month term for this rate | Buyer who wants the lowest listed monthly equivalent |
+| UltaHost VPS Basic | From $5.52/mo (VPS Basic: 1 vCPU, 1 GB RAM, 30 GB NVMe; 24-month term), checked Oct 28, 2026 — [pricing](https://ultahost.com/vps-hosting#art52hz) | 30-day refund on monthly VPS billing only; yearly and longer terms are non-refundable ([refund policy](https://ultahost.com/refund#art52hz), checked Nov 4, 2026) | 1 GB RAM limits heavier apps; 24-month term for this rate | Buyer who wants the lowest listed monthly equivalent |
 | Another truly monthly VPS offer | Check current pricing | Check exact offer | Must still verify software, backups and total invoice | Buyer with a strict initial cash limit |
 | Existing hosting | Current invoice | No additional trial needed | May not support the required runtime | Project that does not need a separate server |
 

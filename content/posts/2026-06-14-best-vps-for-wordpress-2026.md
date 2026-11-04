@@ -3,7 +3,7 @@ title: "Best VPS for WordPress (2026): Hostinger vs UltaHost Plans Compared"
 date: 2026-06-14
 slug: "best-vps-for-wordpress-2026"
 draft: false
-lastmod: 2026-10-29
+lastmod: 2026-11-04
 description: "Evaluate a WordPress VPS by software compatibility, measured workload, backup restoration, maintenance responsibilities and the complete renewal cost."
 keywords: ["VPS for WordPress", "WordPress VPS checklist"]
 categories: ["Hosting", "VPS"]
@@ -32,7 +32,7 @@ Prices below are advertised US-dollar monthly equivalents for the displayed two-
 |---|---|---|---|---|
 | Hostinger KVM 1 | $6.49 / $11.99; $155.76 upfront for 24 months | 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB bandwidth | No free plan shown; 30-day money-back guarantee advertised | A small WordPress project with a capable server administrator |
 | Hostinger KVM 2 | $8.79 / $14.99; $210.96 upfront for 24 months | 2 vCPU, 8 GB RAM, 100 GB NVMe, 8 TB bandwidth | Same advertised guarantee | A more demanding site or staging alongside production |
-| UltaHost VPS Basic | $5.52 / $5.52; displayed two-year term | 1 CPU core, 1 GB RAM, 30 GB NVMe; managed server | No free plan shown; 30-day money-back guarantee advertised | A lean site whose owner values server assistance |
+| UltaHost VPS Basic | $5.52 / $5.52; displayed two-year term | 1 CPU core, 1 GB RAM, 30 GB NVMe; managed server | No free plan shown; 30-day refund on monthly VPS billing only; yearly and longer terms are non-refundable ([refund policy](https://ultahost.com/refund#art52hz), checked Nov 4, 2026) | A lean site whose owner values server assistance |
 | UltaHost VPS Business | $9.78 / $9.78; displayed two-year term | 2 CPU cores, 2 GB RAM, 50 GB NVMe; managed server | Same advertised guarantee | Buyers wanting more capacity than Basic with management |
 
 **Table sources, checked October 29, 2026:** [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost official VPS pricing](https://ultahost.com/vps-hosting#art52hz). UltaHost's banner says $5.51, while its Basic plan card says $5.52; this comparison uses the plan card. A money-back guarantee requires payment and is different from a free trial; read its applicable conditions before relying on a refund.
