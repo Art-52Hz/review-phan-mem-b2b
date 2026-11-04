@@ -39,7 +39,7 @@ Based on official pricing and documentation checked November 4, 2026; workload r
 | Best fit, our recommendation | A focused, modest workload | Several services sharing a server |
 | Main trade-off | Less room for concurrent work | Higher upfront commitment |
 
-Source for the advertised figures and refund offer: [Hostinger VPS pricing and specifications](https://www.hostinger.com/vps-hosting), checked November 4, 2026. Prices exclude VAT; confirm the selected term and final total before payment.
+Source for the advertised figures and refund offer: [Hostinger VPS pricing and specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 4, 2026. Prices exclude VAT; confirm the selected term and final total before payment.
 
 The advertised monthly equivalent is a budgeting comparison, not a promise of monthly billing. Put the actual payment into your project budget before choosing. If the project is still an experiment, tying up cash for a long term can matter more than saving on the headline rate.
 
@@ -65,7 +65,7 @@ For n8n, inventory the executions and data they handle. A workflow that moves sh
 
 Skip KVM 2 if your only reason is that it is labeled popular. An idle server will not earn back its higher price. Also skip both plans if your requirement is for someone else to own application maintenance, restores and incident response without your involvement.
 
-Hostinger's public FAQ assigns responsibility for the virtual server to the customer and describes Linux templates. Source: [Hostinger VPS management and operating-system FAQ](https://www.hostinger.com/vps-hosting#faq), checked November 4, 2026. For Windows or MetaTrader requirements, use our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) before selecting a Linux plan.
+Hostinger's public FAQ assigns responsibility for the virtual server to the customer and describes Linux templates. Source: [Hostinger VPS management and operating-system FAQ](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO#faq), checked November 4, 2026. For Windows or MetaTrader requirements, use our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) before selecting a Linux plan.
 
 **[See Hostinger plans for your workload](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
@@ -73,7 +73,7 @@ Hostinger's public FAQ assigns responsibility for the virtual server to the cust
 
 UltaHost is worth considering when you want a provider advertising managed VPS service. Its VPS Basic card lists $5.52/month on the displayed two-year offer, renewing at $5.52/month for two years, with a CPU core, 1 GB RAM and 30 GB NVMe storage. The page headline separately says from $5.51/month, so use the selected plan card and checkout when budgeting.
 
-Source: [UltaHost managed VPS pricing and plan specifications](https://ultahost.com/vps-hosting), checked November 4, 2026.
+Source: [UltaHost managed VPS pricing and plan specifications](https://ultahost.com/vps-hosting#art52hz), checked November 4, 2026.
 
 This is a different buying proposition. Its entry plan has less memory and storage than either Hostinger plan in the table. Ask which administration tasks the managed service covers, whether your application is supported, and which panel or backup options cost extra. The word managed alone does not settle those questions.
 
@@ -103,7 +103,7 @@ For a game server, use our [Minecraft VPS guide by player count](/posts/best-vps
 
 ## FAQ
 
-These questions address the plan-selection and application topics in the public [Hostinger VPS FAQ](https://www.hostinger.com/vps-hosting#faq), checked November 4, 2026, and the buying decisions explained above.
+These questions address the plan-selection and application topics in the public [Hostinger VPS FAQ](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO#faq), checked November 4, 2026, and the buying decisions explained above.
 
 ### Is KVM 1 enough for WordPress?
 
