@@ -24,6 +24,8 @@ cover:
 
 Based on official pricing and documentation checked November 5, 2026; workload recommendations are editorial judgments.
 
+For a workload-based memory budget, read [how much RAM your VPS needs](/posts/how-to-choose-vps-ram/) before selecting a tier.
+
 ## Compare RAM, storage and the actual hosting bill
 
 Choose a server for the application inside the containers. A reverse proxy and a small API have different needs from a database, image processor and build runner sharing the same host.
