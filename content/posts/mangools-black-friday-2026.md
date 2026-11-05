@@ -35,17 +35,15 @@ This distinction matters when you compare offers. A lower annual monthly equival
 
 ## Regular prices vs Black Friday 2026 prices
 
-The table uses USD figures surfaced by the official [Mangools pricing page for KWFinder](https://mangools.com/plans-and-pricing?service=kwfinder#a5d5c1d50feebf852f6d6f462), checked November 4, 2026 through web search. The directly opened page did not expose its dynamic price cards to the text reader, so these are an official indexed baseline, not a verified checkout quote. Currency and tax may change your total.
+The table uses the USD prices shown on the official [Mangools pricing page for KWFinder](https://mangools.com/plans-and-pricing?service=kwfinder#a5d5c1d50feebf852f6d6f462), opened in a browser on November 5, 2026. They match what our [KWFinder review](/posts/mangools-kwfinder-review/) recorded on November 1. Currency and tax may change your total.
 
-| Plan | Regular annual equivalent | Regular annual payment | Monthly equivalent from yearly comparison total | Black Friday 2026 price |
+| Plan | Annual billing | Paid upfront per year | Month-to-month (12 months) | Black Friday 2026 price |
 |---|---|---|---|---|
-| Basic | $37.70/mo | $452.40 | $61/mo ($732 / 12) | Not announced |
-| Premium | $52.70/mo | $632.40 | $81/mo ($972 / 12) | Not announced |
-| Agency | $97.70/mo | $1,172.40 | $141/mo ($1,692 / 12) | Not announced |
+| Basic | $18.85/mo | $226.20 | $30.50/mo ($366) | Not announced |
+| Premium | $26.35/mo | $316.20 | $40.50/mo ($486) | Not announced |
+| Agency | $48.85/mo | $586.20 | $70.50/mo ($846) | Not announced |
 
-The monthly figures are calculated from the pricing cards' yearly comparison amounts. Before paying, select Monthly or Annually and read the actual amount due. Do not treat a monthly equivalent as permission to pay an annual subscription one month at a time.
-
-Our [KWFinder review](/posts/mangools-kwfinder-review/) recorded lower figures on November 1, including Basic at $18.85/mo billed annually. That older observation differs from today's official indexed baseline. We cannot establish whether the difference reflects an offer, account state or a price change; it is not evidence of a 2026 Black Friday price.
+Annual billing already saves $139.80 (Basic), $169.80 (Premium) or $259.80 (Agency) against paying monthly for a year. A seasonal offer is only a better deal if its total for the same plan and period is lower than these figures. Before paying, select Monthly or Annually and read the actual amount due.
 
 For a useful purchase comparison, write down the plan, currency, payment period and total shown in your own order summary. Comparing an older promotional screenshot with today's standard annual equivalent can make an ordinary offer look exceptional.
 
