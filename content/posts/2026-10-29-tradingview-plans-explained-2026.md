@@ -1,7 +1,7 @@
 ---
-title: "TradingView Plans 2026: Basic vs Essential vs Plus vs Premium"
+title: "TradingView Plans (2026): Free vs Essential vs Plus vs Premium, What Each Unlocks"
 date: 2026-10-29
-lastmod: 2026-10-29
+lastmod: 2026-11-05
 slug: "tradingview-plans-explained-2026"
 summary: "What each TradingView plan costs per month and per year, which limits change between tiers, and the cheapest plan that covers webhook alerts, multi-condition alerts and backtesting."
 draft: false
@@ -16,102 +16,115 @@ cover:
   relative: false
 ---
 
-**Short answer: start on the free Basic plan, move to Essential when you need webhook alerts or more than two indicators, and pick Plus only if you need multi-condition or second-based alerts.** Premium and Ultimate are for people who need many charts per tab, long intraday history or alerts that never expire.
+**Best for a focused chart-and-alert workflow: Essential. Stay on free Basic while learning; choose Plus for combined conditions and Premium when larger layouts or alert capacity earn their keep.**
 
-**[See TradingView plans (new subscribers get a $15 discount through this link)](https://www.tradingview.com/?aff_id=1173587)**
+**[Compare TradingView plans and choose your tier](https://www.tradingview.com/?aff_id=1173587)**
 
-*Affiliate disclosure: the link above is a referral link. We may earn a commission if you buy a plan, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
+*Affiliate disclosure: some links are affiliate links. We may earn a commission if you subscribe through them, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Prices and limits below come from the official [TradingView pricing page](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. Sales tax may be added depending on your country, and TradingView changes promotions often, so confirm the number on the checkout page.
+Based on official pricing and documentation checked November 5, 2026. These are software recommendations, not investment advice.
 
-> **Black Friday:** TradingView usually runs its biggest sale of the year in late November (up to 80% off annual plans in 2025). See [TradingView Black Friday 2026](/posts/tradingview-black-friday-2026/) before you buy an annual plan.
+The best purchase is the cheapest plan that supports your actual routine. Before upgrading, write down the chart layout, indicators and alerts you use together. A higher subscription buys capacity and tools; it does not make a trading strategy profitable.
 
-## TradingView prices in 2026
+## TradingView prices and what each tier unlocks
 
-| Plan | Billed monthly | Billed annually (per month) | Charts per tab | Indicators per chart |
-|---|---|---|---|---|
-| Basic | Free | Free | 1 | 2 |
-| Essential | $14.95 | $12.95 | 2 | 5 |
-| Plus | $34.95 | $29.95 | 4 | 10 |
-| Premium | $69.95 | $59.95 | 8 | 25 |
-| Ultimate | $239.95 | $199.95 | 16 | 50 |
-
-Paying annually saves about 13–17% depending on the plan. The annual price is charged up front, so a $12.95/month Essential plan is roughly a $155 payment on day one. Only the Ultimate plan is available to users who count as "professional" under TradingView's market data rules.
-
-## The limits that actually decide your plan
-
-Most people do not upgrade for more charts. They upgrade because they hit one of these walls:
-
-| Limit | Basic | Essential | Plus | Premium | Ultimate |
+| Plan | USD per month on annual billing | Annual charge, calculated as monthly equivalent x 12 | Charts per tab / indicators per chart | Price alerts / technical alerts | Best fit |
 |---|---|---|---|---|---|
-| Active price alerts | 3 | 20 | 100 | 400 | 1,000 |
-| Technical alerts (on indicators, strategies, drawings) | None | 20 | 100 | 400 | 1,000 |
-| Webhook notifications | No | Yes | Yes | Yes | Yes |
-| Multi-condition alerts | No | No | Yes | Yes | Yes |
-| Second-based alerts | No | No | Yes | Yes | Yes |
-| Alert duration | 1 month | 2 months | 2 months | No expiry | No expiry |
-| Minute-level history | — | 180 days | 365 days | All | All |
-| Historical bars | 5K | 10K | 10K | 20K | 40K |
+| Basic | Free | $0 | 1 / 2 | 3 / 0 | Learning and occasional chart checks |
+| Essential | $12.95 | $155.40 | 2 / 5 | 20 / 20 | Focused charting and indicator alerts |
+| Plus | $29.95 | $359.40 | 4 / 10 | 100 / 100 | More simultaneous markets and combined conditions |
+| Premium | $59.95 | $719.40 | 8 / 25 | 400 / 400 | Larger workspaces and heavier alert use |
 
-### Alerts are the main reason to pay
+Source for prices and limits: [TradingView pricing and plan comparison](https://www.tradingview.com/pricing/?aff_id=1173587), checked November 5, 2026. USD figures refer to the official page's dollar pricing; the page also localizes currency. Annual amounts above are calculations, not separate monthly payment offers. Taxes, exchange data and account-specific promotions can change your total.
 
-The free plan gives you 3 price alerts and no alerts on indicators or strategies. If your setup depends on "tell me when RSI crosses 30" or "alert when my strategy fires", you need Essential at minimum.
+Basic is the ongoing free option. For paid trials, check the offer shown to your account, its conversion price and cancellation deadline before entering payment details. An annual monthly equivalent means an annual commitment, so compare the total charge with the monthly option before deciding.
 
-### Webhooks start at Essential
+Our buying rule: start monthly if you still need to validate your workflow, then consider annual billing once you know which limit matters. A discounted higher tier is poor value if you would otherwise use the free plan. For seasonal offers, keep our [TradingView Black Friday 2026 guide](/posts/tradingview-black-friday-2026/) handy rather than assuming a future discount is guaranteed.
 
-A webhook alert sends an HTTP request to a URL you choose when the alert fires. That is how traders connect TradingView signals to a bot, a Telegram notifier or an order script. Webhooks are available from Essential upward, so you do not need Premium to automate. What you do need is a server that is always on to receive the request; our [TradingView webhook setup guide](/posts/tradingview-webhook-alerts-bot-vps-2026/) covers the rules, a minimal receiver and the monthly cost.
+## Who should choose each plan, and who should not?
 
-### Plus is for combined conditions
+### Basic: stay free while your routine is simple
 
-Essential alerts fire on one condition. If you want "price above the 200 EMA **and** volume above average" in one alert, that is a multi-condition alert, which starts at Plus. Plus also adds second-based alerts and 100 alerts of each type.
+Choose Basic if you mostly inspect a chart, mark levels and return later. Use the free version to work out whether you prefer TradingView's layout to your broker's own charts. Keep a short note whenever a restriction interrupts something you genuinely need to do.
 
-### Premium is for alerts that never expire
+Do not pay simply to remove the feeling that you are missing a professional tool. If you cannot name the task a paid feature would unlock, keep learning on Basic. Its small workspace and limited alert allowance become drawbacks when your routine depends on several simultaneous signals, rather than occasional visual checks.
 
-On Essential and Plus, alerts expire after 2 months and have to be recreated. Premium and Ultimate alerts do not expire. If you run dozens of long-lived alerts, recreating them every two months is the real cost of staying on a cheaper plan.
+### Essential: the first paid tier to consider
 
-## Which plan should you choose?
+Choose Essential when a focused workspace is enough but free-plan restrictions interrupt your analysis. For a trader following a small shortlist of instruments, it is our starting recommendation because it avoids buying capacity before there is a use for it.
 
-- **Learning, swing trading, a few markets:** Basic. Three price alerts and one chart per tab are enough to learn the platform.
-- **Forex or crypto trader with a handful of indicator alerts:** Essential. Five indicators per chart, 20 technical alerts and webhook support cover most single-strategy setups.
-- **Trader running several strategies or combined signals:** Plus. Multi-condition alerts remove the need for workarounds, and 100 alerts gives room for several pairs.
-- **Full-time trader with many long-running alerts or deep intraday backtests:** Premium. Non-expiring alerts and full minute history are the reasons to pay double the Plus price.
-- **Ultimate:** only if you need 16 charts per tab, 1,000 alerts, or you qualify as a professional user.
+Do not choose it if your requirement is specifically the native multi-condition alert builder. That feature starts with Plus. Count technical alerts separately from price alerts: spare price-alert capacity does not solve a shortage of indicator-alert slots. Keep room for temporary setups so that replacing an old alert does not become a daily housekeeping task.
 
-## TradingView and MT4/MT5: different jobs
+### Plus: buy it for a specific workflow
 
-For a forex-specific buying decision, read [TradingView for forex traders: charts, alerts and the MT4/MT5 workflow](/posts/tradingview-for-forex-traders/) before choosing a tier.
+Choose Plus when you want to see several markets together or build alerts that require multiple conditions to agree. For example, you might want a trend filter and a momentum condition to be true together before receiving a notification.
 
-TradingView is for charting, analysis and alerts. It runs in the browser and on TradingView's servers, so it keeps working when your computer is off. It does not run MetaTrader Expert Advisors. If you trade with an EA on MT4 or MT5, that terminal needs its own always-on machine; our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) covers the specs and what a VPS costs after the promo price ends. You can estimate the monthly total with the [VPS cost calculator](/tools/vps-cost-calculator/).
+TradingView's [multi-condition alert documentation](https://www.tradingview.com/support/solutions/43000761492-multi-condition-alerts/?aff_id=1173587), checked November 5, 2026, confirms availability from Plus upward and says strategies and scripts using the alert() function are unsupported in this builder. Each combined alert counts as one technical alert.
 
-A common low-cost setup is TradingView Essential for charts and webhook alerts plus a small VPS that receives the alerts and places orders through your broker's API.
+That distinction matters if you are buying for an existing script. Open its alert dialog first and confirm compatibility. Do not assume that paying for Plus will combine every third-party script you already own. Stay with Essential if extra layout space and combined conditions would sit unused.
 
-## Before you pay
+### Premium: justify it with a larger working set
 
-1. Use the free plan for a week and note which limit you hit first: alerts, indicators or charts.
-2. Check that your broker or exchange supports the data feed you want; some real-time data costs extra on every plan.
-3. Read the [refund terms on the pricing page FAQ](https://www.tradingview.com/pricing/?aff_id=1173587) before choosing annual billing.
-4. If you sign up through a referral link, the $15 discount applies to your next plan purchase, not to the free plan.
+Choose Premium when you regularly need a wider workspace or run enough active setups that Plus becomes restrictive. Our recommendation is to inventory the alerts and layouts you actually maintain before committing. Separate active trading requirements from experimental indicators you rarely consult.
 
-**[Compare TradingView plans on the official site](https://www.tradingview.com/?aff_id=1173587)**
+Do not buy Premium merely because it is the most prominent upgrade. If your bottleneck is understanding an indicator or deciding which signals to trade, more capacity will add clutter. Also inspect the alert expiration control for your account before buying specifically for long-running alerts; the setting needs to match your maintenance routine.
+
+TradingView also lists Ultimate above these tiers. If a feature outside this comparison is essential, inspect that tier directly instead of assuming Premium includes every platform capability. Check professional-user eligibility in the plan selector if it applies to your account.
+
+**[See TradingView plans for your chart and alert requirements](https://www.tradingview.com/?aff_id=1173587)**
+
+## Budget for market data and webhook delivery separately
+
+A platform subscription and an exchange data subscription solve different problems. TradingView explains that many stock and futures exchanges charge separately for real-time quotes in its [additional market data guide](https://www.tradingview.com/support/solutions/43000471705-how-to-purchase-additional-market-data/?aff_id=1173587), checked November 5, 2026. Check the exchange and symbol you will actually use before choosing a software tier.
+
+For webhooks, a notification is a message sent to an external application. It is not a complete trading system. TradingView's [webhook configuration documentation](https://www.tradingview.com/support/solutions/43000529348-how-to-configure-webhook-alerts/?aff_id=1173587), checked November 5, 2026, requires two-factor authentication and explains the outgoing POST request. Validate delivery with a harmless receiver before connecting anything that can place orders.
+
+Our [TradingView webhook setup guide](/posts/tradingview-webhook-alerts-bot-vps-2026/) covers the receiving side. Add receiver hosting, any connector subscription and market data to your software budget. A cheap charting tier can still produce an expensive overall setup if you overlook those separate services.
+
+## TradingView vs MetaTrader 5: choose by the job
+
+Prefer TradingView when your buying decision centers on its chart workspace and alert workflow. Prefer MetaTrader 5 when your central requirement is an existing Expert Advisor built for that terminal. MetaQuotes documents those programs in its [MetaTrader 5 Expert Advisor guide](https://www.metatrader5.com/en/terminal/help/algotrading/trade_robots_indicators), checked November 5, 2026. A TradingView subscription is not a replacement runtime for that code.
+
+If your broker's existing tools already cover your analysis and execution, try to identify a concrete benefit before adding another subscription. For forex-specific context, read [TradingView for forex traders: charts, alerts and the MT4/MT5 workflow](/posts/tradingview-for-forex-traders/).
+
+If you need an always-on terminal or a webhook receiver, our [forex VPS guide](/posts/best-vps-for-forex-trading-2026/) explains the hosting decision. Use the [VPS cost calculator](/tools/vps-cost-calculator/) to budget that separately. Buy hosting for a defined application rather than adding it automatically to every TradingView plan.
+
+## How to test it yourself in 15 minutes
+
+This is a suggested evaluation exercise, not a report of measured results.
+
+1. **Minutes 0-3:** open your usual symbol on Basic. Rebuild the chart you use for real decisions, including your preferred timeframe and indicators. Record the first restriction you encounter.
+2. **Minutes 3-6:** list the markets you follow simultaneously. Sketch the layout you would actually keep open and decide whether a bigger workspace would change your routine.
+3. **Minutes 6-9:** write down the alerts you need. Separate price thresholds, indicator conditions and combined conditions. Check the exact script's available alert choices rather than assuming compatibility.
+4. **Minutes 9-12:** inspect the symbol's data status. Identify the exchange and whether the displayed feed meets your needs. If evaluating webhooks on an eligible account, use a notification-only destination and keep order execution disconnected.
+5. **Minutes 12-15:** compare the lowest suitable tier, billing commitment and separate service costs. If you use a trial, record the renewal amount and cancellation deadline. Leave without paying if no restriction justifies the purchase.
+
+<!-- FIRST-HAND: Add dated screenshots of the same workspace on Basic and the selected paid tier, the script's alert choices, symbol data status, and a redacted notification-only webhook receipt. Record actual observed limits and billing terms; exclude credentials, account identifiers and live order details. -->
 
 ## FAQ
 
-### Is TradingView free?
+### Is TradingView free enough for beginners?
 
-Yes. The Basic plan is free with 1 chart per tab, 2 indicators per chart and 3 price alerts. It has ads and no indicator or strategy alerts.
+Start with Basic while learning the interface and building a repeatable routine. Upgrade when you can point to a specific restriction that blocks your normal analysis, rather than treating a paid plan as a prerequisite for learning.
 
-### What is the cheapest TradingView plan with webhooks?
+### Is Essential or Plus better value?
 
-Essential, at $12.95 per month billed annually or $14.95 billed monthly (October 2026).
+Essential is our default paid recommendation for a focused setup. Plus is the better choice when combined-condition alerts or a larger simultaneous workspace are requirements. Verify script compatibility before buying for the combined-condition builder.
 
-### Is Plus worth it over Essential?
+### When is Premium worth paying for?
 
-Only if you need multi-condition alerts, second-based alerts, or more than 20 alerts. For one strategy on a few pairs, Essential is usually enough.
+When your active workspace or alert inventory exceeds what Plus supports. Build an inventory first. If most saved alerts are abandoned experiments, tidying them may be more valuable than upgrading.
+
+### Does a paid plan include all real-time exchange data?
+
+No. Exchange subscriptions can be separate. Inspect your symbol's data status and the relevant exchange subscription before deciding the total cost; buying a higher charting tier alone does not settle every data requirement.
 
 ### Can TradingView replace MT4 or MT5?
 
-For charting and analysis, yes. For running an Expert Advisor, no. TradingView can place trades only through supported brokers, and it does not run MetaTrader code.
+It can be your preferred analysis workspace, but an existing MetaTrader Expert Advisor still needs its intended platform. Decide whether you are buying charting, alerts or a runtime for trading code before comparing subscriptions.
 
 ### Do I need a VPS for TradingView?
 
-No. TradingView alerts run on TradingView's servers. You need a VPS only if something has to receive webhook alerts or run a trading terminal 24/7.
+Budget for a VPS only when your own receiver or terminal needs hosting. If you only use the chart interface and notifications, identify an actual hosted application before adding another recurring bill.
+
+**[Start with the TradingView plan that fits your workflow](https://www.tradingview.com/?aff_id=1173587)**
