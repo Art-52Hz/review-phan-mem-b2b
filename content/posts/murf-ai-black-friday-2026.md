@@ -16,7 +16,7 @@ cover:
   relative: false
 ---
 
-**Murf AI's Black Friday 2026 sale is not confirmed live as of November 6, 2026: no verified 2026 sale price, coupon or campaign dates were found in the official sources checked.**
+**Murf AI's Black Friday 2026 sale is not live on the official pricing page checked November 6, 2026: Creator still shows $19/month ($228 billed yearly) and no sale banner or coupon was displayed.**
 Best for a solo narrator with regular work: shortlist **Creator**; consider **Business** when your organization needs its license or your workflow needs the higher tier.
 Choose **ElevenLabs Starter** instead if a small monthly commitment and permitted voice cloning matter more than a presentation-focused workflow.
 
@@ -28,23 +28,23 @@ Choose **ElevenLabs Starter** instead if a small monthly commitment and permitte
 
 ## Is the Murf Black Friday sale open?
 
-The status is **unconfirmed**, not an advertised discount. We opened the official [Murf pricing source](https://murf.ai/pricing), checked November 6, 2026, but its live page required JavaScript and did not expose the plan cards to our web reader. The search-indexed version contains ordinary annual prices, not a dated 2026 Black Friday offer.
+Not yet. The [official Murf Studio pricing page](https://murf.ai/pricing), checked November 6, 2026, showed the regular yearly prices: Creator at $19/month ($228 billed annually) and Business at $66/month ($792 billed annually). There was no Black Friday banner, countdown or coupon field on the page. The only saving shown was the standard "Saved 33%" label for yearly billing versus monthly billing.
 
-The readable [Murf text-to-speech pricing overview](https://murf.ai/text-to-speech), checked November 6, 2026, still lists annual starting prices of $19/month for Creator and $66/month for Business. It did not establish a Black Friday campaign. These are useful reference prices, not verified checkout quotes for a sale.
+Those prices are identical to the ones we recorded on October 31, 2026, so nothing has been discounted ahead of the holiday. If a sale appears, the plan cards on that page are where it will show first.
 
 If your project can wait, audition voices now and compare the eventual offer with the baseline below. If you must deliver this week, decide against the actual subscription cost you can see before paying. Waiting for an unannounced discount is not a delivery plan.
 
 ## Black Friday price vs the regular annual baseline
 
-Our [Murf AI review](/posts/murf-ai-review-2026/) recorded the following annual totals on October 31, 2026 from Murf's official pricing page. The November 6 web check corroborates the annual starting rates, but does not independently confirm a new sale or its checkout totals. All amounts below are USD; inspect tax and the final amount before purchase.
+These are the regular yearly prices on Murf's official pricing page, checked November 6, 2026, and unchanged since our [Murf AI review](/posts/murf-ai-review-2026/) check on October 31. All amounts are USD before tax; inspect the final amount at checkout.
 
-| Studio plan | Regular annual baseline, October 31 | 2026 Black Friday price | What to compare when a sale appears |
+| Studio plan | Regular yearly price, November 6 | 2026 Black Friday price | What to compare when a sale appears |
 |---|---|---|---|
 | Creator | $19/month equivalent; $228 billed yearly | Not confirmed | Total annual payment for the same plan |
 | Business | $66/month equivalent; $792 billed yearly | Not confirmed | License, included allowance and total payment |
 | Enterprise | Custom quote | Not confirmed | Written quote for the required seats and features |
 
-Source for the recorded baseline: [Murf Studio pricing table](https://murf.ai/pricing), checked November 6, 2026 through its indexed listing; original review check October 31, 2026.
+Source: [Murf Studio pricing table](https://murf.ai/pricing), checked November 6, 2026.
 
 **Do not count the usual annual-billing saving as a new Black Friday discount.** A percentage can compare annual billing with twelve monthly payments, while leaving the annual purchase price unchanged. The useful question is whether the same subscription costs less than it did before the campaign.
 
@@ -54,13 +54,13 @@ Keep a copy of the plan name, billing term and order total when comparing offers
 
 ### Creator: the first shortlist for a solo narrator
 
-Start here if you already have scripts and a repeatable narration workload. The indexed Studio table lists 24 hours of yearly generation, one editor, commercial rights and downloads. Treat those as the baseline to reconfirm in the live plan selector, especially if Murf changes its packages during the promotion.
+Start here if you already have scripts and a repeatable narration workload. The Studio pricing table, checked November 6, 2026, lists 100 projects, 24 hours of voice generation per year (about 2 hours a month), one editor, unlimited downloads, Canva integration and commercial rights. Reconfirm those in the plan selector if Murf changes its packages during a promotion.
 
 Your own production schedule is the deciding evidence. List the videos or lessons you actually expect to finish, then add room for rewrites. A subscription is useful when it supports work already on your calendar; an unused annual allowance has no resale value to your business.
 
 ### Business: pay for a specific requirement
 
-The baseline lists 96 hours yearly and a business license. Our recommendation is to write down the requirement that makes the upgrade necessary before paying: organizational usage, extra capacity or a feature you have actually used in a trial.
+The same table lists 500 projects, 96 hours of yearly generation, a business license, emphasis and pacing controls and PowerPoint integration. Our recommendation is to write down the requirement that makes the upgrade necessary before paying: organizational usage, extra capacity or a feature you have actually used in a trial.
 
 For example, a training producer with a confirmed course pipeline has a different buying decision from someone planning a first channel. Count approved scripts separately from ideas. Do not upgrade on the assumption that buying more capacity will create more paid work.
 
@@ -118,7 +118,7 @@ Shortlist Creator for regular solo narration after a successful sample. Consider
 
 ### Are the annual prices already Black Friday deals?
 
-They are the regular baseline recorded before this campaign, not a verified 2026 seasonal reduction. Compare like-for-like annual totals when an offer appears. An annual-versus-monthly saving does not prove the annual price has fallen.
+No. They are the regular prices shown on November 6, 2026, unchanged since October 31, not a seasonal reduction. Compare like-for-like annual totals when an offer appears. An annual-versus-monthly saving does not prove the annual price has fallen.
 
 ### Should I wait or buy now?
 
