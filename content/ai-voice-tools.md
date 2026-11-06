@@ -20,6 +20,7 @@ Write down the script length, target language, delivery format and likely revisi
 | [ElevenLabs Alternatives](/posts/elevenlabs-alternatives/) | Cheaper Voice Tools by Cost and Rights |
 | [ElevenLabs vs Murf AI](/posts/elevenlabs-vs-murf-ai-2026/) | Which Fits Your Voiceover? |
 | [Murf AI Review](/posts/murf-ai-review-2026/) | Trial Limits, Downloads and Client Usage |
+| [Murf AI Black Friday 2026](/posts/murf-ai-black-friday-2026/) | Sale status, regular annual prices and which plan to buy |
 | [Best AI Voice Generators](/posts/best-ai-voice-generator-2026/) | Choose by Audio Task |
 | [AI Voiceover Evaluation](/posts/voiceover-evaluation-scorecard/) | A Scorecard for Client Work |
 | [Descript Review](/posts/descript-review-2026/) | Transcript Editing, Usage and Handoff |
