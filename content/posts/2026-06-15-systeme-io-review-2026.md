@@ -28,6 +28,8 @@ Based on official pricing and documentation checked November 4, 2026; this is a 
 
 ## Systeme.io pricing: which plan should you buy?
 
+For a focused upgrade decision, read our [Systeme.io pricing guide](/posts/systeme-io-pricing-explained/), including the Free plan's lifetime sales cap and what to check before changing subscriptions.
+
 The table uses USD monthly billing. The recommendation column is our buying judgment based on capacity, rather than an assumed conversion benefit.
 
 | Plan | Monthly price | Contacts | Sales funnels | Courses | Best fit |
