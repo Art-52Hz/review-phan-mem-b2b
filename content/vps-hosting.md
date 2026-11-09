@@ -47,6 +47,7 @@ Already know the provider? These guides compare individual plans, discounts and 
 
 | Guide | Use it to decide |
 |---|---|
+| [Best Cheap VPS for Node.js Apps](/posts/best-vps-for-nodejs-apps/) | App and database specs, setup, upfront costs and renewals |
 | [UltaHost Windows VPS](/posts/ultahost-windows-vps/) | Windows plan sizes, included licensing, full cost and RDP setup |
 | [Best Cheap VPS for Docker](/posts/best-vps-for-docker/) | RAM, storage, prepaid costs and the right tier for your container stack |
 | [Hostinger Black Friday VPS 2026](/posts/hostinger-black-friday-vps-2026/) | Whether the Black Friday price is really lower, day-one cost and renewal |
