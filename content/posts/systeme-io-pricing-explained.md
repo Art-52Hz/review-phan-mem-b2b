@@ -1,7 +1,7 @@
 ---
 title: "Systeme.io Pricing (2026): Free Plan Limits and When to Upgrade"
 date: 2026-11-07
-lastmod: 2026-11-07
+lastmod: 2026-11-09
 slug: "systeme-io-pricing-explained"
 draft: false
 description: "Compare Systeme.io Free, Startup, Webinar and Unlimited prices, contact limits and sales caps. Find the upgrade that fits your next launch and budget."
@@ -52,6 +52,8 @@ For a seller with a small, engaged audience, this can matter before contact capa
 Treat a warning as an operational task. Decide which paid tier covers your products, assign a date to resolve it, and leave time to check the purchase journey afterward. Waiting until a promotion is underway creates avoidable pressure to choose a plan quickly.
 
 ## When should you upgrade?
+
+Building a teaching product? Follow our [Systeme.io online course setup guide](/posts/systeme-io-for-online-courses/) for lesson access, checkout configuration and the Free plan's student-capacity caveat.
 
 ### Stay on Free while validating demand
 
