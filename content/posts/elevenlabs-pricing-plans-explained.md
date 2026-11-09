@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Pricing (2026): Free, Starter, Creator and Pro Credits Explained"
 date: 2026-10-30T09:00:00+07:00
-lastmod: 2026-11-04
+lastmod: 2026-11-09
 draft: false
 author: "Vincent Pham"
 slug: "elevenlabs-pricing-plans-explained"
@@ -82,6 +82,8 @@ Starter is the sensible entry point when the sample works and the expected workl
 Do not choose it solely because it is the cheapest paid option. A professional voice cloning requirement points toward Creator; a script that remains awkward after careful revisions points toward another voice or workflow. Buying more credits cannot establish whether a particular pronunciation will be acceptable.
 
 ### Creator: choose it for a requirement you can name
+
+For the recording requirements and own-voice verification rule, read our [ElevenLabs Instant vs Professional Voice Cloning guide](/posts/elevenlabs-voice-cloning-explained/) before choosing a cloning plan.
 
 Creator makes sense when professional voice cloning matters or the planned workload outgrows Starter. Before upgrading, list the actual projects waiting for production and the revisions each includes.
 
