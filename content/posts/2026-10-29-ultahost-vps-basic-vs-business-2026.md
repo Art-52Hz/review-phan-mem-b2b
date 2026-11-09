@@ -1,7 +1,7 @@
 ---
 title: "UltaHost VPS Basic vs Business (2026): Is 1 GB RAM Enough? Real Workloads and Monthly Cost"
 date: 2026-10-29
-lastmod: 2026-11-04
+lastmod: 2026-11-09
 slug: "ultahost-vps-basic-vs-business-2026"
 summary: "UltaHost's two cheapest managed VPS plans compared on every billing term: what you pay on day one, what fits in 1 GB versus 2 GB, what the Basic card leaves out, and why the refund rule should decide your first term."
 draft: false
@@ -41,6 +41,8 @@ Day-one payment is the monthly rate x the number of months in the term. Taxes an
 **What the table means in practice:** the 3-year Basic plan is 33% cheaper per month than monthly billing, but you pay $165.24 up front with no refund. For a project you have not tested yet, the extra $1.30-$2.30 a month for monthly billing is cheap insurance.
 
 ## Specs side by side
+
+Buying a server specifically for a personal VPN? Read our [WireGuard VPS specs, monthly cost and setup guide](/posts/self-host-wireguard-vpn-vps/) before choosing a billing term.
 
 | | VPS Basic | VPS Business |
 |---|---|---|

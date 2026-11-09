@@ -47,6 +47,7 @@ Already know the provider? These guides compare individual plans, discounts and 
 
 | Guide | Use it to decide |
 |---|---|
+| [Self-Host a WireGuard VPN on a VPS](/posts/self-host-wireguard-vpn-vps/) | Personal VPN specs, prepaid costs, network requirements and setup checks |
 | [Best Cheap VPS for Node.js Apps](/posts/best-vps-for-nodejs-apps/) | App and database specs, setup, upfront costs and renewals |
 | [UltaHost Windows VPS](/posts/ultahost-windows-vps/) | Windows plan sizes, included licensing, full cost and RDP setup |
 | [Best Cheap VPS for Docker](/posts/best-vps-for-docker/) | RAM, storage, prepaid costs and the right tier for your container stack |
