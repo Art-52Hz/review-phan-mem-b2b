@@ -47,7 +47,7 @@ Hostinger states that plans are paid upfront. Both providers advertise a 30-day 
 
 **Do not choose either solely to avoid learning operations.** Someone must maintain the operating system, deploy releases and recover the database. If your actual requirement is pushing code with no server administration, compare a managed application platform before committing to a VPS term.
 
-Our [Hostinger KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) covers the narrower plan decision. For this application, write down which work must keep running during a deployment. A build that disrupts the live API belongs in a separate build environment or needs a different capacity plan.
+Our [Hostinger KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) covers the narrower plan decision. Running a chat bot instead of a web app? See [the best cheap VPS for a Discord or Telegram bot](/posts/best-vps-for-discord-bot/). For this application, write down which work must keep running during a deployment. A build that disrupts the live API belongs in a separate build environment or needs a different capacity plan.
 
 ## Hostinger vs UltaHost for Node.js
 
