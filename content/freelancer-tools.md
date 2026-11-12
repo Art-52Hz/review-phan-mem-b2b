@@ -14,6 +14,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 
 | Your next reading | Use it to decide |
 |---|---|
+| [Systeme.io vs Kajabi](/posts/systeme-io-vs-kajabi/) | Course platform prices, learning features and payment fees |
 | [Systeme.io for Online Courses](/posts/systeme-io-for-online-courses/) | Free course limits, lesson setup, checkout and when to upgrade |
 | [Systeme.io Pricing Explained](/posts/systeme-io-pricing-explained/) | Monthly prices, Free sales limits and when upgrading pays off |
 | [Systeme.io Black Friday 2026](/posts/systeme-io-black-friday-2026/) | Confirmed sale status, regular annual costs and which plan to pick |
