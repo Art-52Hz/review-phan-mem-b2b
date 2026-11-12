@@ -1,7 +1,7 @@
 ---
 title: "Hostinger KVM 1 vs KVM 2 (2026): Which VPS Plan Do You Actually Need?"
 date: 2026-10-29
-lastmod: 2026-11-05
+lastmod: 2026-11-12
 slug: "hostinger-kvm1-vs-kvm2-2026"
 summary: "KVM 1 and KVM 2 side by side: specs, the real day-one payment, renewal, and which workloads fit in 4 GB versus 8 GB of RAM."
 draft: false
@@ -27,6 +27,8 @@ The decision is whether you need extra resource headroom now, rather than whethe
 Based on official pricing and documentation checked November 4, 2026; workload recommendations below are planning judgments.
 
 Deploying containers? Read [Best Cheap VPS for Docker](/posts/best-vps-for-docker/) for a comparison of RAM, persistent storage and the full hosting bill.
+
+Running a business application? Our [VPS guide for Odoo and small-business ERP](/posts/best-vps-for-odoo-erp/) compares plan costs, database and filestore backups, and recovery responsibilities.
 
 ## KVM 1 vs KVM 2: price and resource comparison
 

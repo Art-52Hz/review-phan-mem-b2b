@@ -48,6 +48,7 @@ Already know the provider? These guides compare individual plans, discounts and 
 
 | Guide | Use it to decide |
 |---|---|
+| [Best VPS for Odoo or a Small-Business ERP](/posts/best-vps-for-odoo-erp/) | Compare specs, monthly costs, backup scope and ERP recovery ownership |
 | [Best VPS for Plex or Jellyfin](/posts/best-vps-for-plex-media-server/) | Private media storage, bandwidth rules, Direct Play and total hosting cost |
 | [Self-Host a WireGuard VPN on a VPS](/posts/self-host-wireguard-vpn-vps/) | Personal VPN specs, prepaid costs, network requirements and setup checks |
 | [Best Cheap VPS for a Discord or Telegram Bot](/posts/best-vps-for-discord-bot/) | Bot RAM needs, Black Friday upfront cost, renewals and a 24/7 setup checklist |
