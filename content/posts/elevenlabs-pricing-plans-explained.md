@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Pricing (2026): Free, Starter, Creator and Pro Credits Explained"
 date: 2026-10-30T09:00:00+07:00
-lastmod: 2026-11-09
+lastmod: 2026-11-12
 draft: false
 author: "Vincent Pham"
 slug: "elevenlabs-pricing-plans-explained"
@@ -47,6 +47,8 @@ The pricing FAQ lists annual equivalents of $5/month for Starter, $18.33 for Cre
 My recommendation is monthly billing while you establish a repeatable workload. Annual billing makes more sense after your scripts, revision demands and publishing schedule become predictable. Put the amount due today beside the renewal amount before comparing offers.
 
 ## Credits explained: budget the work you generate
+
+Producing channel narration? Read our [ElevenLabs for YouTube voiceovers guide](/posts/elevenlabs-for-youtube-voiceover/) for plan selection, commercial permissions and the separate YouTube monetization rules.
 
 The [billing documentation](https://elevenlabs.io/docs/overview/administration/billing), checked October 30, 2026, describes a shared allowance whose consumption depends on the product, model and website or API route. An annual self-serve subscription still receives credits monthly.
 
