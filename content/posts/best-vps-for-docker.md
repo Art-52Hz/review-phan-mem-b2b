@@ -1,7 +1,7 @@
 ---
 title: "Best Cheap VPS for Docker (2026): RAM, Storage and Monthly Cost"
 date: 2026-11-05
-lastmod: 2026-11-09
+lastmod: 2026-11-12
 slug: "best-vps-for-docker"
 summary: "Choose Hostinger KVM 1 for a lean Docker app or KVM 2 for an app and database. Compare prepaid costs, renewals and UltaHost's managed alternative."
 description: "Find a cheap VPS for Docker: compare Hostinger and UltaHost RAM, NVMe storage, upfront bills and renewals, then choose a plan for your container stack."
@@ -132,3 +132,5 @@ For the Hostinger offers compared here, the displayed monthly rate is the prepai
 Confirm the scope with the host. Server management does not by itself establish responsibility for custom application bugs or database migrations. Choose the provider that covers the work you need and document who handles everything else.
 
 **[Start with the Hostinger plan that fits your Docker deployment](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+
+Hosting a media container? Our [Plex and Jellyfin VPS guide](/posts/best-vps-for-plex-media-server/) explains storage budgets, streaming permission and the difference between Direct Play and transcoding.
