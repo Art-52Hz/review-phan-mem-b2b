@@ -31,6 +31,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [TradingView Black Friday 2026](/posts/tradingview-black-friday-2026/) | Sale dates, 2025 discount and which annual plan to buy |
 | [TradingView Plans Explained](/posts/tradingview-plans-explained-2026/) | Basic vs Essential vs Plus vs Premium |
 | [TradingView for Forex Traders](/posts/tradingview-for-forex-traders/) | Charts, Alerts and MT4/MT5 |
+| [TradingView for Crypto Traders](/posts/tradingview-for-crypto-traders/) | Choose a plan by crypto chart and alert workload; compare Kraken Pro |
 | [Hostinger AI Review](/posts/hostinger-ai-review-2026/) | Builder, Export and Client Handoff |
 | [Freelance Tool Costs](/posts/freelance-tool-project-cost/) | Compare the Whole Project |
 | [AI and Software Tools Directory](/posts/best-ai-tools-2026/) | Every Review in One List |

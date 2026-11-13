@@ -1,7 +1,7 @@
 ---
 title: "TradingView for Forex Traders (2026): Charts, Alerts and How It Fits with MT4/MT5"
 date: 2026-10-29
-lastmod: 2026-10-29
+lastmod: 2026-11-13
 slug: "tradingview-for-forex-traders"
 summary: "Choose a TradingView plan for forex charts and alerts, compare it with MT4/MT5, and check your broker feed before paying for a second trading platform."
 draft: false
@@ -34,6 +34,8 @@ Based on official pricing and documentation checked October 29, 2026; this is a 
 Source for all table prices and limits: [TradingView pricing and plan comparison](https://www.tradingview.com/pricing/?aff_id=1173587), checked October 29, 2026. Annual billing is upfront: the displayed equivalents imply $155.40, $359.40 and $719.40 per year respectively, before applicable taxes. Basic has no subscription charge; verify trial and renewal terms before accepting a paid offer.
 
 Choose the smallest tier that covers your workflow. Our [full TradingView plan comparison](/posts/tradingview-plans-explained-2026/) covers additional limits.
+
+Also monitoring digital assets? Our [TradingView guide for crypto traders](/posts/tradingview-for-crypto-traders/) covers exchange-feed checks, alert workloads and when Kraken Pro may be enough.
 
 A useful buying question is: what will I actually do differently after upgrading? If the answer is merely that a larger plan looks more professional, stay with the cheaper option. If you can name the missing alert or layout that repeatedly interrupts your routine, you have a concrete reason to consider paying.
 
