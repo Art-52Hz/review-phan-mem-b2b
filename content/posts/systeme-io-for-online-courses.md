@@ -1,7 +1,7 @@
 ---
 title: "Systeme.io for Online Courses (2026): Free Plan Limits and Setup"
 date: 2026-11-09
-lastmod: 2026-11-12
+lastmod: 2026-11-13
 slug: "systeme-io-for-online-courses"
 draft: false
 description: "Build your first course with Systeme.io: compare Free and paid limits, configure lessons and checkout, and decide when to upgrade or choose Teachable."
@@ -102,6 +102,8 @@ Make the sales page match the access configuration. State whether buyers receive
 Keep payment setup, delivery and marketing follow-up as separate review items. A convincing sales page does not establish that the right course is attached to checkout. Likewise, a visible course preview does not show what a new customer receives after enrollment.
 
 For a broader platform assessment, use our [Systeme.io review](/posts/systeme-io-review-2026/).
+
+If your audience also needs complementary tools, our [Systeme.io affiliate funnel guide](/posts/systeme-io-for-affiliate-marketers/) explains how to connect an opt-in, a useful bridge page and email follow-up for merchant referrals.
 
 For a choice between a low-cost course launch and an academy platform, read our [Systeme.io vs Kajabi comparison](/posts/systeme-io-vs-kajabi/) covering prices, learning features and payment fees.
 
