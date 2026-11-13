@@ -1,7 +1,7 @@
 ---
 title: "Best Cheap VPS for Docker (2026): RAM, Storage and Monthly Cost"
 date: 2026-11-05
-lastmod: 2026-11-12
+lastmod: 2026-11-13
 slug: "best-vps-for-docker"
 summary: "Choose Hostinger KVM 1 for a lean Docker app or KVM 2 for an app and database. Compare prepaid costs, renewals and UltaHost's managed alternative."
 description: "Find a cheap VPS for Docker: compare Hostinger and UltaHost RAM, NVMe storage, upfront bills and renewals, then choose a plan for your container stack."
@@ -27,6 +27,8 @@ Based on official pricing and documentation checked November 5, 2026; workload r
 For a workload-based memory budget, read [how much RAM your VPS needs](/posts/how-to-choose-vps-ram/) before selecting a tier.
 
 Deploying a JavaScript backend? Our [cheap VPS guide for Node.js apps](/posts/best-vps-for-nodejs-apps/) compares app and database requirements, setup choices and the full hosting bill.
+
+Running a collection worker in a container? Our [VPS guide for web scraping](/posts/best-vps-for-web-scraping/) compares IPs, bandwidth, crawler memory and the full operating budget.
 
 ## Compare RAM, storage and the actual hosting bill
 
