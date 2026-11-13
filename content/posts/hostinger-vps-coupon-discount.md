@@ -1,7 +1,7 @@
 ---
-title: "Hostinger VPS Discount (2026): How the Referral Price Works and What Renewal Costs"
+title: "Hostinger VPS Coupon and Black Friday Price (2026): KVM 1 $5.19, Real Totals"
 date: 2026-10-29
-lastmod: 2026-10-29
+lastmod: 2026-11-13
 slug: "hostinger-vps-coupon-discount"
 summary: "Separate Hostinger's public VPS sale from referral savings, compare the upfront invoice with renewal, and check eligibility before choosing a term."
 draft: false
@@ -16,123 +16,129 @@ cover:
   relative: false
 ---
 
-**Best for developers who can maintain a server: Hostinger VPS, provided the renewal fits your budget.**
-**Pick UltaHost instead if you need a managed-server offering and its support scope covers your application.**
-**Choose capacity first; treat any referral saving as a checkout adjustment, not your ongoing hosting budget.**
+**Best for developers who can maintain a server: Hostinger KVM 1 for a small application; KVM 2 when your stack needs more headroom.**
+**Pick UltaHost instead if you need a managed-server offering and its support covers your application.**
+**Price check: the $5.19 headline was not reproduced on November 13; the public KVM 1 card showed $6.49/month, or $155.76 upfront.**
 
 **[See Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
 *Disclosure: this article contains Hostinger referral links. An eligible purchase may earn us a commission. [Read our disclosure](/affiliate-disclosure/).*
 
-Based on official pricing and documentation checked October 29, 2026.
+Based on official pricing and documentation checked November 13, 2026; calculations below are budgeting examples.
 
-## Hostinger VPS pricing: the public offer versus renewal
+<!-- Editorial note from assignment, not a verified November 13 quote: 10/11: gia BF Hostinger giam (KVM1 $124.56, KVM2 $168.72, KVM4 $249.36, KVM8 $498.96 / 24 thang; gia han khong doi). -->
 
-The following USD figures are from the [official Hostinger VPS pricing cards](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026. They describe the public offer, before any separately verified referral adjustment.
+## Is the $5.19 Hostinger VPS coupon price available?
 
-| Buying criterion | KVM 1 | KVM 2 |
+Hostinger's page advertises Black Friday, but the public price observed for KVM 1 was $6.49. The lower headline needs confirmation for your order. Do not enter a two-year commitment assuming that a coupon will reduce the final invoice.
+
+There are three separate numbers to compare: the public offer, the payable order total after any accepted adjustment, and renewal. A referral code identifies the referral; it does not by itself prove a particular final price. No additional coupon was independently verified for this article.
+
+Source: [official VPS pricing cards and billing explanation](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 13, 2026.
+
+## Real totals: public Black Friday offer versus renewal
+
+These are USD figures for the displayed 24-month term. Introductory totals are printed on the pricing cards. Renewal totals are calculated as the displayed monthly renewal rate x 24, before tax and optional items.
+
+| Plan | Public monthly equivalent | Initial 24-month total | Renewal/month | Calculated renewal for 24 months | vCPU / RAM |
+|---|---|---|---|---|---|
+| KVM 1 | $6.49 | $155.76 | $11.99 | $287.76 | 1 / 4 GB |
+| KVM 2 | $8.79 | $210.96 | $14.99 | $359.76 | 2 / 8 GB |
+| KVM 4 | $12.99 | $311.76 | $28.99 | $695.76 | 4 / 16 GB |
+| KVM 8 | $25.99 | $623.76 | $49.99 | $1,199.76 | 8 / 32 GB |
+
+Source for prices, terms and resources: the official VPS pricing cards linked above, checked November 13, 2026.
+
+A monthly equivalent is useful for comparing subscriptions, but it is not the amount you pay each month on this offer. Budget the full upfront payment. Then add the software, off-server storage and administration your particular project needs. Keep those costs separate so a hosting promotion does not hide the cost of operating the application.
+
+### How the requested lower totals compare
+
+At $5.19/month, KVM 1 would cost $124.56 for 24 months. The requested lower figures for KVM 2, KVM 4 and KVM 8 would be $168.72, $249.36 and $498.96. **These are unconfirmed target totals, not the public prices observed today.** They correspond to rounded monthly equivalents of $7.03, $10.39 and $20.79.
+
+The rounding matters. Applying a hypothetical 20% reduction directly to $155.76 gives $124.61 after rounding to cents; multiplying a rounded $5.19 monthly display by 24 gives $124.56. Those calculations do not establish how Hostinger will round an order. Use the final payable amount when deciding whether the offer matches your target.
+
+For an actual buying decision, record both totals side by side. If the lower amount never appears, decide whether the public offer still works for you. Avoid extending the term or adding unnecessary products solely to chase a percentage discount.
+
+## Coupon, referral eligibility and renewal
+
+The [official referral agreement](https://www.hostinger.com/legal/referral-program-agreement), checked November 13, 2026, describes up to 20% off an eligible new purchase and restricts combining referral programs or incentives. It does not establish that every Black Friday order receives another discount.
+
+The [official referral eligibility guide](https://www.hostinger.com/support/6080777-how-to-use-the-referral-program-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 13, 2026, allows a referral code to be entered at checkout and excludes already registered users from its first-time-customer definition. Its minimum VPS term differs from the agreement: one month in the help article, versus twelve months in the agreement. Ask support to resolve eligibility for a shorter order.
+
+Treat renewal as a separate purchase decision. The new-purchase discount does not establish a buyer renewal discount. Set a reminder before renewal and keep an export plan so you can move the application if its ongoing cost no longer fits.
+
+**Publisher note:** the official referral guidance restricts ordinary referral links on commercial blogs. Permission for this site's use of the catalog link remains unconfirmed.
+
+<!-- REVIEW BEFORE PUBLICATION: Retain the issued catalog link as assigned, but confirm commercial referral permission or obtain an appropriate issued affiliate link. Also reconcile the $5.19 title with a current official quote before publication. -->
+
+## Hostinger versus UltaHost: which is better value?
+
+| Buying criterion | Hostinger KVM 1 | UltaHost VPS Basic |
 |---|---|---|
-| Introductory monthly equivalent | $6.49 | $8.79 |
-| Initial term | 24 months | 24 months |
-| Advertised upfront payment | $155.76 | $210.96 |
-| Renewal monthly equivalent, same term | $11.99 | $14.99 |
-| RAM / vCPU | 4 GB / 1 | 8 GB / 2 |
-| Best candidate | A small, isolated application | An application with more memory needs |
-| Free trial | Paid service; 30-day money-back headline | Paid service; 30-day money-back headline |
+| Public starting equivalent | $6.49/month for 24 months | $5.52/month for two years |
+| Initial term budget | $155.76 displayed | $132.48 calculated as $5.52 x 24 |
+| Displayed renewal | $11.99/month for the same term | $5.52/month for two years |
+| Main resource limits | 1 vCPU, 4 GB RAM | 1 CPU core, 1 GB RAM, 30 GB NVMe |
+| Administration | Customer manages software | Advertised as managed server |
+| Trial/refund headline | Paid purchase; 30-day money-back headline | Paid purchase; 30-day money-back headline |
+| Best candidate | Developer comfortable operating a stack | Small workload needing a confirmed support scope |
 
-The page says plans are paid upfront. A monthly equivalent helps compare offers, but the upfront invoice determines whether the purchase fits your cash budget. Tax and optional items belong in that comparison too.
+Sources: Hostinger's pricing cards above; [official UltaHost VPS pricing and resource cards](https://ultahost.com/vps-hosting#art52hz), checked November 13, 2026; [Hostinger VPS administration overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 13, 2026. UltaHost's hero shows $5.51; this comparison uses its $5.52 plan card.
 
-For workload selection, read our [KVM 1 versus KVM 2 guide](/posts/hostinger-kvm1-vs-kvm2-2026/). A discount is useful only after you have chosen a suitable configuration.
+My recommendation is to choose the operating model first. Ask UltaHost whether the specific work you need is included: operating-system updates, application troubleshooting, migrations and recovery are different tasks. A managed label is useful only when its scope matches the work you would otherwise have to do.
 
-## How the referral price works
+For a developer, Hostinger's larger entry memory allocation may be more useful than a managed service with insufficient resources. For a nontechnical owner, paying for suitable management can make more sense than taking responsibility for an unfamiliar production stack. Our [UltaHost versus Hostinger comparison](/posts/ultahost-vs-hostinger-vps-2026/) develops that choice.
 
-A public introductory offer and a referral offer are separate things. The first is visible on the plan page. The second depends on the referral program and the order you actually place.
-
-Hostinger's [Referral Program Agreement](https://www.hostinger.com/legal/referral-program-agreement), checked October 29, 2026, describes **up to 20% off at checkout** for a qualifying new purchase. It also says the program cannot be combined with other Hostinger referral programs or incentives for the same purchase. This is not evidence that every public sale accepts another discount.
-
-Use the order summary to answer three questions: did the referral register, which items received the adjustment, and did the final payable total fall? A code appearing in a URL alone does not answer them. Keep the plan, term, currency and extras identical when comparing totals; otherwise a different configuration can look like a discount.
-
-For budgeting, call the eligible subtotal **B** and the confirmed discount fraction **d**. The discounted subtotal is **B × (1 − d)**. Add applicable tax and items outside the promotion afterward. This is arithmetic, not a quote for our link or a promise about the amount checkout will discount.
-
-### Eligibility needs a check, especially on shorter terms
-
-The [official referral help article](https://www.hostinger.com/support/6080777-how-to-use-the-referral-program-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, lists VPS subscriptions of one month or longer, while the agreement above lists eligible services with subscriptions of at least twelve months. The help article also excludes already registered users from its new-customer definition. Ask support to resolve eligibility for your order rather than assuming a short term qualifies.
-
-**Publisher note:** that same help article restricts ordinary referral sharing to personal contacts and says commercial websites and blogs should not publish those links. The catalog link used here is a referral link; permission for this site's commercial use needs confirmation before publication.
-
-<!-- REVIEW BEFORE PUBLICATION: Hostinger's referral help page prohibits ordinary referral links on commercial blogs. Confirm explicit permission or obtain an appropriate issued affiliate link; do not invent a replacement URL. -->
-
-## What renewal will cost your project
-
-Using the dated public rates in the table, another identical term works out to **$287.76 for KVM 1** or **$359.76 for KVM 2**, before tax and extras. Those are calculated estimates: renewal monthly equivalent multiplied by the term length. They are not prices read from an authenticated invoice.
-
-Your renewal budget should stand on its own. The referral agreement specifies that the corresponding new-purchase discount applies only to new purchases; it does not establish a customer renewal discount. A partner earning commission on renewal is a different issue from the buyer receiving a lower renewal bill.
-
-Before ordering, write down the initial payment, expected renewal amount and renewal date in the same place. Set a calendar reminder early enough to review the service, export your data and migrate if necessary. A long commitment can save money for a stable project, but it also ties up cash before you know whether that project will continue.
-
-**[Compare Hostinger plans through the catalog referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** after checking both the launch budget and the ongoing budget.
-
-## Hostinger versus UltaHost: compare the service you need
-
-The alternative is not simply a different coupon. It can be a different allocation of server work. The [official UltaHost VPS cards](https://ultahost.com/vps-hosting#art52hz), checked October 29, 2026, show the following entry offer in USD.
-
-| Buying criterion | UltaHost VPS Basic |
-|---|---|
-| Starting monthly equivalent | $5.52 on a two-year term |
-| Displayed renewal | $5.52/month for two years |
-| Main resource limits | 1 CPU core, 1 GB RAM, 30 GB NVMe |
-| Service positioning | Managed server |
-| Refund headline | 30 days; check policy exclusions before paying |
-| Best candidate | A small workload with a confirmed server-support scope |
-
-Its hero displays $5.51, so this comparison uses the plan card rather than mixing the two figures. The configurations differ; Basic is not a like-for-like memory substitute for the Hostinger options above.
-
-Choose between the operating models before hunting for an extra saving. Ask UltaHost which updates, troubleshooting tasks and recovery work it includes. Ask yourself who would perform those tasks on the Hostinger server. Our [UltaHost versus Hostinger comparison](/posts/ultahost-vs-hostinger-vps-2026/) develops that decision and discusses refund exclusions.
+**[Compare Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** once you know who will maintain the server and what renewal you can afford.
 
 ## Who should choose Hostinger, and who should not?
 
-**Choose it if you want control and already have someone to operate the stack.** Hostinger's [official VPS overview](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 29, 2026, describes a self-managed environment. Infrastructure access and installation tools do not replace an owner for updates, application incidents and recovery.
+**Choose KVM 1 for a small, well-understood project with an administrator.** Write down your application's requirements before choosing the cheapest configuration. A development environment and a customer-facing service can need different recovery arrangements even when their resource requirements look similar.
 
-**Do not choose it just because the launch price is lower than your current bill.** First list everything that bill includes. If the existing service handles application maintenance, replacing it with a server can introduce work that outweighs the saving. Include your own time when comparing costs.
+**Choose KVM 2 when your application's documented needs justify more memory or CPU.** Do not buy extra capacity simply because the discount percentage looks attractive. Compare the additional cash commitment with the workload you actually expect. Our [KVM 1 versus KVM 2 guide](/posts/hostinger-kvm1-vs-kvm2-2026/) helps frame that decision.
 
-**Choose a longer term when the workload and budget are reasonably settled.** If you are still evaluating the application, region or operating model, compare shorter commitments before prepaying. You may prefer flexibility even when the monthly equivalent is higher.
+**Do not choose a self-managed VPS if nobody owns maintenance.** Hostinger's administration overview separates its infrastructure responsibilities from your software environment. Assign updates, monitoring, access management and recovery to someone before moving a live client project.
 
-For a broader look at the platform, see our [Hostinger VPS review](/posts/hostinger-vps-review-2026/). Keep the purchase decision tied to the application you will run, rather than the percentage printed beside a plan.
+**Avoid a long commitment when the project is still uncertain.** A shorter term may cost more per month but preserve cash while you evaluate the application. For more platform context, read our [Hostinger VPS review](/posts/hostinger-vps-review-2026/).
 
 ## How to test it yourself in 15 minutes
 
-Start with a purchase review; you do not need to pay to decide whether a quote makes sense. After an authorized purchase and provisioning, continue with an application check on a disposable environment.
+Use this as a quote review and evaluation plan. Provisioning, realistic workload testing and recovery may require a separate session after purchase.
 
-1. **Minutes 0–3:** Write down the intended application, its documented resource requirements and who will administer it. Select a candidate configuration.
-2. **Minutes 3–6:** Record the plan-page offer, term and renewal. Separate included items from optional additions.
-3. **Minutes 6–9:** If eligible, inspect the referral order summary. Compare the same configuration and record the actual adjustment. Keep personal details and payment information out of screenshots.
-4. **Minutes 9–12:** Calculate the initial commitment and renewal budget. Ask support about unresolved eligibility or service-scope questions before authorizing payment.
-5. **Minutes 12–15:** Define the post-purchase evaluation: deploy synthetic data, inspect resource use during normal work, and plan an isolated recovery exercise. Schedule enough time for that evaluation rather than treating this checklist as a completed performance test.
+1. **Minutes 0-3:** List the application, expected usage, resource requirements and administrator. Choose a candidate plan rather than beginning with a coupon search.
+2. **Minutes 3-6:** Record currency, term, initial total and renewal. Keep optional extras separate. Compare the same configuration throughout.
+3. **Minutes 6-9:** If eligible, inspect the referral adjustment in the order summary. Record the final total; redact personal and payment details from any evidence.
+4. **Minutes 9-12:** Compare the commitment with your budget and the alternative provider's support scope. Resolve unclear eligibility before authorizing payment.
+5. **Minutes 12-15:** Define the post-purchase acceptance check: deploy synthetic data, observe ordinary application work, check logs and plan an isolated restore. Record actual results when you perform those steps.
 
-<!-- FIRST-HAND: cần ảnh hoặc số đo thật: dated redacted order summaries showing identical configurations before and after the referral adjustment, confirmed renewal quote, written commercial referral permission, and actual application resource observations on a disposable VPS. -->
+<!-- FIRST-HAND: Add dated redacted order summaries for identical configurations before and after a referral adjustment, the renewal quote, written commercial referral permission, and actual application resource observations from a disposable VPS. -->
 
 ## Frequently asked questions
 
-These questions follow the official providers' public pricing and referral FAQs; they are not claimed as Search Console query findings.
+These questions address the providers' public pricing and referral FAQs; they are not presented as Search Console findings.
 
-### Is the Hostinger VPS sale price already a referral price?
+### Is Hostinger KVM 1 really $5.19 per month?
 
-Treat the public card as the public offer. Confirm a separate referral adjustment in the order summary before counting an additional saving.
+That amount was not reproduced in this check. The public card showed $6.49/month on a 24-month term. Treat $5.19 as an unconfirmed lower target until your order displays the corresponding payable total.
+
+### Is Hostinger's Black Friday VPS sale live?
+
+The official VPS page displayed Black Friday messaging on November 13, 2026. This check does not establish the sale's ending date. Choose based on the current quote and your workload.
 
 ### Can I stack a coupon with the referral discount?
 
-Do not budget for stacking. The referral agreement restricts combining referral programs or incentives. Ask support about the specific offer if the checkout result is unclear.
+Do not assume stacking. The cited agreement restricts combined incentives. A visible code and a lower payable total are different things; inspect the latter before budgeting a saving.
 
-### Does the referral discount reduce VPS renewal?
+### Does the referral offer reduce renewal?
 
-The cited new-purchase offer does not establish that benefit. Use the displayed renewal rate for your ongoing budget and inspect the actual renewal quote when available.
+The cited new-purchase offer does not establish that benefit. Use the renewal column for budgeting and compare it with your actual renewal notice when it arrives.
 
-### Can an existing Hostinger customer use this referral offer?
+### Can an existing customer claim the new-customer offer?
 
-The help article's first-time-customer condition excludes already registered users. Existing customers should ask about their own available offers rather than treating a referral link as a renewal coupon.
+The cited help article excludes already registered users from its new-customer definition. Existing customers should ask which offers apply to their account.
 
-### Is a money-back guarantee a free VPS trial?
+### Is the money-back guarantee a free trial?
 
-No. A refundable purchase still requires payment and depends on the applicable refund conditions. Read the policy linked from the provider before treating a paid order as an evaluation.
+No. You pay first, and refund conditions apply. Read the applicable policy before ordering, especially when extras or licenses are included.
 
-**Ready to compare your quote? [See Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** and choose the smallest suitable configuration whose renewal you can afford.
+**[See Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** and choose the smallest suitable configuration whose upfront payment and renewal both fit your budget.
