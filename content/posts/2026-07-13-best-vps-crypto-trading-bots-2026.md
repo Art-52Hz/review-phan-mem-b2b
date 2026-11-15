@@ -1,7 +1,7 @@
 ---
 title: "Best VPS for a Crypto Trading Bot (2026): Latency, Uptime and Cost"
 date: 2026-07-13
-lastmod: 2026-11-05
+lastmod: 2026-11-15
 slug: "best-vps-for-crypto-trading-bots-2026"
 draft: false
 description: "Compare VPS options for a crypto bot: workload policies, connectivity, credentials, monitoring and recovery. Check the full cost before buying."
@@ -12,131 +12,98 @@ cover:
   alt: "VPS infrastructure checklist for bot deployment"
 ---
 
-Best for a Linux bot operator who can manage a server: Hostinger KVM 1 is the starting shortlist for its resource allowance. Pick UltaHost instead if managed hosting support matters more than entry-level RAM. Choose the region only after checking access to your exchange API.
+For a self-managed Freqtrade bot, **Hostinger KVM 2 is my starting pick** because it clears the project's published CPU and memory minimums; KVM 1 does not clear the CPU recommendation. Choose **UltaHost VPS Business** if server support matters more than memory headroom, after confirming support for your stack. Establish that your exchange permits and serves your account from the chosen region before buying a long term.
 
-[Compare Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+[Compare Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate") | [Compare UltaHost plans](https://ultahost.com/#art52hz "affiliate")
 
 **Affiliate disclosure:** Some links are affiliate links. We may earn a commission on qualifying purchases. [Read our disclosure](/affiliate-disclosure/).
 
-*Based on official pricing and documentation checked November 5, 2026; recommendations are an assessment of published specifications.*
+Based on official prices and documentation checked November 15, 2026; the calculations below are a purchasing model, not measured trading performance.
 
-For a Windows trading terminal, read the [Forex VPS compatibility and pricing guide](/posts/best-vps-for-forex-trading-2026/) and [Windows VPS licensing checklist](/posts/best-windows-vps-hosting-2026/) before ordering a Linux plan.
+## Start with the bot's requirements
 
-## Compare cost, resources and support
+Freqtrade recommends at least **2 vCPU, 2 GB RAM and 1 GB disk** on a Linux cloud instance. Its software is free and open source. Source: [Freqtrade requirements and software overview](https://www.freqtrade.io/en/stable/), checked November 15, 2026.
 
-The best purchase depends on whether you need help administering the server or enough spare memory to run your application comfortably. Neither provider's sales page establishes which has the fastest route to your exchange.
+That changes the cheapest-plan comparison: spare RAM cannot replace a missing recommended CPU core. A small custom execution script may fit KVM 1, but calling it the default Freqtrade choice ignores the application's own guidance.
 
-| Plan | Advertised USD price and commitment | Published resources | Free plan or trial | Main limitation and buyer |
+| Plan | vCPU / RAM / NVMe | Initial monthly equivalent, 24-month term | Renewal monthly equivalent, same term | Fit |
 |---|---|---|---|---|
-| Hostinger KVM 1 | $6.49/mo, $155.76 paid for 24 months; renews at $11.99/mo for the same term | 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB bandwidth | Paid plan; advertised 30-day money-back guarantee | Starting shortlist for an operator comfortable maintaining Linux |
-| Hostinger KVM 2 | $8.79/mo, $210.96 paid for 24 months; renews at $14.99/mo for the same term | 2 vCPU, 8 GB RAM, 100 GB NVMe, 8 TB bandwidth | Paid plan; advertised 30-day money-back guarantee | More resource headroom; buy when workload measurements justify it |
-| UltaHost VPS Basic | $5.52/mo on the displayed 2-year offer; page lists renewal at $5.52/mo for 2 years | 1 CPU core, 1 GB RAM, 30 GB NVMe; managed server | Paid plan; advertised 30-day money-back guarantee | Support-oriented shortlist for a small workload; less entry RAM |
+| Hostinger KVM 1 | 1 / 4 GB / 50 GB | $6.49 | $11.99 | Lightweight custom Linux process; below Freqtrade CPU recommendation |
+| Hostinger KVM 2 | 2 / 8 GB / 100 GB | $8.79 | $14.99 | Freqtrade shortlist with spare memory |
+| UltaHost VPS Business | 2 / 2 GB / 50 GB | $9.78 | $9.78 | Meets the stated minimum; smaller memory margin |
 
-Sources for all prices, terms, specifications and guarantee periods in the table: [Hostinger VPS pricing and plan specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 5, 2026; [UltaHost VPS pricing and plan specifications](https://ultahost.com/vps-hosting#art52hz), checked November 5, 2026. Use the plan card rather than a rounded headline price, and confirm the final invoice, taxes, selected term and optional services before paying. A money-back guarantee is a conditional refund arrangement, not a free trial.
+Price/specification sources: [Hostinger VPS pricing and billing terms](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026; [UltaHost Linux VPS plan specifications](https://ultahost.com/vps-hosting#art52hz), checked November 15, 2026. These are USD public offers, without assuming an extra referral discount. Hostinger is self-managed and Linux-only: [supported server capabilities](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026. UltaHost labels its VPS managed, but ask explicitly whether support covers your runtime and deployment.
 
-## Who should choose Hostinger / who should not
+## Total money paid: the renewal bill changes the winner
 
-Choose Hostinger when you can install the runtime, maintain Linux and diagnose application failures yourself. KVM 1 is the first plan to evaluate for a modest production process; KVM 2 becomes more interesting when your own measurements show memory pressure or competing jobs. This is a sizing starting point, not a universal bot requirement.
+**Model:** one Linux server, a free bot, no paid control panel, no Windows license, no commercial signals, and no separately purchased backup service. For this configuration, software license and required paid add-ons are **$0**. This is a defined configuration, not a promise that every bot has no extras: commercial software, offsite storage and operator labor require separate budgets. Trading capital, exchange fees and tax are outside this infrastructure subtotal. Tax depends on the buyer's invoice.
 
-The tradeoff is responsibility. A server with root access gives you control over deployment, but you still need an update routine, restricted credentials, monitoring and a recovery procedure. Do not choose a plan simply because its memory figure looks generous if you cannot keep the application running safely.
+The calculation uses the plan-card rates above, held constant for the illustration. Both initial and renewal terms are 24 months. A 36-month operating budget must distinguish cost allocated to months used from cash already paid for the next full term.
 
-Skip this shortlist if your software requires a Windows desktop terminal or if you need a service that manages your trading application itself. Also avoid a long commitment before establishing that the required API is reachable from the intended region. A larger machine cannot repair a blocked endpoint or an application with faulty restart behavior.
+| Plan | Initial 24 months paid upfront | Next 24-month renewal bill | Cost allocated to 36 months of use | Cash paid by month 36, covering 48 months |
+|---|---|---|---|---|
+| KVM 1 | 24 x $6.49 = **$155.76** | 24 x $11.99 = **$287.76** | $155.76 + 12 x $11.99 = **$299.64** | **$443.52** |
+| KVM 2 | 24 x $8.79 = **$210.96** | 24 x $14.99 = **$359.76** | $210.96 + 12 x $14.99 = **$390.84** | **$570.72** |
+| VPS Business | 24 x $9.78 = **$234.72** | 24 x $9.78 = **$234.72** | $234.72 + 12 x $9.78 = **$352.08** | **$469.44** |
 
-## Who should choose UltaHost / who should not
+All totals are our arithmetic from the linked official rates; the $0 software/add-on configuration is included. The 36-month allocation is **not a checkout option or a refund entitlement**. Continuing on the same billing cycle requires the full renewal payment at month 25. Recalculate if the provider changes the renewal offer.
 
-Choose UltaHost if managed server support is central to your buying decision and your application fits the selected plan. Ask support what it will handle for your exact stack: operating system updates, package installation, restore assistance and application troubleshooting are separate tasks. Get a concrete answer before assuming that managed hosting includes debugging a custom bot.
+The useful purchasing difference: KVM 2 costs **$23.76 less initially**, while VPS Business costs **$101.28 less across two full terms**. Those are different resource/support packages, so the cheaper renewal is valuable only if the smaller machine fits. Do not lock in a long term merely to avoid a future price rise before validating the workload.
 
-VPS Basic has a smaller published RAM allowance than Hostinger KVM 1. That makes application imports, containers and background jobs important to check before committing. A plan that runs a lightweight execution process may still struggle with simultaneous research or backtesting. Keep those jobs separate until you know their resource demand.
+### Refund policy can outweigh the discount
 
-Skip the entry plan if your measured workload leaves little memory headroom. Skip either provider if your required operating system, location or workload is unsupported. Crypto payment availability does not establish workload permission, anonymous registration or exchange eligibility.
+UltaHost's VPS refund section excludes yearly, biennial and triennial plans. Its general 30-day language therefore does not make the two-year offer in this table a refundable trial. Source: [UltaHost VPS cancellation and refund rules](https://ultahost.com//refund#art52hz), checked November 15, 2026.
 
-[Compare UltaHost plans](https://ultahost.com/#art52hz "affiliate")
+Hostinger's VPS policy requires a request within 30 days and more than 180 days since initiation of a previous VPS refund, if any. Crypto, token and digital-asset purchases are non-refundable. Source: [Hostinger refund conditions](https://www.hostinger.com/legal/refund-policy), checked November 15, 2026. Paying in crypto and running a crypto bot are separate decisions; see the [crypto-payment VPS cost guide](/posts/cheapest-vps-crypto-payment-2026/) for that purchasing issue.
 
-## Latency: buy the route your bot actually needs
+## Which one should you pick?
 
-Start with the exchange endpoints and account region your application uses. A nearby datacenter on a map is only a candidate. Routing, name resolution, connection setup, exchange processing and application retries all affect the response your bot sees. A network-port speed is not a measurement of order execution latency.
+- **One Freqtrade execution bot, comfortable administering Linux:** pick KVM 2. Keep research jobs elsewhere initially. Install your actual strategy in dry-run mode before deciding that the available headroom is sufficient.
+- **A small custom Python bot with known resource use:** pick KVM 1 if its measured startup and normal workload fit. Do not use this recommendation to override a framework's higher requirements.
+- **You need server administration help:** shortlist UltaHost VPS Business, conditional on a written answer covering your OS, packages and restore support. If you need someone to debug strategy code, obtain a separate application-support arrangement before ordering.
+- **Multiple bots plus heavy hyperopt:** separate research from execution. Start the execution shortlist with KVM 2; size a separate research machine from a representative run. Freqtrade warns that hyperopt keeps data in memory per parallel process and suggests reducing workers or data, or increasing memory. Source: [hyperopt memory troubleshooting](https://www.freqtrade.io/en/stable/hyperopt/), checked November 15, 2026.
+- **A bot that requires a Windows desktop terminal:** choose a licensed Windows VPS, not either Linux offer in this comparison. Use the [Windows VPS licensing checklist](/posts/best-windows-vps-hosting-2026/) before paying.
 
-Build your evaluation around a documented, permitted public or sandbox endpoint. Record the server region, endpoint, timestamps, successful responses, errors and timeouts. Repeat observations at different times before deciding whether the route meets your application's requirements. Keep rate limits in mind and avoid load testing someone else's API.
+For the narrower resource upgrade decision, read [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/).
 
-For a scheduled strategy, reliability and predictable recovery may be more useful than chasing a small latency difference. For a strategy whose viability depends on execution speed, demand a longer evaluation with your actual application. This article supplies no measured winner for that case.
+## Latency and uptime: an acceptance test before committing
 
-## Uptime: distinguish a live VPS from a functioning bot
+A useful comparison needs the same application, endpoint and observation window. Neither a datacenter map nor a hosting uptime badge establishes order execution speed. My suggested acceptance sheet below is designed to reveal a reason to reject a purchase; it contains no claimed benchmark results.
 
-A host can keep the virtual machine available while the bot is stopped, disconnected or repeatedly failing authentication. Monitor application health as well as server availability. Decide how you will detect stale market data, missing scheduled work and failed reconciliation after a connection interruption.
-
-Before buying, write down who receives alerts and how the operator will respond. Keep logs readable without exposing credentials. A restart policy should recover a failed process, but it must also preserve enough state to investigate uncertain actions. Blindly resending a request after a timeout can repeat an action that already succeeded.
-
-Backups need a restore check. Store configuration and deployment instructions so you can reconstruct the environment without relying on an undocumented sequence of terminal commands. After restoration, verify an actual application function in test mode. A successful boot alone does not prove the service is ready.
-
-## How to test it yourself in 15 minutes
-
-Use this as an initial screening exercise after provisioning a candidate server. Allow longer for setup, repeated network observations and a proper recovery test.
-
-1. Open your application's current installation guide. Confirm the supported OS and runtime, then install the documented version in an isolated environment. Keep the production process separate from research jobs.
-2. Run startup in sandbox, paper or dry-run mode. Record idle and startup resource use, dependency errors and disk growth. Use the results to decide whether the selected plan has useful headroom.
-3. Query a documented endpoint from the chosen region within its published limits. Save timestamps and failures alongside response observations. Do not submit live orders as a connectivity test.
-4. Stop and restart the process in test mode. Check whether it restores state and reconciles incomplete work before acting again. Investigate an ambiguous result before retrying.
-5. Write a pass/fail note covering compatibility, connectivity, resources, restart behavior and the recurring bill. Continue with a longer observation period before moving a production workload.
-
-<!-- FIRST-HAND: Add redacted test-mode application logs, selected region and timestamped endpoint observations, resource measurements, restart reconciliation evidence and a restore result. -->
-
-If your workflow includes chart alerts, use the [TradingView plans guide](/posts/tradingview-plans-explained-2026/) to check that separate subscription before budgeting for hosting.
-
-## Operational details and worksheets
-
-### Define the application before choosing a plan
-
-Record the software version, supported operating system, dependencies and storage needs. Keep this worksheet with your deployment notes so a future operator can understand why the plan was selected.
-
-| Requirement | Question to answer | Evidence needed |
+| Check | Record from your own dry run | Buying decision |
 |---|---|---|
-| Workload policy | Is the specific application permitted? | Relevant provider rules or written clarification |
-| Connectivity | Can the required API be reached from this region? | Your timestamped endpoint observations |
-| Resources | Does startup and normal execution fit comfortably? | Your application resource record |
-| Credentials | What permissions does the application require? | Service instructions and restricted configuration |
-| Recovery | Can you restore and reconcile safely? | A test-mode restart and restore record |
-| Costs | What will you pay now and at renewal? | Selected checkout term and itemized recurring charges |
+| Exchange access | Region, permitted account/API use, successful authenticated read-only request | Reject a region that cannot legally and technically serve the account |
+| Route stability | Endpoint, observation times, response-time distribution, timeouts and reconnects | Investigate repeated stalls before paying for a longer term |
+| Resource headroom | Startup peak, normal memory, CPU load, disk growth with the actual strategy | Upgrade only the resource shown to be constrained |
+| Recovery | State before stop, state after restart, reconciliation of open orders | Keep live execution disabled if state is ambiguous |
+| Alert delivery | Triggered failure and notification received outside the server | Fix silent failure before treating the deployment as unattended |
 
-### Read the provider's workload rules
+Use a documented sandbox or read-only endpoint within the exchange's limits. Do not submit real orders merely to measure connectivity. A request's elapsed time includes network and service processing; it is not proof of matching-engine execution time. For latency-sensitive strategies, evaluate the whole application path before declaring any host the winner.
 
-Describe the actual workload when asking about permission. Mining, blockchain node hosting and an API trading application consume resources differently. Do not assume a policy about one establishes permission for another. Check exchange access requirements separately from hosting rules; hosting in a region does not grant eligibility to use an exchange there.
+For uptime, my practical buying criterion is whether you can detect and recover from a broken bot, not just reach the virtual machine. Rehearse a stopped process, lost connection and restored deployment in dry-run mode. Record what happens to pending work before enabling automatic retries. A restored disk image is not sufficient evidence that application state agrees with the exchange.
 
-### Secure access and avoid uncontrolled retries
+Keep one short deployment record: runtime version, strategy/config version, persistent data location, restart procedure and alert destination. It lets you distinguish a hosting failure from a failed software update when deciding whether to upgrade, move providers or fix your deployment. Keep API secrets out of that record.
 
-Use the minimum credential permissions your application needs, following the exchange's instructions. Keep secrets out of logs and public repositories. Document how credentials can be revoked and how the operator will stop the process if its behavior becomes uncertain. Test the recovery path before increasing operational dependence on the server.
+## FAQ: questions from bot operators
 
-### Define recovery acceptance criteria
+These questions paraphrase the linked community discussions; answers use the official documentation above and the purchasing analysis here, not forum performance claims.
 
-A useful acceptance note explains how to identify the last confirmed application state, restore the deployment and verify it without repeating uncertain actions. Include the location of backups, the alert destination and the person responsible for responding. Revisit the record whenever the software or server configuration changes.
+### Can I run several Freqtrade bots and hyperopt on the same VPS?
 
-### Apply the decision to your project
+Possible, but size for the combined workload. My recommendation is to isolate research first, then consolidate only after measuring its peak demand. Reducing hyperopt workers can reduce memory pressure. Question source: [operator asking about multiple bots and complex hyperopt](https://www.reddit.com/r/algotrading/comments/1kexkvt/freqtrade_hyperopts_backtesting_and_vps/).
 
-Use our [UltaHost buying checklist](/posts/ultahost-vps-review/) and [VPS privacy checklist](/posts/best-anonymous-vps-providers-2026/) to prepare the final purchase questions. Related resource: [Open affiliate disclosure](/affiliate-disclosure/).
+### How much RAM is enough for Freqtrade?
 
-## FAQ
+Start with its documented minimum in the comparison above, then measure your strategy, pair list and parallel jobs. Minimum compatibility is not a guarantee of capacity for multiple bots. This is the sizing issue raised in the same [Freqtrade infrastructure discussion](https://www.reddit.com/r/algotrading/comments/1kexkvt/freqtrade_hyperopts_backtesting_and_vps/).
 
-### Which VPS is best for a crypto trading bot?
+### Should I manage the VPS myself or buy managed hosting?
 
-Hostinger KVM 1 is the starting shortlist here for a Linux operator who can maintain the server. Choose UltaHost when managed server assistance matters more. Confirm application fit and the exchange route before treating either as your final choice.
+Choose self-management if you can maintain Linux and recover the application. Buy managed service for a specific, confirmed server-support scope; do not assume it includes trading-code repairs. Question source: [self-hosting versus outsourced infrastructure discussion](https://www.reddit.com/r/mltraders/comments/1rb9k3u/how_many_of_you_selfhost_your_trading_bots_vs/).
 
-### Is a cheap VPS enough for a trading bot?
+### Can I keep the bot on my home computer instead?
 
-It can be sufficient for a lightweight execution process. Measure startup, normal operation and background work separately. Size the plan around your software's behavior rather than treating a provider's entry plan as a universal minimum.
+Yes, if you can keep its power, network and process available and respond to failures. A VPS removes dependence on that home computer, but you still need application alerts. Question source: [operators discussing hosting algorithms at home](https://www.reddit.com/r/algotrading/comments/1ww9z5j/do_you_guys_host_your_algos_at_home/).
 
-### How do I check low latency for my bot?
+### Do I need Windows and an IDE on the VPS?
 
-Observe the documented endpoints your application actually uses from the intended server region. Record conditions and errors across a longer period. A region name, port speed or marketing claim cannot establish execution latency for your account.
-
-### Does a crypto-paid VPS require no KYC?
-
-Payment method and account verification are separate questions. Confirm registration requirements for your order and exchange access requirements for your account. Do not buy hosting on an assumption of anonymity.
-
-### Will a VPS improve trading results?
-
-A VPS can provide an environment for running software while your personal computer is offline. It cannot establish that a strategy is profitable or prevent application mistakes. Evaluate strategy risk separately from infrastructure suitability.
-
-## Make the purchase decision
-
-Choose the smallest plan that passes your compatibility, route and recovery checks. Prefer Hostinger for a Linux deployment you can administer; prefer UltaHost when confirmed support coverage is the deciding benefit. Compare the upfront commitment and renewal bill before adding resources you have not demonstrated a need for.
-
-[Start with Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")
+Follow the application's OS requirement. A Linux API bot does not acquire a Windows requirement just because you develop on Windows. Deploy its runtime and dependencies; an editor is a development choice. For a required Windows terminal, use a Windows plan. Question source: [operator asking about MT5, remote deployment and an IDE](https://www.reddit.com/r/VPS/comments/1xmsyx5/need_some_guidance_regarding_vps/).
