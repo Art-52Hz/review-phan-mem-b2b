@@ -1,156 +1,113 @@
 ---
 title: "ElevenLabs Pricing (2026): Free, Starter, Creator and Pro Credits Explained"
 date: 2026-10-30T09:00:00+07:00
-lastmod: 2026-11-12
+lastmod: 2026-11-15
 draft: false
 author: "Vincent Pham"
 slug: "elevenlabs-pricing-plans-explained"
 categories: ["AI Tools", "Reviews"]
 tags: ["elevenlabs", "pricing", "voiceover", "2026"]
 toc: true
-description: "Compare ElevenLabs Free, Starter, Creator and Pro prices, credit allowances and commercial permissions, then choose a plan around your script and revisions."
+description: "Compare ElevenLabs Free, Starter, Creator and Pro prices, credits and real 12 to 36 month costs, then choose by project and renewal budget."
 cover:
   image: "/images/elevenlabs-pricing-decision.svg"
   alt: "ElevenLabs buying checks for invoice, credits and revisions"
   relative: false
 ---
 
-Best for a small first commercial narration project: **ElevenLabs Starter**; use **Free** to evaluate a script first.
-Choose **Creator** for professional voice cloning or a larger workload; consider **Pro** only when your production budget justifies the jump.
-Compare **Murf** instead if your main buying question is how narration fits into a presentation workflow.
+For a small commercial narration job, choose **Starter at $6/month** after checking a sample; use **Free** only for non-commercial evaluation. Choose **Creator at $22/month** when you need Professional Voice Cloning or 121,000 monthly credits, and **Pro at $99/month** only when the larger 600,000-credit pool or higher audio output fits recurring work. On standard monthly billing, 12 months cost $72, $264 or $1,188 before tax, with no required add-on.
 
 **Affiliate disclosure:** We may earn a commission from qualifying purchases through the ElevenLabs links below. [Read our disclosure](/affiliate-disclosure/).
 
 [See ElevenLabs plans](https://try.elevenlabs.io/01vzwhie5ubt "affiliate").
 
-Based on official pricing and documentation checked October 30, 2026.
+Prices and plan details below come from ElevenLabs' [official pricing page](https://elevenlabs.io/pricing), its [billing documentation](https://elevenlabs.io/docs/overview/administration/billing) and its [publishing policy](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked November 15, 2026. Prices are USD and exclude taxes.
 
-> **Black Friday 2026:** No named sale was displayed on the official pricing page checked November 4, 2026. Read our [ElevenLabs Black Friday guide](/posts/elevenlabs-black-friday-2026/) for current introductory offers, regular prices and monthly versus annual payment advice.
+## ElevenLabs monthly prices and credits
 
-## Free, Starter, Creator and Pro at a glance
+| Plan | Regular monthly price | Intro price shown today | Credits each month | Decision point |
+|---|---:|---:|---:|---|
+| Free | $0 | None | 10,000 | Evaluation; no commercial license |
+| Starter | $6 | $1 first month | 30,000 | Commercial license and Instant Voice Cloning |
+| Creator | $22 | $11 first month | 121,000 | Professional Voice Cloning and additional credits |
+| Pro | $99 | None shown | 600,000 | 192 kbps audio and 44.1 kHz PCM via API |
 
-| Plan | Standard monthly price, USD | Credits per month | Main buying distinction | Best fit |
-|---|---:|---:|---|---|
-| Free | $0 | 10,000 | Non-commercial evaluation | Checking a representative script |
-| Starter | $6 | 30,000 | Commercial license; instant voice cloning | Small paid narration jobs |
-| Creator | $22 | 121,000 | Professional voice cloning | Recurring solo production |
-| Pro | $99 | 600,000 | Larger allowance | Established, heavier workloads |
+The pricing page still displays the Starter $1 banner with an end date of September 30, which has passed, while the plan card says $1 for the first month. Creator shows $11 for month one, then $22. Treat those as checkout-dependent introductory prices, not reliable long-term budgets. The total cost table uses standard recurring prices and excludes tax.
 
-Sources: [official pricing](https://elevenlabs.io/pricing) and [commercial-use rules](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked October 30, 2026. Prices exclude taxes.
+### What the standard monthly commitment adds up to
 
-These are standard monthly prices. Creator advertises $11 for the first month. Starter's page also displays a $1 promotion alongside expired or inconsistent countdown text; confirm eligibility at checkout rather than budgeting around that banner.
+| Plan | 12 months | 24 months | 36 months | Required add-ons or license fee |
+|---|---:|---:|---:|---|
+| Free | $0 | $0 | $0 | No required add-on; commercial license not included |
+| Starter | $72 | $144 | $216 | $0 additional license fee; commercial license included |
+| Creator | $264 | $528 | $792 | $0 additional license fee; Starter features included |
+| Pro | $1,188 | $2,376 | $3,564 | $0 additional license fee; Creator features included |
 
-### Monthly payment versus annual commitment
+**Calculation:** regular monthly price multiplied by 12, 24 or 36. These are subscription totals on monthly billing, before taxes, optional Pay As You Go credits or any extra purchase you choose. No mandatory add-on is listed for these self-serve plans. Annual billing is a separate upfront commitment; confirm the checkout total and renewal date before switching. The included commercial license applies to qualifying output under the terms, not to Free output.
 
-The pricing FAQ lists annual equivalents of $5/month for Starter, $18.33 for Creator and $82.50 for Pro, billed annually. Its ten-month pricing formula implies upfront totals of $60, $220 and $990 respectively, before tax. Source: [annual-billing FAQ](https://elevenlabs.io/pricing), checked October 30, 2026.
+The headline price is only useful alongside what that pool serves. ElevenLabs says products share a monthly credit balance: using credits for music, speech-to-text, dubbing or sound effects leaves fewer for narration. Its pricing FAQ estimates standard Text to Speech at 1 credit per character, Speech to Text at 330 per minute, Music at 900 per minute and Sound Effects at 200 per generation. Model and product rates vary, so those estimates are not an audio-minute guarantee. Source: [official credit FAQ](https://elevenlabs.io/pricing), checked November 15, 2026.
 
-My recommendation is monthly billing while you establish a repeatable workload. Annual billing makes more sense after your scripts, revision demands and publishing schedule become predictable. Put the amount due today beside the renewal amount before comparing offers.
+## Estimate credits from a real script, not finished minutes
 
-## Credits explained: budget the work you generate
+For standard Multilingual v2 text-to-speech, the FAQ says one text character uses one credit. Some Flash/Turbo API routes cost 0.5 to 1 credit per character. A 6,000-character narration draft therefore starts around 6,000 credits on the one-credit route. Add the characters you expect to regenerate; a rewritten 500-character passage is another roughly 500 credits at that rate.
 
-Producing channel narration? Read our [ElevenLabs for YouTube voiceovers guide](/posts/elevenlabs-for-youtube-voiceover/) for plan selection, commercial permissions and the separate YouTube monetization rules.
-
-The [billing documentation](https://elevenlabs.io/docs/overview/administration/billing), checked October 30, 2026, describes a shared allowance whose consumption depends on the product, model and website or API route. An annual self-serve subscription still receives credits monthly.
-
-For Multilingual v2, the pricing FAQ gives one credit per character; Flash/Turbo API rates can range from 0.5 to one. Generation requests consume credits, and free regenerations have conditions. Source: [credit-pricing FAQ](https://elevenlabs.io/pricing), checked October 30, 2026.
-
-Avoid converting an allowance into a guaranteed number of finished minutes. Your delivery speed, script, pauses and correction process all affect the result. Instead, estimate generated characters and reserve capacity for the parts likely to change.
-
-Here is a hypothetical planning exercise, **not measured usage**:
-
-| Work item | Assumed generated characters |
+| Hypothetical job budget | Estimated credits at 1 credit per character |
 |---|---:|
-| Approved draft | 4,000 |
-| Two pronunciation corrections, 500 characters each | 1,000 |
-| One rewritten section | 1,000 |
-| Total | 6,000 |
+| 4,000-character approved draft | 4,000 |
+| Two 500-character pronunciation fixes | 1,000 |
+| One 1,000-character rewrite | 1,000 |
+| Total planned generation | 6,000 |
 
-At an assumed one-credit rate, that scenario would consume 6,000 credits. Four such jobs would need 24,000, leaving 6,000 from Starter's listed allowance. Those totals are arithmetic based on the stated assumptions; they exclude other products, extra rewrites and any account-specific charges.
+This is an arithmetic example, not a product test or promise. It leaves 24,000 credits in Starter if no other product draws from the pool. Four similar jobs would use 24,000 credits, leaving only 6,000 for extra revisions or other products. Use the displayed route and model rate in your account before quoting a fixed-price job.
 
-The useful question is whether your expected work fits with room for mistakes. If the first sample takes several rounds of corrections, replace the assumed revision reserve before accepting a fixed-price brief. For a worksheet focused on invoices and project allocation, use our [freelancer pricing guide](/posts/elevenlabs-pricing-freelancers/).
+## Which one should you pick?
 
-## Who should choose each plan, and who should not?
+- **You are deciding whether a voice can handle a brand name or accent, and will not publish it commercially:** pick **Free**. Use the 10,000 credits for a short representative sample, then generate commercial output under a paid plan if you proceed.
+- **You have one or two short paid narrations and no professional-clone requirement:** pick **Starter**. The regular $6 monthly price keeps the recurring commitment at $72 for a year, and the plan includes a commercial license and Instant Voice Cloning.
+- **Your own voice needs a Professional Voice Clone, or repeat jobs use more than Starter's 30,000 credits:** pick **Creator**. It is $22 each regular month and adds that clone tier, so the 12-month standard total is $264.
+- **You regularly consume most of Creator's allowance and need the listed 192 kbps output or API PCM quality:** pick **Pro**. Budget $99 per month and $1,188 over 12 monthly payments; do not choose it just to cover an undefined future workload.
+- **You need only a temporary extra-credit buffer:** stay on the smallest suitable plan and review the optional Pay As You Go terms before enabling it. Do not treat an optional usage setting as included subscription value.
 
-### Free: choose it to answer a specific evaluation question
+[Compare plans for your workload](https://try.elevenlabs.io/01vzwhie5ubt "affiliate"). For YouTube-specific licensing and workflow, read our [ElevenLabs voiceover guide for YouTube](/posts/elevenlabs-for-youtube-voiceover/). If professional cloning is the deciding feature, use our [Instant vs Professional Voice Cloning guide](/posts/elevenlabs-voice-cloning-explained/).
 
-Use Free to check a difficult name, a language switch or the tone of an introduction. Write your acceptance criteria before generating anything: for example, the brand name must sound right and a listener must understand the sentence without reading along.
+## Credits, rollover and the renewal trap
 
-Free is unsuitable for commercial delivery. The [official publishing policy](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked October 30, 2026, excludes commercial use of free-tier output and requires attribution for non-commercial sharing. Paying later does not retrospectively license that earlier output.
+ElevenLabs says self-serve credits reset each month. Paid-plan credits can roll over, subject to the billing guide's limits and account status; Free credits do not build into a permanent balance. The billing page explains that unused paid credits expire when you cancel or downgrade, so do not subscribe early to stockpile credits for an undefined project. Source: [billing and credit rollover](https://elevenlabs.io/docs/overview/administration/billing), checked November 15, 2026.
 
-### Starter: my default shortlist for a small paid project
+Creator's first month is shown as $11, then $22 monthly. If that offer applies at your checkout, 12 monthly payments would total $253 before tax ($11 + 11 x $22), rather than $132 or a continuing $11 rate. Starter's displayed $1 offer has the conflicting past end date noted above, so the table uses its full $6 rate. Do not base a multi-year budget on a temporary first invoice.
 
-Starter is the sensible entry point when the sample works and the expected workload fits. It avoids committing to a larger allowance before you understand the correction process.
+Free output cannot be used commercially. ElevenLabs says eligible content generated on paid plans may be commercially published subject to the terms, your rights to the source material and product-specific exclusions. Later payment does not retroactively license Free generations. Read the [official publishing policy](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked November 15, 2026, and regenerate the final commercial take while covered by the appropriate paid plan.
 
-Do not choose it solely because it is the cheapest paid option. A professional voice cloning requirement points toward Creator; a script that remains awkward after careful revisions points toward another voice or workflow. Buying more credits cannot establish whether a particular pronunciation will be acceptable.
-
-### Creator: choose it for a requirement you can name
-
-For the recording requirements and own-voice verification rule, read our [ElevenLabs Instant vs Professional Voice Cloning guide](/posts/elevenlabs-voice-cloning-explained/) before choosing a cloning plan.
-
-Creator makes sense when professional voice cloning matters or the planned workload outgrows Starter. Before upgrading, list the actual projects waiting for production and the revisions each includes.
-
-It is a weak purchase when the only reason is a discounted first invoice. Ask whether the same workload would justify the recurring payment after the offer ends. A larger unused balance is still money committed to a subscription.
-
-### Pro: choose it after production becomes predictable
-
-Pro belongs on the shortlist when you have a sustained queue of work, a sample that passes and a budget covering both software and editing. Compare your recent consumption with upcoming work before making that decision.
-
-Do not use Pro as insurance against an undefined project. First separate narration from other products drawing on the same allowance. Then compare the cost of a larger subscription with an occasional top-up under the terms shown in your account.
-
-[Compare ElevenLabs plans for your workload](https://try.elevenlabs.io/01vzwhie5ubt "affiliate").
-
-## Rollover, top-ups and commercial permissions
-
-The [billing guide](https://elevenlabs.io/docs/overview/administration/billing), checked October 30, 2026, permits up to two months of unused paid credits to carry forward while the subscription continues without cancellation or downgrade. Unused subscription credits expire when cancellation or downgrade takes effect. Treat rollover as temporary flexibility rather than permanent storage.
-
-The same guide distinguishes current subscriptions with prepaid Pay As You Go from legacy subscriptions using usage-based billing. Do not assume an older tutorial describes the controls in your account. Read the [official Pay As You Go documentation](https://elevenlabs.io/docs/overview/administration/pay-as-you-go), checked October 30, 2026, before adding funds or enabling automatic purchases.
-
-Commercial permissions apply to qualifying output generated during a paid subscription, subject to content rights and product terms; Beta Services are excluded. The [publishing policy](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked October 30, 2026, also says permitted paid-subscription output can continue to be used after the subscription ends. Keep your script, generation date and permission records with the delivery files.
-
-## ElevenLabs or Murf: what should decide the shortlist?
-
-Compare the workflow as well as the subscription. For standalone narration, assess how easily you can correct and replace a passage. For slides or explainers, assess how easily narration stays aligned with the visual sequence. Those are evaluation tasks, rather than claims about which voice sounds better.
-
-Our [ElevenLabs versus Murf comparison](/posts/elevenlabs-vs-murf-ai-2026/) covers that buying decision. Keep this article's plan choice focused on ElevenLabs credits; evaluate a competing editor when assembly and revision effort are your main bottleneck.
-
-## How to test it yourself in 15 minutes
-
-Use this suggested timebox to collect a decision record:
-
-1. **Minutes 0–3:** Pick a short, representative script with a difficult name, a number and a sentence requiring the intended tone. Confirm that you may use the text and chosen voice.
-2. **Minutes 3–6:** Record your plan, model, route and starting balance. Read the displayed generation charge, then generate the sample.
-3. **Minutes 6–10:** Listen without reading along. Mark unclear words and make one targeted correction. Record the charge shown for the retry.
-4. **Minutes 10–13:** Put the audio into your normal editing workflow. Check that replacing a passage and exporting the required format are practical.
-5. **Minutes 13–15:** Record the ending balance, unresolved issues and whether the sample passes. Multiply the observed workload by your planned projects, then add a revision reserve.
-
-Use the [voiceover evaluation scorecard](/posts/voiceover-evaluation-scorecard/) to keep the decision consistent. Stop and investigate a failed mandatory requirement before scaling production.
-
-<!-- FIRST-HAND: Add a rights-cleared sample script, model and route, dated starting/ending credit balances, correction log and permitted audio export before adding measured usage or listening conclusions. -->
+For a competing presentation-oriented workflow, see our [ElevenLabs vs Murf comparison](/posts/elevenlabs-vs-murf-ai-2026/). Choose based on the same script, export and revision requirements, rather than comparing credit counts to another product's hours.
 
 ## FAQ
 
-### Is ElevenLabs Free enough for commercial work?
+### Do unused credits carry over?
 
-No. Use it for evaluation; the official publishing policy above excludes commercial use of free-tier output. Generate commercial deliverables under an appropriate paid subscription with the necessary rights.
+ElevenLabs allows limited rollover for paid plans, subject to its billing rules. Free credits do not provide an accumulating long-term balance. The billing page says cancellation or downgrade can expire unused subscription credits. Check your account's billing period and rollover terms before delaying work. Source: [billing documentation](https://elevenlabs.io/docs/overview/administration/billing), checked November 15, 2026.
 
-### Is Creator's advertised first-month price the renewal price?
+### When do my credits reset?
 
-No. Separate the introductory invoice from the standard recurring price in the comparison table. Record the billing term and taxes shown before authorizing payment.
+Credits reset with the plan's billing cycle. Reddit users commonly ask why a balance did not refresh on the first day of a calendar month; check the renewal date under Subscription and Billing in your account. Source for plan resets: [ElevenLabs billing documentation](https://elevenlabs.io/docs/overview/administration/billing), checked November 15, 2026; see also this [user question about Free-plan refresh timing](https://www.reddit.com/r/ElevenLabs/comments/1u91ukd/when_do-credits-refresh-under-free-plan/), posted in 2026.
 
-### How many minutes do credits buy?
+### How many credits does one minute of speech use?
 
-There is no single dependable conversion for your project. Model, script and regeneration needs matter. Generate a representative sample and budget from the observed charge rather than treating estimated minutes as guaranteed capacity.
+There is no single fixed minute conversion for every model and route. On standard Multilingual v2 text-to-speech, budget about one credit per generated text character, then add retries and rewrites. Use the rate displayed for your selected model. Source: [official credit FAQ](https://elevenlabs.io/pricing), checked November 15, 2026.
 
-### Do credits roll over if I cancel?
+### Can I use Free output in a monetized video or client project?
 
-Unused subscription credits expire when cancellation takes effect under the billing guide cited above. Export the files you need and plan remaining work before the cycle ends.
+No. The publishing policy excludes commercial use of Free output. A later subscription does not license the earlier generation, so create the final deliverable while an eligible paid plan is active and follow the product terms. Source: [publishing policy](https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform), checked November 15, 2026.
 
-### Should I upgrade when I run out of credits?
+### Why did a retry use more credits than expected?
 
-Compare the next cycle's workload, required features and available top-up terms first. A recurring shortage can justify a larger plan; an isolated rewrite deserves a separate cost comparison.
+Credits are charged for generation, and the rate depends on the model, product and route. Recreating a passage or using another product draws from the same balance. Check the usage details in your account against the plan's current credit FAQ before estimating the next job.
 
-## Choose the smallest plan that supports the next deliverable
+### Does Creator stay at $11 per month?
 
-Evaluate with Free, shortlist Starter for a small commercial job, move to Creator for a concrete feature or capacity need, and reserve Pro for established volume. Make that choice from your script and revision record.
+No. The official pricing card shows $11 for the first month, then $22 per month. At those terms, twelve monthly payments total $253 before tax if the offer is available to your account. Confirm the renewal amount shown at checkout.
+
+## Make the next invoice earn its place
+
+Choose Free to evaluate, Starter for small paid narration, Creator when cloning or capacity requires it, and Pro when sustained use justifies $99 each month. Before upgrading, add up one month's actual planned text, expected corrections and other products drawing on the shared pool. Compare that workload with the total subscription payments across your intended term, including the renewal price.
 
 [Start with the ElevenLabs plan that fits your project](https://try.elevenlabs.io/01vzwhie5ubt "affiliate").
