@@ -102,6 +102,8 @@ After the short check, include scheduled jobs, deployment and backup windows in 
 
 <!-- FIRST-HAND: Add dated plan screenshots, application versions, input sizes, concurrency, baseline and peak available-memory readings, container limits, logs during overlapping jobs, and a restore result. No firsthand measurements are available for this article. -->
 
+For private file sync, our [Nextcloud VPS buying guide](/posts/best-vps-for-nextcloud/) combines the RAM decision with usable storage, backup recovery and the full hosting bill.
+
 ## FAQ
 
 ### Is 4 GB RAM enough for a VPS?
