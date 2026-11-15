@@ -1,7 +1,7 @@
 ---
 title: "Systeme.io Pricing (2026): Free Plan Limits and When to Upgrade"
 date: 2026-11-07
-lastmod: 2026-11-09
+lastmod: 2026-11-15
 slug: "systeme-io-pricing-explained"
 draft: false
 description: "Compare Systeme.io Free, Startup, Webinar and Unlimited prices, contact limits and sales caps. Find the upgrade that fits your next launch and budget."
@@ -14,148 +14,86 @@ cover:
   relative: false
 ---
 
-Best for a first offer: Systeme.io Free; choose Startup when a specific limit blocks a working business.
-Choose Webinar for an evergreen presentation or higher capacity, and Unlimited when smaller plans cannot support your operation.
-Keep ClickFunnels instead if rebuilding your existing workflow would outweigh the subscription saving.
+Systeme.io costs $0, $17, $47, or $97 per month, depending on the plan; annual billing is $170, $470, or $970 upfront for the paid plans. Start on Free for up to 2,000 contacts, move to Startup when you need more room, and choose Webinar only if evergreen webinars or its larger limits solve a current need. No required add-on appears in the official plan prices; card or PayPal processing fees are separate.
 
 *Disclosure: Some links are affiliate links. We may earn a commission if you purchase through them, at no extra cost to you.*
 
 **[Start with Systeme.io Free](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
 
-Based on official pricing and help documentation checked November 7, 2026.
+Based on official pricing and help pages checked November 15, 2026.
 
-The right upgrade solves a named problem: a launch you cannot publish, an audience you cannot accommodate, or a sales limit you are approaching. This guide focuses on that purchase decision. For the broader platform evaluation, read our [Systeme.io review](/posts/systeme-io-review-2026/).
+## Current prices and limits
 
-## Systeme.io prices and plan limits
+The practical difference is capacity, not a different product at every tier. All plans include unlimited email sends and list 0% Systeme.io transaction fees. The processor you connect may still charge its own fee.
 
-These are USD prices with monthly billing. Recommendations in the final column are our judgment about how to use the allowances.
+| Plan | Monthly | Annual bill | Contacts | Funnels | Evergreen webinars |
+|---|---:|---:|---:|---:|---:|
+| Free | $0 | $0 | 2,000 | 3 | 0 |
+| Startup | $17 | $170 | 5,000 | 10 | 0 |
+| Webinar | $47 | $470 | 10,000 | 50 | 10 |
+| Unlimited | $97 | $970 | Unlimited | Unlimited | Unlimited |
 
-| Plan | Monthly price | Contacts | Funnels | Courses | Best use |
-|---|---|---|---|---|---|
-| Free | $0 | 2,000 | 3 | 1 | Validate an offer |
-| Startup | $17 | 5,000 | 10 | 5 | Expand an established offer |
-| Webinar | $47 | 10,000 | 50 | 20 | Run evergreen webinars |
-| Unlimited | $97 | Unlimited | Unlimited | Unlimited | Remove capacity bottlenecks |
+Source: [Systeme.io's plan prices and feature limits](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 15, 2026. Annual billing is advertised as 2 months free. The page also says Free needs no credit card and lists 1 automation rule and 1 email campaign on Free. The Webinar tier is the first one that includes evergreen webinars.
 
-Source: [official pricing FAQ and plan allowances](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 7, 2026.
+One less-visible Free limit can matter before the contact cap: the official subscription guide sets a $10,000 lifetime sales revenue cap. It says a warning appears at $8,000; once the cap is reached, payment pages stop accepting new sales until you upgrade. Affiliate commissions do not count toward this limit. Source: [official subscription plan rules](https://help.systeme.io/article/1509-how-systeme-io-s-subscription-plans-are-moderated?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 15, 2026.
 
-Free also includes one custom domain, one automation rule and one email campaign. Email sends are unlimited across plans. Free has no expiry or card requirement. The pricing page advertises two months free with annual billing; verify the actual annual charge in your account before committing.
+## What the subscription actually costs over time
 
-Do not choose by contact count alone. Write down the assets that must remain available after your next launch, including old products with existing customers. A subscription that accommodates today's newsletter but forces you to retire a paid course is not the cheapest workable option.
+The annual bill equals 10 monthly payments. The table below shows the total subscription amount across 12, 24, or 36 months, assuming the currently listed price repeats at each renewal. Monthly totals assume the same monthly rate for every month. This is a price comparison, not a promise that future prices cannot change.
 
-## The Free plan limit that can stop sales
+| Plan | 12 months monthly | 12 months annual | 24 months monthly | 24 months annual | 36 months monthly | 36 months annual |
+|---|---:|---:|---:|---:|---:|---:|
+| Free | $0 | $0 | $0 | $0 | $0 | $0 |
+| Startup | $204 | $170 | $408 | $340 | $612 | $510 |
+| Webinar | $564 | $470 | $1,128 | $940 | $1,692 | $1,410 |
+| Unlimited | $1,164 | $970 | $2,328 | $1,940 | $3,492 | $2,910 |
 
-The subscription help guide states that Free accounts have a **$10,000 lifetime sales revenue limit**. A warning appears at $8,000; at the cap, payment pages stop accepting new sales until you upgrade. Affiliate commissions are excluded. Source: [official subscription moderation guide](https://help.systeme.io/article/1509-how-systeme-io-subscription-plans-are-moderated?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 7, 2026.
+Annual billing saves $34, $94, or $194 per year at today's listed Startup, Webinar, or Unlimited price, but charges the full year in advance. I found no required Systeme.io license or add-on fee in the official pricing and plan help pages. Budget separate payment processing charges from Stripe or PayPal, and any optional external services you choose to keep.
 
-For a seller with a small, engaged audience, this can matter before contact capacity does. Review both sales progress and resource usage before a launch. A low subscriber count is not sufficient reason to assume that Free will continue supporting checkout indefinitely.
+For perspective, someone who needs 6,000 contacts but no webinar pays $47 per month for Webinar, or $470 annually. The extra $30 monthly over Startup buys 5,000 additional contacts and the Webinar feature set; if the contact limit is the only issue, that is the actual step-up cost. If you are still validating the offer, the $0 Free tier avoids paying for capacity before you need it.
 
-Treat a warning as an operational task. Decide which paid tier covers your products, assign a date to resolve it, and leave time to check the purchase journey afterward. Waiting until a promotion is underway creates avoidable pressure to choose a plan quickly.
+## Which one should you pick?
 
-## When should you upgrade?
+- You are building your first lead magnet or offer and have fewer than 2,000 contacts: pick **Free** and upgrade only when a real limit blocks the next launch.
+- You have 2,000 to 5,000 contacts, or need more than one automation rule: pick **Startup** at $17 monthly, or $170 annual if you already expect to use it for the year.
+- You sell through an evergreen presentation or need 5,001 to 10,000 contacts: pick **Webinar** at $47 monthly or $470 annual.
+- You already exceed 10,000 contacts or need unlimited funnel and automation capacity: pick **Unlimited** at $97 monthly or $970 annual.
+- You are moving an active business from another platform and do not know whether the rebuilt checkout and email flow work: stay on **Free** while checking the workflow, then pay for the smallest tier that fits. For migration terms, see Systeme.io's [official migration eligibility and process](https://help.systeme.io/article/2010-how-to-benefit-from-a-free-migration-to-systeme-io?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 15, 2026.
 
-Building a teaching product? Follow our [Systeme.io online course setup guide](/posts/systeme-io-for-online-courses/) for lesson access, checkout configuration and the Free plan's student-capacity caveat.
+If your decision is mainly about course delivery, compare the [Systeme.io course limits and setup](/posts/systeme-io-for-online-courses/) with [Systeme.io vs Kajabi](/posts/systeme-io-vs-kajabi/). If your main concern is keeping an existing funnel business intact, use our [Systeme.io vs ClickFunnels comparison](/posts/systeme-io-vs-clickfunnels-2026/).
 
-### Stay on Free while validating demand
+## Fees, annual billing, and downgrades
 
-Use Free while you are still learning whether people want the offer. Write the page, deliver the promised resource and observe the questions that arrive. Upgrade only when a limitation prevents the next useful step.
+Systeme.io states that its own transaction fee is 0% on all plans. That does not remove the separate charge from a payment processor such as Stripe or PayPal. Annual prices are paid upfront, so choose that option only if the lower total is worth the larger payment today.
 
-For example, a creator with a single introductory course should first make its signup and delivery clear. Buying room for a larger catalogue does not explain the product, attract visitors or improve an unclear checkout. Put those tasks ahead of unused capacity.
-
-### Choose Startup for the first concrete expansion
-
-Startup is our default paid shortlist for a small business that has outgrown Free. Before purchasing, describe the blocker in one sentence: "I need to keep the existing product available while launching the next one." Then match that requirement to the plan table.
-
-Also check the automation you actually need inside the account. Sketch the signup, delivery and follow-up steps before assuming that a higher subscription solves the workflow. If your requirement depends on an integration, verify the connection separately.
-
-### Choose Webinar for a presentation-led offer
-
-Webinar makes sense when an evergreen presentation is part of your sales process or the smaller tier cannot fit your assets. Prepare the presentation and its follow-up before upgrading. Otherwise, the subscription can become an ongoing expense for a funnel you have not finished.
-
-Do not pick a webinar tier solely because you sell education. Start with the customer journey: does the buyer need a scheduled presentation, a straightforward product page, or a conversation? Your format should determine the software requirement.
-
-### Choose Unlimited for an existing bottleneck
-
-Unlimited belongs on the shortlist when lower allowances constrain a business already operating at that scale. Review the actual workload rather than a forecast of what you might launch someday.
-
-Keep the decision reversible where possible. Record the reason for upgrading and review it after the next launch. If the feature remains unused, investigate a lower plan before the next renewal, while protecting customer access.
-
-**[Compare Systeme.io plans for your next launch](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
-
-## Monthly or annual: compare the whole commitment
-
-Monthly billing is our recommendation while testing whether the workflow fits. Annual billing is more attractive once you know the platform will remain part of your business. Compare the amount payable today with the cost of keeping your current tools during a transition.
-
-Migration support can affect that decision. Systeme.io offers free migration on any annual plan or the Unlimited monthly plan, within the destination plan's limits. Its team handles migration manually, and timing depends on scope and workload. Source: [official migration eligibility and process](https://help.systeme.io/article/2010-how-to-benefit-from-a-free-migration-to-systeme-io?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 7, 2026.
-
-Ask what will be transferred before scheduling a launch around the service. Make an inventory of pages, contacts, courses and email sequences, then agree what you must check afterward. Included migration does not remove your responsibility to verify the customer journey.
-
-Use our [freelance tool cost worksheet](/posts/freelance-tool-project-cost/) to record the subscription, transition overlap and any external services you will retain. This helps distinguish a lower headline price from a lower total operating cost.
-
-## Systeme.io vs ClickFunnels: who should pick which?
-
-| Buying question | Systeme.io | ClickFunnels Launch |
-|---|---|---|
-| Starting route | Free tier | Free trial advertised |
-| Monthly paid entry | Startup: $17 | $97 |
-| Paid-entry contact allowance | 5,000 | 10,000 |
-| Email allowance | Unlimited sends | 50,000 per month |
-| Our recommendation | New solo offer on a tight budget | Established workflow worth retaining |
-
-Sources: the Systeme.io pricing FAQ above and [official ClickFunnels Launch pricing and inclusions](https://www.clickfunnels.com/pricing), checked November 7, 2026. Both paid prices use monthly billing.
-
-**Choose Systeme.io** if your goal is to bring a straightforward offer and follow-up into one manageable workflow. Start by building the smallest complete customer journey, then pay for the capacity it needs.
-
-**Do not switch automatically** if your existing ClickFunnels setup works and supports revenue. List the pages, automations and customer access rules you would have to rebuild. A subscription saving has little value if migration interrupts an active launch. Our [Systeme.io versus ClickFunnels comparison](/posts/systeme-io-vs-clickfunnels-2026/) provides a broader checklist.
-
-**Investigate further before buying** if your decision depends on learner capacity: the Systeme.io pricing page's benefits section says unlimited students, while its Free FAQ says 500. Ask support to resolve that inconsistency for your account.
-
-## Downgrades and limits: check before renewal
-
-Exceeding contact allowances or keeping too many assets after a downgrade can trigger restrictions. The help guide describes three daily warning emails and restriction from the fourth day without action; restricted Free accounts can lose opt-ins, payments and campaign sending. Source: [official account restriction process](https://help.systeme.io/article/1086?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 7, 2026.
-
-Before reducing a subscription, review Settings > My plan and identify which resources exceed the destination tier. Preserve records and customer access before removing anything. Contact support if the plan change would disrupt an active product.
-
-Billing method also matters when upgrading. The subscription moderation guide explains that unused card subscription time becomes a trial period before the new charge; higher-tier access follows successful payment. PayPal upgrades incur the full new price, and support must ensure cancellation of the old subscription. Ask for the effective date and next charge before changing plans mid-cycle.
-
-## How to test it yourself in 15 minutes
-
-Use this as a short evaluation session, not a promised production setup time.
-
-1. **Define the offer.** Write the resource, intended reader and next action. Keep the scope small enough to inspect end to end.
-2. **Draft a signup page.** Use material you own and check the mobile preview. Make the promised delivery explicit.
-3. **Connect the follow-up.** Use your own test address to check delivery and unsubscribe. Note duplicate or missing messages.
-4. **Inspect resource usage.** Compare the account's plan summary with what your next launch requires. Record the first actual blocker.
-5. **Preview checkout and access.** Inspect your own product journey without making a live charge. Check what the customer receives after purchase.
-6. **Make a purchase decision.** Write down what upgrading fixes. If the only reason is possible future growth, finish the offer first.
-
-<!-- FIRST-HAND: Add dated screenshots of plan usage, a permissioned signup test, email delivery and checkout preview. Record observed failures and actual results before adding experience claims. -->
+Before downgrading, check the plan's contact, funnel, campaign, and automation limits against what is active in your account. Systeme.io's [subscription help guide](https://help.systeme.io/article/1509-how-systeme-io-s-subscription-plans-are-moderated?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 15, 2026, says to contact support to request a lower plan and confirms that accounts above the new limits may be upgraded or restricted. Ask support about the effective date and remaining subscription time before changing plans mid-cycle.
 
 ## FAQ
 
-These questions address the public pricing and help FAQs cited above, rather than claimed Search Console data.
+These are recurring buyer questions reflected in Systeme.io's public pricing FAQ and community discussions, including a [Reddit question about choosing the annual plan](https://www.reddit.com/r/systeme_io/comments/1lpzay7/systemeio_just_slashed_their_prices_massive_drop/). Answers below use current official plan information checked November 15, 2026.
 
-### Is Systeme.io Free a limited trial?
+### Is Systeme.io Free a trial?
 
-No. It is an ongoing free tier with resource and sales limits. Use it to validate an offer, and monitor usage as the business develops.
+No. The official pricing page lists Free at $0 with no credit card required, up to 2,000 contacts, 3 funnels, 1 automation rule, and 1 email campaign. It is enough to build a small first offer; it does not include evergreen webinars.
 
-### What should trigger my first upgrade?
+### How much will I pay for Startup over one year?
 
-A real constraint: blocked capacity, a needed workflow or an approaching sales cap. Choose the lowest tier that resolves the constraint without removing access existing customers need.
+Pay $204 as 12 monthly payments of $17, or $170 upfront with annual billing. At the currently listed rate, two years cost $408 monthly or $340 on two annual renewals.
 
-### Do affiliate commissions count toward the Free sales cap?
+### Does 0% transaction fees mean there are no payment fees?
 
-The subscription moderation guide explicitly excludes affiliate commissions. Keep the distinction between commissions earned and sales processed through your own payment pages when reviewing the limit.
+No. Systeme.io lists 0% platform transaction fees, while Stripe or PayPal may charge their own processing fee. Check the processor's current rates for your country and payment method.
 
-### Should I pay annually immediately?
+### Which plan includes evergreen webinars?
 
-Our recommendation is to validate the workflow first. Choose annual billing when you expect continued use and the upfront commitment fits your budget, including any overlap with existing subscriptions.
+Webinar is the first tier that lists evergreen webinars: 10, along with up to 10,000 contacts and 50 funnels. Choose it when the webinar is part of the sales flow, not just because it is the middle paid tier.
 
-### Can I move to a cheaper plan later?
+### Is annual billing worth it?
 
-The subscription moderation guide directs downgrades through support. Inventory resources before requesting a change so the new allowances do not interrupt active products or subscriber journeys.
+It saves the equivalent of two monthly payments at today's listed prices, but requires the full annual bill upfront. Start monthly while you are still proving the workflow; switch to annual once the tool has a defined job in your business.
 
-## Verdict: buy the upgrade you can explain
+## The short buying rule
 
-Keep a short purchase note: the task currently blocked, the tier that enables it and the date you will use it. That makes the subscription accountable to a real business need. For a new offer, complete and check the customer journey before spending on additional room to grow.
+Begin on Free. Upgrade when a specific contact, automation, funnel, or webinar limit blocks work that is already planned. Choose annual only when you can justify the upfront total, and include payment-processor fees in your operating budget.
 
 **[Start with the Systeme.io plan that fits your offer](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**

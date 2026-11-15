@@ -17,7 +17,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [Systeme.io for Affiliate Marketers](/posts/systeme-io-for-affiliate-marketers/) | Build a Free bridge-page funnel, connect email and identify when to upgrade |
 | [Systeme.io vs Kajabi](/posts/systeme-io-vs-kajabi/) | Course platform prices, learning features and payment fees |
 | [Systeme.io for Online Courses](/posts/systeme-io-for-online-courses/) | Free course limits, lesson setup, checkout and when to upgrade |
-| [Systeme.io Pricing Explained](/posts/systeme-io-pricing-explained/) | Monthly prices, Free sales limits and when upgrading pays off |
+| [Systeme.io Pricing Explained](/posts/systeme-io-pricing-explained/) | Free sales cap, 12/24/36 month totals and when to upgrade |
 | [Systeme.io Black Friday 2026](/posts/systeme-io-black-friday-2026/) | Confirmed sale status, regular annual costs and which plan to pick |
 | [Systeme.io Review](/posts/systeme-io-review-2026/) | Free Plan Limits and When to Upgrade |
 | [Systeme.io vs ClickFunnels](/posts/systeme-io-vs-clickfunnels-2026/) | Funnel Fit and Full Cost |
