@@ -1,7 +1,7 @@
 ---
 title: "Hostinger Black Friday VPS 2026: Real Prices vs October"
 date: 2026-11-04
-lastmod: 2026-11-10
+lastmod: 2026-11-15
 slug: "hostinger-black-friday-vps-2026"
 summary: "Hostinger cut its VPS prices again on November 10: KVM 1 is now $5.19/mo and KVM 2 $7.03/mo on 24 months. We compare every KVM plan with October and Nov 4, with the real day-one payment and renewal."
 draft: false
@@ -16,86 +16,99 @@ cover:
   relative: false
 ---
 
-**Short answer: Hostinger's Black Friday VPS prices dropped on November 10, 2026. KVM 2 is now $7.03/mo on 24 months ($168.72 paid today, $42.24 less than in October) and remains the best value for most freelancers. This is the first real Black Friday discount we have seen versus October. Promotional prices can change again before the campaign ends, so recheck the total on the order page before paying.**
+Hostinger's Black Friday 2026 VPS sale is live, but the public USD prices checked November 15 match our October 29 baseline. Choose KVM 2 for a Linux app plus database if you need the extra memory: $210.96 upfront covers 24 months, and one same-length renewal brings the modeled four-year bill to $570.72. Choose KVM 1 for a lean single-service deployment; the seasonal label alone is no reason to buy a larger server.
 
-**[See Hostinger VPS prices through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+**[Compare Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
-*Disclosure: this article contains Hostinger referral links. An eligible purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
+*Affiliate disclosure: qualifying purchases through our referral links may earn us a commission at no extra cost to you.*
 
-## Hostinger Black Friday VPS prices vs October
+## Black Friday prices vs October: what changed?
 
-We recorded Hostinger's VPS prices on October 29, 2026 for our [VPS price index](/vps-price-index-2026/). On November 4 the Black Friday page still showed the October prices. On November 10, 2026 we checked the official [Black Friday VPS deals page](https://www.hostinger.com/black-friday-vps-deals?REFERRALCODE=ACFTUNGSAAEO), checked November 10, 2026, and every plan was cheaper. All prices are USD for a 24-month term, before VAT.
+The [official Black Friday price cards and campaign FAQ](https://www.hostinger.com/black-friday-vps-deals?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026, show the following offers. October figures come from our dated [VPS price index](/vps-price-index-2026/), backed by the October 29 official-price snapshot. October was already promotional pricing, not a full list-price baseline.
 
-| Plan | Specs | Oct 29 / Nov 4 price | Black Friday (Nov 10) | Paid today (24 mo) | You save vs October | Renews at |
-|---|---|---|---|---|---|---|
-| KVM 1 | 1 vCPU, 4 GB RAM, 50 GB NVMe | $6.49/mo | $5.19/mo | $124.56 | $31.20 | $11.99/mo |
-| KVM 2 | 2 vCPU, 8 GB RAM, 100 GB NVMe | $8.79/mo | $7.03/mo | $168.72 | $42.24 | $14.99/mo |
-| KVM 4 | 4 vCPU, 16 GB RAM, 200 GB NVMe | $12.99/mo | $10.39/mo | $249.36 | $62.40 | $28.99/mo |
-| KVM 8 | 8 vCPU, 32 GB RAM, 400 GB NVMe | $25.99/mo | $20.79/mo | $498.96 | $124.80 | $49.99/mo |
+| Plan | October 29 monthly rate | November 15 sale rate | First 24 months | Saving vs October |
+|---|---|---|---|---|
+| KVM 1 | $6.49 | $6.49 | $155.76 | $0.00 |
+| KVM 2 | $8.79 | $8.79 | $210.96 | $0.00 |
+| KVM 4 | $12.99 | $12.99 | $311.76 | $0.00 |
+| KVM 8 | $25.99 | $25.99 | $623.76 | $0.00 |
 
-The "up to 76% off" label compares the sale price with Hostinger's list price, not with last month. The useful number is the last column: compared with what the same plan cost on October 29, the Black Friday price saves about 20% on the day-one payment. Monthly figures are the 24-month prepaid total divided by 24. Renewal prices did not change.
+The earlier November 10 version of this article recorded lower offers. Those are not the public prices returned by today's check; do not budget using that older snapshot. This comparison uses the global USD pages, without an assumed extra referral discount or a country-specific checkout quote.
 
-Hostinger could change prices again before November 27 or Cyber Monday. We recheck the page and update this table when it changes.
+A percentage-off banner answers a different question from this table. For your purchase decision, subtract today's total from the amount you could actually have paid in October. Here that difference is zero for every tier. Save the selected term and invoice total when comparing offers; a lower monthly headline attached to a longer commitment is not automatically a cheaper purchase.
 
-## What the Black Friday deal includes
+## Total money committed: 24 months plus renewal
 
-From the same page, checked November 10, 2026:
+The [official VPS billing and renewal cards](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026, specify upfront payment and renewal for the same term. The table models a plain Linux server with no paid panel and the included weekly backups. It is a pre-tax infrastructure budget; future renewal rates are assumed unchanged from today's published rates.
 
-- **No coupon code needed.** Hostinger says the Black Friday VPS discount is applied automatically to the order.
-- **30-day money-back guarantee** on the VPS plans.
-- **Free weekly backups**, AMD EPYC CPUs, NVMe storage and a 1 Gbps port on every plan.
-- **A free .cloud or .tech domain for the first year** with any 12-month or longer VPS plan.
-- **Hostinger Agent**, an AI assistant inside the VPS web terminal, included at no extra cost.
-- **The promotional plan is the same service** as a full-price VPS, according to Hostinger's FAQ.
+| Plan | Pay now: months 1-24 | Renewal/month | Next 24-month invoice | Total through month 48 | Effective monthly cost |
+|---|---|---|---|---|---|
+| KVM 1 | $155.76 | $11.99 | $287.76 | $443.52 | $9.24 |
+| KVM 2 | $210.96 | $14.99 | $359.76 | $570.72 | $11.89 |
+| KVM 4 | $311.76 | $28.99 | $695.76 | $1,007.52 | $20.99 |
+| KVM 8 | $623.76 | $49.99 | $1,199.76 | $1,823.52 | $37.99 |
 
-## The real cost: day one and renewal
+Calculation: **24 x introductory rate + 24 x renewal rate + required licenses/add-ons**. For KVM 2: 24 x $8.79 + 24 x $14.99 = $570.72. Dividing by 48 gives $11.89. This is our arithmetic from the published inputs, not a checkout quote.
 
-The headline monthly price only applies because you pay the whole term up front. Two numbers matter more:
+There is an important cash-flow trap at month 36: under this same-term renewal model, you have already paid the entire second invoice. KVM 2 cash paid is therefore $570.72 even though half the renewed term remains unused. A prorated 36-month service cost would be $390.84, but that is not what leaves your bank account. Likewise, stopping after the first year does not turn the initial invoice into twelve monthly payments. We do not invent separate 12- or 36-month offers from the advertised 24-month rate.
 
-1. **What you pay today.** KVM 2 is $168.72 for 24 months. KVM 1 is $124.56.
-2. **What it renews at.** After the term, KVM 2 renews at $14.99/mo and KVM 1 at $11.99/mo for the same term length.
+### Licenses and extras: what the totals include
 
-Over four years, KVM 2 bought on this deal and renewed once for 24 months costs about $168.72 + $359.76 = $528.48, or about $11.01 per month on average. Plan your budget on that number, not on $7.03.
-
-## Which plan to pick
-
-Our [KVM 1 vs KVM 2 guide](/posts/hostinger-kvm1-vs-kvm2-2026/) goes deeper. The short version:
-
-| Your project | Plan |
+| Cost item | Budget treatment for this setup |
 |---|---|
-| One small site, a VPN, a single bot or MT4 terminal | KVM 1 |
-| WordPress for several clients, n8n, Docker with a database | KVM 2 |
-| Many client sites, AI agents with background workers, heavier databases | KVM 4 |
-| Agencies or resource-heavy workloads | KVM 8 |
+| Plain Linux template, no commercial panel | $0 separate license charge |
+| Weekly backups | Included, $0 extra |
+| Mandatory paid add-on | None shown for this plain-server setup |
+| cPanel, Plesk or other paid panel | Excluded; add the actual license quote if required |
+| Extra backup storage, domain renewal, API usage | Excluded; workload-dependent |
+| Tax | Excluded; depends on billing location and invoice |
 
-KVM 2 doubles the CPU and RAM of KVM 1 for $1.84 more per month at the Black Friday price. For most freelancers who run more than one thing on the server, it is the plan that avoids an upgrade six months later. For specific workloads see our guides to the [best VPS for n8n](/posts/best-vps-for-n8n/) and the [cheapest VPS for MT4](/posts/cheapest-vps-for-mt4/).
+Hostinger's [control-panel licensing guide](https://www.hostinger.com/support/7034536-how-to-purchase-a-control-panel-license-for-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026, distinguishes free templates from separately purchased licenses. Public license prices were not displayed there. A client requiring cPanel therefore needs a separate quote before this becomes an all-in budget. Never treat an unquoted license as free.
 
-## How to pay less than the Black Friday price
+For your own worksheet, add 48 x the quoted monthly license and backup charges to the four-year total, then apply the tax shown on the invoice. Keep your administration time as a separate operating cost. The no-panel setup saves a software subscription only if you can actually maintain it.
 
-- **Choose the 24-month term only if you will use it.** Shorter terms cost more per month, but you are not locked in if your project ends.
-- **Use a referral link as a new customer.** Hostinger's [Referral Program Agreement](https://www.hostinger.com/legal/referral-program-agreement), checked October 29, 2026, describes up to 20% off at checkout for a qualifying new purchase. It also says the referral cannot be combined with other incentives on the same purchase, so compare the final total with and without it. Our [Hostinger VPS discount guide](/posts/hostinger-vps-coupon-discount/) explains how to check.
-- **Skip add-ons you do not need.** The order page may offer extras; the backups listed above are already included.
-- **Check the total including VAT** for your country before paying.
+## Which one should you pick?
 
-**[Check Hostinger VPS plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+These are buying recommendations, not measured capacity guarantees. The [KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) explains resource sizing; the [n8n VPS guide](/posts/best-vps-for-n8n/) covers automation workloads.
 
-## Hostinger vs UltaHost this Black Friday
+| Your situation | Clear recommendation | Budget consequence |
+|---|---|---|
+| One small Linux bot or personal VPN, no substantial database | KVM 1 | Lowest upfront commitment in this comparison |
+| An app, database and scheduled workers share one server | KVM 2 | $55.20 more initially than KVM 1; $127.20 more over the modeled four years |
+| Existing monitoring shows the smaller tier is memory-constrained | KVM 4 | Budget $436.80 more over four years than KVM 2; buy only for an identified constraint |
+| A short experiment with no confirmed long-term use | A short billing term before committing | Obtain its actual quote; do not annualize the two-year promotion |
+| A Windows-only trading application | A Windows VPS instead | Require an explicit Windows license and compatible application setup |
 
-If you need managed help or prefer prices that do not jump at renewal, compare with UltaHost. On October 29, 2026 UltaHost VPS Basic was $5.52/mo and VPS Business $9.78/mo on a 24-month term, with the same price at renewal; but those plans have 1 GB and 2 GB of RAM, much less than Hostinger's 4 GB and 8 GB. See our [UltaHost vs Hostinger comparison](/posts/ultahost-vs-hostinger-vps-2026/) for the full picture.
+Hostinger's [server capabilities documentation](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026, says its VPS templates are Linux-based and Windows VPS is unavailable. That removes the old article's blanket recommendation of KVM 1 for MT4.
 
-## FAQ
+If nobody will maintain the OS and restore the application, resolve that responsibility before buying. Compare support scope in our [UltaHost vs Hostinger guide](/posts/ultahost-vs-hostinger-vps-2026/). Ask each provider who handles failed updates and application recovery; a cheaper server can be a poor choice if the work falls to someone unavailable.
 
-**Is the Hostinger Black Friday VPS deal live?**
-Yes. On November 10, 2026 the Black Friday VPS page showed KVM 1 from $5.19/mo and KVM 2 at $7.03/mo on a 24-month term.
+## FAQ: questions buyers are actually asking
 
-**Is it cheaper than Hostinger's normal price?**
-Yes, since November 10. Until November 4 the Black Friday page matched the October 29 prices; on November 10 every KVM plan dropped by about 20% on the 24-month total (KVM 2: $210.96 to $168.72).
+The linked discussions supply the questions, not pricing evidence. Answers use the official sources above and policies checked November 15, 2026.
 
-**Do I need a Hostinger Black Friday coupon code?**
-No. Hostinger says the discount is applied automatically. A referral discount is a separate program with its own rules.
+### Is the sale live, or should I wait for Black Friday?
 
-**When does the Hostinger Black Friday sale end?**
-Hostinger's page talks about Black Friday and Cyber Week but did not show a visible end date in the plan section on November 10; our [Black Friday VPS deals comparison](/posts/black-friday-vps-deals-2026/) covers the campaign window listed in Hostinger's FAQ.
+It is live. The official campaign FAQ lists October 19 through December 14, 2026. Today's table offers no saving over October, so wait only if your project can wait, not because a deeper discount is guaranteed. This addresses the timing concern in the [community's seasonal buying discussion](https://www.reddit.com/r/Hostinger/comments/1x7n9qw/black_friday_season_is_almost_here_whats_on_your/).
 
-**Can I get a refund?**
-Hostinger lists a 30-day money-back guarantee on the VPS plans. Check the refund policy for what is excluded before buying.
+### Do I need a coupon code, and can a referral stack?
+
+The campaign FAQ says the sale is automatically applied. Do not rely on codes copied from a [renewal-coupon thread](https://www.reddit.com/r/Hostinger/comments/1vp48bk/any_working_coupon_code_for_hosting_renewal/). The [referral agreement](https://www.hostinger.com/legal/referral-program-agreement), checked November 15, 2026, says incentives cannot be combined for the same purchase. We have not subtracted a second discount from any total.
+
+### Can an existing customer renew at the Black Friday price?
+
+Do not assume so. New-purchase price cards and renewal rates are separate. Check your renewal invoice before comparing migration costs, the issue raised in this [Black Friday renewal question](https://www.reddit.com/r/Hostinger/comments/1xm2hjj/black_friday_renewal/). That thread concerns web hosting; its comments are not evidence of VPS eligibility.
+
+### Is KVM 2 the right deal for my application?
+
+Choose it when the app and database justify the extra memory. For an unproven project, validate the deployment before prepaying. The buyer asking [what to check before purchasing KVM 2](https://www.reddit.com/r/VPS/comments/1xsqatb/is_this_the_best_offer/) is asking the right question: the renewal invoice and workload fit matter more than the discount badge.
+
+### Should I migrate when the introductory term ends?
+
+Compare the renewal invoice with the replacement server, overlap period, licenses and your migration effort. For KVM 2, the modeled next invoice is $359.76. Migrate only when the savings justify that work. This responds to the [KVM renewal-versus-moving discussion](https://www.reddit.com/r/VPS/comments/1s9yb2a/hostinger_renewal_question/).
+
+### Does the refund promise cover my whole setup?
+
+No. The [official refund policy](https://www.hostinger.com/legal/refund-policy), checked November 15, 2026, includes KVM VPS under its 30-day standard terms but excludes VPS licenses and KVM upgrades; crypto payments are also non-refundable. This matters to the same KVM 2 buyer considering a trial deployment: do not purchase optional licenses assuming the whole basket is reversible.
+
+**[Check your selected Hostinger plan through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**

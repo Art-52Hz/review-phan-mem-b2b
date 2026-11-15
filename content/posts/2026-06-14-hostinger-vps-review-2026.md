@@ -21,7 +21,7 @@ cover:
 
 Based on official documentation and pricing checked October 28, 2026.
 
-> **Black Friday 2026:** Hostinger's sale is live. Compare its current offers with UltaHost, October prices and renewal costs in our [Black Friday VPS deals comparison](/posts/black-friday-vps-deals-2026/), checked November 4, 2026.
+> **Black Friday 2026:** The sale is live, but public USD prices checked November 15 match October. Our [Hostinger Black Friday price comparison](/posts/hostinger-black-friday-vps-2026/) calculates the first invoice, license exclusions and full renewal commitment. The review prices below retain their original October check date.
 
 ## Hostinger KVM plans and prices
 
