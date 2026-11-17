@@ -39,6 +39,8 @@ Sources: [Hostinger VPS pricing and specifications](https://www.hostinger.com/vp
 
 Both pages advertise a 30-day money-back guarantee, not a free trial. Check refund eligibility and the final invoice before paying. The plans above are not equivalent resources: compare the support you will actually receive as well as RAM and storage.
 
+If you plan to operate another service on your server, our [self-hosted email VPS buying guide](/posts/self-host-email-server-vps/) covers port 25 approval, reverse DNS and delivery responsibilities.
+
 ## Who should choose Hostinger - and who should not
 
 Choose KVM 2 as your first evaluation candidate when you want to administer Nextcloud yourself and run its supporting services together. Choose KVM 1 for a deliberately lean pilot when the file library fits comfortably. Consider KVM 4 after identifying a real resource constraint, rather than assuming every additional user needs an upgrade.
