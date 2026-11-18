@@ -20,6 +20,8 @@ cover:
 
 **[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
 
+If you plan to host the model locally as well as the agent, read our [Ollama VPS guide](/posts/best-vps-for-ollama/) first. A VPS that only runs an API-based agent has very different memory and CPU needs from one keeping a language model loaded.
+
 **Affiliate disclosure:** The Hostinger referral links may earn us a commission on a qualifying purchase at no extra cost to you. Read our [affiliate disclosure](/affiliate-disclosure/).
 
 Based on official documentation and USD pricing checked October 30, 2026; workload recommendations are editorial judgments.
