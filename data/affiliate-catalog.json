@@ -315,6 +315,37 @@
         "checked_at": "2026-10-29",
         "note": "Dashboard offers a link identifier field, but its URL parameter was not verified; left blank."
       }
+    },
+    {
+      "program_id": "seranking",
+      "offer_id": "seo-platform",
+      "label": "SE Ranking",
+      "source_url": "https://seranking.com/",
+      "evidence": {
+        "source_url": "https://online.seranking.com/affiliate.html (signed-in affiliate dashboard)",
+        "captured_at": "2026-11-18",
+        "note": "Affiliate link shown in account dashboard after signup 18/11/2026. Public affiliate page: 30% commission per subscription, 120-day cookie, PayPal payout at $50 minimum, no paid ads allowed for the link."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "30",
+        "currency": null
+      },
+      "cookie_days": 120,
+      "keywords": [
+        "SE Ranking review",
+        "SE Ranking vs Semrush",
+        "affordable SEO tool for freelancers"
+      ],
+      "intent": "review",
+      "status": "approved",
+      "referral_url": "https://seranking.com/?ga=5348312&source=link",
+      "subid_parameter": "",
+      "subid_documentation": {
+        "source_url": "https://seranking.com/affiliate.html",
+        "checked_at": "2026-11-18",
+        "note": "SubID support not established; left blank."
+      }
     }
   ]
 }
