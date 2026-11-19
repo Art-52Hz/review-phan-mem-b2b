@@ -1,11 +1,11 @@
 ---
 title: "UltaHost Black Friday 2026: VPS Deals vs the Regular Price"
 date: 2026-11-04
-lastmod: 2026-11-04
+lastmod: 2026-11-19
 slug: "ultahost-black-friday-2026"
-summary: "Check UltaHost's sale status, compare current VPS prices with October and choose a plan before committing to a billing term."
+summary: "UltaHost Black Friday 2026 is live: VPS Basic is $4.69/mo on 24 months, down from $5.52 in October. Compare all four plans, renewals and refund rules."
 draft: false
-description: "UltaHost Black Friday 2026: sale status, VPS prices vs October, renewal and refund rules. Compare Basic and Business before choosing a deal."
+description: "UltaHost Black Friday 2026 is live: VPS prices rechecked Nov 19 vs October, upfront 24-month bills, renewal rates and refund rules for each plan."
 keywords: ["ultahost black friday 2026", "ultahost vps deals", "ultahost black friday coupon"]
 categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["ultahost", "vps", "pricing", "deals"]
@@ -16,41 +16,41 @@ cover:
   relative: false
 ---
 
-**UltaHost's Black Friday 2026 sale is not confirmed live as of November 4, 2026: the current VPS page shows a general promotion, while its official Black Friday article is labeled 2025.**
+**UltaHost's Black Friday 2026 sale is live as of November 19, 2026: VPS Basic is $4.69/mo and VPS Business $8.31/mo on a 24-month term, about 15% below the October 29 prices.**
 **Best for a small managed workload: shortlist Basic; compare Business when your application needs more headroom. Pick Hostinger instead when self-management and more RAM suit your project.**
 
 [See UltaHost plans through our referral link](https://ultahost.com/#art52hz).
 
 *Affiliate disclosure: this page contains UltaHost referral links. We may earn a commission from an eligible purchase at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-We will update this page when the 2026 sale goes live.
+Based on the official VPS pricing page checked November 19, 2026.
 
 ## Is the UltaHost Black Friday sale open?
 
-There is a hosting promotion today, but we could not verify a separate offer explicitly announced as Black Friday 2026. The [official VPS pricing page](https://ultahost.com/vps-hosting#art52hz), checked November 4, 2026, shows standard promotional plan cards. The [official Black Friday 2025 campaign article](https://ultahost.com/blog/black-friday-hosting-deals-2025/#art52hz), checked November 4, 2026, retains 2025 in its title despite a May 2026 publication date. That mixed dating is insufficient evidence of a new campaign.
+Yes. The [official VPS pricing page](https://ultahost.com/vps-hosting#art52hz), checked November 19, 2026, carries a "Black Friday: up to 70% off hosting" banner and a "Black Friday: up to 60%" VPS label, and all four VPS plan cards are lower than on October 29. The page does not state an end date, so treat the price as valid only for the day you check it. On November 4 the same page still showed the ordinary October prices.
 
 For a buyer, the useful question is whether today's bill is lower than the bill before Black Friday marketing appeared. A seasonal label alone does not answer that. Keep the same plan, billing term and panel selection when comparing offers. Otherwise, a lower monthly equivalent could simply mean a longer commitment.
 
 ## Sale prices vs the regular pre-sale price
 
-Our regular-price baseline means the actual promotional price available before the seasonal sale, rather than a crossed-out reference amount. The October column comes from our [VPS price index](/vps-price-index-2026/), recorded October 29, 2026 in the site's price dataset. Its original source is the official VPS pricing page linked above. Today's column was checked November 4, 2026 on that same source. Amounts are USD monthly equivalents for a two-year term.
+Our regular-price baseline means the actual promotional price available before the seasonal sale, rather than a crossed-out reference amount. The October column comes from our [VPS price index](/vps-price-index-2026/), recorded October 29, 2026 in the site's price dataset. Its original source is the official VPS pricing page linked above. The Black Friday column was checked November 19, 2026 on that same source. Amounts are USD monthly equivalents for a two-year term, paid upfront.
 
-| Plan | Pre-sale price, Oct 29 | Current price, Nov 4 | Confirmed Black Friday 2026 price | Change vs October |
-|---|---|---|---|---|
-| VPS Basic | $5.52/mo | $5.52/mo | Not announced | $0/mo |
-| VPS Business | $9.78/mo | $9.78/mo | Not announced | $0/mo |
-| VPS Professional | $15.87/mo | $15.87/mo | Not announced | $0/mo |
-| VPS Enterprise | $20.69/mo | $20.69/mo | Not announced | $0/mo |
+| Plan | Pre-sale price, Oct 29 | Black Friday price, Nov 19 | Change vs October | Pay now for 24 months | Renews at, per month |
+|---|---|---|---|---|---|
+| VPS Basic (1 core, 1 GB) | $5.52/mo | $4.69/mo | -$0.83/mo | $112.56 | $5.52 |
+| VPS Business (2 cores, 2 GB) | $9.78/mo | $8.31/mo | -$1.47/mo | $199.44 | $9.78 |
+| VPS Professional | $15.87/mo | $13.49/mo | -$2.38/mo | $323.76 | $15.87 |
+| VPS Enterprise | $20.69/mo | $17.59/mo | -$3.10/mo | $422.16 | $20.69 |
 
-All four current plan-card prices match our October baseline. We therefore have no verified additional Black Friday saving to report today. The page's hero starts at $5.51, while the Basic card says $5.52; this comparison uses the plan card. Recheck the order summary before payment if those displays still differ.
+This is a real saving against the price you could have paid in October, about 15% on every plan. It applies to the first 24-month term only: the plan cards say each plan renews at the October price, which is still well below Hostinger's renewal rates. The page hero also advertises a lower "from $3.67/mo" figure; that is not the 24-month plan-card price used here, so check the term in the order summary if you see it.
 
-Do not count the crossed-out reference amount as money you would necessarily have paid last week. When a campaign opens, compare its actual invoice with these dated prices. A discount percentage is useful only after the underlying configuration is held constant.
+Do not count the crossed-out reference amount as money you would necessarily have paid last week. Compare the actual invoice with these dated prices. A discount percentage is useful only after the underlying configuration is held constant.
 
 ## What the 2025 campaign tells us
 
 The official 2025 article linked above lists VPS Basic at $4.80/month against a $23.99 reference amount. That is historical campaign information, not an available 2026 quote. It also discusses several hosting categories, so its headline saving should not be applied indiscriminately to every VPS plan.
 
-We have no confirmed 2026 coupon, launch date or closing date from that article. Use it to understand why old search results may mention a different price. Do not enter an old code assuming it still works, and do not budget a client project around an unannounced repeat of last year's offer.
+The 2025 article gives no 2026 coupon or closing date, and the 2026 page does not list one either. Use it to understand why old search results may mention a different price. Do not enter an old code assuming it still works, and do not budget a client project around an unannounced repeat of last year's offer.
 
 ## Which UltaHost plan should you buy?
 
@@ -95,7 +95,7 @@ If the project is not ready for that exercise, use the sale period to prepare th
 
 ### When does UltaHost Black Friday 2026 start and end?
 
-No confirmed 2026 start or end date was found in the official sources checked November 4, 2026. The older campaign article is labeled 2025. We will update this page when the 2026 sale goes live.
+The sale was live when we checked on November 19, 2026; on November 4 the prices were still at the October level. The VPS page does not publish an end date, so do not count on it lasting past Cyber Monday.
 
 ### Is there an UltaHost Black Friday coupon code?
 
@@ -103,7 +103,7 @@ We have not verified a code for the 2026 campaign. Our referral link does not pr
 
 ### Are today's VPS prices cheaper than the regular price?
 
-They match the October 29 baseline for the four plans in our table. That baseline is the previously available promotional rate. A reduction from a crossed-out reference price is a different comparison.
+Yes, for the first term. On November 19 every plan was about 15% below its October 29 price (Basic $4.69 vs $5.52). The renewal rate is the October price. A reduction from a crossed-out reference price is a different, larger-looking comparison.
 
 ### Which plan should I buy for a small project?
 
@@ -115,6 +115,6 @@ Do not assume so. The linked refund policy excludes annual and longer VPS terms 
 
 ### Should I buy now or wait?
 
-Wait if your project can wait and you are shopping specifically for an additional seasonal saving. Buy a suitable current plan only when the workload and budget justify it today. There is no verified deadline on this page that requires an immediate purchase.
+If you already know you need a 24-month UltaHost VPS, the November 19 price is lower than October's, so buying during the sale saves $19.92 (Basic) to $74.40 (Enterprise) on the first term. If the project is not ready, do not buy: the refund policy excludes discounted and long-term VPS orders, and no end date is published.
 
 [Check UltaHost plans through our referral link](https://ultahost.com/#art52hz).
