@@ -1,7 +1,7 @@
 ---
 title: "Best Cheap VPS for a Discord or Telegram Bot (2026)"
 date: 2026-11-10
-lastmod: 2026-11-10
+lastmod: 2026-11-19
 slug: "best-vps-for-discord-bot"
 summary: "Hostinger KVM 1 is the cheapest sensible always-on home for a Discord or Telegram bot. Compare UltaHost, Black Friday upfront costs, renewals and the specs a bot really needs."
 description: "Compare cheap VPS plans for a Discord or Telegram bot: Hostinger vs UltaHost RAM, upfront Black Friday cost, renewal prices and a 24/7 setup checklist."
@@ -30,12 +30,12 @@ A bot that lives on your laptop goes offline every time the lid closes. Free hos
 
 | Plan | Monthly equivalent | Paid today | Renewal | CPU / RAM / NVMe | Best fit |
 |---|---|---|---|---|---|
-| Hostinger KVM 1 | $5.19 (Black Friday) | $124.56 for 24 months | $11.99/mo, same term | 1 vCPU / 4 GB / 50 GB | One to a few bots, SQLite or small Postgres |
-| Hostinger KVM 2 | $7.03 (Black Friday) | $168.72 for 24 months | $14.99/mo, same term | 2 vCPU / 8 GB / 100 GB | Bot plus database, web dashboard or music/media features |
+| Hostinger KVM 1 | $6.49 (Black Friday card) | $155.76 for 24 months | $11.99/mo, same term | 1 vCPU / 4 GB / 50 GB | One to a few bots, SQLite or small Postgres |
+| Hostinger KVM 2 | $8.79 (Black Friday card) | $210.96 for 24 months | $14.99/mo, same term | 2 vCPU / 8 GB / 100 GB | Bot plus database, web dashboard or music/media features |
 | UltaHost VPS Basic | $5.52 | $132.48 for 24 months, calculated | $5.52/mo for two years | 1 CPU / 1 GB / 30 GB | One lightweight bot on a managed server |
 | UltaHost VPS Business | $9.78 | $234.72 for 24 months, calculated | $9.78/mo for two years | 2 CPU / 2 GB / 50 GB | Managed server with room for a second service |
 
-Sources: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 10, 2026 (Black Friday offer shown, "up to 76% off"); [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked November 10, 2026 (40% hosting sale shown). UltaHost totals are the displayed 2-year monthly rate x 24.
+Sources: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 19, 2026 (Black Friday offer shown, "up to 70% off"); [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked November 10, 2026 (40% hosting sale shown). UltaHost totals are the displayed 2-year monthly rate x 24.
 
 Hostinger prepays the whole term, so the number that leaves your card on day one is the "Paid today" column, not the monthly figure. Its renewal is roughly double the sale price. UltaHost shows the same rate for the two-year renewal. Both advertise a 30-day money-back guarantee, subject to their terms. Confirm tax and the final billing term at checkout.
 
@@ -89,7 +89,7 @@ Running more than bots on the same box? See our guides to [hosting Node.js apps]
 
 ### What is the cheapest way to host a Discord bot 24/7?
 
-A small VPS is the cheapest reliable option. Hostinger KVM 1 is $124.56 for 24 months at the Black Friday price checked November 10, 2026, then renews at $11.99/month. Free tiers can work for testing but often sleep or restart.
+A small VPS is the cheapest reliable option. Hostinger KVM 1 is $155.76 for 24 months at the Black Friday price checked November 19, 2026, then renews at $11.99/month. Free tiers can work for testing but often sleep or restart.
 
 ### Is 1 GB RAM enough for a Discord bot?
 
