@@ -22,6 +22,8 @@ Hostinger's Black Friday 2026 VPS sale is live, but the public USD prices checke
 
 *Affiliate disclosure: qualifying purchases through our referral links may earn us a commission at no extra cost to you.*
 
+> **Black Friday 2026:** Hostinger's official sale is live through December 14. Its current 24-month KVM 1 and KVM 2 prices match the October 29 baseline; see our [Hostinger vs UltaHost full-cost comparison](/posts/black-friday-vps-deals-2026/) for today's cross-provider totals.
+
 ## Black Friday prices vs October: what changed?
 
 The [official Black Friday price cards and campaign FAQ](https://www.hostinger.com/black-friday-vps-deals?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026, show the following offers. October figures come from our dated [VPS price index](/vps-price-index-2026/), backed by the October 29 official-price snapshot. October was already promotional pricing, not a full list-price baseline.

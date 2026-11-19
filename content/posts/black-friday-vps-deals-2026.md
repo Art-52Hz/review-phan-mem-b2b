@@ -1,11 +1,11 @@
 ---
-title: "Black Friday VPS Deals 2026: Hostinger vs UltaHost, Real Prices Checked"
+title: "Black Friday VPS Deals 2026: Hostinger vs UltaHost Prices"
 date: 2026-11-04
-lastmod: 2026-11-10
+lastmod: 2026-11-19
 slug: "black-friday-vps-deals-2026"
-summary: "Compare live Hostinger Black Friday VPS prices with UltaHost offers, October prices, upfront bills and renewals before choosing a plan."
+summary: "Hostinger and UltaHost Black Friday VPS prices rechecked Nov 19, 2026. Compare 24-month bills, first renewal totals, optional licenses and the right plan for your workload."
 draft: false
-description: "Compare Black Friday VPS deals for Hostinger and UltaHost in 2026: verified prices, October baselines, upfront costs, renewal rates and plan choices."
+description: "Hostinger vs UltaHost Black Friday VPS prices, rechecked Nov 19, 2026. See the 24-month bill, renewal, four-year total and which plan fits."
 keywords: ["black friday vps deals 2026", "hostinger vs ultahost black friday", "black friday vps prices"]
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "hostinger", "ultahost", "pricing", "deals"]
@@ -16,106 +16,78 @@ cover:
   relative: false
 ---
 
-**Hostinger cut its Black Friday 2026 VPS prices on November 10, 2026 (KVM 2 now $7.03/mo on 24 months, down from $8.79); UltaHost has an active VPS promotion, but we have not verified a Black Friday 2026 campaign.**
-**Best for a freelancer managing their own applications: Hostinger KVM 2. Pick UltaHost instead when managed-server assistance matters more than RAM per dollar.**
+Both providers show a Black Friday VPS offer today, November 19, 2026. Hostinger's 24-month KVM 1 and KVM 2 prices are $6.49 and $8.79 per month; UltaHost's 24-month VPS Basic and Business prices are $4.69 and $8.31. For a four-year budget, include the first renewal: that makes the totals $443.52, $570.72, $245.04 and $434.16 respectively, before optional licenses, taxes or add-ons.
 
-**[See Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+**[Compare Hostinger VPS plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
 *Affiliate disclosure: some links are affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).*
 
-Based on official pricing checked November 10, 2026. The useful question is whether today's offer improves your real bill. On November 4 it did not; on November 10 Hostinger's entry rates dropped below our October records, while UltaHost's stayed the same.
+Prices are USD, checked November 19, 2026. The displayed 24-month rate is paid upfront. Tax, currency conversion and checkout-specific extras can change an invoice.
 
-## Black Friday prices vs the ordinary October offers
+## Are these Black Friday prices lower than the ordinary offer?
 
-The October column is the promotional baseline recorded in our VPS price data on October 29, 2026, not a full-price tariff. Today's columns come from the [Hostinger Black Friday pricing source](https://www.hostinger.com/black-friday-vps-deals?REFERRALCODE=ACFTUNGSAAEO), checked November 10, 2026, and the [UltaHost VPS pricing source](https://ultahost.com/vps-hosting#art52hz), checked November 10, 2026. All rates below are USD per month on a prepaid 24-month term.
+Hostinger's sale is live from October 19 to December 14, 2026, according to its [official Black Friday VPS page and campaign FAQ](https://www.hostinger.com/black-friday-vps-deals?REFERRALCODE=ACFTUNGSAAEO), checked November 19. UltaHost's [official VPS pricing page](https://ultahost.com/vps-hosting#art52hz), also checked November 19, carries a Black Friday banner and shows prices by term. Its page does not state campaign dates.
 
-| Provider and plan | Ordinary October offer, Oct 29 | Current offer, Nov 10 | Current crossed-out reference price | Renewal/month, same term |
-|---|---|---|---|---|
-| Hostinger KVM 1 | $6.49 | $5.19 | $19.49 | $11.99 |
-| Hostinger KVM 2 | $8.79 | $7.03 | $24.49 | $14.99 |
-| UltaHost VPS Basic | $5.52 | $5.52 | $9.19 | $5.52 |
-| UltaHost VPS Business | $9.78 | $9.78 | $16.10 | $9.78 |
+The October baseline below is the dated 24-month snapshot in our [VPS price index](/vps-price-index-2026/), sourced from `website/data/vps-prices.json` checked October 29, 2026. That is an ordinary promotional snapshot, not a full retail price. The current crossed-out list prices are shown separately where the providers display them.
 
-The current offer is labeled Black Friday by Hostinger and a hosting sale by UltaHost. The crossed-out amounts are merchant reference prices, not proof that customers paid those amounts in October. Hostinger's two rates fell about 20% against our October snapshot on November 10; UltaHost's did not change. For Hostinger, this is now a real saving over buying in October.
+| Plan | Oct 29 baseline per month | Black Friday per month, Nov 19 | Current crossed-out price per month | Difference vs Oct 29 | Pay now for 24 months | Renewal per month for 24 months |
+|---|---:|---:|---:|---:|---:|---:|
+| Hostinger KVM 1 | $6.49 | $6.49 | $19.49 | $0.00/mo | $155.76 | $11.99 |
+| Hostinger KVM 2 | $8.79 | $8.79 | $24.49 | $0.00/mo | $210.96 | $14.99 |
+| UltaHost VPS Basic | $5.52 | $4.69 | $9.29 | -$0.83/mo | $112.56 | $5.52 |
+| UltaHost VPS Business | $9.78 | $8.31 | $16.29 | -$1.47/mo | $199.44 | $9.78 |
 
-Do not compare the displayed reference price with the renewal column as though they were interchangeable. They describe different things. The reference price explains the advertised markdown; renewal describes the later charge shown for this term. Keep both in your buying notes, but use the actual invoice to decide what you can afford.
+The comparison changes the buying decision: Hostinger's live Black Friday cards match its October 29 rates, while UltaHost's current 24-month prices are lower than that snapshot. The saving is on the first UltaHost term; its listed renewal returns to $5.52 or $9.78 per month.
 
-## Compare the plan you need, not just the cheapest banner
+## What is the real bill through the first renewal?
 
-Plan specifications and the management label below come from the [Hostinger VPS specification source](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 10, 2026, and the UltaHost pricing source above, checked November 4, 2026.
+These are the cash totals for buying one 24-month term and then renewing once for another 24 months at the currently displayed renewal rate. The arithmetic uses the official monthly prices above; the first term and renewal are both billed upfront when due.
 
-| Plan | CPU / RAM / NVMe | Operating trade-off | Best fit |
-|---|---|---|---|
-| Hostinger KVM 1 | 1 vCPU / 4 GB / 50 GB | You own application maintenance | Lean project with a clear deployment plan |
-| Hostinger KVM 2 | 2 vCPU / 8 GB / 100 GB | More capacity, higher renewal | Application plus database and background work |
-| UltaHost VPS Basic | 1 core / 1 GB / 30 GB | Managed-server offer, limited memory | Small service needing server assistance |
-| UltaHost VPS Business | 2 cores / 2 GB / 50 GB | Confirm application support scope | Modest workload with support needs |
+| Plan | First 24 months | Next 24 months at renewal | 48-month hosting total | Required paid add-ons shown on pricing page |
+|---|---:|---:|---:|---:|
+| Hostinger KVM 1 | $155.76 | $287.76 | **$443.52** | $0 |
+| Hostinger KVM 2 | $210.96 | $359.76 | **$570.72** | $0 |
+| UltaHost VPS Basic | $112.56 | $132.48 | **$245.04** | $0 |
+| UltaHost VPS Business | $199.44 | $234.72 | **$434.16** | $0 |
 
-These are capacity specifications, not measured performance. A bigger RAM allocation can accommodate more of your planned software, but it does not establish response times or how many visitors a site can serve. For the broader operating decision, read our [UltaHost vs Hostinger comparison](/posts/ultahost-vs-hostinger-vps-2026/).
+The published plans do not require a paid control panel to order. Hostinger lists free OS templates; cPanel, Plesk, DirectAdmin, LiteSpeed and Webuzo licenses are optional purchases, and its [license guide](https://www.hostinger.com/support/7034536-how-to-purchase-a-control-panel-license-for-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 19, does not publish their prices. UltaHost lists Hestia and CyberPanel as free panel options; a paid panel is optional and not included in this estimate. Add a license only if your chosen software requires it, and get its current checkout price before comparing totals. The table excludes optional licenses, taxes, domain registration and separately selected backups.
 
-There is no free VPS tier in this comparison. Both pricing pages advertise a 30-day money-back guarantee; that is a paid purchase with refund conditions, not a free trial. Choose the operating model first, then check the guarantee and any paid extras before ordering.
+## Which one should you pick?
 
-## What you actually pay upfront
+- **You need the lowest four-year bill for a small service:** choose UltaHost VPS Basic at $245.04 over two 24-month terms, if its 1 GB RAM and 1 CPU core fit your application.
+- **You need more memory for an app, database and background jobs, and you manage Linux yourself:** choose Hostinger KVM 2. Its 8 GB RAM is a different capacity class from UltaHost Business's 2 GB; budget $570.72 across the first term and first renewal.
+- **You need 2 CPU cores but only a modest memory footprint and want the lower Hostinger-vs-UltaHost cost:** choose UltaHost VPS Business at $434.16 through its first renewal. Confirm the support tasks you need before relying on its managed-server label.
+- **You are testing a tiny deployment and can administer the server:** choose Hostinger KVM 1 when its 4 GB RAM is more useful than UltaHost Basic's lower total. It costs $443.52 through the first renewal.
+- **You need cPanel or another paid panel:** choose neither on price alone. Get the license quote first; the totals above do not include a paid panel.
 
-Calculated from the displayed monthly rates and 24-month terms above, before any location-specific charges or selected extras:
+For a closer capacity comparison, see [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/). For management and provider trade-offs, use [UltaHost vs Hostinger VPS](/posts/ultahost-vs-hostinger-vps-2026/).
 
-- Hostinger KVM 1: $124.56 initially for 24 months (shown on the order card, $5.19/mo); $11.99 x 24 = $287.76 at the displayed renewal rate.
-- Hostinger KVM 2: $168.72 initially for 24 months (shown on the order card, $7.03/mo); $14.99 x 24 = $359.76 at the displayed renewal rate.
-- UltaHost VPS Basic: $5.52 x 24 = $132.48 for either term at the displayed rate.
-- UltaHost VPS Business: $9.78 x 24 = $234.72 for either term at the displayed rate.
-
-These figures use pricing checked November 10, 2026; they are not completed checkout quotes. On the advertised figures, KVM 2 costs $44.16 more than KVM 1 for the first term. Decide whether your application needs that extra capacity before committing the money.
-
-For client work, also assign responsibility for incident recovery. Saving on the initial invoice helps little if nobody knows how to restore the client's data. Ask who owns the account, where independent backups live and who handles a failed update. Put that answer beside the invoice so the purchase includes an operating plan.
-
-**[Compare UltaHost plans through our affiliate link](https://ultahost.com/#art52hz)**
-
-## Who should choose Hostinger, and who should not?
-
-Choose Hostinger when you can maintain the application stack and want more advertised memory at these entry prices. KVM 1 is the sensible starting point for a deliberately small project. KVM 2 is our shortlist choice when the deployment includes a database and background jobs, provided the upfront commitment fits your budget. Our [KVM 1 vs KVM 2 guide](/posts/hostinger-kvm1-vs-kvm2-2026/) explains how to make that capacity decision.
-
-Do not buy a VPS simply because a seasonal offer looks inexpensive. If you want someone else to maintain the website software, establish that service explicitly. An installation assistant does not by itself settle who updates plugins, investigates a compromised application or restores a broken database.
-
-Choose UltaHost when its managed-server offering addresses work you would otherwise need to outsource. Describe your actual stack to support and ask which tasks they will perform. Do not assume that a managed-server label includes custom application debugging. Avoid the Basic tier if your software requirements already exceed its memory allocation.
-
-## Buy now or wait for a better Black Friday offer?
-
-If a project is ready to deploy and its invoice fits your budget, the current prices provide a usable decision point: Hostinger is now about 20% cheaper on the 24-month total than in October. We cannot establish that waiting produces a lower bill. If your project has no deployment date, use the time to prepare backups, document the stack and compare renewal costs instead of buying unused capacity.
-
-This comparison focuses on choosing between providers. For the full Hostinger plan ladder, use our [Hostinger Black Friday VPS price breakdown](/posts/hostinger-black-friday-vps-2026/). Recheck the merchant page when you are ready to buy: a price snapshot establishes today's comparison, not a promise about the rest of the campaign.
-
-## How to test it yourself in 15 minutes
-
-This is a suggested acceptance check after you have access to a suitable server, not a report of our own results. Use a disposable staging application and non-sensitive sample data.
-
-1. Write down the exact plan, billing term, operating system and management responsibilities. Keep the invoice separate from your performance notes.
-2. Deploy the smallest representative version of your application. Include its database and background worker if those are part of normal operation.
-3. Run a typical user action and inspect memory, CPU and application logs. Record the conditions rather than generalizing from an empty home page.
-4. Confirm that you can create a backup and identify the restore workflow. A full recovery exercise may need a separate session.
-5. Save your observations and decide whether to keep the tier, change the configuration or ask support for help before your evaluation window closes.
-
-<!-- FIRST-HAND: Add dated screenshots of the selected plan, representative workload resource usage and a completed staging restore before publishing any performance or recovery results. -->
+**[Compare UltaHost VPS plans through our referral link](https://ultahost.com/#art52hz)**
 
 ## FAQ
 
-### When is the Hostinger Black Friday 2026 sale?
+### Is the Hostinger Black Friday VPS sale live, and when does it end?
 
-The official Black Friday source linked above, checked November 4, 2026, lists October 19 through December 14, 2026. The sale is already live. That is the published campaign window, not a guarantee that every price remains unchanged until the final day.
+Yes. Hostinger's official campaign page says October 19 through December 14, 2026. UltaHost's VPS page shows a Black Friday banner today, but we did not find official campaign dates there.
 
-### Is UltaHost's Black Friday 2026 sale live?
+### Do I need a coupon code for Hostinger's Black Friday VPS price?
 
-We verified a current VPS promotion on its official pricing page, but did not establish a Black Friday-specific 2026 campaign or dates. We will update this page when the 2026 sale goes live for UltaHost and we can verify its official announcement. Until then, treat its column as current VPS pricing.
+No. Hostinger says the Black Friday discount is applied in the order automatically and no extra code is needed. We have not verified a separate UltaHost coupon, so do not subtract an unconfirmed code from its total.
 
-### Do I need a Black Friday coupon code?
+### How much do I pay upfront, and what happens at renewal?
 
-Hostinger's official campaign FAQ says the sale discount applies automatically without an additional code. We have not verified a separate UltaHost Black Friday coupon. Referral links identify this site's referrals; do not assume an extra discount stacks with the displayed promotion.
+The 24-month invoice ranges from $112.56 for UltaHost Basic to $210.96 for Hostinger KVM 2. At the first renewal, the next 24-month bill ranges from $132.48 to $359.76 at today's listed rates. The four-year totals are in the table above.
 
-### Which VPS plan should a freelancer buy?
+### Which plan is enough for a small app or website?
 
-Shortlist KVM 2 for an application, database and background jobs you maintain yourself. Choose KVM 1 for a leaner deployment. Compare UltaHost when server assistance is a purchase requirement, and confirm its scope before paying. Actual software requirements should decide the tier.
+For one small service, start with UltaHost Basic if 1 GB RAM is enough. For a database, worker or several containers, choose based on measured memory needs; Hostinger KVM 2 provides 8 GB. Do not buy extra capacity just because a discount badge is larger.
 
-### Is Black Friday cheaper than the normal price?
+### Are cPanel or other control panel licenses included?
 
-For Hostinger, yes since November 10: KVM 1 fell from $6.49 to $5.19/mo and KVM 2 from $8.79 to $7.03/mo against our October 29 baseline. UltaHost's two plans still match October. Compare the term, upfront total and renewal together rather than relying on a discount badge.
+No paid license is included in these totals. Hostinger says cPanel and other control panel licenses can be purchased separately, but the public guide does not show their price. UltaHost lists Hestia and CyberPanel as free panel options and separately lists paid panels.
 
-**[Start with Hostinger's plan comparison through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+### Can the checkout total differ from this table?
+
+Yes. These are USD hosting totals from the public pages, before taxes, currency conversion and optional extras. Check the selected term and the final invoice before paying, because tax and currency can vary by country.
+
+**[Start with Hostinger VPS through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
