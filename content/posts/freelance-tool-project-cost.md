@@ -1,5 +1,6 @@
 ---
 title: "Freelance Tool Costs: Compare the Whole Project"
+robotsNoIndex: true
 date: 2026-10-05T10:00:00+07:00
 draft: false
 author: "Vincent Pham"

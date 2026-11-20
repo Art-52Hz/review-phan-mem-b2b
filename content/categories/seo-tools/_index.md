@@ -10,7 +10,7 @@ Choose a tool around a concrete task and the evidence needed to complete it. A k
 | Your task | Start here | Evidence to keep |
 |---|---|---|
 | Find a customer problem worth covering | [Keyword research for freelancers](/posts/keyword-research-for-freelancers/) | Target market, query, search intent and actual result pages |
-| Compare candidate queries | [Keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) | Observation date, metric source, overlap and a distinct page decision |
+| Compare candidate queries | [Keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) | Observation date, metric source, overlap and a distinct page decision |
 | Evaluate content guidance | [Surfer evaluation checklist](/posts/surfer-seo-review-2026/) | The brief, source checks, editing time and unresolved requirements |
 | Choose a wider client SEO toolkit | [Semrush capacity and reporting checklist](/posts/semrush-review-2026/) | Required sites, users, markets, exports and total commitment |
 

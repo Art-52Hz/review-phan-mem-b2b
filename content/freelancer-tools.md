@@ -27,7 +27,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [Mangools Pricing Explained](/posts/mangools-pricing-explained/) | Entry availability, Basic vs Premium lookups and annual cost calculations |
 | [Mangools vs Semrush for Freelancers](/posts/mangools-vs-semrush-for-freelancers/) | 12/24/36 month totals, renewal costs, plan limits and freelance use cases |
 | [Keyword Research for Freelancers](/posts/keyword-research-for-freelancers/) | A Free Workflow with KWFinder |
-| [Keyword Shortlist Worksheet](/posts/keyword-shortlist-worksheet/) | Intent and Results for Client SEO |
+| [Keyword Shortlist Worksheet](/posts/keyword-research-for-freelancers/) | Intent and Results for Client SEO |
 | [TradingView Black Friday 2026](/posts/tradingview-black-friday-2026/) | Official launch status, 12/24/36 month totals with renewal rates and plan picks |
 | [TradingView Plans Explained](/posts/tradingview-plans-explained-2026/) | Basic vs Essential vs Plus vs Premium |
 | [TradingView for Forex Traders](/posts/tradingview-for-forex-traders/) | Charts, Alerts and MT4/MT5 |

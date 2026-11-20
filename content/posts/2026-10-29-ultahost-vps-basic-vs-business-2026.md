@@ -71,7 +71,7 @@ These are typical starting points based on the published minimum requirements of
 | n8n with a few active workflows | Tight | Good starting point |
 | Crypto or forex bot holding market data in memory | Risky | Good starting point |
 | Docker with several containers | No | Small stacks only |
-| Windows VPS with MT4/MT5 | No | No, Windows needs more RAM; see [cheapest VPS for MT4](/posts/cheapest-vps-for-mt4/) |
+| Windows VPS with MT4/MT5 | No | No, Windows needs more RAM; see [cheapest VPS for MT4](/posts/best-vps-for-forex-trading-2026/) |
 
 Two cores also matter more than they look. On one core, a backup, a package update and normal traffic all queue behind each other. On two, the site keeps answering while the backup runs.
 

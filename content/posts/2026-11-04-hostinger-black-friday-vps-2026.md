@@ -3,6 +3,7 @@ title: "Hostinger Black Friday VPS 2026: Real Prices vs October"
 date: 2026-11-04
 lastmod: 2026-11-19
 slug: "hostinger-black-friday-vps-2026"
+aliases: ["/posts/hostinger-vps-coupon-discount/"]
 summary: "Hostinger's Black Friday 2026 VPS cards (rechecked November 19) show KVM 1 at $6.49/mo and KVM 2 at $8.79/mo on 24 months, the same as October. Real day-one payment, renewal cost and which plan to pick."
 draft: false
 description: "Hostinger Black Friday VPS 2026, rechecked Nov 19: KVM 1 $6.49/mo ($155.76 for 24 months), KVM 2 $8.79/mo, renewal $11.99 and $14.99. Real totals."

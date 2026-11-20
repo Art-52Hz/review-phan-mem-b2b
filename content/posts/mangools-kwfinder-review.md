@@ -102,7 +102,7 @@ Before any subscription, these free options cover a lot of freelance keyword wor
 | Google autocomplete and "People also ask" | Free | Real question wording | No volume or difficulty data |
 | Mangools free account | Free, no card needed | Trying KWFinder on a real brief | Small daily allowance |
 
-Our [free keyword research workflow](/posts/keyword-research-for-freelancers/) combines these into a repeatable process, and the [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) keeps your evidence in one place.
+Our [free keyword research workflow](/posts/keyword-research-for-freelancers/) combines these into a repeatable process, and the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) keeps your evidence in one place.
 
 If you need backlink audits, site crawls or a large competitor database, you are shopping for a full SEO suite. These cost a lot more. Our [Ahrefs vs Semrush guide](/posts/ahrefs-vs-semrush-2026/) explains which output each one is built for.
 

@@ -99,7 +99,7 @@ Use this short exercise before choosing a paid tier. It is a proposed evaluation
 
 <!-- FIRST-HAND: Add dated screenshots from a real free-account client brief, including location settings, lookup counters and the resulting shortlist. Paid-plan capacity has not been measured for this article. -->
 
-Keep that evidence in the [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/). It makes a later upgrade decision easier: you can point to a blocked task instead of guessing that more capacity will help.
+Keep that evidence in the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/). It makes a later upgrade decision easier: you can point to a blocked task instead of guessing that more capacity will help.
 
 ## FAQ
 

@@ -123,4 +123,4 @@ For a private Minecraft group, shortlist **Game Panel 2** for the panel workflow
 
 **[Start with Hostinger's plan comparison](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
-Before choosing a longer term, read the [Hostinger VPS discount and renewal guide](/posts/hostinger-vps-coupon-discount/) to separate the promotional rate from the ongoing cost.
+Before choosing a longer term, read the [Hostinger VPS discount and renewal guide](/posts/hostinger-black-friday-vps-2026/) to separate the promotional rate from the ongoing cost.

@@ -63,7 +63,7 @@ A software license changes the comparison only if you choose licensed software. 
 
 Both products are self-managed. Hostinger documents an included weekly backup schedule, with daily backups available as a paid option. Contabo lists Auto Backup as an add-on and describes its support as covering the VPS infrastructure and initial setup of one-click add-ons; the customer handles OS configuration and third-party software maintenance. Neither entry plan means someone else will troubleshoot your app.
 
-That distinction answers the practical support question: if SSH fails because of a host network or hardware incident, open an infrastructure ticket. If a package update breaks your service, you own the diagnosis unless you bought a separate support commitment. Keep an off-server backup and test restoring it before moving production data. For a closer look at the administration trade-off, read our [UltaHost vs Contabo comparison](/posts/ultahost-vs-contabo-2026/) and [freelancer VPS operations guide](/posts/best-vps-for-freelancers-2026/).
+That distinction answers the practical support question: if SSH fails because of a host network or hardware incident, open an infrastructure ticket. If a package update breaks your service, you own the diagnosis unless you bought a separate support commitment. Keep an off-server backup and test restoring it before moving production data. For a closer look at the administration trade-off, read our [UltaHost vs Contabo comparison](/posts/ultahost-vs-contabo-2026/) and [freelancer VPS operations guide](/posts/ultahost-vs-hostinger-vps-2026/).
 
 ## FAQ
 

@@ -79,7 +79,7 @@ Support channels also need context. The [Contabo support home, checked October 2
 
 Contabo's [purchase-verification guidance, checked October 28, 2026](https://help.contabo.com/en/support/solutions/articles/103000348466-why-do-i-need-to-verify-my-purchase-), says customer-data verification is required and some orders need manual review. Leave time for approval before scheduling a cutover. Payment acceptance and account verification are separate questions; neither establishes anonymous hosting.
 
-Keep the existing site available until the replacement has passed your acceptance checks. For a client project, record who owns the domain, server account, billing relationship and recovery copies. The [client VPS operations guide](/posts/best-vps-for-freelancers-2026/) helps assign these tasks, while the [WordPress handoff worksheet](/posts/wordpress-client-site-transfer-checklist/) keeps dependencies and acceptance criteria together.
+Keep the existing site available until the replacement has passed your acceptance checks. For a client project, record who owns the domain, server account, billing relationship and recovery copies. The [client VPS operations guide](/posts/ultahost-vs-hostinger-vps-2026/) helps assign these tasks, while the [WordPress handoff worksheet](/posts/wordpress-client-site-transfer-checklist/) keeps dependencies and acceptance criteria together.
 
 Decide where an independent backup will live and who can restore it. A backup label is useful only when you understand what is captured, how long it is retained and how restoration works. Ask whether a restore overwrites the current environment, then plan the exercise with disposable data. Keep a copy of the deployment instructions outside the server itself.
 

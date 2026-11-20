@@ -3,6 +3,7 @@ title: "ElevenLabs vs Murf AI (2026): Pricing, Free Plans and Which to Choose"
 date: 2026-06-12
 lastmod: 2026-10-29
 slug: "elevenlabs-vs-murf-ai-2026"
+aliases: ["/posts/best-ai-voice-generator-2026/"]
 draft: false
 description: "Compare ElevenLabs and Murf with the same sample script, export requirements, revision effort and current plan terms. Download a blank voiceover scorecard."
 keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "voiceover comparison"]

@@ -1,5 +1,6 @@
 ---
 title: "Hostinger AI Review: Builder, Export and Client Handoff"
+robotsNoIndex: true
 date: 2026-06-09T20:44:59+07:00
 lastmod: 2026-10-06
 draft: false

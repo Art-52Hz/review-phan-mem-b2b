@@ -44,7 +44,7 @@ Choose one site you are authorized to analyze. Define the target market and a sm
 4. Produce the report the client needs and check whether the format is usable.
 5. Measure the time required to validate findings and explain the next actions.
 
-Use the [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to keep research decisions and unresolved evidence together. Avoid adding overlapping query volumes as though each represented a separate audience.
+Use the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) to keep research decisions and unresolved evidence together. Avoid adding overlapping query volumes as though each represented a separate audience.
 
 ## Keep tool metrics and business results separate
 

@@ -2,6 +2,7 @@
 title: "Cheapest VPS with Crypto Payment: Compare Full Costs"
 date: 2026-06-12
 slug: "cheapest-vps-crypto-payment-2026"
+aliases: ["/posts/pay-for-vps-with-crypto-bitcoin-2026/"]
 draft: false
 keywords: ["cheapest vps crypto payment", "vps bitcoin payment 2026", "anonymous vps hosting", "vps accept cryptocurrency", "offshore vps crypto"]
 categories: ["Hosting", "Privacy"]
@@ -114,7 +115,7 @@ You can inspect UltaHost's current plans using the table above. Treat it as a ca
 Reject a candidate when an essential requirement remains unanswered. Choose between the remaining quotes using your actual workload, management capacity and total commitment. Paying slightly less is not useful if the plan cannot support a reliable restore.
 
 
-Related resources: [VPS buying worksheet](/downloads/vps-buying-checklist.txt); [Crypto invoice guide](/posts/pay-for-vps-with-crypto-bitcoin-2026/); [UltaHost buying guide](/posts/ultahost-vps-review/).
+Related resources: [VPS buying worksheet](/downloads/vps-buying-checklist.txt); [Crypto invoice guide](/posts/cheapest-vps-crypto-payment-2026/); [UltaHost buying guide](/posts/ultahost-vps-review/).
 
 ## FAQ
 

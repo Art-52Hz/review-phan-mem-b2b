@@ -8,7 +8,7 @@ description: "Start with hosting decision guides for shared hosting, VPS operati
 Use the guide that matches the task you need to complete. These articles help you record requirements and unresolved questions before selecting a provider; they do not establish a benchmark winner.
 
 - **Choose the hosting model:** [compare VPS and shared hosting](/posts/vps-vs-shared-hosting-2026/) using the application runtime, resource limits, administration and complete order cost.
-- **Agree on the operating owner:** use the [freelancer VPS checklist](/posts/best-vps-for-freelancers-2026/) to assign access, updates, monitoring and recovery. For a WordPress project, [compare managed and self-managed responsibilities](/posts/managed-wordpress-vps-hosting-2026/).
+- **Agree on the operating owner:** use the [freelancer VPS checklist](/posts/ultahost-vs-hostinger-vps-2026/) to assign access, updates, monitoring and recovery. For a WordPress project, [compare managed and self-managed responsibilities](/posts/managed-wordpress-vps-hosting-2026/).
 - **Check the complete bill:** use the [crypto-payment cost guide](/posts/cheapest-vps-crypto-payment-2026/) and its blank buying checklist to document renewal, add-ons and refund eligibility. Payment support does not establish anonymous registration.
 - **Prepare a client handoff:** use the [WordPress transfer checklist and worksheet](/posts/wordpress-client-site-transfer-checklist/) to record ownership, dependencies and acceptance checks.
 
@@ -20,6 +20,6 @@ Keep untested performance and unanswered policy questions marked unknown. Some l
 
 - [UltaHost and Hostinger VPS: support scope and full cost](/posts/ultahost-vs-hostinger-vps-2026/) helps assign software maintenance and recovery responsibilities before comparing invoices.
 - [UltaHost and Contabo: quote, verification and operating work](/posts/ultahost-vs-contabo-2026/) helps record account requirements and compare the same workload.
-- [What offshore hosting means: location, account terms and recovery](/posts/what-is-offshore-hosting-2026/) separates server location from payment, account information and permitted use.
+- [What offshore hosting means: location, account terms and recovery](/posts/best-offshore-vps-hosting-2026/) separates server location from payment, account information and permitted use.
 
 These are documentation-based checklists. They do not report comparative purchases, speed measurements or support-response experiments.

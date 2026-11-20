@@ -37,7 +37,7 @@ Keep the query, market and crawler consistent when comparing reports. Record whi
 
 ## Evaluate one representative article
 
-Choose a real reader task before opening an editor. Our [keyword research workflow](/posts/keyword-research-for-freelancers/) and [shortlist worksheet](/posts/keyword-shortlist-worksheet/) help record intent and avoid creating another page for an existing answer.
+Choose a real reader task before opening an editor. Our [keyword research workflow](/posts/keyword-research-for-freelancers/) and [shortlist worksheet](/posts/keyword-research-for-freelancers/) help record intent and avoid creating another page for an existing answer.
 
 Save the original article and a dated copy of the recommendations. Review each proposed change rather than accepting every term or increasing length merely to raise a score.
 

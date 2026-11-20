@@ -90,7 +90,7 @@ A short check cannot establish long-term uptime or peak-load capacity. Save obse
 
 <!-- FIRST-HAND: cần ảnh hoặc số đo thật: dated plan and region configuration, redacted application screenshots, resource observations under a documented workload, and a completed backup restore with recorded steps. -->
 
-The [freelancer VPS checklist](/posts/best-vps-for-freelancers-2026/) includes the client ownership and recovery worksheet. Keep it with the quote and acceptance notes for a practical handoff.
+The [freelancer VPS checklist](/posts/ultahost-vs-hostinger-vps-2026/) includes the client ownership and recovery worksheet. Keep it with the quote and acceptance notes for a practical handoff.
 
 ## FAQ
 

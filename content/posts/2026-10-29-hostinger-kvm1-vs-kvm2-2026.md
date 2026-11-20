@@ -1,5 +1,5 @@
 ---
-title: "Hostinger KVM 1 vs KVM 2 (2026): Which Plan at the Black Friday Price <!-- 10/11: cap nhat gia BF -->"
+title: "Hostinger KVM 1 vs KVM 2 (2026): Which Plan at the Black Friday Price"
 date: 2026-10-29
 lastmod: 2026-11-14
 slug: "hostinger-kvm1-vs-kvm2-2026"
@@ -117,7 +117,7 @@ Repeat this check during a real busy period before moving client production data
 
 Write down the selected term, amount due, renewal rate and expected software costs. Then decide who will patch the system and respond when the application fails. This makes the purchase a workable operating decision instead of a specification contest.
 
-For a game server, use our [Minecraft VPS guide by player count](/posts/best-vps-for-minecraft-server/) to evaluate that workload separately. For the distinction between sale pricing and referral eligibility, read the [Hostinger VPS discount and renewal guide](/posts/hostinger-vps-coupon-discount/).
+For a game server, use our [Minecraft VPS guide by player count](/posts/best-vps-for-minecraft-server/) to evaluate that workload separately. For the distinction between sale pricing and referral eligibility, read the [Hostinger VPS discount and renewal guide](/posts/hostinger-black-friday-vps-2026/).
 
 ## FAQ
 

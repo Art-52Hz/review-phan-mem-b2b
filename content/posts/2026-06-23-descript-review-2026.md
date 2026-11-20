@@ -43,7 +43,7 @@ Record the specific plan and billing interval, who needs editor access, the rele
 
 Repeat the same brief when comparing workflows. Do not treat a vendor feature description or our blank checklist as a completed performance result. Synthetic voices or supplied recordings also need the permissions appropriate to the intended use; do not experiment with another person's voice without authorization.
 
-The [voiceover evaluation scorecard](/posts/voiceover-evaluation-scorecard/) provides a structure for listening and revision notes. For generated narration candidates, the [AI voice buying guide](/posts/best-ai-voice-generator-2026/) keeps voice evaluation separate from export and usage questions.
+The [voiceover evaluation scorecard](/posts/voiceover-evaluation-scorecard/) provides a structure for listening and revision notes. For generated narration candidates, the [AI voice buying guide](/posts/elevenlabs-vs-murf-ai-2026/) keeps voice evaluation separate from export and usage questions.
 
 ## Decide using the complete project cost
 

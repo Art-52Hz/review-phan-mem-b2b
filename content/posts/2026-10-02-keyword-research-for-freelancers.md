@@ -3,6 +3,7 @@ title: "Keyword Research for Freelancers (2026): A Free Workflow with KWFinder"
 date: 2026-10-02
 lastmod: 2026-10-29
 slug: "keyword-research-for-freelancers"
+aliases: ["/posts/keyword-shortlist-worksheet/"]
 draft: false
 description: "Build a keyword shortlist for your freelance website. Match intent, inspect competitors and measure results with Search Console and KWFinder."
 categories: ["SEO Tools"]
@@ -67,7 +68,7 @@ A new website can proceed without query history: start from the reader's problem
 
 ### Spend free lookups on distinct questions
 
-Prepare your seeds before searching. Group close variations so you do not spend the session researching the same intent repeatedly. Select the intended country and language, then record useful phrases and their displayed context in the free [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/).
+Prepare your seeds before searching. Group close variations so you do not spend the session researching the same intent repeatedly. Select the intended country and language, then record useful phrases and their displayed context in the free [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/).
 
 Keep separate columns for vendor estimates and your own observations. If a value is unavailable, leave it unknown. A blank cell is more useful than a made-up zero.
 
@@ -131,4 +132,4 @@ No. Mangools says the tools are sold together. Judge the subscription against th
 
 Mangools describes a rolling 24-hour period starting with your first request, rather than a universal midnight reset. Check your available resources before planning a research session. Source: [limits and lookups FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), checked October 29, 2026.
 
-**Next step:** use the [free keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to define your next page, then [start with KWFinder Free or compare paid options](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate") if your research needs more capacity.
+**Next step:** use the [free keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) to define your next page, then [start with KWFinder Free or compare paid options](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate") if your research needs more capacity.

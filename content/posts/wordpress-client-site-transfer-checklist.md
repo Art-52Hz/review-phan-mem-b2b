@@ -1,5 +1,6 @@
 ---
 title: "WordPress Site Transfer: Ownership, Add-ons and Acceptance"
+robotsNoIndex: true
 date: 2026-10-08
 slug: "wordpress-client-site-transfer-checklist"
 draft: false
@@ -14,9 +15,9 @@ cover:
 
 This guide is based on documentation, not a completed hosting transfer or recovery benchmark. It contains no affiliate referral link. Its worksheet is blank; untested results remain unknown.
 
-For the next hosting contract, use the [freelancer VPS buying guide](/posts/best-vps-for-freelancers-2026/) and [Hostinger VPS plan review](/posts/hostinger-vps-review-2026/) to agree on cost and maintenance before handoff.
+For the next hosting contract, use the [freelancer VPS buying guide](/posts/ultahost-vs-hostinger-vps-2026/) and [Hostinger VPS plan review](/posts/hostinger-vps-review-2026/) to agree on cost and maintenance before handoff.
 
-Use this checklist when moving one client WordPress site out of an agency hosting account. If you are still choosing infrastructure, start with our [managed WordPress versus VPS responsibility guide](/posts/managed-wordpress-vps-hosting-2026/) and [client workload checklist](/posts/best-vps-for-freelancers-2026/). Here, the task is to define what the receiving client actually obtains.
+Use this checklist when moving one client WordPress site out of an agency hosting account. If you are still choosing infrastructure, start with our [managed WordPress versus VPS responsibility guide](/posts/managed-wordpress-vps-hosting-2026/) and [client workload checklist](/posts/ultahost-vs-hostinger-vps-2026/). Here, the task is to define what the receiving client actually obtains.
 
 ## Separate the site from the company
 

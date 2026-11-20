@@ -111,7 +111,7 @@ Use a small, real client topic on the free account before paying:
 3. **Minutes 7-11:** inspect a few relevant results within your remaining allowance. Record counter changes and why you kept or rejected each phrase.
 4. **Minutes 11-15:** turn the shortlist into an outline. Estimate the searches required for the full brief and compare that with a busy day's schedule.
 
-Use the [keyword shortlist worksheet](/posts/keyword-shortlist-worksheet/) to keep evidence next to recommendations. Stop when the allowance runs out; the goal is to inspect the workflow, not simulate a full paid-plan workload.
+Use the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) to keep evidence next to recommendations. Stop when the allowance runs out; the goal is to inspect the workflow, not simulate a full paid-plan workload.
 
 <!-- FIRST-HAND: Add dated screenshots of account plan cards, billing currency, and lookup counters before and after a real brief. Include the research steps and consent-cleared client context before adding measured findings. -->
 

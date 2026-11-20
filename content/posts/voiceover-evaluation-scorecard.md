@@ -1,5 +1,6 @@
 ---
 title: "AI Voiceover Evaluation: A Scorecard for Client Work"
+robotsNoIndex: true
 date: 2026-10-03T10:00:00+07:00
 lastmod: 2026-10-09
 draft: false

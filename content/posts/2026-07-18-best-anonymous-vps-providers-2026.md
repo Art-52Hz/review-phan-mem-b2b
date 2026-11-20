@@ -108,7 +108,7 @@ Define your own acceptance criteria: application response time, deployment succe
 
 If the problem is a small project's hosting bill, compare total cost rather than anonymity marketing. If it is customer-data handling, review the provider's policies and your own application controls. If it is access reliability, examine networking and recovery. These require different evidence.
 
-Our [VPS versus shared hosting guide](/posts/vps-vs-shared-hosting-2026/) explains the hosting models. The [crypto-payment guide](/posts/pay-for-vps-with-crypto-bitcoin-2026/) is related reading, but current checkout instructions always take priority.
+Our [VPS versus shared hosting guide](/posts/vps-vs-shared-hosting-2026/) explains the hosting models. The [crypto-payment guide](/posts/cheapest-vps-crypto-payment-2026/) is related reading, but current checkout instructions always take priority.
 
 ### Questions to send before buying
 
