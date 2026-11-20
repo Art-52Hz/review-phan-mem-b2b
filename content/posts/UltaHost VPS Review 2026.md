@@ -1,5 +1,5 @@
 ---
-title: "UltaHost VPS Review (2026): Prices, Renewal, Support and Who Should Buy"
+title: "UltaHost VPS Review (2026): Real Cost, Renewal and Support"
 date: 2026-05-27T00:00:00+07:00
 lastmod: 2026-11-20
 draft: false
@@ -14,7 +14,7 @@ cover:
   alt: "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
 ---
 
-UltaHost VPS Basic is a reasonable fit for one light Linux service if you accept 1 GB RAM and can verify exactly what support will manage. The official page currently shows $5.52 per month on a 24-month term, renewing at the same rate; that is $132.48 for the first two years and another $132.48 for a full renewal term. Choose another host or a managed application plan if you need proven application-level support or a short, clearly refundable commitment.
+UltaHost VPS Basic is a reasonable fit for one light Linux service if you accept 1 GB RAM and can verify exactly what support will manage. The official page currently shows $4.69 per month on a 24-month term (the Black Friday rate, marked down from $9.29), renewing at $5.52 per month for two years; that is $112.56 for the first two years and $132.48 for the next two. Choose another host or a managed application plan if you need proven application-level support or a short, clearly refundable commitment.
 
 **[Compare UltaHost VPS plans](https://ultahost.com/#art52hz)**
 
@@ -26,13 +26,13 @@ Prices and features below are from the [official UltaHost VPS plan page](https:/
 
 | Option | Advertised rate | Upfront payment | Cost through one same-length renewal | What is verified |
 |---|---:|---:|---:|---|
-| VPS Basic, 24 months | $5.52/mo | $132.48 | $264.96 over 48 months | Card says it renews at $5.52/mo for 2 years |
+| VPS Basic, 24 months | $4.69/mo | $112.56 | $245.04 over 48 months | Card says it renews at $5.52/mo for 2 years |
 | 12-month term | Not shown in the official page text available today | Not verified | Not verified | Selectable billing term, exact USD total must be confirmed in checkout |
 | 36-month term | Not shown in the official page text available today | Not verified | Not verified | Selectable billing term, exact USD total must be confirmed in checkout |
 
-The 48-month figure is a calculation: 24 x $5.52 twice. It assumes the renewal card remains applicable to the renewal order; it excludes taxes, currency conversion and any extras. The official page lists free Hestia and CyberPanel options, while cPanel and Plesk are separate paid control-panel choices. A control panel is not required to use a Linux VPS, so the base-cost example assumes SSH and no paid panel. The public pages reviewed do not expose current cPanel or Plesk license prices; add the amount shown in checkout if you require one. Do not treat an unpriced optional license as free.
+The 48-month figure is a calculation: 24 x $4.69 plus 24 x $5.52. It assumes the renewal card remains applicable to the renewal order; it excludes taxes, currency conversion and any extras. The official page lists free Hestia and CyberPanel options, while cPanel and Plesk are separate paid control-panel choices. A control panel is not required to use a Linux VPS, so the base-cost example assumes SSH and no paid panel. The public pages reviewed do not expose current cPanel or Plesk license prices; add the amount shown in checkout if you require one. Do not treat an unpriced optional license as free.
 
-There is also a refund trap to resolve before committing. The policy says the first VPS order may qualify for a refund within 30 days, but its general exclusions also say purchases through a special promotion, promo code or discount link are not refundable. The plan card advertises a 40% saving. Ask UltaHost in writing whether the exact offer you intend to buy qualifies, and do not assume a discounted order is refundable. The same policy excludes yearly, two-year and three-year VPS terms from cancellation refunds.
+There is also a refund trap to resolve before committing. The policy says the first VPS order may qualify for a refund within 30 days, but its general exclusions also say purchases through a special promotion, promo code or discount link are not refundable. The plan card advertises a 50% saving. Ask UltaHost in writing whether the exact offer you intend to buy qualifies, and do not assume a discounted order is refundable. The same policy excludes yearly, two-year and three-year VPS terms from cancellation refunds.
 
 ## Which one should you pick?
 
@@ -62,7 +62,7 @@ The Basic card does not list it. The Business card does. If it is required, get 
 
 ### Does the VPS price stay the same after renewal?
 
-For the current 24-month Basic card, the stated renewal is $5.52 per month for two years. That is not a promise about future price changes or a different billing term; save the order summary and check the renewal line for your selected plan.
+For the current 24-month Basic card, you pay $4.69 per month now and the stated renewal is $5.52 per month for two years, about 18% more. That is not a promise about future price changes or a different billing term; save the order summary and check the renewal line for your selected plan.
 
 ### Can I get a refund if the VPS does not work out?
 
