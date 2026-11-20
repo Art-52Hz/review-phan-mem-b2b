@@ -22,6 +22,8 @@ cover:
 
 *Affiliate disclosure: some links are affiliate links. We may earn a commission if you subscribe through them, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
+> **Black Friday 2026:** TradingView's official sale page shows a launch countdown, with no discount published yet. See the [live status and 12/24/36 month cost totals](/posts/tradingview-black-friday-2026/), updated November 20, 2026.
+
 Based on official pricing and documentation checked November 5, 2026. These are software recommendations, not investment advice.
 
 The best purchase is the cheapest plan that supports your actual routine. Before upgrading, write down the chart layout, indicators and alerts you use together. A higher subscription buys capacity and tools; it does not make a trading strategy profitable.
