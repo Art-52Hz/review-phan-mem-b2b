@@ -13,13 +13,6 @@
     "origin": "Built-in imagegen, original conceptual editorial illustration",
     "alt": "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
   },
-  "keyword-shortlist-worksheet": {
-    "image": "/images/keyword-shortlist-cover-v2.webp",
-    "reviewed": true,
-    "reviewed_date": "2026-10-03",
-    "origin": "Built-in imagegen, original editorial illustration; no measured metrics",
-    "alt": "Magnifying glass selecting a coral index card beside the title From Keywords to a Plan"
-  },
   "getresponse-vs-mailchimp-2026": {
     "image": "/images/newsletter-platform-checklist.svg",
     "reviewed": true,
@@ -104,13 +97,6 @@
     "origin": "Previously visually reviewed original static editorial SVG; no product rating",
     "alt": "VPS decision checklist: ownership, operations and recovery"
   },
-  "what-is-offshore-hosting-2026": {
-    "image": "/images/vps-client-operations.svg",
-    "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Previously visually reviewed original static editorial SVG; no product rating",
-    "alt": "Hosting location decision checklist: ownership, operations and recovery"
-  },
   "best-vps-for-forex-trading-2026": {
     "image": "/images/vps-client-operations.svg",
     "reviewed": true,
@@ -124,13 +110,6 @@
     "reviewed_date": "2026-10-08",
     "origin": "Built-in imagegen original editorial illustration; no measured quality or winner",
     "alt": "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
-  },
-  "best-ai-voice-generator-2026": {
-    "image": "/images/voiceover-scorecard.svg",
-    "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial SVG; replaces unsupported tested claim",
-    "alt": "Voiceover evaluation stages: listen, revise and check rights; no product ranking"
   },
   "best-ai-writing-tools-2026": {
     "image": "/images/client-writing-workflow-v2.webp",
