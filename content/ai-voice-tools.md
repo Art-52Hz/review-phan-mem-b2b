@@ -15,7 +15,7 @@ Write down the script length, target language, delivery format and likely revisi
 | Your next reading | Use it to decide |
 |---|---|
 | [ElevenLabs Review 2026](/posts/elevenlabs-ai-review-2026/) | Pricing, Free Limits and Paid Plans |
-| [ElevenLabs Black Friday 2026](/posts/elevenlabs-black-friday-2026/) | Sale status, regular prices and the cheapest billing choice |
+| [ElevenLabs Black Friday 2026](/posts/elevenlabs-black-friday-2026/) | Live annual offers, 12 to 36 month renewal totals and plan picks by project |
 | [ElevenLabs Pricing](/posts/elevenlabs-pricing-plans-explained/) | Free, Starter, Creator and Pro Credits |
 | [ElevenLabs Voice Cloning](/posts/elevenlabs-voice-cloning-explained/) | Instant vs Professional, required plans, recording preparation and voice rights |
 | [ElevenLabs for YouTube Voiceovers](/posts/elevenlabs-for-youtube-voiceover/) | Plan choice, commercial rights, YouTube monetization and narration budgets |

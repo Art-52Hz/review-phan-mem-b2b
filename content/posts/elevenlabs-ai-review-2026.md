@@ -23,6 +23,8 @@ Best for freelancers evaluating generated narration against a specific script: s
 
 *Based on official documentation and pricing checked October 28, 2026. Confirm the final invoice at checkout.*
 
+> **Black Friday 2026:** ElevenLabs' official annual sale is live through December 1. Creator is $99 for year one; see our [ElevenLabs Black Friday price and renewal breakdown](/posts/elevenlabs-black-friday-2026/) before choosing annual billing.
+
 ## Compare the buying options
 
 | Plan | Standard monthly price | Free evaluation | Main allowance or limitation | Who should use it |
