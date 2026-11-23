@@ -1,11 +1,11 @@
 ---
-title: "TradingView Black Friday 2026: Live Discount, Annual Totals and Best Plan"
+title: "TradingView Black Friday 2026: Premium $252, Up to 80% Off"
 date: 2026-11-04
-lastmod: 2026-11-20
+lastmod: 2026-11-23
 slug: "tradingview-black-friday-2026"
-summary: "When the TradingView Black Friday 2026 sale is likely to start, what the 2025 sale actually offered, what each plan costs today, and how to pick the right annual plan before the timer runs out."
+summary: "TradingView Black Friday 2026 is live until about November 28: Essential $126, Plus $251, Premium $252 and Ultimate $576 for 13 months. What each costs at renewal and which plan to buy."
 draft: false
-description: "TradingView Black Friday 2026: the 2025 sale ran from Nov 21 with up to 80% off annual plans. Expected dates, current prices and which plan to buy."
+description: "TradingView Black Friday 2026 is live: up to 80% off plus 1 free month. Premium is $252 for 13 months, $1 more than Plus. Prices, renewal and which plan to pick."
 keywords: ["tradingview black friday 2026", "tradingview black friday", "tradingview discount", "tradingview cyber monday", "tradingview premium black friday"]
 categories: ["Trading Tools"]
 tags: ["tradingview", "forex", "trading", "deals"]
@@ -16,19 +16,48 @@ cover:
   relative: false
 ---
 
-**TradingView's 2026 Black Friday sale has not opened: its official page shows a launch countdown for November 23. The official annual prices today are $155.40 for Essential, $359.40 for Plus, $719.40 for Premium and $2,399.40 for Ultimate; later annual renewals use regular rates.**
+**TradingView's Black Friday 2026 sale is live: up to 80% off plus one free month. Premium costs $252 for 13 months, only $1 more than Plus at $251, so most traders who were considering Plus should take Premium. The sale countdown on November 23 pointed to an end around November 28.**
 
-**[Compare TradingView plans](https://www.tradingview.com/?aff_id=1173587)**
+{{< picks title="TradingView Black Friday 2026 prices" checked="Nov 23, 2026" >}}
+{{% pick rank="1" label="Best value this sale" name="Premium" price="$252 for 13 months (-70%)" renew="$839.40/yr regular annual" note="Free extra month applies to website purchases, not the iOS or Android apps" %}}
+8 charts per tab, 25 indicators per chart and 400 alerts, for $1 more than Plus. Works out to $19.38 a month.
+
+**[Get Premium at $252](https://www.tradingview.com/?aff_id=1173587)**
+{{% /pick %}}
+{{% pick rank="2" label="Cheapest paid plan" name="Essential" price="$126 for 13 months (-30%)" renew="$179.40/yr regular annual" note="Sale price covers 13 months; renewal is at the regular annual rate" %}}
+2 charts per tab and 20 alerts. Enough if you follow a few markets and want no ads.
+
+**[Get Essential at $126](https://www.tradingview.com/?aff_id=1173587)**
+{{% /pick %}}
+{{% pick rank="3" label="For professional workspaces" name="Ultimate" price="$576 for 13 months (-80%)" renew="$2,879.40/yr regular annual" note="Check eligibility in your account before paying" %}}
+16 charts per tab and 1,000 alerts. The biggest percentage cut of the sale.
+
+**[Get Ultimate at $576](https://www.tradingview.com/?aff_id=1173587)**
+{{% /pick %}}
+{{< /picks >}}
 
 *Some links are affiliate links. We may earn a commission if you subscribe through them, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Based on TradingView's official sale, pricing and support pages checked November 20, 2026. USD totals exclude tax and optional exchange data.
+Based on TradingView's official Black Friday and pricing pages checked November 23, 2026. USD prices exclude tax and optional exchange data.
 
 ## Is TradingView Black Friday 2026 live?
 
-No. On November 20, the [official Black Friday page](https://www.tradingview.com/black-friday/?aff_id=1173587), checked November 20, 2026, displayed "Launches in" with a countdown of about three days. It did not show a sale price, discount percentage, coupon or end date. The page's countdown points to November 23; it is the only published launch timing, and TradingView has not published the offer terms yet.
+Yes. On November 23, 2026 the [official Black Friday page](https://www.tradingview.com/black-friday/?aff_id=1173587) showed "Up to 80% off + 1 free month" with a countdown of about five days. Each offer is a 13-month subscription paid once:
 
-We will update this page when the 2026 sale goes live. Until then, treat the current annual prices below as today's checkout reference, not as Black Friday prices. Do not budget around an unannounced discount or a coupon from a third-party page.
+| Plan | Black Friday price (13 months) | Discount shown | Equals per month | Regular monthly price | Regular annual renewal |
+|---|---:|---:|---:|---:|---:|
+| Essential | $126.00 | 30% | $9.69 | $14.95 | $179.40 |
+| Plus | $251.00 | 40% | $19.29 | $34.95 | $419.40 |
+| Premium | $252.00 | 70% | $19.38 | $69.95 | $839.40 |
+| Ultimate | $576.00 | 80% | $44.31 | $239.95 | $2,879.40 |
+
+**The one number that matters: Premium is $1 more than Plus this week.** Outside the sale, Premium costs twice as much as Plus. If you need more than two charts per tab, or more than 20 alerts, buy Premium now rather than Plus.
+
+**Plan for renewal.** After the 13 months, the subscription renews at the regular annual rate in the last column, not at the sale price. TradingView confirms renewals use the regular rate in its [renewal pricing note](https://www.tradingview.com/support/solutions/43000473377-i-got-charged-without-receiving-a-second-year-discount/?aff_id=1173587). Set a reminder before the renewal date if you want to cancel or downgrade.
+
+**Who can buy:** the free extra month is only for purchases on the website, not through the iOS or Android apps. The sale page FAQ covers what happens to an existing plan's unused days, so read it before upgrading an active subscription. TradingView also notes that sales tax may be added depending on your location.
+
+The regular annual prices below are what you pay outside the sale and at renewal.
 
 ## Current annual prices and full subscription cost
 
@@ -49,6 +78,8 @@ The first-year figures already include the standard annual-billing price shown t
 When the sale opens, compare its checkout total with the first-year column, then compare the renewal line with the regular annual renewal column. A large headline discount can still cost more over two or three years if the renewed plan is a tier you would not otherwise buy. For a fair comparison, keep the plan and billing term the same, include tax shown at checkout, and add exchange data only where required. The sale page has not yet said whether returning subscribers, existing annual accounts or every plan tier qualify, so do not assume that an active subscription can be extended at the promotional price. Check the offer details and the account's subscription screen before paying.
 
 ## Which one should you pick?
+
+Until the sale ends, use the Black Friday prices above: Premium at $252 beats Plus at $251 for almost everyone who needs more than Essential. The guide below uses regular annual prices, which is what you pay outside the sale and at renewal.
 
 - **You check a few charts and are still learning:** choose Basic at $0. Upgrade only when a specific limit interrupts a regular task.
 - **You need a compact chart layout and up to 20 price or technical alerts:** choose Essential. At today's listed annual price its first year is $155.40; budget $179.40 for a regular annual renewal.
