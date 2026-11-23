@@ -43,5 +43,9 @@
       position: position,
       transport_type: "beacon"
     });
+    // Microsoft Ads UET (23/11/2026): cung su kien lam muc tieu chuyen doi; chi chay khi the UET da tai.
+    if (window.uetq && typeof window.uetq.push === "function") {
+      window.uetq.push("event", "affiliate_click", { event_category: programs[target.hostname], event_label: article });
+    }
   });
 })();

@@ -17,6 +17,8 @@ enableRobotsTXT = true
   ShowToc = true
   TocOpen = false
   defaultTheme = "auto"
+  # Microsoft Ads UET (23/11/2026): do affiliate_click tu quang cao Bing lam muc tieu chuyen doi
+  uetTagID = "343288254"
   googleSiteVerification = "6zx8ayAQl6MTjYDpIFX7IkNt-IvRhtmUyGGvFeiFVpI"
 
   [params.label]

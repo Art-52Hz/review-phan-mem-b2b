@@ -10,6 +10,26 @@
   window.dataLayer = window.dataLayer || [];
   window.gtag = function () { dataLayer.push(arguments); };
   var started = false, visibleMs = 0, last = Date.now(), timer;
+  var uetId = "{{ site.Params.uetTagID }}", uetLoaded = false;
+  /* Microsoft Ads UET (23/11/2026): cung dieu kien nguoi that nhu GA4; khach tu quang cao Bing (msclkid/utm_source=bing)
+     tai ngay de bat.js kip san sang truoc khi ho bam link affiliate. */
+  function loadUet() {
+    if (uetLoaded || !/^\d+$/.test(uetId)) return;
+    uetLoaded = true;
+    (function (w, d, t, u, o) {
+      w[u] = w[u] || [], o.ts = (new Date).getTime();
+      var n = d.createElement(t);
+      n.src = "https://bat.bing.net/bat.js?ti=" + o.ti + ("uetq" != u ? "&q=" + u : ""),
+      n.async = 1, n.onload = n.onreadystatechange = function () {
+        var s = this.readyState;
+        s && "loaded" !== s && "complete" !== s ||
+        (o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad"), n.onload = n.onreadystatechange = null);
+      };
+      var i = d.getElementsByTagName(t)[0];
+      i.parentNode.insertBefore(n, i);
+    })(window, document, "script", "uetq", { ti: uetId, enableAutoSpaTracking: true });
+  }
+  if (/[?&](msclkid=|utm_source=bing)/.test(location.search)) loadUet();
   var events = ["pointerdown", "mousemove", "scroll", "touchstart", "keydown"];
   function start() {
     if (started) return;
@@ -22,6 +42,7 @@
     s.async = true;
     s.src = "https://www.googletagmanager.com/gtag/js?id=" + id;
     document.head.appendChild(s);
+    loadUet();
   }
   events.forEach(function (e) { addEventListener(e, start, { capture: true, passive: true }); });
   timer = setInterval(function () {

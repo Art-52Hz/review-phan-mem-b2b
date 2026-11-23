@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2026-05-27
-lastmod: 2026-08-31
+lastmod: 2026-11-23
 url: "/privacy-policy/"
 ShowToc: false
 ShowReadingTime: false
@@ -19,7 +19,8 @@ This Privacy Policy explains how AI Pro Freelancer ("we", "us") handles informat
 We do not ask you to create an account and we do not knowingly collect personal information directly. We collect only limited, non-identifying data through standard analytics:
 
 - **Analytics data.** We use Google Analytics to understand how visitors use the Site (pages viewed, approximate location, device and browser type, and referral source). This data is aggregated and is not used to personally identify you.
-- **Cookies.** Google Analytics and our host may set cookies to measure traffic and improve the Site. You can disable cookies in your browser settings at any time; the Site will still work.
+- **Advertising measurement.** When we run search ads on Microsoft Advertising (Bing), we use Microsoft's Universal Event Tracking (UET) tag to count visits from those ads and whether a visitor then clicks a partner link. Microsoft may use cookies and similar technologies for this measurement.
+- **Cookies.** Google Analytics, Microsoft Advertising and our host may set cookies to measure traffic and improve the Site. You can disable cookies in your browser settings at any time; the Site will still work.
 
 ## How we use information
 
@@ -38,11 +39,13 @@ Our articles contain affiliate links (see our [Affiliate Disclosure](/affiliate-
 ## Third-party services we rely on
 
 - **Google Analytics** — traffic measurement ([Google Privacy Policy](https://policies.google.com/privacy)).
+- **Microsoft Advertising (UET)** — ad conversion measurement ([Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement)).
 - **Our hosting/CDN provider** — serving the Site and basic security logging.
 
 ## Your choices
 
 - You can block or delete cookies in your browser.
+- You can opt out of personalized Microsoft ads on the [Microsoft ad settings page](https://account.microsoft.com/privacy/ad-settings).
 - You can opt out of Google Analytics using Google's [browser opt-out add-on](https://tools.google.com/dlpage/gaoptout).
 
 ## Children's privacy

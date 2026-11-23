@@ -31,3 +31,16 @@ for (const [host, program] of Object.entries({'mangools.com':'mangools','try.ele
   assert.equal(click({href:`https://${host}/issued`})[0][2].program,program);
 }
 console.log('Affiliate tracking: positions, host mapping, privacy, DNT, nested targets and exclusions passed');
+{
+  // 23/11/2026: Microsoft Ads UET nhan cung su kien affiliate_click (muc tieu chuyen doi)
+  const listeners = [], uet = [];
+  const window = {location: {href: 'https://aiprofreelancer.com/posts/example/', hostname: 'aiprofreelancer.com'},
+    gtag: () => {}, uetq: {push: (...a) => uet.push(a)}};
+  const content = {getBoundingClientRect: () => ({top: 0, height: 900})};
+  const link = {href: 'https://get.murf.ai/x?sid=private', getAttribute: () => 'example', closest: () => content,
+                getBoundingClientRect: () => ({top: 10})};
+  vm.runInNewContext(source, {window, navigator: {}, URL, document: {addEventListener: (_, cb) => listeners.push(cb)}});
+  listeners.forEach(l => l({target: {closest: sel => sel.includes('data-affiliate') ? link : null}}));
+  assert.deepEqual(JSON.parse(JSON.stringify(uet)), [['event', 'affiliate_click', {event_category: 'murf', event_label: 'example'}]]);
+  console.log('UET affiliate_click passed');
+}
