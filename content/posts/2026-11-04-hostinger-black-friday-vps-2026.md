@@ -19,6 +19,19 @@ cover:
 
 Hostinger's Black Friday 2026 VPS sale is live, but the public USD prices checked November 15 match our October 29 baseline. Choose KVM 2 for a Linux app plus database if you need the extra memory: $210.96 upfront covers 24 months, and one same-length renewal brings the modeled four-year bill to $570.72. Choose KVM 1 for a lean single-service deployment; the seasonal label alone is no reason to buy a larger server.
 
+{{< picks checked="Nov 19, 2026" >}}
+{{% pick rank="1" label="Best for one app or site" name="Hostinger KVM 1" price="$6.49/mo · $155.76 for 24 months" renew="$11.99/mo" %}}
+1 vCPU, 4 GB RAM, 50 GB NVMe. Four-year total with one renewal: $443.52.
+
+**[See KVM 1 deal](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+{{% /pick %}}
+{{% pick rank="2" label="Best for app + database" name="Hostinger KVM 2" price="$8.79/mo · $210.96 for 24 months" renew="$14.99/mo" %}}
+2 vCPU, 8 GB RAM, 100 GB NVMe. Four-year total with one renewal: $570.72.
+
+**[See KVM 2 deal](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+{{% /pick %}}
+{{< /picks >}}
+
 **[Compare Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
 *Affiliate disclosure: qualifying purchases through our referral links may earn us a commission at no extra cost to you.*

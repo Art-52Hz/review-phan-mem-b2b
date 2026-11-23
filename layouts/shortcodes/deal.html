@@ -1,0 +1,14 @@
+{{- /* The uu dai kieu coupon page (23/11/2026). Khong bia ma: chi dua uu dai that tu trang chinh thuc. */ -}}
+{{- $status := .Get "status" | default "waiting" -}}
+<div class="deal-card deal-{{ $status }}">
+  <div class="deal-head">
+    <span class="deal-name">{{ .Get "name" }}</span>
+    <span class="deal-badge">{{ if eq $status "live" }}Sale live{{ else if eq $status "ended" }}Ended{{ else }}Not live yet{{ end }}</span>
+  </div>
+  <div class="deal-offer">{{ .Get "offer" }}</div>
+  <div class="deal-body">{{ .Inner }}</div>
+  <div class="deal-foot">
+    <span>Checked {{ .Get "checked" }}</span>
+    {{- with .Get "guide" }}<a href="{{ . | relURL }}">Full price breakdown →</a>{{ end }}
+  </div>
+</div>

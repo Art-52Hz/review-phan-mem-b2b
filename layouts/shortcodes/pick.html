@@ -1,0 +1,13 @@
+{{- /* Quick pick card (23/11/2026). Dung: {{% pick rank="1" label="Best for ..." price="..." renew="..." %}} markdown {{% /pick %}} */ -}}
+<div class="pick-card">
+  <div class="pick-head">
+    {{- with .Get "rank" }}<span class="pick-rank">#{{ . }}</span>{{ end }}
+    <span class="pick-label">{{ .Get "label" }}</span>
+  </div>
+  {{- with .Get "name" }}<div class="pick-name">{{ . }}</div>{{ end }}
+  <div class="pick-price">
+    {{- with .Get "price" }}<span><strong>{{ . }}</strong></span>{{ end }}
+    {{- with .Get "renew" }}<span class="pick-renew">Renews: {{ . }}</span>{{ end }}
+  </div>
+  <div class="pick-body">{{ .Inner }}</div>
+</div>

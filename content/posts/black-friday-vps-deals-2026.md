@@ -18,6 +18,24 @@ cover:
 
 Both providers show a Black Friday VPS offer today, November 19, 2026. Hostinger's 24-month KVM 1 and KVM 2 prices are $6.49 and $8.79 per month; UltaHost's 24-month VPS Basic and Business prices are $4.69 and $8.31. For a four-year budget, include the first renewal: that makes the totals $443.52, $570.72, $245.04 and $434.16 respectively, before optional licenses, taxes or add-ons.
 
+{{< picks checked="Nov 19, 2026" >}}
+{{% pick rank="1" label="Lowest 4-year bill" name="UltaHost VPS Basic" price="$4.69/mo · 24-month term" renew="$5.52/mo" %}}
+Managed VPS. Four-year total with one renewal: $245.04.
+
+**[See UltaHost deal](https://ultahost.com/#art52hz)**
+{{% /pick %}}
+{{% pick rank="2" label="Most RAM for the money" name="Hostinger KVM 2" price="$8.79/mo · $210.96 for 24 months" renew="$14.99/mo" %}}
+2 vCPU, 8 GB RAM, self-managed. Four-year total: $570.72.
+
+**[See Hostinger deal](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+{{% /pick %}}
+{{% pick rank="3" label="Cheapest Hostinger entry" name="Hostinger KVM 1" price="$6.49/mo · $155.76 for 24 months" renew="$11.99/mo" %}}
+1 vCPU, 4 GB RAM. Four-year total: $443.52.
+
+**[See KVM 1 deal](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+{{% /pick %}}
+{{< /picks >}}
+
 **[Compare Hostinger VPS plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
 *Affiliate disclosure: some links are affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).*

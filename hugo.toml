@@ -52,6 +52,11 @@ enableRobotsTXT = true
     url = "/freelancer-tools/"
     weight = 4
   [[menu.main]]
+    identifier = "menu-deals"
+    name = "Deals"
+    url = "/deals/"
+    weight = 5
+  [[menu.main]]
     identifier = "menu-reviews"
     name = "All Reviews"
     url = "/posts/"
@@ -69,6 +74,10 @@ enableRobotsTXT = true
     name = "Contact"
     url = "/contact/"
     weight = 2
+  [[menu.footer]]
+    name = "How We Check Prices"
+    url = "/how-we-check-prices/"
+    weight = 3
   [[menu.footer]]
     name = "Affiliate Disclosure"
     url = "/affiliate-disclosure/"

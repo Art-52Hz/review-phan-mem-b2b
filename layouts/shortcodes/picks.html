@@ -1,0 +1,5 @@
+{{- /* Hop "Quick picks" dau bai, boc cac {{% pick %}} */ -}}
+<section class="quick-picks" aria-label="Quick picks">
+  <div class="qp-title">{{ .Get "title" | default "Quick picks" }}{{ with .Get "checked" }} <span class="qp-checked">· prices checked {{ . }}</span>{{ end }}</div>
+  <div class="qp-grid">{{ .Inner }}</div>
+</section>
