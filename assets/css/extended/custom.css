@@ -318,3 +318,10 @@ aside[aria-label="Related reading"] li a:hover { border-color: var(--accent); co
 .why-trust strong { color: var(--primary); font-size: 15px; }
 .why-trust strong::before { content: "✓ "; color: var(--accent); }
 .why-trust a { color: var(--accent); }
+
+/* Author box (2026-11-23) */
+.author-box { display: flex; gap: 14px; align-items: flex-start; margin: 32px 0 8px; padding: 16px 18px; border: 1px solid var(--border); border-radius: var(--card-radius); background: var(--entry); }
+.author-box img { width: 64px; height: 64px; border-radius: 50%; object-fit: cover; flex: none; }
+.author-box strong { color: var(--primary); }
+.author-box p { margin: 4px 0 0; font-size: 14px; color: var(--secondary); }
+.author-box a { color: var(--accent); }

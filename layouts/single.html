@@ -53,6 +53,15 @@
   </div>
   {{- end }}
 
+  {{- if eq .Section "posts" }}
+  <aside class="author-box" aria-label="About the author">
+    <img src="{{ "images/vincent-pham-author.webp" | relURL }}" alt="Vincent Pham" width="64" height="64" loading="lazy">
+    <div>
+      <strong>Vincent Pham</strong> · Founder and editor, AI Pro Freelancer
+      <p>Vincent compares hosting, AI and SEO tools by their real first invoice and renewal price, checked on official pricing pages. <a href="{{ "about/" | relURL }}">About the site</a> · <a href="{{ "how-we-check-prices/" | relURL }}">How we check prices</a></p>
+    </div>
+  </aside>
+  {{- end }}
   {{- partial "extend_post_content.html" . }}
 
   <footer class="post-footer">
