@@ -277,3 +277,4 @@ aside[aria-label="Related reading"] li a:hover { border-color: var(--accent); co
 .post-content .deal-body p:last-child { margin-top: auto; margin-bottom: 0; }
 .post-content .deal-foot { display: flex; justify-content: space-between; gap: 8px; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); font-size: 13px; color: var(--secondary); }
 .post-content .deal-foot a { color: var(--accent); box-shadow: none; font-weight: 600; }
+.post-content .pick-note { margin-top: 8px; font-size: 12.5px; line-height: 1.4; color: var(--secondary); text-align: center; }

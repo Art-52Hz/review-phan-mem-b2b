@@ -21,6 +21,19 @@ Start with a sample of your actual script, then buy the smallest plan that handl
 
 [Compare ElevenLabs plans](https://try.elevenlabs.io/01vzwhie5ubt).
 
+{{< picks title="Which one should you pick?" checked="Nov 20-23, 2026" >}}
+{{% pick label="Choose ElevenLabs if" name="ElevenLabs Starter" price="$6/mo · billed monthly" note="Monthly billing: no annual commitment. Black Friday: up to 55% off annual plans through Dec 1" %}}
+You want the cheapest first paid voiceover, commercial use and instant voice cloning. Test your real script first.
+
+**[See ElevenLabs plans](https://try.elevenlabs.io/01vzwhie5ubt)**
+{{% /pick %}}
+{{% pick label="Choose Murf if" name="Murf Creator" price="$19/mo · $228 billed yearly" note="Free plan: 10 minutes of voice to test (no downloads, no commercial rights)" %}}
+Your narration goes into Canva or slide decks. 24 hours of voice a year, unlimited downloads and commercial rights.
+
+**[See Murf plans](https://get.murf.ai/hebxeow3cn2z)**
+{{% /pick %}}
+{{< /picks >}}
+
 **Affiliate disclosure:** We may earn a commission from qualifying purchases through the ElevenLabs and Murf links in this article. [Disclosure](/affiliate-disclosure/).
 
 Based on official pricing and help pages checked October 29, 2026; the recommendations below reflect plan fit rather than an audio benchmark.
@@ -81,11 +94,11 @@ Our [Murf trial and delivery checklist](/posts/murf-ai-review-2026/) covers the 
 
 Treat this as a suggested evaluation schedule, not a promised setup time. Have your script ready before starting; account setup can take additional time.
 
-1. **Minutes 0–3: define one shared brief.** Choose a short passage you own or have permission to use. Include a name, a number, specialist vocabulary and a transition between ideas. Write down the target audience and delivery format.
-2. **Minutes 3–7: generate comparable previews.** Keep the wording identical in both tools. Choose voices intended for the same audience. Record the voice names and settings so you can repeat the comparison later.
-3. **Minutes 7–11: correct the difficult sentence.** Try fixing the name or pacing without rewriting the entire brief. Note what you changed, whether the correction worked, and the usage consumed. Leave unavailable observations blank.
-4. **Minutes 11–13: check the handoff.** Inspect the export options for the plan you would buy. In Murf's trial, record the paid export requirement rather than trying to work around it. For an existing paid account, open a permitted export in your intended editor.
-5. **Minutes 13–15: make a purchase decision.** Pick the tool that passes pronunciation, delivery and usage requirements with an editing process you can repeat. If neither passes, revise the brief or keep looking before spending.
+1. **Minutes 0-3: define one shared brief.** Choose a short passage you own or have permission to use. Include a name, a number, specialist vocabulary and a transition between ideas. Write down the target audience and delivery format.
+2. **Minutes 3-7: generate comparable previews.** Keep the wording identical in both tools. Choose voices intended for the same audience. Record the voice names and settings so you can repeat the comparison later.
+3. **Minutes 7-11: correct the difficult sentence.** Try fixing the name or pacing without rewriting the entire brief. Note what you changed, whether the correction worked, and the usage consumed. Leave unavailable observations blank.
+4. **Minutes 11-13: check the handoff.** Inspect the export options for the plan you would buy. In Murf's trial, record the paid export requirement rather than trying to work around it. For an existing paid account, open a permitted export in your intended editor.
+5. **Minutes 13-15: make a purchase decision.** Pick the tool that passes pronunciation, delivery and usage requirements with an editing process you can repeat. If neither passes, revise the brief or keep looking before spending.
 
 [Download the blank voiceover scorecard](/downloads/voiceover-evaluation-scorecard.txt) to keep the comparison consistent. Our [evaluation scorecard guide](/posts/voiceover-evaluation-scorecard/) explains how to separate mandatory delivery checks from listening preferences.
 

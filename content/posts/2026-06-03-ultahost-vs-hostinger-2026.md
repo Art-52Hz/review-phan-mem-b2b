@@ -21,6 +21,19 @@ cover:
 
 **Disclosure:** This page contains UltaHost and Hostinger affiliate links; an eligible purchase may earn us a commission at no extra cost to you.
 
+{{< picks title="Which one should you pick?" checked="Nov 19, 2026" >}}
+{{% pick label="Choose Hostinger if" name="Hostinger KVM 1" price="$6.49/mo · $155.76 for 24 months" renew="$11.99/mo" note="Hostinger advertises a 30-day money-back guarantee (eligibility applies)" %}}
+You manage your own software and want more memory for the price: 1 vCPU, 4 GB RAM, 50 GB NVMe.
+
+**[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+{{% /pick %}}
+{{% pick label="Choose UltaHost if" name="UltaHost VPS Basic" price="$4.69/mo · 24-month term" renew="$5.52/mo" note="Read UltaHost's refund rules for 24-month and promo orders before paying" %}}
+You want a managed server and the lowest four-year bill ($245.04 with one renewal). Confirm support covers your stack.
+
+**[See UltaHost VPS plans](https://ultahost.com/#art52hz)**
+{{% /pick %}}
+{{< /picks >}}
+
 Based on official documentation and USD pricing checked October 28, 2026.
 
 ## Price and specs: compare the actual plans
@@ -69,7 +82,7 @@ The other drawback is the increase from introductory pricing to the displayed re
 
 Choose UltaHost when you value a managed-server offering and can agree on the work it includes. Ask support to distinguish server maintenance from application development. A hosting technician fixing a service configuration and a developer debugging your custom plugin are different jobs; do not promise both to your client without confirmation.
 
-Avoid Basic if your stack's memory or storage requirements exceed its allocation. Also avoid buying solely for the word “managed.” Request an explicit answer about operating-system updates, panel support, application incidents and recovery ownership. Keep that answer with the quote so the client understands what is included.
+Avoid Basic if your stack's memory or storage requirements exceed its allocation. Also avoid buying solely for the word "managed." Request an explicit answer about operating-system updates, panel support, application incidents and recovery ownership. Keep that answer with the quote so the client understands what is included.
 
 [Review UltaHost's available plans](https://ultahost.com/#art52hz) after you have the workload requirements in writing. Pick the smallest suitable configuration with an acceptable support scope, rather than the smallest advertised price.
 
@@ -87,11 +100,11 @@ Before client acceptance, complete the [ownership and handoff checklist](/posts/
 
 Use this initial suitability check after an authorized purchase and provisioning, or on an existing disposable server. It does not promise that account setup, deployment and recovery will all finish within that time.
 
-1. **Minutes 0–3:** Save the plan, region, term, initial payment and renewal. Compare provisioned resources with the quote. Keep credentials out of screenshots.
-2. **Minutes 3–6:** Open the dashboard and establish access using provider instructions. Identify where firewall rules, updates and backups are managed.
-3. **Minutes 6–10:** Deploy a minimal version of your application with synthetic data. Check its runtime, database connection and scheduled task. Record errors before considering an upgrade.
-4. **Minutes 10–13:** Locate backup controls. Read restore warnings and identify an isolated recovery target. Schedule a separate recovery exercise; do not restore over a live client site during this check.
-5. **Minutes 13–15:** List unanswered support questions and decide whether the configuration deserves a longer evaluation. Record what worked and what remains unverified.
+1. **Minutes 0-3:** Save the plan, region, term, initial payment and renewal. Compare provisioned resources with the quote. Keep credentials out of screenshots.
+2. **Minutes 3-6:** Open the dashboard and establish access using provider instructions. Identify where firewall rules, updates and backups are managed.
+3. **Minutes 6-10:** Deploy a minimal version of your application with synthetic data. Check its runtime, database connection and scheduled task. Record errors before considering an upgrade.
+4. **Minutes 10-13:** Locate backup controls. Read restore warnings and identify an isolated recovery target. Schedule a separate recovery exercise; do not restore over a live client site during this check.
+5. **Minutes 13-15:** List unanswered support questions and decide whether the configuration deserves a longer evaluation. Record what worked and what remains unverified.
 
 <!-- FIRST-HAND: cần ảnh hoặc số đo thật: dated redacted invoices, provisioned resource screenshots, identical application deployment logs on both providers, support scope replies, and a separate isolated backup/restore record with observed timings. -->
 

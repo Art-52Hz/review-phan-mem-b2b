@@ -38,8 +38,8 @@ Creator is listed at $99 for the first year. Choose the annual sale only if you 
 
 **[See ElevenLabs sale](https://try.elevenlabs.io/01vzwhie5ubt "affiliate")**
 {{% /deal %}}
-{{% deal name="Murf AI" status="waiting" offer="No sale shown yet · Creator $19/mo billed yearly" checked="Nov 6, 2026" guide="/posts/murf-ai-black-friday-2026/" %}}
-No sale banner or coupon was displayed on the official pricing page when we checked. Creator is $228 billed yearly.
+{{% deal name="Murf AI" status="waiting" offer="No sale shown yet · Creator $19/mo billed yearly" checked="Nov 23, 2026" guide="/posts/murf-ai-black-friday-2026/" %}}
+No sale banner on the official Studio pricing page. Creator is $228 billed yearly (24 hours of voice a year, commercial rights); Business is $792 a year.
 
 **[See Murf plans](https://get.murf.ai/hebxeow3cn2z)**
 {{% /deal %}}
@@ -48,18 +48,18 @@ No sale banner or coupon was displayed on the official pricing page when we chec
 ## Trading and SEO tools
 
 {{< deals >}}
-{{% deal name="TradingView" status="waiting" offer="Sale countdown for Nov 23 · Essential $155.40/yr today" checked="Nov 20, 2026" guide="/posts/tradingview-black-friday-2026/" %}}
-The 2025 sale ran from November 21 with up to 80% off annual plans. Regular annual prices: Plus $359.40, Premium $719.40.
+{{% deal name="TradingView" status="live" offer="Up to 80% off + 1 free month · Premium $252 for 13 months" checked="Nov 23, 2026" guide="/posts/tradingview-black-friday-2026/" %}}
+Black Friday prices for 13 months: Essential $126 (−30%), Plus $251 (−40%), Premium $252 (−70%), Ultimate $576 (−80%). The free month applies to purchases on the website, not the mobile apps. Sale countdown ends around November 28.
 
 **[See TradingView plans](https://www.tradingview.com/?aff_id=1173587)**
 {{% /deal %}}
-{{% deal name="Mangools (KWFinder)" status="waiting" offer="No seasonal offer shown yet" checked="Nov 4, 2026" guide="/posts/mangools-black-friday-2026/" %}}
-Basic fits solo keyword research; Premium adds more daily searches and shared access.
+{{% deal name="Mangools (KWFinder)" status="waiting" offer="No sale shown · Basic $226.20/yr (~35% off monthly)" checked="Nov 23, 2026" guide="/posts/mangools-black-friday-2026/" %}}
+No Black Friday banner on the pricing page. Annual billing already saves about 35%: Basic $226.20 a year, Premium $316.20 a year.
 
 **[See Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**
 {{% /deal %}}
-{{% deal name="Systeme.io" status="waiting" offer="No sale confirmed · Free plan available" checked="Nov 4, 2026" guide="/posts/systeme-io-black-friday-2026/" %}}
-Start on the free plan; move to Startup when your next launch needs paid capacity.
+{{% deal name="Systeme.io" status="waiting" offer="No sale shown · Free plan · Startup $17/mo" checked="Nov 23, 2026" guide="/posts/systeme-io-black-friday-2026/" %}}
+The free plan covers 3 funnels and 2,000 contacts. Startup ($17/mo) raises that to 10 funnels and 5,000 contacts.
 
 **[See Systeme.io plans](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
 {{% /deal %}}

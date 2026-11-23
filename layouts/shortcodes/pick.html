@@ -1,4 +1,5 @@
-{{- /* Quick pick card (23/11/2026). Dung: {{% pick rank="1" label="Best for ..." price="..." renew="..." %}} markdown {{% /pick %}} */ -}}
+{{- /* Quick pick card (23/11/2026). Dung: {{% pick rank="1" label="Best for ..." name="..." price="..." renew="..." note="30-day money-back" %}} markdown {{% /pick %}}
+   note = dong "giam rui ro" ngay duoi nut (hoan tien, mien phi thu) — chi ghi dieu da kiem tren trang chinh thuc. */ -}}
 <div class="pick-card">
   <div class="pick-head">
     {{- with .Get "rank" }}<span class="pick-rank">#{{ . }}</span>{{ end }}
@@ -10,4 +11,5 @@
     {{- with .Get "renew" }}<span class="pick-renew">Renews: {{ . }}</span>{{ end }}
   </div>
   <div class="pick-body">{{ .Inner }}</div>
+  {{- with .Get "note" }}<div class="pick-note">✓ {{ . }}</div>{{ end }}
 </div>
