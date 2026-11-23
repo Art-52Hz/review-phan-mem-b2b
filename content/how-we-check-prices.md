@@ -22,7 +22,7 @@ AI Pro Freelancer compares software for freelancers on one question: **what will
 
 ## What we don't claim
 
-- **We don't publish speed or uptime tests we didn't run.** Where we haven't measured performance, we say so and tell you how to test it yourself during a trial or refund window.
+- **Benchmarks come from published test runs.** Where an article shows CPU, disk or network numbers, they come from published independent benchmarks of that exact plan, with the test date and a link to the data. We don't claim speed or uptime results as our own, and we tell you how to check performance yourself during a refund window.
 - **We don't invent coupon codes or "verified" counters.** If a deal needs no code, we link to the offer. If there is no sale, our [deals page](/deals/) says "Not live yet".
 - **Rankings aren't paid.** Providers can't buy a position. Some links earn us a commission (see our [affiliate disclosure](/affiliate-disclosure/)), and we include plans with no affiliate link when they fit better.
 

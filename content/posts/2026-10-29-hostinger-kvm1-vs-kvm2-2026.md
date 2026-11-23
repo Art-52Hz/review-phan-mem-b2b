@@ -20,6 +20,20 @@ cover:
 **At the verified Black Friday prices, KVM 2 costs $55.20 more for the first 24 months. Buy that headroom when overlapping work justifies it.**
 **[Compare Hostinger KVM plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
+{{< tests source="VPSBenchmarks" url="https://www.vpsbenchmarks.com/hosters/hostinger" >}}
+2026 benchmarks of both plans show the gap is mostly CPU: KVM 2 has two cores and scored about 3x on Geekbench 6 multi-core. Single-core speed, which drives one-process workloads, was about 1.6x higher on KVM 2 in these single test runs, taken on different dates and locations.
+
+| Measure | Hostinger KVM 1 | Hostinger KVM 2 |
+| --- | --- | --- |
+| Test date and location | May 28, 2026, Manchester, UK | Oct 10, 2026, Dusseldorf, Germany |
+| CPU (as reported) | 1 core, AMD EPYC 9354P | 2 cores, AMD EPYC 9355P |
+| Geekbench 6 single / multi-core | 1621 / 1559 | 2602 / 4756 |
+| Disk, 4k random read+write | 320.3 MB/s (80k IOPS) | 484.8 MB/s (121k IOPS) |
+| Disk, 64k read+write | 2680.1 MB/s | 4429.0 MB/s |
+| Network download from New York | 954 Mbit/s | 783 Mbit/s |
+| Overall performance score | 36 / 100 | 60 / 100 |
+{{< /tests >}}
+
 *Affiliate disclosure: purchase links in this article are referral links. We may earn a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
 > **Black Friday 2026:** The official seasonal page currently lists the same introductory prices as the regular VPS page. Do not assume the seasonal label adds another discount. Our [Hostinger Black Friday VPS guide](/posts/hostinger-black-friday-vps-2026/) covers the wider offer.

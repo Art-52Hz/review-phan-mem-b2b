@@ -1,0 +1,8 @@
+{{- /* Ket qua benchmark (23/11/2026). Chu muon khong noi bat ten nguon trong chu; giu 1 dong nguon nho cuoi khung
+   (khong ghi nguon = ngam nhan la minh test -> sai su that, cam theo AGENTS.md). Khong viet "we tested".
+   Dung: {{< tests source="..." url="https://..." %}} bang markdown {{< /tests >}} */ -}}
+<section class="tests-box" aria-label="Benchmark results">
+  <div class="tests-title">Benchmark results</div>
+  <div class="tests-body">{{ .Inner | .Page.RenderString }}</div>
+  <div class="tests-foot">Data: <a href="{{ .Get "url" }}" rel="nofollow noopener" target="_blank">{{ .Get "source" }}</a></div>
+</section>

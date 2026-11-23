@@ -32,6 +32,21 @@ Hostinger's Black Friday 2026 VPS sale is live, but the public USD prices checke
 {{% /pick %}}
 {{< /picks >}}
 
+{{< tests source="VPSBenchmarks" url="https://www.vpsbenchmarks.com/hosters/hostinger" >}}
+2026 benchmarks of both plans: KVM 2 scored roughly 3x KVM 1 on multi-core CPU and about 1.5x on disk, which matters for an app plus a database. Network speed was similar.
+
+| Measure | Hostinger KVM 1 | Hostinger KVM 2 |
+| --- | --- | --- |
+| Test date and location | May 28, 2026, Manchester, UK | Oct 10, 2026, Dusseldorf, Germany |
+| CPU (as reported) | 1 core, AMD EPYC 9354P | 2 cores, AMD EPYC 9355P |
+| Geekbench 6 single / multi-core | 1621 / 1559 | 2602 / 4756 |
+| Disk, 4k random read+write | 320.3 MB/s (80k IOPS) | 484.8 MB/s (121k IOPS) |
+| Disk, 64k read+write | 2680.1 MB/s | 4429.0 MB/s |
+| Network download from New York | 954 Mbit/s | 783 Mbit/s |
+| Overall performance score | 36 / 100 | 60 / 100 |
+{{< /tests >}}
+
+
 **[Compare Hostinger plans through our referral link](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
 *Affiliate disclosure: qualifying purchases through our referral links may earn us a commission at no extra cost to you.*
