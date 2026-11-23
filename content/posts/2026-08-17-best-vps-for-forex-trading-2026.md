@@ -1,7 +1,7 @@
 ---
 title: "Best Forex VPS 2026: MT4/MT5 Specs and Prices"
 date: 2026-08-17
-lastmod: 2026-10-28
+lastmod: 2026-11-21
 slug: "best-vps-for-forex-trading-2026"
 aliases: ["/posts/cheapest-vps-for-mt4/"]
 summary: "Check platform compatibility, the full invoice, operating responsibility and recovery before choosing infrastructure for a trading terminal."
@@ -17,141 +17,84 @@ cover:
   relative: false
 ---
 
-**Best for a Windows MT4/MT5 shortlist: UltaHost Windows VPS, subject to broker and plug-in compatibility.**
-Pick Hostinger instead if you deliberately want Linux and can maintain a Wine-based terminal installation.
-For a conventional Windows remote desktop, compare Windows plans first.
+**For a Windows MT4/MT5 terminal, shortlist UltaHost Basic Windows VPS at $16.10 per month on its displayed 24-month term; choose Business at $24.14 only when your measured workload needs 4 GB RAM. For a Linux setup you can operate yourself, Hostinger KVM 1 is $155.76 prepaid for 24 months, then renews at $11.99 per month for another 24 months. Neither provider publishes a broker-specific latency result, so test the actual demo terminal and broker route before committing.**
 
-Compare operating-system and remote-access costs with our [Windows VPS buying guide](/posts/best-windows-vps-hosting-2026/) before matching a quote to your terminal requirements.
+Prices, specifications and refund terms below were checked on November 21, 2026. Prices are USD before any tax shown at checkout. See our [Windows VPS guide](/posts/best-windows-vps-hosting-2026/) for OS and license checks, and our [VPS under $10 guide](/posts/best-vps-under-10-dollars-2026/) for lower-cost Linux plans.
 
-For an MT4-only budget, compare minimum requirements, prepaid totals and renewal costs in our [cheapest VPS for MT4 guide](/posts/best-vps-for-forex-trading-2026/).
-
-**[See UltaHost plans](https://ultahost.com/#art52hz)**
+**[See UltaHost Windows VPS options](https://ultahost.com/#art52hz)**
 
 *Affiliate disclosure: Some links are affiliate or referral links. We may earn a commission from eligible purchases.*
 
-Based on official documentation and advertised pricing checked October 28, 2026; this compares infrastructure, not trading returns.
+## MT4 and MT5 VPS plans compared
 
-## MT4/MT5 specs and prices compared
-
-Compare operating environments before headline prices. The cheapest Linux server is not automatically the cheapest usable Windows desktop. These are advertised resources, not measured terminal capacities.
-
-| Plan | Advertised USD price and term | CPU / RAM / storage | Free trial or refund | Best fit / main limit |
+| Plan | First bill and term | Renewal | Advertised resources | Main fit and limitation |
 | --- | --- | --- | --- | --- |
-| UltaHost Basic Windows VPS | $16.10/month equivalent on displayed two-year plan; card says renews at $16.10/month for two years | 2 CPU cores / 2 GB / 50 GB NVMe | No free trial established; conditional refund policy | Windows demo shortlist; capacity needs measuring |
-| UltaHost Business Windows VPS | $24.14/month equivalent on displayed two-year plan; card says renews at $24.14/month for two years | 2 CPU cores / 4 GB / 80 GB NVMe | Same conditional policy | More memory than Basic; no guaranteed terminal count |
-| Hostinger KVM 1 | $6.49/month equivalent; $155.76 prepaid for 24 months; renews at $11.99/month for same term | 1 vCPU / 4 GB / 50 GB NVMe | Advertised 30-day money-back guarantee, subject to eligibility | Linux with Wine; no Windows VPS template |
-| Hostinger KVM 2 | $8.79/month equivalent; $210.96 prepaid for 24 months; renews at $14.99/month for same term | 2 vCPU / 8 GB / 100 GB NVMe | Same advertised guarantee | More Linux capacity; software compatibility still needs checking |
+| UltaHost Basic Windows VPS | $386.40 for 24 months at $16.10/mo | $386.40 for the next 24 months at the displayed same rate | 2 CPU cores, 2 GB DDR5 RAM, 50 GB NVMe | Windows image and managed server; confirm the exact Windows license and terminal support in the order |
+| UltaHost Business Windows VPS | $579.36 for 24 months at $24.14/mo | $579.36 for the next 24 months at the displayed same rate | 2 CPU cores, 4 GB DDR5 RAM, 80 GB NVMe | More memory, same core count; use only if your demo workload needs it |
+| Hostinger KVM 1 | $155.76 prepaid for 24 months, or $6.49/mo equivalent | $287.76 prepaid for the next 24 months at $11.99/mo | 1 vCPU, 4 GB RAM, 50 GB NVMe | Linux only; MT5 has a Wine guide, but check broker build and extensions |
+| Hostinger KVM 2 | $210.96 prepaid for 24 months, or $8.79/mo equivalent | $359.76 prepaid for the next 24 months at $14.99/mo | 2 vCPU, 8 GB RAM, 100 GB NVMe | Linux only; more capacity than KVM 1, not a Windows substitute |
 
-Table sources, checked October 28, 2026: [UltaHost Windows pricing cards](https://ultahost.com/windows-hosting#art52hz), [Hostinger VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger OS documentation](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost refund policy](https://ultahost.com/refund#art52hz).
+UltaHost's Windows page shows plan cards with the prices and 2-year renewal rates above, but a separate comparison table on the same page shows Basic at $20.29/mo and Business at $29.39/mo. Treat that conflict as unresolved and confirm the exact checkout total before paying. The page lists managed Windows VPS, but the current price table does not itemize a Windows license charge. Do not assume a separately required license is included until the order confirms it.
 
-UltaHost displays conflicting prices: its hero shows $16.24/month, while a lower comparison table lists Basic at $20.29/month. The table above uses named plan cards with explicit terms and renewals. Confirm the final invoice, Windows license inclusion and tax before buying. Hostinger's monthly equivalents require the stated upfront payment, rather than monthly billing.
+Hostinger says its VPS templates are Linux. Its displayed 24-month plans are paid upfront; renewal is also prepaid for 24 months. No extra paid license or add-on is required for the listed Linux configuration. Wine compatibility is workload-specific, and Hostinger does not list a Windows template.
 
-## Who should choose UltaHost / who should not
+Official sources: [UltaHost Windows plan cards and specifications](https://ultahost.com/windows-vps#art52hz), [Hostinger KVM VPS prices and terms](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger server OS support](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost refund policy](https://ultahost.com/refund#art52hz), all checked November 21, 2026. MetaQuotes' [MT5 installation guide for Linux](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux) explains the Wine route; it does not guarantee every broker build or EA will work.
 
-**Choose UltaHost's Windows route if** you want a remote desktop for your broker terminal without maintaining Wine. It is the more direct Windows candidate in this comparison. Ask for the exact image, licensing and application support scope on the order.
+## What you actually pay over 12, 24 or 36 months
 
-**Do not choose it solely because it says managed.** Establish who owns terminal updates, plug-in failures, reboots and EA recovery. The inconsistent advertised prices also make written billing confirmation essential before a long commitment.
+These totals show cash invoiced by each milestone, not a misleading monthly equivalent. Hosts sell these offers on 24-month billing, so the 12-month column still includes the full first 24-month payment. The 36-month total includes a second 24-month renewal invoice even though 12 months of that renewal extend beyond month 36. It excludes tax, optional services, and any license fee that is not itemized in the official offer.
 
-The [refund policy checked October 28, 2026](https://ultahost.com/refund#art52hz) excludes yearly, biennial and triennial VPS refunds, limits eligibility to a first qualifying package, and excludes promotional purchases and specified payment methods including cryptocurrency. A guarantee badge is not a free trial. Confirm eligibility for your exact order.
+| Plan | Cash billed by month 12 | Cash billed by month 24 | Cash billed by month 36 | Published term and included-cost notes |
+| --- | ---: | ---: | ---: | --- |
+| UltaHost Basic Windows | $386.40 | $386.40 | $772.80 | 24-month first bill and same-rate 24-month renewal; Windows licensing not separately itemized |
+| UltaHost Business Windows | $579.36 | $579.36 | $1,158.72 | 24-month first bill and same-rate 24-month renewal; Windows licensing not separately itemized |
+| Hostinger KVM 1 | $155.76 | $155.76 | $443.52 | $155.76 first bill plus $287.76 renewal invoice at month 24; Linux configuration, no required paid add-on listed |
+| Hostinger KVM 2 | $210.96 | $210.96 | $570.72 | $210.96 first bill plus $359.76 renewal invoice at month 24; Linux configuration, no required paid add-on listed |
 
-## Who should choose Hostinger / who should not
+For a strict 12-month maximum commitment, neither listed 24-month offer supplies a 12-month invoice. Ask for a monthly quote and calculate from that checkout instead. UltaHost's [refund policy](https://ultahost.com/refund#art52hz), checked November 21, 2026, gives new VPS plans a 30-day window and prorates longer terms by the days used; that is a conditional refund rule, not a 12-month purchase option. Hostinger advertises a 30-day money-back guarantee; check its eligibility terms for your order.
 
-**Choose Hostinger if** you already administer Linux and can validate the terminal and its dependencies. Its lower advertised entry price makes it a budget candidate for that workflow, rather than a substitute for Windows licensing.
+## Which one should you pick?
 
-Hostinger explicitly offers only Linux VPS templates. MetaQuotes documents installing MT5 through Wine; that does not establish compatibility for every broker build or MT4 extension. Sources: [Hostinger OS restrictions](https://www.hostinger.com/support/which-server-capabilities-are-supported-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) and [MetaQuotes Linux installation guide](https://www.metatrader5.com/en/terminal/help/start_advanced/install_linux), checked October 28, 2026.
+- **You need Windows because your broker or EA requires it:** choose UltaHost Basic only after the checkout confirms the Windows image, license, and $386.40 total. Move to Business only if a representative demo workload shows 2 GB is insufficient.
+- **You already manage Linux and want the lowest published 24-month bill:** choose Hostinger KVM 1 at $155.76 upfront, then validate your exact MT4/MT5 build, Wine dependencies, and EA on a demo account.
+- **You run several terminals or memory-heavy charts on Linux:** shortlist Hostinger KVM 2 at $210.96 upfront, then measure RAM and CPU with all intended instances active before you decide.
+- **You need to spend at most one year before deciding:** get a monthly quote from both providers; do not treat the 24-month price divided by 12 as a one-year plan.
+- **You only need browser charts and notifications:** skip a VPS for now. TradingView processes alerts on its servers; read our [TradingView for forex guide](/posts/tradingview-for-forex-traders/) before paying for extra infrastructure.
 
-**Do not choose Hostinger if** your requirement is a supported Windows image or nobody can maintain Linux and Wine updates. Cheap infrastructure loses its appeal when application recovery has no owner.
+**[Compare Hostinger plans for a Linux terminal setup](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
 
-**[Compare Hostinger plans for a Linux setup](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+## Measure compatibility before buying
 
-## Charting does not need a VPS
+Ask your broker for the trading-server endpoint and supported operating systems. Install the exact terminal build and plug-ins on a demo account, then check CPU and RAM with every intended chart and EA active. Record the terminal's own connection reading at busy and quiet times; a city label or a ping to a general website does not establish latency to your broker.
 
-A VPS is for software that must keep running when your computer is off: an MT4/MT5 terminal with an Expert Advisor, a bot or a copier. Chart analysis is different. TradingView runs in the browser and its alerts are processed on TradingView's servers, so you do not need to rent a server only to watch charts or get price alerts.
-
-Many traders split the job: TradingView for charts and alerts, a small VPS for the terminal that executes. TradingView has a free plan; paid plans (Essential, Plus, Premium, Ultimate) add more indicators per chart, more alerts and, on the plan table, webhook alerts that a bot on your VPS can receive. Our [TradingView plan comparison](/posts/tradingview-plans-explained-2026/) lists which plan includes webhooks and how many alerts each tier allows.
-
-**[See TradingView plans (new subscribers get a $15 discount through this link)](https://www.tradingview.com/?aff_id=1173587)**
-
-## Start with the application, not a provider ranking
-
-Write down the exact terminal version, operating system, number of application instances, plug-ins and intended workload. Ask the application publisher and your broker which deployment environments they support. A generic VPS product name does not prove that a particular Windows image, license or application is included.
-
-If nobody can maintain the environment, resolve that operating responsibility before choosing a plan. A remote server introduces its own access, update and recovery tasks.
-
-## Collect these answers before checkout
-
-| Decision | Evidence to collect | Leave unresolved until confirmed |
-| --- | --- | --- |
-| Application compatibility | Publisher requirements and the provider's exact OS image/version | Support for your terminal and plug-ins |
-| Windows licensing | Written quote describing license inclusion and renewal | Whether the advertised base price covers Windows |
-| Capacity | Demo workload measurements with your intended instances | Required RAM, CPU and storage; no universal 2 GB rule |
-| Connectivity | Broker endpoint confirmation and a dated test from the proposed server | End-to-end latency, packet loss and stability |
-| Availability | SLA wording, exclusions, maintenance policy and remedy | Actual observed uptime or uninterrupted application operation |
-| Operating owner | Named person responsible for updates, access and alerts | Whether provider support includes application recovery |
-| Recovery | Backup scope, restore process and a recorded rehearsal | Whether restoring files also restores a usable application |
-| Total cost | Checkout and renewal invoice including licenses and add-ons | Monthly cost, refund eligibility and cancellation terms |
-
-A location label or a provider's network advertisement is not a measurement of your path to a broker. Record the endpoint, test time and method; do not infer order execution quality from a network test alone.
-
-## Read “managed” as a written scope
-
-Ask who handles operating-system updates, application updates, access failures, reboots, backup checks and incident escalation. An infrastructure SLA and application monitoring describe different responsibilities. Do not assume a terminal or automation will restart correctly after an update.
-
-Hostinger's [self-managed VPS documentation](https://www.hostinger.com/support/8852150-what-is-a-self-managed-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) describes the split between provider infrastructure and user software responsibility. Read its [backup and restore documentation](https://www.hostinger.com/support/1583232-how-to-back-up-or-restore-a-vps-at-hostinger/?REFERRALCODE=ACFTUNGSAAEO) separately before relying on recovery. These documents do not establish that a quoted plan supports your application or Windows requirements.
-
-See our [managed WordPress and self-managed VPS responsibility guide](/posts/managed-wordpress-vps-hosting-2026/) for an example of assigning operating tasks. WordPress-specific management is not equivalent to managing a trading terminal.
-
-## How to test it yourself in 15 minutes
-
-Use this initial smoke test after provisioning and installation, with a demo account ready. Setup and downloads can take longer. Keep live trading disabled.
-
-1. **Minutes 0–3:** Record the OS, terminal build, location and assigned resources. Check that they match the order and broker requirements.
-2. **Minutes 3–6:** Load intended charts and indicators. Inspect terminal and EA logs for connection errors or missing dependencies.
-3. **Minutes 6–9:** Inspect CPU, memory and storage use with the intended workload active. Save a dated screenshot with account identifiers hidden.
-4. **Minutes 9–12:** Disconnect the remote desktop without signing out, reconnect, and inspect the application and logs. Distinguish a closed remote window from logging out of the server.
-5. **Minutes 12–15:** Identify the backup, access recovery route and alert owner. Schedule a separate demo restart and restore rehearsal; this smoke test cannot establish long-term availability.
-
-<!-- FIRST-HAND: cần ảnh hoặc số đo thật: dated plan/invoice screenshots, OS and terminal builds, redacted demo logs, resource monitor with documented chart/EA workload, broker endpoint connectivity method, remote-session reconnection, and separate restart/restore rehearsal. -->
-
-Use a demo account and a bounded test plan. Record application compatibility, resource consumption, connectivity and what happens during a planned restart. Check whether the application returns to the expected state and whether the designated operator receives an alert when it does not.
-
-Keep a recovery record with the operator, access recovery route, backup location and support contact. Do not put broker credentials or account details in a shared worksheet. A successful demo test only supports the tested configuration and period; it does not establish future uptime, profitable trading or live execution quality.
-
-## Which plan should you shortlist?
-
-For a Windows terminal, shortlist UltaHost and resolve the license, invoice and refund eligibility first. Consider Basic after a representative demo workload fits; compare Business when memory is the bottleneck. For an intentionally maintained Linux setup, Hostinger is the lower advertised entry-price alternative here.
-
-Read [UltaHost's terms](https://ultahost.com/terms) and [refund policy](https://ultahost.com/refund#art52hz) before checkout. Payment methods can affect refund eligibility; do not treat crypto payment as proof of anonymity or a refundable trial.
-
-**[Start with UltaHost's plan comparison](https://ultahost.com/#art52hz)**
+Also assign an owner for Windows/Linux updates, terminal restart, access recovery and backup restoration. A managed-server label does not itself promise application-level recovery. UltaHost's [refund policy](https://ultahost.com/refund#art52hz) describes a first-payment refund window for new VPS service, with exclusions and conditions; read it alongside the exact offer. Hostinger lists a 30-day money-back guarantee on its VPS page. Neither refund offer is a free test environment.
 
 ## Frequently asked questions
 
-These questions address buying concerns covered by official provider FAQs and platform documentation; they are not presented as Search Console query data.
+These are recurring buyer questions in [Reddit's Forex VPS discussion](https://www.reddit.com/r/Forex/comments/1pwp0ha/could_you_please_advise_which_vps_server_is_best/) and [MetaTrader VPS threads](https://www.reddit.com/r/metatrader/comments/1hemwni/), checked November 21, 2026. Forum comments are prompts for the checks below, not proof of provider performance.
 
-### How much memory should I buy?
+### What is a good VPS location for my broker?
 
-Use the application publisher's requirements and measurements from your intended demo workload. We have no measurements that justify a universal memory recommendation for multiple terminals, plug-ins or automation.
+Ask the broker where your account's trading server runs, then compare from the provisioned VPS to that endpoint. The broker's office location is not necessarily its trading-server location.
 
-### Does an uptime SLA keep my terminal running?
+### How much RAM do I need for MT4 or MT5?
 
-Review exactly what the SLA covers and what remedy it offers. Separately assign application monitoring, restart testing and recovery. Infrastructure availability does not establish that a terminal or EA remains in its expected state.
+There is no universal number for every terminal and EA mix. Start with the vendor's requirements, run your full demo workload, and choose the smallest plan that keeps memory headroom during active periods.
 
-### Is a nearby data center enough?
+### Is a VPS necessary for forex trading?
 
-Confirm the actual broker endpoint and test the proposed route. City names alone do not prove latency or execution quality.
+No. It helps when a terminal or EA needs to stay online while your own computer is off. It is unnecessary for chart viewing or alerts already delivered by TradingView.
 
-### Is MetaTrader virtual hosting a Windows VPS?
+### Can I run MT4 or MT5 on a Linux VPS?
 
-No. MetaQuotes describes migration of a configured trading environment, including restrictions on DLL calls and scripts. That can rule out an EA with external dependencies. Read the [official migration requirements](https://www.metatrader5.com/en/terminal/help/virtual_hosting/virtual_hosting_migration), checked October 28, 2026, before treating it as interchangeable with a general remote desktop.
+MetaQuotes documents a Wine-based MT5 installation, but that does not confirm your broker's build, MT4, or every EA will work. Test your exact setup before buying a long term.
 
-### Can I use a Linux VPS for MT4 or MT5?
+### Is a Forex VPS's low-latency claim enough to choose it?
 
-MT5 has an official Wine-based installation guide. Validate your broker build and extensions before paying for a long term. For MT4, obtain the applicable instructions from the broker or platform publisher instead of assuming MT5 guidance covers it. Prefer a Windows shortlist when your software requires Windows.
+No. Request the trading-server endpoint and measure from the actual VPS. A provider's general network claim does not show your route or execution result.
 
-## Related infrastructure guides
+## Related guides
 
-- [Windows VPS: licensing and access checklist](/posts/best-windows-vps-hosting-2026/)
-- [VPS under $10: check the full invoice](/posts/best-vps-under-10-dollars-2026/)
-- [Crypto VPS payments: cost and refund checks](/posts/cheapest-vps-crypto-payment-2026/)
-- [UltaHost: documentation-based buying guide](/posts/ultahost-vps-review/)
+- [Windows VPS buying guide: licenses and access](/posts/best-windows-vps-hosting-2026/)
+- [TradingView for forex traders: charts and alerts](/posts/tradingview-for-forex-traders/)
+- [TradingView webhook alerts and a VPS bot](/posts/tradingview-webhook-alerts-bot-vps-2026/)
