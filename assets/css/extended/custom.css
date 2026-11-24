@@ -325,3 +325,56 @@ aside[aria-label="Related reading"] li a:hover { border-color: var(--accent); co
 .author-box strong { color: var(--primary); }
 .author-box p { margin: 4px 0 0; font-size: 14px; color: var(--secondary); }
 .author-box a { color: var(--accent); }
+
+/* ===== 24/11/2026: pro polish (header 1 hang, footer nhieu cot, quick picks dang hang, can le list) ===== */
+@media (min-width: 1000px) {
+  .header-nav { flex-wrap: nowrap; align-items: center; }
+  #menu { flex-wrap: nowrap; gap: 4px; }
+  #menu li + li { margin-left: 0; }
+  #menu a { font-size: 15px; padding: 0 9px; }
+}
+#menu a[href$="/deals/"] {
+  display: inline-flex; align-items: center; line-height: 1; padding: 8px 14px; margin-left: 6px;
+  border-radius: 999px; background: var(--warm); color: #1f1300; font-weight: 700; border: 0;
+}
+#menu a[href$="/deals/"]:hover { background: #fbbf24; color: #1f1300; }
+#menu a[href$="/deals/"] span { border: 0 !important; }
+@media (max-width: 999px) {
+  #menu { -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent); mask-image: linear-gradient(90deg, #000 85%, transparent); padding-right: 24px; }
+  #menu a { font-size: 15px; }
+}
+
+/* Footer */
+.site-footer { max-width: calc(1140px + var(--gap) * 2); margin: 56px auto 0; padding: 40px var(--gap) 24px;
+  border-top: 1px solid var(--border); text-align: left; font-size: 14px; color: var(--secondary); }
+.site-footer a { color: var(--secondary); text-decoration: none; box-shadow: none; }
+.site-footer a:hover { color: var(--accent); }
+.sf-grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 32px; }
+.sf-brand p { margin: 10px 0 0; line-height: 1.6; max-width: 340px; }
+.sf-logo { display: inline-flex; align-items: center; gap: 8px; font-weight: 800; font-size: 17px; color: var(--primary) !important; }
+.sf-logo img { border-radius: 7px; }
+.sf-contact a { color: var(--accent); font-weight: 600; }
+.sf-col { display: flex; flex-direction: column; gap: 9px; }
+.sf-col h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--primary); margin: 0 0 4px; }
+.sf-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; margin-top: 32px;
+  padding-top: 18px; border-top: 1px solid var(--border); font-size: 13px; }
+.sf-legal a { text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 760px) {
+  .sf-grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+  .sf-brand { grid-column: 1 / -1; }
+}
+
+/* Quick picks: moi lua chon 1 hang ngang (khong vo luoi 3+1) */
+.post-content .qp-grid { grid-template-columns: 1fr; }
+.post-content .pick-card { display: grid; grid-template-columns: minmax(180px, 0.85fr) 1.6fr; column-gap: 22px; align-items: start; }
+.post-content .pick-card > .pick-head, .post-content .pick-card > .pick-name, .post-content .pick-card > .pick-price { grid-column: 1; }
+.post-content .pick-card > .pick-body, .post-content .pick-card > .pick-note { grid-column: 2; }
+.post-content .pick-card > .pick-body { grid-row: 1 / span 3; }
+.post-content .pick-body p:last-child { margin-top: 10px; }
+@media (max-width: 640px) {
+  .post-content .pick-card { grid-template-columns: 1fr; }
+  .post-content .pick-card > * { grid-column: 1 !important; grid-row: auto !important; }
+}
+
+/* List pages: tieu de thang le voi luoi the */
+.list .page-header { max-width: none; margin-left: 0; }

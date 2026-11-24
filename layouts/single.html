@@ -31,7 +31,6 @@
     {{- if and (eq .Section "posts") (not (.Param "hideMeta")) }}
     <div class="trust-bar">
       <span class="trust-item"><strong>Prices checked:</strong> {{ (.Lastmod | default .Date).Format "Jan 2, 2006" }}</span>
-      <span class="trust-item">By {{ site.Params.author }}</span>
       <a class="trust-item" href="{{ "how-we-check-prices/" | relURL }}">How we check prices</a>
       {{- if in .Content "data-affiliate=\"true\"" }}
       <a class="trust-item trust-aff" href="{{ "affiliate-disclosure/" | relURL }}">Contains affiliate links</a>
