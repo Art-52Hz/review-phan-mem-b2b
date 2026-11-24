@@ -378,3 +378,9 @@ aside[aria-label="Related reading"] li a:hover { border-color: var(--accent); co
 
 /* List pages: tieu de thang le voi luoi the */
 .list .page-header { max-width: none; margin-left: 0; }
+
+/* Anh thumb rieng tung bai (24/11/2026) */
+.card-thumb.has-img { aspect-ratio: 1200 / 630; background: var(--code-bg); overflow: hidden; }
+.card-thumb.has-img img { width: 100%; height: 100%; object-fit: cover; display: block; margin: 0; border-radius: 0; transition: transform .3s; }
+.post-grid .post-entry.card:hover .card-thumb.has-img img { transform: scale(1.03); }
+.featured .card-thumb.has-img { aspect-ratio: 1200 / 630; }

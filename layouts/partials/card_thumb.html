@@ -1,3 +1,9 @@
+{{- /* 24/11/2026: anh thumb rieng tung bai (tools/thumbs/gen_thumbs.py); khong co thi dung gradient + icon ben duoi */ -}}
+{{- $key := .Params.slug | default (cond (ne .File nil) .File.ContentBaseName "") -}}
+{{- $img := printf "images/thumbs/%s.webp" $key -}}
+{{- if and $key (fileExists (printf "static/%s" $img)) -}}
+<div class="card-thumb has-img"><img src="{{ $img | relURL }}" alt="{{ .Title }}" width="1200" height="630" loading="lazy" decoding="async"></div>
+{{- else -}}
 {{- /* Card thumbnail: topic gradient + line icon. Avoids repeating shared cover images in lists. */ -}}
 {{- $t := lower (printf "%s %s %s" .Title (delimit (.Params.tags | default slice) " ") (delimit (.Params.categories | default slice) " ")) -}}
 {{- $topic := "ai" -}}
@@ -29,3 +35,4 @@
   {{- end }}
   </svg>
 </div>
+{{- end -}}
