@@ -26,7 +26,7 @@
     if (target.protocol !== "https:" || target.hostname === window.location.hostname) return;
     var programs = {
       "mangools.com": "mangools", "get.murf.ai": "murf",
-      "try.elevenlabs.io": "elevenlabs", "beautifulai.partnerlinks.io": "beautifulai",
+      "try.elevenlabs.io": "elevenlabs", "get.surfshark.net": "surfshark", "beautifulai.partnerlinks.io": "beautifulai",
       "ultahost.com": "ultahost", "www.hostinger.com": "hostinger",
       "systeme.io": "systeme", "www.tradingview.com": "tradingview",
       "seranking.com": "seranking"

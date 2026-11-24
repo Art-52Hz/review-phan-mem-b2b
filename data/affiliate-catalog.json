@@ -346,6 +346,37 @@
         "checked_at": "2026-11-18",
         "note": "SubID support not established; left blank."
       }
+    },
+    {
+      "program_id": "surfshark",
+      "offer_id": "vpn",
+      "label": "Surfshark VPN",
+      "source_url": "https://surfshark.com/",
+      "evidence": {
+        "source_url": "https://surfshark.hasoffers.com/publisher/#!/offer/926 (signed-in affiliate dashboard)",
+        "captured_at": "2026-11-25",
+        "note": "Affiliate account approved 03/07/2026 (TUNE/HasOffers, affiliate 47975). Offer 926 'Surfshark VPN NEW': 40% CPA + CPS. Tracking link copied from dashboard; redirects to surfshark.com/deals with affiliate_id=47975."
+      },
+      "commission": {
+        "kind": "percent",
+        "value": "40",
+        "currency": null
+      },
+      "cookie_days": 30,
+      "keywords": [
+        "NordVPN vs Surfshark",
+        "best VPN for freelancers",
+        "Surfshark deal"
+      ],
+      "intent": "comparison",
+      "status": "approved",
+      "referral_url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=47975",
+      "subid_parameter": "aff_sub",
+      "subid_documentation": {
+        "source_url": "https://get.surfshark.net/aff_c?offer_id=926&aff_id=47975",
+        "checked_at": "2026-11-25",
+        "note": "Redirect carries an empty aff_sub parameter (HasOffers standard); not tested further."
+      }
     }
   ]
 }

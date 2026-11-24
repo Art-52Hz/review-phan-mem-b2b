@@ -73,7 +73,8 @@ If a mandatory requirement fails, resolve it before committing to a longer subsc
 
 - [Inspect NordVPN's current plans](https://nordvpn.com/pricing/)
 - [Inspect Surfshark's current plans](https://surfshark.com/pricing)
+- [See Surfshark's current deal](https://get.surfshark.net/aff_c?offer_id=926&aff_id=47975 "affiliate") (affiliate link; check the plan length and renewal price on the checkout page)
 - [Read the NordVPN buying checklist](/posts/nordvpn-review-2026/)
 - [Include setup and maintenance in the project budget](/posts/freelance-tool-project-cost/)
 
-**Disclosure:** These are ordinary vendor links, not verified affiliate links. This comparison reports no measured speed, streaming result, customer conversion or independent security audit.
+**Disclosure:** The "See Surfshark's current deal" link is an affiliate link: we may earn a commission if you buy through it, at no extra cost to you. The other vendor links are ordinary links. [Read our disclosure](/affiliate-disclosure/). This comparison reports no measured speed, streaming result, customer conversion or independent security audit.
