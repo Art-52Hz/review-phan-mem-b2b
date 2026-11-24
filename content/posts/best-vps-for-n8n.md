@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "n8n", "automation"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering access, backups and recovery for automation"
+  image: "/images/thumbs/best-vps-for-n8n.webp"
+  alt: "Best VPS for Self-Hosted n8n: aiprofreelancer.com guide cover"
   relative: false
 ---
 

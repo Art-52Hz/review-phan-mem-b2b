@@ -9,8 +9,8 @@ keywords: ["systeme.io vs kajabi", "systeme.io vs kajabi pricing", "course platf
 categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "kajabi", "online courses", "pricing"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Planning the sales and learning journey before choosing a course platform"
+  image: "/images/thumbs/systeme-io-vs-kajabi.webp"
+  alt: "Systeme.io vs Kajabi: aiprofreelancer.com guide cover"
   relative: false
 ---
 

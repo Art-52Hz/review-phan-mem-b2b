@@ -9,8 +9,9 @@ keywords: ["notion vs obsidian 2026", "notion vs obsidian", "obsidian review", "
 tags: ["notion", "obsidian", "note taking", "knowledge management", "comparison"]
 categories: ["Comparison", "Productivity"]
 cover:
-  image: "/images/notion-vs-obsidian-2026.webp"
-  alt: "Notion vs Obsidian 2026 comparison cover"
+  image: "/images/thumbs/notion-vs-obsidian-2026.webp"
+  alt: "Notion vs Obsidian: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Notion and Obsidian are the two most-discussed knowledge tools of the decade, and they represent fundamentally different philosophies. Notion is a cloud-based, all-in-one workspace built for collaboration. Obsidian is a local-first, plain-text knowledge base built for deep personal thinking. In 2026 both are excellent — but they're excellent at different things.

@@ -11,8 +11,8 @@ categories: ["SEO Tools", "Buying Guides"]
 tags: ["mangools", "kwfinder", "pricing", "keyword research"]
 toc: true
 cover:
-  image: "/images/keyword-shortlist-cover-v2.webp"
-  alt: "Keyword shortlist cards for planning freelance research"
+  image: "/images/thumbs/mangools-pricing-explained.webp"
+  alt: "Mangools Pricing: aiprofreelancer.com guide cover"
   relative: false
 ---
 

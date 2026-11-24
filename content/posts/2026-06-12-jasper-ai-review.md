@@ -8,8 +8,8 @@ keywords: ["jasper ai review", "jasper ai 2026", "jasper ai pricing", "best ai w
 categories: ["AI Tools", "Content Marketing"]
 tags: ["jasper ai", "ai writing", "copywriting", "content creation", "ai tools"]
 cover:
-  image: "/images/jasper-ai-review-2026.webp"
-  alt: ""
+  image: "/images/thumbs/jasper-ai-review-2026.webp"
+  alt: "Jasper AI Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

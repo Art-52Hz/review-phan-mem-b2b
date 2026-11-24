@@ -11,8 +11,8 @@ categories: ["Trading Tools"]
 tags: ["tradingview", "vps", "trading", "alerts"]
 toc: true
 cover:
-  image: "/images/tradingview-plans-explained-2026.svg"
-  alt: "TradingView plan prices, the starting point for webhook alerts"
+  image: "/images/thumbs/tradingview-webhook-alerts-bot-vps-2026.webp"
+  alt: "TradingView Webhook Alerts to a VPS Bot: aiprofreelancer.com guide cover"
   relative: false
 ---
 

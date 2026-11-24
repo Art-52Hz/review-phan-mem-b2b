@@ -8,8 +8,8 @@ description: "Compare dedicated server quotes by hardware, network, billing term
 categories: ["Hosting", "VPS"]
 tags: ["dedicated server", "hosting", "freelancers"]
 cover:
-  image: "/images/dedicated-server-quote.svg"
-  alt: "Dedicated server quote checklist: hardware, billing and operating owner"
+  image: "/images/thumbs/best-cheap-dedicated-server-2026.webp"
+  alt: "Best Cheap Dedicated Server: aiprofreelancer.com guide cover"
   relative: false
 ---
 

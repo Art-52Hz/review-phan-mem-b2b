@@ -10,8 +10,9 @@ keywords: ["getresponse vs mailchimp 2026", "getresponse vs mailchimp", "getresp
 categories: ["Comparison", "Marketing"]
 tags: ["getresponse", "mailchimp", "email marketing", "comparison"]
 cover:
-  image: "/images/newsletter-platform-checklist.svg"
-  alt: "Newsletter platform checklist: permission, portability and workload"
+  image: "/images/thumbs/getresponse-vs-mailchimp-2026.webp"
+  alt: "GetResponse vs Mailchimp: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 GetResponse and Mailchimp can both appear on an email-platform shortlist. For a freelancer or small business, the decision should start with a defined subscriber journey, required integrations and a complete cost quote.

@@ -1,212 +1,212 @@
 {
   "loom-review-2026": {
-    "image": "/images/recording-handoff-checklist.svg",
+    "image": "/images/thumbs/loom-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Original static editorial SVG; browser preview reviewed; no product score or measured claim",
-    "alt": "Before sharing a recording: check capture, access and client handoff"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Loom Review: aiprofreelancer.com guide cover"
   },
   "ultahost-vps-review": {
-    "image": "/images/ultahost-vps-cover-v2.webp",
+    "image": "/images/thumbs/ultahost-vps-review.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-02",
-    "origin": "Built-in imagegen, original conceptual editorial illustration",
-    "alt": "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "UltaHost VPS Review: aiprofreelancer.com guide cover"
   },
   "getresponse-vs-mailchimp-2026": {
-    "image": "/images/newsletter-platform-checklist.svg",
+    "image": "/images/thumbs/getresponse-vs-mailchimp-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Newsletter permission, portability and workload"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "GetResponse vs Mailchimp: aiprofreelancer.com guide cover"
   },
   "murf-ai-review-2026": {
-    "image": "/images/voiceover-scorecard.svg",
+    "image": "/images/thumbs/murf-ai-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Voiceover evaluation: listen, revise and check rights"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Murf AI Review: aiprofreelancer.com guide cover"
   },
   "kit-review-2026": {
-    "image": "/images/newsletter-platform-checklist.svg",
+    "image": "/images/thumbs/kit-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Newsletter permission, portability and workload"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Kit Review: aiprofreelancer.com guide cover"
   },
   "beautiful-ai-review-2026": {
-    "image": "/images/presentation-handoff.svg",
+    "image": "/images/thumbs/beautiful-ai-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Editable slides versus static slide pictures"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Beautiful.ai Review: aiprofreelancer.com guide cover"
   },
   "systeme-io-review-2026": {
-    "image": "/images/freelancer-lead-funnel.svg",
+    "image": "/images/thumbs/systeme-io-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Resource, consent and project enquiry"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Systeme.io Review: aiprofreelancer.com guide cover"
   },
   "elevenlabs-ai-review-2026": {
-    "image": "/images/elevenlabs-buying-checklist.svg",
+    "image": "/images/thumbs/elevenlabs-ai-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-05",
-    "origin": "Original static editorial SVG; reviewed, no product rating",
-    "alt": "Voiceover rights, limits and revisions"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "ElevenLabs Review: aiprofreelancer.com guide cover"
   },
   "best-cheap-dedicated-server-2026": {
-    "image": "/images/dedicated-server-quote.svg",
+    "image": "/images/thumbs/best-cheap-dedicated-server-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-07",
-    "origin": "Original static editorial SVG; browser preview reviewed; no product rating or benchmark",
-    "alt": "Dedicated server quote checklist: hardware, billing and operating owner"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Best Cheap Dedicated Server: aiprofreelancer.com guide cover"
   },
   "best-windows-vps-hosting-2026": {
-    "image": "/images/dedicated-server-quote.svg",
+    "image": "/images/thumbs/best-windows-vps-hosting-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-07",
-    "origin": "Existing original editorial SVG reused for the Windows VPS quote checklist; no provider rating",
-    "alt": "Hosting quote checklist: hardware, full cost and operating responsibility"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Cheapest Windows VPS: aiprofreelancer.com guide cover"
   },
   "vps-vs-shared-hosting-2026": {
-    "alt": "VPS client operations checklist: ownership, recovery and cost",
-    "image": "/images/vps-client-operations.svg",
+    "alt": "VPS vs Shared Hosting: aiprofreelancer.com guide cover",
+    "image": "/images/thumbs/vps-vs-shared-hosting-2026.webp",
     "reviewed": true,
-    "origin": "Reused original static editorial SVG; no measured performance claims",
-    "reviewed_date": "2026-10-08"
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "reviewed_date": "2026-11-24"
   },
   "best-vps-under-10-dollars-2026": {
-    "reviewed_date": "2026-10-08",
-    "alt": "VPS ownership, operations and recovery checklist",
-    "origin": "Reused original static editorial SVG; no provider rating or measured performance",
+    "reviewed_date": "2026-11-24",
+    "alt": "Best VPS Under $10: aiprofreelancer.com guide cover",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
     "reviewed": true,
-    "image": "/images/vps-client-operations.svg"
+    "image": "/images/thumbs/best-vps-under-10-dollars-2026.webp"
   },
   "ultahost-vs-contabo-2026": {
     "reviewed": true,
-    "alt": "Hosting comparison checklist: ownership, operations and recovery",
-    "origin": "Reused original editorial SVG; no provider score or benchmark",
-    "reviewed_date": "2026-10-08",
-    "image": "/images/vps-client-operations.svg"
+    "alt": "UltaHost vs Contabo: aiprofreelancer.com guide cover",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "reviewed_date": "2026-11-24",
+    "image": "/images/thumbs/ultahost-vs-contabo-2026.webp"
   },
   "ultahost-vs-hostinger-vps-2026": {
-    "image": "/images/vps-client-operations.svg",
+    "image": "/images/thumbs/ultahost-vs-hostinger-vps-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Previously visually reviewed original static editorial SVG; no product rating",
-    "alt": "VPS decision checklist: ownership, operations and recovery"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "UltaHost vs Hostinger VPS: aiprofreelancer.com guide cover"
   },
   "best-vps-for-forex-trading-2026": {
-    "image": "/images/vps-client-operations.svg",
+    "image": "/images/thumbs/best-vps-for-forex-trading-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused previously reviewed editorial SVG; no performance claims",
-    "alt": "VPS operating checklist covering access, backup and recovery"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Best Forex VPS: aiprofreelancer.com guide cover"
   },
   "elevenlabs-vs-murf-ai-2026": {
-    "image": "/images/elevenlabs-murf-cover-v2.webp",
+    "image": "/images/thumbs/elevenlabs-vs-murf-ai-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Built-in imagegen original editorial illustration; no measured quality or winner",
-    "alt": "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "ElevenLabs vs Murf AI: aiprofreelancer.com guide cover"
   },
   "best-ai-writing-tools-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/best-ai-writing-tools-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Built-in imagegen original editorial illustration; no testing, price, commission or rating claim",
-    "alt": "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "AI Writing Tools: aiprofreelancer.com guide cover"
   },
   "notion-ai-review-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/notion-ai-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Built-in imagegen original editorial illustration; no testing, price, commission or rating claim",
-    "alt": "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Notion AI Review: aiprofreelancer.com guide cover"
   },
   "zapier-review-2026": {
-    "image": "/images/freelance-tool-cost.svg",
+    "image": "/images/thumbs/zapier-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial SVG; no benchmark or rating",
-    "alt": "Whole-project cost inputs for evaluating an automation workflow"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Zapier Review: aiprofreelancer.com guide cover"
   },
   "grammarly-review-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/grammarly-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial illustration; no product rating or price",
-    "alt": "Brief, draft and review stages for evaluating a client editing workflow"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Grammarly Review: aiprofreelancer.com guide cover"
   },
   "copy-ai-review-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/copy-ai-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial illustration; no score or pricing claim",
-    "alt": "Brief, draft and review stages for evaluating a content workflow"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Copy.ai Review: aiprofreelancer.com guide cover"
   },
   "copy-ai-vs-jasper-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/copy-ai-vs-jasper-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial illustration; no winner or score",
-    "alt": "Brief, draft and review stages for comparing two content tools"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Copy.ai vs Jasper: aiprofreelancer.com guide cover"
   },
   "2026-06-19-writesonic-vs-copyai-2026": {
-    "image": "/images/client-writing-workflow-v2.webp",
+    "image": "/images/thumbs/2026-06-19-writesonic-vs-copyai-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial illustration; no winner or score",
-    "alt": "Brief, draft and review stages for comparing content platforms"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Writesonic vs Copy.ai: aiprofreelancer.com guide cover"
   },
   "semrush-review-2026": {
-    "image": "/images/keyword-shortlist-cover-v2.webp",
+    "image": "/images/thumbs/semrush-review-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-08",
-    "origin": "Reused reviewed editorial image; no product score or price",
-    "alt": "Keyword research shortlist and intent evaluation for client SEO work"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "Semrush Review: aiprofreelancer.com guide cover"
   },
   "mangools-kwfinder-review": {
-    "image": "/images/keyword-shortlist-cover-v2.webp",
+    "image": "/images/thumbs/mangools-kwfinder-review.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-09",
-    "origin": "Reused reviewed editorial shortlist illustration; no scores or prices",
-    "alt": "Keyword shortlist cards for checking search intent and research evidence"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "KWFinder Review: aiprofreelancer.com guide cover"
   },
   "elevenlabs-pricing-freelancers": {
-    "image": "/images/elevenlabs-pricing-decision.svg",
+    "image": "/images/thumbs/elevenlabs-pricing-freelancers.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-11",
-    "origin": "Original static editorial SVG, visually reviewed in browser; no vendor logo or quoted prices",
-    "alt": "Three checks for an ElevenLabs budget: invoice, credits and revisions"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "ElevenLabs Pricing: aiprofreelancer.com guide cover"
   },
   "nordvpn-vs-surfshark-2026": {
-    "image": "/images/freelance-tool-cost.svg",
+    "image": "/images/thumbs/nordvpn-vs-surfshark-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-11",
-    "origin": "Reused reviewed original static project-cost SVG; no VPN speed or rating claim",
-    "alt": "Compare subscription commitment and work requirements before choosing a VPN"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "NordVPN vs Surfshark: aiprofreelancer.com guide cover"
   },
   "best-vpn-for-freelancers-2026": {
-    "image": "/images/freelance-tool-cost.svg",
+    "image": "/images/thumbs/best-vpn-for-freelancers-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-11",
-    "origin": "Reused reviewed original static project-cost SVG; no VPN ranking or tested claim",
-    "alt": "Compare setup, maintenance and subscription cost for client work"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "VPN for Freelancers: aiprofreelancer.com guide cover"
   },
   "nordvpn-vs-expressvpn-2026": {
-    "image": "/images/vpn-connections-decision.svg",
+    "image": "/images/thumbs/nordvpn-vs-expressvpn-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-11",
-    "origin": "Original static editorial SVG; browser preview visually reviewed; no rating or measured performance claim",
-    "alt": "How many devices at once? Count sessions and check the subscription tier"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "NordVPN vs ExpressVPN: aiprofreelancer.com guide cover"
   },
   "nordvpn-vs-protonvpn-2026": {
-    "image": "/images/vpn-free-plan-decision.svg",
+    "image": "/images/thumbs/nordvpn-vs-protonvpn-2026.webp",
     "reviewed": true,
-    "reviewed_date": "2026-10-11",
-    "origin": "Original static editorial SVG; browser preview visually reviewed; no rating or measured performance claim",
-    "alt": "Try free, pay for a reason: observe a task and identify an unmet requirement"
+    "reviewed_date": "2026-11-24",
+    "origin": "Generated title card: brand logo (simple-icons, CC0) or brand name tile + post title; screenshot reviewed",
+    "alt": "NordVPN vs Proton VPN: aiprofreelancer.com guide cover"
   }
 }

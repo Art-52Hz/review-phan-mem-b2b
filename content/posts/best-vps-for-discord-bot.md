@@ -11,8 +11,8 @@ tags: ["vps", "hostinger", "ultahost", "discord", "telegram", "bots"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-discord-bot.webp"
+  alt: "Best Cheap VPS for a Discord or Telegram Bot: aiprofreelancer.com guide cover"
   relative: false
 ---
 

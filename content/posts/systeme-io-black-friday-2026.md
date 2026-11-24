@@ -11,8 +11,8 @@ categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "pricing", "deals", "funnel builder"]
 toc: true
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Plan a freelancer lead funnel before choosing a subscription"
+  image: "/images/thumbs/systeme-io-black-friday-2026.webp"
+  alt: "Systeme.io Black Friday: aiprofreelancer.com guide cover"
   relative: false
 ---
 

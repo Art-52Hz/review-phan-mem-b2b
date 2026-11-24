@@ -9,8 +9,8 @@ keywords: ["systeme.io vs clickfunnels", "systeme.io vs clickfunnels 2026", "cli
 categories: ["Marketing Tools", "Funnel Builder"]
 tags: ["systeme.io", "clickfunnels", "funnel builder", "online business", "email marketing"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Freelancer funnel: resource, consent and project enquiry"
+  image: "/images/thumbs/systeme-io-vs-clickfunnels-2026.webp"
+  alt: "Systeme.io vs ClickFunnels: aiprofreelancer.com guide cover"
   relative: false
 ---
 

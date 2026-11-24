@@ -8,8 +8,8 @@ description: "Prepare a client newsletter handoff with an export field map, rebu
 categories: ["Marketing Tools"]
 tags: ["newsletter", "freelancers", "client handoff"]
 cover:
-  image: "/images/newsletter-platform-cover.svg"
-  alt: "Newsletter decision checklist: ownership, export and cost before committing"
+  image: "/images/thumbs/newsletter-platform-exit-checklist.webp"
+  alt: "Newsletter Client Handoff: aiprofreelancer.com guide cover"
   relative: false
 ---
 

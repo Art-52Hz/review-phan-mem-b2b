@@ -10,8 +10,9 @@ keywords: ["midjourney review", "midjourney image plans", "midjourney client ima
 tags: ["midjourney", "ai image generator", "ai art", "image generation"]
 categories: ["AI Tools", "Design"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Image project cost checklist: generation, corrections and client delivery"
+  image: "/images/thumbs/midjourney-review-2026.webp"
+  alt: "Midjourney Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 For a client image project, define the intended use, composition, dimensions and approval process before choosing a generation subscription. A striking preview is only one part of a usable final asset.

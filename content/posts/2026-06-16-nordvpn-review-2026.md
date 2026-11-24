@@ -10,8 +10,8 @@ keywords: ["nordvpn review", "nordvpn plan costs", "vpn for freelance work"]
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "vpn", "cybersecurity", "privacy", "best vpn"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Compare the full project cost before choosing a subscription"
+  image: "/images/thumbs/nordvpn-review-2026.webp"
+  alt: "NordVPN Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

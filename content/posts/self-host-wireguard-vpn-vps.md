@@ -11,8 +11,8 @@ tags: ["vps", "ultahost", "wireguard", "vpn"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering access, backups and recovery"
+  image: "/images/thumbs/self-host-wireguard-vpn-vps.webp"
+  alt: "Self-Host a WireGuard VPN on a VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

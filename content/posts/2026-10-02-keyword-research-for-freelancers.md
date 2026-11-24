@@ -9,8 +9,9 @@ description: "Build a keyword shortlist for your freelance website. Match intent
 categories: ["SEO Tools"]
 tags: ["keyword research", "freelancing", "Mangools"]
 cover:
-  image: "/images/keyword-research-workflow.svg"
-  alt: "Keyword workflow from customer problem to search intent, evidence, useful content and measurement"
+  image: "/images/thumbs/keyword-research-for-freelancers.webp"
+  alt: "Keyword Research for Freelancers: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 **Best for a small keyword shortlist: KWFinder Free, paired with our worksheet.**

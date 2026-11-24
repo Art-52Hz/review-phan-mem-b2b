@@ -11,8 +11,8 @@ tags: ["vps", "hostinger", "ai", "automation"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operations checklist for access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-ai-agents.webp"
+  alt: "Best VPS for Running AI Agents and Bots 24/7: aiprofreelancer.com guide cover"
   relative: false
 ---
 

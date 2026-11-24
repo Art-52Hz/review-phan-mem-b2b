@@ -9,8 +9,8 @@ keywords: ["systeme.io pricing", "systeme.io free plan limits", "systeme.io star
 categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "funnel builder", "email marketing", "pricing"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Planning a lead funnel before choosing a Systeme.io subscription"
+  image: "/images/thumbs/systeme-io-pricing-explained.webp"
+  alt: "Systeme.io Pricing: aiprofreelancer.com guide cover"
   relative: false
 ---
 

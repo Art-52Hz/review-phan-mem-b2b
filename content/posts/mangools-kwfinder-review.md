@@ -11,8 +11,8 @@ tags: ["mangools", "kwfinder", "keyword research"]
 toc: true
 description: "KWFinder review for 2026: Mangools Basic, Premium and Agency prices (annual vs monthly), daily lookup limits, the 48-hour refund rule and free alternatives to try first."
 cover:
-  image: "/images/keyword-shortlist-cover-v2.webp"
-  alt: "Keyword shortlist cards for checking search intent and research evidence"
+  image: "/images/thumbs/mangools-kwfinder-review.webp"
+  alt: "KWFinder Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

@@ -9,8 +9,9 @@ description: "Evaluate Grammarly for client writing: editing permissions, meanin
 tags: ["grammarly", "ai writing", "writing tools", "grammar checker", "productivity"]
 categories: ["AI Tools", "Writing"]
 cover:
-  image: "/images/client-writing-workflow-v2.webp"
-  alt: "Brief, draft and review stages for evaluating a client editing workflow"
+  image: "/images/thumbs/grammarly-review-2026.webp"
+  alt: "Grammarly Review: aiprofreelancer.com guide cover"
+  relative: false
 draft: false
 ---
 

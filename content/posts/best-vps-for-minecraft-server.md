@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "minecraft", "gaming"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering server access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-minecraft-server.webp"
+  alt: "Best Cheap VPS for a Minecraft Server: aiprofreelancer.com guide cover"
   relative: false
 ---
 

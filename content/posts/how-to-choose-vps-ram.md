@@ -11,8 +11,8 @@ tags: ["vps", "hostinger", "ram", "hosting"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS planning checklist covering access, backups and recovery"
+  image: "/images/thumbs/how-to-choose-vps-ram.webp"
+  alt: "How Much RAM Does Your VPS Need? (2026) Sizing by Workload: aiprofreelancer.com guide cover"
   relative: false
 ---
 

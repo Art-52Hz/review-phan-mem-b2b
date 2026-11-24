@@ -8,8 +8,8 @@ description: "Check bandwidth allowance, port speed, fair-use actions and renewa
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "bandwidth"]
 cover:
-  image: "/images/wordpress-restore-checklist.svg"
-  alt: "Client hosting checklist without an unsupported provider score"
+  image: "/images/thumbs/best-unlimited-bandwidth-vps-2026.webp"
+  alt: "'Best Unlimited Bandwidth VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

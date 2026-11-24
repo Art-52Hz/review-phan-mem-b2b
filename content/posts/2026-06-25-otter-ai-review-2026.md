@@ -10,8 +10,9 @@ keywords: ["otter ai review", "otter meeting limits", "otter client handoff"]
 categories: ["AI Tools", "Productivity"]
 tags: ["otter ai", "ai transcription", "meeting notes", "voice to text"]
 cover:
-  image: "/images/recording-handoff-checklist.svg"
-  alt: "Before sharing meeting notes: check capture, access and client handoff"
+  image: "/images/thumbs/otter-ai-review-2026.webp"
+  alt: "Otter.ai Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 A meeting assistant should help produce a usable record of decisions, owners and next actions. For a freelance engagement, the buying question is whether the selected plan and review process can deliver that record to the client.

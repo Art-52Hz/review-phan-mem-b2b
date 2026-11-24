@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "ollama", "llm", "ai"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS planning checklist for access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-ollama.webp"
+  alt: "Best VPS for Ollama or a Self-Hosted LLM: aiprofreelancer.com guide cover"
   relative: false
 ---
 

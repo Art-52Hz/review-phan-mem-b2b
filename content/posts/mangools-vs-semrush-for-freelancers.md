@@ -11,8 +11,8 @@ categories: ["SEO Tools", "Comparisons"]
 tags: ["mangools", "semrush", "kwfinder", "keyword research"]
 toc: true
 cover:
-  image: "/images/keyword-shortlist-cover-v2.webp"
-  alt: "Keyword shortlist cards for planning freelance research"
+  image: "/images/thumbs/mangools-vs-semrush-for-freelancers.webp"
+  alt: "Mangools vs Semrush for Freelancers: aiprofreelancer.com guide cover"
   relative: false
 ---
 

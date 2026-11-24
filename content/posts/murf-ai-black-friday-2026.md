@@ -11,8 +11,8 @@ categories: ["AI Tools", "Audio"]
 tags: ["murf ai", "ai voice", "pricing", "black friday", "deals"]
 toc: true
 cover:
-  image: "/images/voiceover-scorecard.svg"
-  alt: "Voiceover buying checklist covering listening, revisions and usage rights"
+  image: "/images/thumbs/murf-ai-black-friday-2026.webp"
+  alt: "Murf AI Black Friday: aiprofreelancer.com guide cover"
   relative: false
 ---
 

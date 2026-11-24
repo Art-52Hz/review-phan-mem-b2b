@@ -8,8 +8,9 @@ keywords: ["beautiful.ai review 2026", "beautiful.ai pricing", "beautiful.ai fre
 categories: ["AI Tools", "Design"]
 tags: ["beautiful.ai", "ai presentation", "slide deck", "powerpoint alternative"]
 cover:
-  image: "/images/presentation-handoff.svg"
-  alt: "Check whether a client needs editable PowerPoint objects or static slide pictures"
+  image: "/images/thumbs/beautiful-ai-review-2026.webp"
+  alt: "Beautiful.ai Review: aiprofreelancer.com guide cover"
+  relative: false
 lastmod: 2026-11-03
 ---
 

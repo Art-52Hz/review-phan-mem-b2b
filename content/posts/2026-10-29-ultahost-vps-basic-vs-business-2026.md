@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "ultahost", "hosting"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operating checklist covering access, backup and recovery"
+  image: "/images/thumbs/ultahost-vps-basic-vs-business-2026.webp"
+  alt: "UltaHost VPS Basic vs Business: aiprofreelancer.com guide cover"
   relative: false
 ---
 

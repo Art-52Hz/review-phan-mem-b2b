@@ -11,8 +11,8 @@ tags: ["vps", "hostinger", "docker", "hosting"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-docker.webp"
+  alt: "Best Cheap VPS for Docker: aiprofreelancer.com guide cover"
   relative: false
 ---
 

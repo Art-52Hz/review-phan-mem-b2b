@@ -10,8 +10,8 @@ tags: ["elevenlabs", "black friday", "pricing", "voiceover", "2026"]
 toc: true
 description: "ElevenLabs Black Friday 2026 is live through December 1. Compare annual sale and renewal totals, then choose a plan by project and credit needs."
 cover:
-  image: "/images/elevenlabs-pricing-decision.svg"
-  alt: "ElevenLabs buying checks for invoice, credits and revisions"
+  image: "/images/thumbs/elevenlabs-black-friday-2026.webp"
+  alt: "ElevenLabs Black Friday: aiprofreelancer.com guide cover"
   relative: false
 ---
 

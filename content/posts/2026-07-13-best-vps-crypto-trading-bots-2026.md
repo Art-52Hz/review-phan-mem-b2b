@@ -8,8 +8,9 @@ description: "Compare VPS options for a crypto bot: workload policies, connectiv
 categories: ["Hosting", "Hosting Guide"]
 tags: ["VPS", "automation", "monitoring"]
 cover:
-  image: "/images/best-vps-for-crypto-trading-bots-2026.webp"
-  alt: "VPS infrastructure checklist for bot deployment"
+  image: "/images/thumbs/best-vps-for-crypto-trading-bots-2026.webp"
+  alt: "Best VPS for a Crypto Trading Bot: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 For a self-managed Freqtrade bot, **Hostinger KVM 2 is my starting pick** because it clears the project's published CPU and memory minimums; KVM 1 does not clear the CPU recommendation. Choose **UltaHost VPS Business** if server support matters more than memory headroom, after confirming support for your stack. Establish that your exchange permits and serves your account from the chosen region before buying a long term.

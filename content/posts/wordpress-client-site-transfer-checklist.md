@@ -8,8 +8,8 @@ description: "Prepare a single WordPress site transfer from an agency account to
 categories: ["Hosting"]
 tags: ["WordPress", "client handoff", "freelancers"]
 cover:
-  image: "/images/wordpress-site-transfer.svg"
-  alt: "Client site transfer checklist: receiving owner, dependencies and acceptance"
+  image: "/images/thumbs/wordpress-client-site-transfer-checklist.webp"
+  alt: "WordPress Site Transfer: aiprofreelancer.com guide cover"
   relative: false
 ---
 

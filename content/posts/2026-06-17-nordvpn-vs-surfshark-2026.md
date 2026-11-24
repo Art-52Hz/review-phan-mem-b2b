@@ -10,8 +10,8 @@ keywords: ["nordvpn vs surfshark", "nordvpn vs surfshark 2026", "surfshark vs no
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "surfshark", "vpn", "vpn comparison", "cybersecurity"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Compare subscription commitment and work requirements before choosing a VPN"
+  image: "/images/thumbs/nordvpn-vs-surfshark-2026.webp"
+  alt: "NordVPN vs Surfshark: aiprofreelancer.com guide cover"
   relative: false
 ---
 

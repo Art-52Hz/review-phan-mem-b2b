@@ -10,8 +10,8 @@ keywords: ["nordvpn vs protonvpn", "nordvpn vs protonvpn 2026", "protonvpn vs no
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "protonvpn", "vpn", "vpn comparison", "privacy"]
 cover:
-  image: "/images/vpn-free-plan-decision.svg"
-  alt: "Try free, pay for a reason: observe a task and identify an unmet requirement"
+  image: "/images/thumbs/nordvpn-vs-protonvpn-2026.webp"
+  alt: "NordVPN vs Proton VPN: aiprofreelancer.com guide cover"
   relative: false
 ---
 

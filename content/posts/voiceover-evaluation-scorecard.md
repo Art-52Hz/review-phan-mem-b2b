@@ -11,8 +11,8 @@ tags: ["voiceover", "freelancers", "evaluation"]
 description: "Compare AI voiceover samples using one script, recorded revisions and separate checks for licensing, consent and export. Download the evaluation scorecard."
 toc: true
 cover:
-  image: "/images/voiceover-scorecard.svg"
-  alt: "Three stages of voiceover evaluation: listen, revise and check rights"
+  image: "/images/thumbs/voiceover-evaluation-scorecard.webp"
+  alt: "AI Voiceover Evaluation: aiprofreelancer.com guide cover"
   relative: false
 ---
 

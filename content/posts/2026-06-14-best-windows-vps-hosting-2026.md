@@ -9,8 +9,8 @@ keywords: ["Windows VPS hosting", "Windows VPS licensing checklist"]
 categories: ["Hosting", "VPS"]
 tags: ["Windows VPS", "Hosting", "Freelancers"]
 cover:
-  image: "/images/dedicated-server-quote.svg"
-  alt: "Hosting quote checklist: hardware, full cost and operating responsibility"
+  image: "/images/thumbs/best-windows-vps-hosting-2026.webp"
+  alt: "Cheapest Windows VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

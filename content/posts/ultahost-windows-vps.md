@@ -9,8 +9,8 @@ keywords: ["UltaHost Windows VPS", "UltaHost Windows license", "Windows VPS RDP 
 categories: ["Hosting", "VPS"]
 tags: ["UltaHost", "Windows VPS", "RDP", "Freelancers"]
 cover:
-  image: "/images/dedicated-server-quote.svg"
-  alt: "Hosting quote checklist for hardware, full cost and operating responsibility"
+  image: "/images/thumbs/ultahost-windows-vps.webp"
+  alt: "UltaHost Windows VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

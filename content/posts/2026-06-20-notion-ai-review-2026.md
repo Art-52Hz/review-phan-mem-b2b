@@ -9,8 +9,9 @@ description: "Check Notion AI plan access, credit costs and workspace requiremen
 tags: ["notion", "notion ai", "ai writing", "productivity", "workspace"]
 categories: ["AI Tools", "Productivity"]
 cover:
-  image: "/images/client-writing-workflow-v2.webp"
-  alt: "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+  image: "/images/thumbs/notion-ai-review-2026.webp"
+  alt: "Notion AI Review: aiprofreelancer.com guide cover"
+  relative: false
 draft: false
 ---
 

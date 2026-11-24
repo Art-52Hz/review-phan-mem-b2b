@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "hostinger", "ultahost", "pricing", "deals"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS buying checklist for costs, operations and recovery"
+  image: "/images/thumbs/black-friday-vps-deals-2026.webp"
+  alt: "Black Friday VPS Deals: aiprofreelancer.com guide cover"
   relative: false
 ---
 

@@ -10,8 +10,8 @@ categories: ["Reviews", "AI Tools"]
 tags: ["hostinger", "website builder", "client handoff"]
 toc: true
 cover:
-  image: "/images/wordpress-restore-checklist.svg"
-  alt: "Website ownership and recovery checklist, not a product rating"
+  image: "/images/thumbs/hostinger-ai-review-2026.webp"
+  alt: "Hostinger AI Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

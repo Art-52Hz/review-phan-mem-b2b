@@ -10,8 +10,8 @@ keywords: ["ai writing tools", "ai writing tool evaluation", "freelance content 
 categories: ["AI Tools", "Content Marketing"]
 tags: ["ai writing", "freelancers", "content workflow"]
 cover:
-  image: "/images/client-writing-workflow-v2.webp"
-  alt: "Paper-cut brief, draft and review documents with pencil and magnifying glass; no product scores"
+  image: "/images/thumbs/best-ai-writing-tools-2026.webp"
+  alt: "AI Writing Tools: aiprofreelancer.com guide cover"
   relative: false
 ---
 

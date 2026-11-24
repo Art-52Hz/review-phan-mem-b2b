@@ -11,8 +11,8 @@ tags: ["elevenlabs", "pricing", "voiceover"]
 toc: true
 description: "Compare ElevenLabs pricing against a freelance voiceover brief: separate the first invoice from renewal, budget revisions and check the shared credit pool."
 cover:
-  image: "/images/elevenlabs-pricing-decision.svg"
-  alt: "Three checks for an ElevenLabs budget: invoice, credits and revisions"
+  image: "/images/thumbs/elevenlabs-pricing-freelancers.webp"
+  alt: "ElevenLabs Pricing: aiprofreelancer.com guide cover"
   relative: false
 ---
 

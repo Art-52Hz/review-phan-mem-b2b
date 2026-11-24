@@ -10,8 +10,8 @@ keywords: ["ahrefs vs semrush", "semrush vs ahrefs", "SEO tool comparison"]
 categories: ["SEO Tools", "Marketing Tools"]
 tags: ["ahrefs", "semrush", "seo", "keyword research", "backlinks", "seo tools comparison"]
 cover:
-  image: "/images/ahrefs-vs-semrush-2026.webp"
-  alt: "Editorial cover for an Ahrefs and Semrush workflow comparison"
+  image: "/images/thumbs/ahrefs-vs-semrush-2026.webp"
+  alt: "Ahrefs vs Semrush: aiprofreelancer.com guide cover"
   relative: false
 ---
 

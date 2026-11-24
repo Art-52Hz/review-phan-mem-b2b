@@ -8,8 +8,8 @@ keywords: ["cheapest vps crypto payment", "vps bitcoin payment 2026", "anonymous
 categories: ["Hosting", "Privacy"]
 tags: ["vps hosting", "crypto payment", "bitcoin", "anonymous hosting", "ultahost"]
 cover:
-  image: "/images/cheapest-vps-crypto-payment-2026.webp"
-  alt: "Guide to comparing VPS total cost and cryptocurrency payment options"
+  image: "/images/thumbs/cheapest-vps-crypto-payment-2026.webp"
+  alt: "Cheapest VPS with Crypto Payment: aiprofreelancer.com guide cover"
   relative: false
 lastmod: 2026-10-28
 description: "Compare crypto-payable VPS plans using renewal cost, backup scope and actual checkout details. No unsupported cheapest-provider ranking."

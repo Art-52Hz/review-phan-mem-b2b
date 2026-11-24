@@ -9,8 +9,8 @@ keywords: ["systeme.io for online courses", "systeme.io course setup", "systeme.
 categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "online courses", "funnel builder", "pricing"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Planning the signup and purchase journey for an online course"
+  image: "/images/thumbs/systeme-io-for-online-courses.webp"
+  alt: "Systeme.io for Online Courses: aiprofreelancer.com guide cover"
   relative: false
 ---
 

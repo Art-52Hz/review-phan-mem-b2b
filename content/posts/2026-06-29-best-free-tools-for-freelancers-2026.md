@@ -10,8 +10,8 @@ keywords: ["free tools for freelancers", "freelance tool checklist"]
 categories: ["Tools", "Freelancing"]
 tags: ["free tools", "freelancing", "productivity"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Freelancer tool costs and client project requirements"
+  image: "/images/thumbs/best-free-tools-for-freelancers-2026.webp"
+  alt: "Free Tools for Freelancers: aiprofreelancer.com guide cover"
   relative: false
 ---
 

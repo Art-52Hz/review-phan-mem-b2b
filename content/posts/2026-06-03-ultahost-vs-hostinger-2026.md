@@ -10,8 +10,8 @@ keywords: ["ultahost vs hostinger", "VPS support scope comparison"]
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "hostinger", "ultahost", "comparison"]
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS decision checklist: ownership, operations and recovery"
+  image: "/images/thumbs/ultahost-vs-hostinger-vps-2026.webp"
+  alt: "UltaHost vs Hostinger VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

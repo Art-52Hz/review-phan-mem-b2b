@@ -10,8 +10,8 @@ tags: ["freelancers", "software", "project planning"]
 description: "Compare software costs using the actual billing commitment, project usage, revisions and client handoff. Download a blank cost worksheet."
 toc: true
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Project cost formula: allocated subscription, add-ons, taxes and fees, plus active hours times hourly value"
+  image: "/images/thumbs/freelance-tool-project-cost.webp"
+  alt: "Freelance Tool Costs: aiprofreelancer.com guide cover"
   relative: false
 ---
 

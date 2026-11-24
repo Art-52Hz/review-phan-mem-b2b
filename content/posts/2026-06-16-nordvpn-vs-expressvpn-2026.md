@@ -10,8 +10,8 @@ keywords: ["nordvpn vs expressvpn", "nordvpn vs expressvpn 2026", "best vpn 2026
 categories: ["Security Tools", "VPN"]
 tags: ["nordvpn", "expressvpn", "vpn", "vpn comparison", "cybersecurity"]
 cover:
-  image: "/images/vpn-connections-decision.svg"
-  alt: "How many devices at once? Count sessions and check the subscription tier"
+  image: "/images/thumbs/nordvpn-vs-expressvpn-2026.webp"
+  alt: "NordVPN vs ExpressVPN: aiprofreelancer.com guide cover"
   relative: false
 ---
 

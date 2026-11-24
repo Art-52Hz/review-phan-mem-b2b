@@ -9,8 +9,8 @@ keywords: ["RDP vs Windows VPS", "shared RDP for MT5", "Windows VPS for bots"]
 categories: ["Hosting", "VPS"]
 tags: ["UltaHost", "Windows VPS", "RDP", "MT5"]
 cover:
-  image: "/images/dedicated-server-quote.svg"
-  alt: "Checklist for comparing server costs, access and operating responsibilities"
+  image: "/images/thumbs/rdp-vs-windows-vps.webp"
+  alt: "RDP vs Windows VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

@@ -8,8 +8,8 @@ description: "Hostinger KVM VPS review with current 24-month prices, 48-month re
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "wordpress"]
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Client hosting operations checklist without a product rating"
+  image: "/images/thumbs/hostinger-vps-review-2026.webp"
+  alt: "Hostinger VPS Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "nextcloud", "storage", "backups"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Server operations checklist for access, backup and recovery"
+  image: "/images/thumbs/best-vps-for-nextcloud.webp"
+  alt: "Best VPS for Nextcloud: aiprofreelancer.com guide cover"
   relative: false
 ---
 

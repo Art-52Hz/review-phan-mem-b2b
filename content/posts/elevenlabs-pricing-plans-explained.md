@@ -10,8 +10,8 @@ tags: ["elevenlabs", "pricing", "voiceover", "2026"]
 toc: true
 description: "Compare ElevenLabs Free, Starter, Creator and Pro prices, credits and real 12 to 36 month costs, then choose by project and renewal budget."
 cover:
-  image: "/images/elevenlabs-pricing-decision.svg"
-  alt: "ElevenLabs buying checks for invoice, credits and revisions"
+  image: "/images/thumbs/elevenlabs-pricing-plans-explained.webp"
+  alt: "ElevenLabs Pricing: aiprofreelancer.com guide cover"
   relative: false
 ---
 

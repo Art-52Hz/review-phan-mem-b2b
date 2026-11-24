@@ -7,8 +7,9 @@ description: "Compare Writesonic and Copy.ai by your content job: visibility mon
 tags: ["writesonic", "copy.ai", "ai writing", "comparison", "content tools"]
 categories: ["AI Tools", "Comparisons"]
 cover:
-  image: "/images/client-writing-workflow-v2.webp"
-  alt: "Brief, draft and review stages for comparing content platforms"
+  image: "/images/thumbs/2026-06-19-writesonic-vs-copyai-2026.webp"
+  alt: "Writesonic vs Copy.ai: aiprofreelancer.com guide cover"
+  relative: false
 draft: false
 ---
 

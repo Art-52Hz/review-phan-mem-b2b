@@ -12,8 +12,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "pricing", "deals"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS buying checklist covering costs, operations and recovery"
+  image: "/images/thumbs/hostinger-black-friday-vps-2026.webp"
+  alt: "Hostinger Black Friday VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

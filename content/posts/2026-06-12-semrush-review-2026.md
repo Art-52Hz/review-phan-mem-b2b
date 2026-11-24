@@ -10,8 +10,9 @@ keywords: ["semrush review", "semrush pricing", "seo tools for freelancers"]
 categories: ["SEO Tools"]
 tags: ["semrush", "seo", "keyword research", "competitor analysis", "digital marketing"]
 cover:
-  image: "/images/keyword-shortlist-cover-v2.webp"
-  alt: "Keyword research shortlist and intent evaluation for client SEO work"
+  image: "/images/thumbs/semrush-review-2026.webp"
+  alt: "Semrush Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Semrush is worth evaluating when its available research, tracking and reporting capabilities solve a defined client task. Before buying a bundle, write down the websites, markets, keywords and deliverables you need to support.

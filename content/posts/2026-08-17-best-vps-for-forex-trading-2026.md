@@ -12,8 +12,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "forex", "hosting", "mt4", "mt5"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operating checklist covering access, backup and recovery"
+  image: "/images/thumbs/best-vps-for-forex-trading-2026.webp"
+  alt: "Best Forex VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

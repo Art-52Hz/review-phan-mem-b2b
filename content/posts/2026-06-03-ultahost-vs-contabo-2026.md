@@ -9,8 +9,8 @@ keywords: ["ultahost vs contabo", "budget VPS comparison"]
 categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "contabo", "ultahost", "budget hosting", "comparison"]
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Hosting comparison checklist: ownership, operations and recovery"
+  image: "/images/thumbs/ultahost-vs-contabo-2026.webp"
+  alt: "UltaHost vs Contabo: aiprofreelancer.com guide cover"
   relative: false
 ---
 

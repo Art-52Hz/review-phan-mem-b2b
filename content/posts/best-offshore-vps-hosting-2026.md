@@ -5,8 +5,8 @@ lastmod: 2026-11-04
 description: "Evaluate an offshore VPS using server location, account requirements, renewal terms and an exportable backup plan. No anonymity or takedown guarantees."
 tags: ["VPS", "Offshore Hosting", "Privacy", "Buying Guide"]
 cover:
-  image: "/images/best-offshore-vps-hosting-2026.webp"
-  alt: "Editorial illustration for offshore VPS hosting evaluation"
+  image: "/images/thumbs/best-offshore-vps-hosting-2026.webp"
+  alt: "Offshore VPS Hosting: aiprofreelancer.com guide cover"
   relative: false
 aliases: ["/posts/what-is-offshore-hosting-2026/"]
 ---

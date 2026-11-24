@@ -10,6 +10,10 @@ tags: ["murf ai", "pricing", "voiceover", "commercial rights"]
 keywords: ["murf ai pricing", "murf creator vs business", "murf annual cost", "murf commercial rights"]
 toc: true
 description: "Understand Murf Creator vs Business, annual invoices, voice generation limits and commercial rights before choosing a paid voiceover plan in 2026."
+cover:
+  image: "/images/thumbs/murf-ai-pricing-explained.webp"
+  alt: "Murf AI Pricing Explained: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Best for individual creators with recurring narration work: **Murf Creator**.

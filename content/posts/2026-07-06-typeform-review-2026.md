@@ -10,8 +10,9 @@ keywords: ["typeform review", "typeform response limits", "client lead form chec
 tags: ["typeform", "survey", "form builder", "lead generation"]
 categories: ["AI Tools", "Productivity"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Lead form checklist: resource, consent and project enquiry"
+  image: "/images/thumbs/typeform-review-2026.webp"
+  alt: "Typeform Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 A client lead form needs to collect the right information, route it correctly and give someone responsibility for the next step. A polished design alone does not establish that the workflow works or that more visitors will complete it.

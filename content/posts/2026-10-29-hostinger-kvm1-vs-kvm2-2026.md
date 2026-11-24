@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "hosting"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operating checklist covering access, backup and recovery"
+  image: "/images/thumbs/hostinger-kvm1-vs-kvm2-2026.webp"
+  alt: "Hostinger KVM 1 vs KVM 2: aiprofreelancer.com guide cover"
   relative: false
 ---
 

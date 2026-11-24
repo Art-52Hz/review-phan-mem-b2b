@@ -10,8 +10,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["ultahost", "hosting", "pricing"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Hosting purchase checklist covering costs, operations and recovery"
+  image: "/images/thumbs/ultahost-coupon-and-pricing.webp"
+  alt: "UltaHost Pricing: aiprofreelancer.com guide cover"
   relative: false
 ---
 

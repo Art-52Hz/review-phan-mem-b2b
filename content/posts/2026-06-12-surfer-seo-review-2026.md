@@ -10,8 +10,8 @@ keywords: ["surfer seo review", "content editor", "content optimization", "freel
 categories: ["SEO Tools", "AI Tools"]
 tags: ["surfer seo", "content optimization", "keyword research"]
 cover:
-  image: "/images/keyword-research-workflow.svg"
-  alt: "Keyword research workflow connecting reader intent, search results and evidence"
+  image: "/images/thumbs/surfer-seo-review-2026.webp"
+  alt: "Surfer SEO Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

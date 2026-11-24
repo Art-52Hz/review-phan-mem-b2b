@@ -12,8 +12,8 @@ categories: ["SEO Tools", "Reviews"]
 tags: ["mangools", "kwfinder", "keyword research", "deals"]
 toc: true
 cover:
-  image: "/images/keyword-shortlist-cover-v2.webp"
-  alt: "Keyword shortlist cards for planning freelance SEO research"
+  image: "/images/thumbs/mangools-black-friday-2026.webp"
+  alt: "Mangools KWFinder Black Friday: aiprofreelancer.com guide cover"
   relative: false
 ---
 

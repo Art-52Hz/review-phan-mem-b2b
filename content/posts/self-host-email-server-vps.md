@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "ultahost", "email server", "smtp", "dns"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operations checklist for mail server access, DNS and recovery"
+  image: "/images/thumbs/self-host-email-server-vps.webp"
+  alt: "Self-Host Email on a VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

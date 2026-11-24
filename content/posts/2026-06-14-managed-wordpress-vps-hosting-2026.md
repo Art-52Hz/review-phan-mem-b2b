@@ -8,8 +8,8 @@ description: "Choose managed WordPress or a self-managed VPS by mapping client n
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "wordpress"]
 cover:
-  image: "/images/wordpress-restore-checklist.svg"
-  alt: "Client hosting operations checklist without a product rating"
+  image: "/images/thumbs/managed-wordpress-vps-hosting-2026.webp"
+  alt: "Managed WordPress vs VPS Hosting: aiprofreelancer.com guide cover"
   relative: false
 ---
 

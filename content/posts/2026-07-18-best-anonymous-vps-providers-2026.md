@@ -8,8 +8,9 @@ description: "Compare VPS privacy requirements: account verification, crypto bil
 categories: ["Hosting", "Hosting Guide"]
 tags: ["VPS", "privacy", "crypto payments"]
 cover:
-  image: "/images/best-anonymous-vps-providers-2026.webp"
-  alt: "VPS privacy and cryptocurrency billing comparison guide"
+  image: "/images/thumbs/best-anonymous-vps-providers-2026.webp"
+  alt: "Anonymous VPS Providers: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Best for developers comparing crypto billing with ordinary VPS requirements: shortlist UltaHost. Pick a provider with written privacy commitments instead if identity verification or logging is your deciding requirement; we have not verified an anonymous host.

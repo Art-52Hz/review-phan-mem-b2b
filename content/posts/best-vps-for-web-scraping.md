@@ -11,8 +11,8 @@ tags: ["vps", "ultahost", "web-scraping", "hosting"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS operating checklist for access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-web-scraping.webp"
+  alt: "Best VPS for Web Scraping: aiprofreelancer.com guide cover"
   relative: false
 ---
 

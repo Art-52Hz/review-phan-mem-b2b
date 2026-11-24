@@ -10,6 +10,10 @@ keywords: ["tradingview for crypto traders", "tradingview crypto plans", "tradin
 categories: ["Trading Tools"]
 tags: ["tradingview", "crypto", "trading", "alerts"]
 toc: true
+cover:
+  image: "/images/thumbs/tradingview-for-crypto-traders.webp"
+  alt: "TradingView for Crypto Traders: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 **Best paid starting point for a focused crypto chart-and-alert routine: TradingView Essential.**

@@ -12,8 +12,8 @@ categories: ["VPN", "Security Tools"]
 tags: ["vpn", "crypto", "security", "privacy"]
 toc: true
 cover:
-  image: "/images/best-vpn-for-crypto-trading-2026.webp"
-  alt: "VPN connection checklist for crypto account access"
+  image: "/images/thumbs/best-vpn-for-crypto-trading-2026.webp"
+  alt: "VPN for Crypto Accounts: aiprofreelancer.com guide cover"
   relative: false
 ---
 

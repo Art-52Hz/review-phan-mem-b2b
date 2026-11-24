@@ -11,8 +11,8 @@ tags: ["vps", "hostinger", "nodejs", "hosting"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS checklist covering access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-nodejs-apps.webp"
+  alt: "Best Cheap VPS for Node.js Apps: aiprofreelancer.com guide cover"
   relative: false
 ---
 

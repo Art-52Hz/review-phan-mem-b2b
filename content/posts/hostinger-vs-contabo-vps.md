@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Comparison"]
 tags: ["vps", "hostinger", "contabo", "comparison"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS buying checklist covering ownership, operations and recovery"
+  image: "/images/thumbs/hostinger-vs-contabo-vps.webp"
+  alt: "Hostinger vs Contabo VPS: aiprofreelancer.com guide cover"
   relative: false
 ---
 

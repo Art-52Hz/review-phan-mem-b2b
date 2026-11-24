@@ -9,8 +9,8 @@ keywords: ["VPS under 10 dollars", "VPS total cost"]
 categories: ["Hosting", "VPS"]
 tags: ["vps", "hosting", "affiliate"]
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "VPS ownership, operations and recovery checklist"
+  image: "/images/thumbs/best-vps-under-10-dollars-2026.webp"
+  alt: "Best VPS Under $10: aiprofreelancer.com guide cover"
   relative: false
 ---
 

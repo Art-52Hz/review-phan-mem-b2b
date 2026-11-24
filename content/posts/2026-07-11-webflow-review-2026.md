@@ -10,8 +10,9 @@ keywords: ["webflow review", "webflow site plan", "webflow client handoff"]
 tags: ["webflow", "website builder", "no-code", "cms"]
 categories: ["AI Tools", "Design"]
 cover:
-  image: "/images/freelance-tool-cost.svg"
-  alt: "Website project cost checklist: plan, maintenance and client handoff"
+  image: "/images/thumbs/webflow-review-2026.webp"
+  alt: "Webflow Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 A visual builder can be a candidate for a client website, but the purchase should follow a clear specification: what must be published, who updates it and how the client will operate it after handoff.

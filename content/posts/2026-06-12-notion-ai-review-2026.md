@@ -14,8 +14,8 @@ schema:
   author: "AI Pro Freelancer"
   product: "Notion AI"
 cover:
-  image: "/images/notion-ai-review-2026.webp"
-  alt: ""
+  image: "/images/thumbs/notion-ai-review-2026.webp"
+  alt: "Notion AI Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

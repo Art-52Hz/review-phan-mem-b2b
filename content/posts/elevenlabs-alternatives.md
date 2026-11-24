@@ -9,6 +9,10 @@ categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "alternatives", "ai voice", "text to speech", "comparison"]
 description: "Compare ElevenLabs with TTSMaker and Narakeet by recurring cost, commercial use and generation limits. Find the cheaper fit for your voiceover workload."
 toc: true
+cover:
+  image: "/images/thumbs/elevenlabs-alternatives.webp"
+  alt: "ElevenLabs Alternatives: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Best for a zero-subscription starting point: **TTSMaker Free**. Pick **Narakeet** for occasional paid narration with a one-time credit purchase.

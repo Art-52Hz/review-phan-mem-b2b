@@ -11,8 +11,8 @@ tags: ["vps", "ultahost", "plex", "jellyfin", "hosting"]
 draft: false
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Server planning checklist for access, backups and recovery"
+  image: "/images/thumbs/best-vps-for-plex-media-server.webp"
+  alt: "Best VPS for Plex or Jellyfin: aiprofreelancer.com guide cover"
   relative: false
 ---
 

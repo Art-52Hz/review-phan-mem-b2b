@@ -9,8 +9,8 @@ keywords: ["systeme.io review", "systeme io review 2026", "systeme.io pricing", 
 categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "funnel builder", "email marketing", "online business", "all-in-one platform"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Freelancer lead-funnel planning: useful resource, consent and client enquiry"
+  image: "/images/thumbs/systeme-io-review-2026.webp"
+  alt: "Systeme.io Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 

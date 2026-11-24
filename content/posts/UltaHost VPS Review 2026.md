@@ -10,8 +10,9 @@ description: "Evaluate UltaHost VPS for a freelance website: check total cost, c
 categories: ["Hosting", "Hosting Reviews"]
 tags: ["UltaHost", "VPS", "freelancing"]
 cover:
-  image: "/images/ultahost-vps-cover-v2.webp"
-  alt: "Illustrated server with cost, backup and setup symbols for a VPS buying guide"
+  image: "/images/thumbs/ultahost-vps-review.webp"
+  alt: "UltaHost VPS Review: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 UltaHost VPS Basic is a reasonable fit for one light Linux service if you accept 1 GB RAM and can verify exactly what support will manage. The official page currently shows $4.69 per month on a 24-month term (the Black Friday rate, marked down from $9.29), renewing at $5.52 per month for two years; that is $112.56 for the first two years and $132.48 for the next two. Choose another host or a managed application plan if you need proven application-level support or a short, clearly refundable commitment.

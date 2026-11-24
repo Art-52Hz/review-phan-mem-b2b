@@ -11,8 +11,8 @@ categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "odoo", "erp", "backups"]
 toc: true
 cover:
-  image: "/images/vps-client-operations.svg"
-  alt: "Server operations checklist for access, backup and recovery"
+  image: "/images/thumbs/best-vps-for-odoo-erp.webp"
+  alt: "Best VPS for Odoo or a Small-Business ERP: aiprofreelancer.com guide cover"
   relative: false
 ---
 

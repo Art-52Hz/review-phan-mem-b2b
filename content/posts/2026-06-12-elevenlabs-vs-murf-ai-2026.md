@@ -10,8 +10,8 @@ keywords: ["elevenlabs vs murf ai", "elevenlabs vs murf", "voiceover comparison"
 categories: ["AI Tools", "Content Creation"]
 tags: ["elevenlabs", "murf ai", "ai voice", "text to speech", "comparison"]
 cover:
-  image: "/images/elevenlabs-murf-cover-v2.webp"
-  alt: "Two illustrated audio waveforms sharing a script and headphones; Same Script. Two Voices."
+  image: "/images/thumbs/elevenlabs-vs-murf-ai-2026.webp"
+  alt: "ElevenLabs vs Murf AI: aiprofreelancer.com guide cover"
   relative: false
 ---
 

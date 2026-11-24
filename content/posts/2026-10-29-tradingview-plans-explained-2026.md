@@ -11,8 +11,8 @@ categories: ["Trading Tools"]
 tags: ["tradingview", "forex", "trading", "alerts"]
 toc: true
 cover:
-  image: "/images/tradingview-plans-explained-2026.svg"
-  alt: "Bar chart of TradingView plan prices per month billed annually"
+  image: "/images/thumbs/tradingview-plans-explained-2026.webp"
+  alt: "TradingView Plans: aiprofreelancer.com guide cover"
   relative: false
 ---
 

@@ -9,8 +9,8 @@ keywords: ["systeme.io for affiliate marketers", "systeme.io bridge page", "affi
 categories: ["Marketing Tools", "AI Tools"]
 tags: ["systeme.io", "affiliate marketing", "funnel builder", "email marketing"]
 cover:
-  image: "/images/freelancer-lead-funnel.svg"
-  alt: "Planning an opt-in page, helpful bridge page and email follow-up"
+  image: "/images/thumbs/systeme-io-for-affiliate-marketers.webp"
+  alt: "Systeme.io for Affiliate Marketers: aiprofreelancer.com guide cover"
   relative: false
 ---
 

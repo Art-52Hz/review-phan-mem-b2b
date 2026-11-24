@@ -8,8 +8,8 @@ categories: ["Reviews", "Affiliate Marketing"]
 tags: ["elevenlabs", "review", "2026"]
 toc: true
 cover:
-  image: "/images/elevenlabs-buying-checklist.svg"
-  alt: "ElevenLabs voiceover workflow and plan evaluation guide"
+  image: "/images/thumbs/elevenlabs-ai-review-2026.webp"
+  alt: "ElevenLabs Review: aiprofreelancer.com guide cover"
   relative: false
 lastmod: 2026-10-28
 description: "Evaluate ElevenLabs for freelance voiceover work using a sample script, commercial-use requirements, revision budget and current plan details."

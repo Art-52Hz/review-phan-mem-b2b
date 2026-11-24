@@ -10,8 +10,9 @@ keywords: ["copy.ai vs jasper", "jasper vs copy.ai", "ai writing comparison"]
 categories: ["AI Tools", "Content Marketing"]
 tags: ["copy.ai", "jasper ai", "ai writing", "comparison", "ai tools 2026"]
 cover:
-  image: "/images/client-writing-workflow-v2.webp"
-  alt: "Brief, draft and review stages for comparing two content tools"
+  image: "/images/thumbs/copy-ai-vs-jasper-2026.webp"
+  alt: "Copy.ai vs Jasper: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Choose between Copy.ai and Jasper by testing the work you need to deliver. A lower advertised starting price does not establish lower project cost, and a brand-voice feature does not establish better writing without a comparable sample.

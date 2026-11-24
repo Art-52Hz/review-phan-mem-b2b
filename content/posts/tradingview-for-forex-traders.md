@@ -10,6 +10,10 @@ keywords: ["tradingview for forex traders", "tradingview vs mt4", "tradingview v
 categories: ["Trading Tools"]
 tags: ["tradingview", "forex", "trading", "alerts", "mt4", "mt5"]
 toc: true
+cover:
+  image: "/images/thumbs/tradingview-for-forex-traders.webp"
+  alt: "TradingView for Forex Traders: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 **Best for forex traders who want browser charts and server-side alerts: TradingView; shortlist Essential for a modest paid setup.**

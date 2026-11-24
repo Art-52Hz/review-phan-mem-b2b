@@ -9,8 +9,9 @@ description: "Evaluate Descript with a representative transcript, edit log, usag
 tags: ["descript", "ai video editor", "screen recording", "transcription", "content creation"]
 categories: ["AI Tools", "Video"]
 cover:
-  image: "/images/voiceover-scorecard.svg"
-  alt: "Audio evaluation checklist: listen, revise and check delivery requirements"
+  image: "/images/thumbs/descript-review-2026.webp"
+  alt: "Descript Review: aiprofreelancer.com guide cover"
+  relative: false
 draft: false
 ---
 

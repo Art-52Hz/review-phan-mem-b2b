@@ -9,6 +9,10 @@ categories: ["AI Tools", "Reviews"]
 tags: ["elevenlabs", "voice cloning", "voiceover", "2026"]
 toc: true
 description: "Choose ElevenLabs Instant or Professional Voice Cloning by plan, recording needs and consent rules. Compare costs and rights before paying for a clone."
+cover:
+  image: "/images/thumbs/elevenlabs-voice-cloning-explained.webp"
+  alt: "ElevenLabs Voice Cloning: aiprofreelancer.com guide cover"
+  relative: false
 ---
 
 Best for a quick clone of your own voice: **ElevenLabs Starter with Instant Voice Cloning**.
