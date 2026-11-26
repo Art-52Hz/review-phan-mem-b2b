@@ -1,7 +1,7 @@
 ---
 title: "KWFinder Review (2026): Mangools Pricing, Limits and Cheaper Alternatives"
 date: 2026-10-09T22:30:00+07:00
-lastmod: 2026-11-04
+lastmod: 2026-11-26
 draft: false
 author: "Vincent Pham"
 slug: "mangools-kwfinder-review"
@@ -9,117 +9,114 @@ keywords: ["kwfinder review", "mangools review", "mangools pricing", "kwfinder p
 categories: ["SEO Tools", "Reviews"]
 tags: ["mangools", "kwfinder", "keyword research"]
 toc: true
-description: "KWFinder review for 2026: Mangools Basic, Premium and Agency prices (annual vs monthly), daily lookup limits, the 48-hour refund rule and free alternatives to try first."
+description: "KWFinder review for 2026: current Mangools prices, 12 to 36 month totals, actual lookup limits, and cheaper free options for occasional research."
 cover:
   image: "/images/thumbs/mangools-kwfinder-review.webp"
   alt: "KWFinder Review: aiprofreelancer.com guide cover"
   relative: false
 ---
 
-Best for freelancers and solo site owners who research a few client topics a week: **Mangools Basic**, $18.85/month when billed $226.20 a year, or $30.50 month to month. Pick **Premium** ($316.20 a year) only if you need more than 100 keyword lookups a day or a second login for a teammate.
-Skip a paid plan for now if you have not yet run one real client brief. Google Search Console, Keyword Planner and the free Mangools account answer more questions than most people expect.
+KWFinder is worth paying for when client work needs repeatable keyword and SERP checks; it is poor value for occasional topic ideas because Mangools sells it only inside a larger SEO + AI bundle. At the current USD prices, Basic costs $452.40 per year, while its 100 daily keyword and SERP lookups fit solo briefs; use the free tools until real work outgrows five daily lookups.
 
-[See current Mangools plans and start with the free account](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")
+[Start with Mangools KWFinder](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)
 
-**Affiliate disclosure:** This guide contains a Mangools affiliate link. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).
+*Affiliate disclosure: This guide contains Mangools affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-**Review scope, November 1, 2026:** Prices and limits below were read from the Mangools plans page on November 1, 2026 (USD, before tax). Keyword observations come from our signed-in KWFinder sessions in October 2026. This is not a paid-plan capacity benchmark or a data-accuracy comparison, and no star rating is assigned.
+Prices and terms below are USD and checked November 26, 2026. Mangools says prices can vary by country. Confirm the amount due for your location before paying.
 
-> **Black Friday 2026:** No active seasonal offer was visible in official material checked November 4. Our [Mangools Black Friday guide](/posts/mangools-black-friday-2026/) lists the current official indexed baseline, which differs from the November 1 prices below, and explains what to check before buying.
+## What KWFinder costs now
 
-## Mangools pricing in 2026: Basic vs Premium vs Agency
+KWFinder is not a standalone license. Mangools' current SEO + AI plans bundle KWFinder with SERPChecker, SERPWatcher, LinkMiner, SiteProfiler, AI Search Watcher Pro, API and MCP access. No extra license or paid add-on is required to use the listed bundle. The separately sold AI Search Watcher Pro plan has much smaller SEO allowances, so it is not an equivalent KWFinder plan.
 
-KWFinder is not sold on its own. Every Mangools plan includes all five tools (KWFinder, SERPChecker, SERPWatcher, LinkMiner and SiteProfiler), plus the AI Search Watcher bundle and API/MCP access.
+| Plan | Monthly billing | Annual billing, paid upfront | Keyword and SERP lookups per 24h | Tracked keywords | Extra users |
+|---|---:|---:|---:|---:|---:|
+| Basic | $61/mo | $452.40/yr ($37.70/mo equivalent) | 100 each | 200 | 0 |
+| Premium | $81/mo | $632.40/yr ($52.70/mo equivalent) | 500 each | 700 | 3 |
+| Agency | $141/mo | $1,172.40/yr ($97.70/mo equivalent) | 1,200 each | 1,500 | 5 |
 
-| Plan | Annual billing | Monthly billing | Keyword lookups | SERP lookups | Tracked keywords | Extra seats |
-|---|---:|---:|---:|---:|---:|---|
-| Basic | $18.85/mo ($226.20/yr) | $30.50/mo ($366/yr) | 100 per 24h | 100 per 24h | 200, weekly updates | None |
-| Premium | $26.35/mo ($316.20/yr) | $40.50/mo ($486/yr) | 500 per 24h | 500 per 24h | 700, weekly updates | 3 |
-| Agency | $48.85/mo ($586.20/yr) | $70.50/mo ($846/yr) | 1,200 per 24h | 1,200 per 24h | 1,500, daily updates | 5 |
+Basic allows 200 keyword suggestions per search and 25 competitor keywords per domain search. Premium and Agency show unlimited suggestions and up to 1,000 competitor keywords per domain search. Basic and Premium update tracked rankings weekly; Agency updates them daily. Each plan's daily lookup pool is shared by its users, so seats do not multiply limits.
 
-Other limits on the same plan cards: Basic shows 200 keyword suggestions per search (25 for competitor keywords), 100k backlink rows a month and 20 site lookups per 24 hours. Premium and Agency show unlimited suggestions per search, 500k and 1.2M backlink rows, and 70 and 150 site lookups.
+## The full subscription bill over 12, 24 and 36 months
 
-What the numbers mean for your budget:
+The calculations below include the whole required Mangools SEO + AI subscription. They assume the displayed price remains the same at each renewal, no tax or currency conversion, and no cancellation. Annual plans are charged once per year; the monthly equivalent is not an installment. There is no separate mandatory AI, API or MCP license in this bundle.
 
-- **Annual billing saves 31% to 38%,** depending on the plan. Basic is $139.80 cheaper per year on annual billing than paying monthly for 12 months. But you pay $226.20 on day one, and the refund window is short (see below).
-- **Premium costs $90 a year more than Basic** on annual billing. That buys five times the daily lookups and three extra seats. If you work alone and rarely hit 100 searches a day, the upgrade buys capacity you will not use.
-- **Agency only makes sense with a team** or daily rank tracking for client reports. Weekly updates on Basic and Premium are fine for most freelance work.
+| Plan | Billing | Due at first checkout | Total at 12 months | Total at 24 months | Total at 36 months |
+|---|---|---:|---:|---:|---:|
+| Basic | Annual | $452.40 | $452.40 | $904.80 | $1,357.20 |
+| Basic | Monthly | $61/mo | $732 | $1,464 | $2,196 |
+| Premium | Annual | $632.40 | $632.40 | $1,264.80 | $1,897.20 |
+| Premium | Monthly | $81/mo | $972 | $1,944 | $2,916 |
+| Agency | Annual | $1,172.40 | $1,172.40 | $2,344.80 | $3,517.20 |
+| Agency | Monthly | $141/mo | $1,692 | $3,384 | $5,076 |
 
-Pricing source: [Mangools plans and pricing](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462), checked November 1, 2026. Confirm the amount due on the checkout page before paying, because tax and currency can change the total.
+Annual Basic saves $279.60 against twelve monthly payments, but requires $452.40 upfront. Premium costs $180 more per year than Basic for five times the keyword/SERP allowance and three extra users. Agency adds daily rank updates and larger research limits; it is a substantial $540 more per year than Premium.
 
-## How the daily limits really work
+Sources: [Mangools plan prices](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462) and [official plan limits and bundle inclusions](https://help.mangools.com/en/articles/17450706-mangools-plans-compared-what-each-plan-includes#a5d5c1d50feebf852f6d6f462), checked November 26, 2026. [Mangools billing rules](https://help.mangools.com/en/articles/17450709-monthly-or-annual-billing#a5d5c1d50feebf852f6d6f462), checked November 26, 2026, say annual billing is paid for 12 months at once and the price stays the same while a subscription remains active.
 
-The [Mangools FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), checked November 1, 2026, separates two counters:
+## The limit that can end a research session
 
-1. **Keyword lookup:** a search typed in the main KWFinder box, or a keyword import.
-2. **SERP lookup:** loading a SERPChecker panel, or clicking a keyword suggestion to get its difficulty score.
+A KWFinder search uses one keyword lookup and loads its first result and difficulty score using one SERP lookup. Selecting another keyword to inspect its SERP uses another SERP lookup; opening Autocomplete or Questions for the first time on a result uses another keyword lookup for each. Lookups reset 24 hours after the first lookup, not at midnight. There is no in-app option to buy extra lookups; you wait for reset or upgrade.
 
-Recently cached requests are not counted. The 24-hour window starts with your first request, not at midnight.
+For a brief with 20 seed searches and 90 shortlisted terms to inspect, Basic's 100 keyword allowance is enough, but its 100 SERP lookups are exhausted by the 20 initial result pages plus the 90 selections. Premium is useful when that workload recurs in a day, not just because the bigger number looks safer.
 
-This is why you should plan with both counters. One client brief might use 10 seed searches but 30 or more SERP checks, because you click into each shortlisted phrase to read the results. On Basic, that is a third of a day's SERP allowance for one brief.
+Sources: [Mangools lookup counting and reset rules](https://help.mangools.com/en/articles/17450713-how-lookups-and-limits-work-and-when-they-reset#a5d5c1d50feebf852f6d6f462) and [options when limits run out](https://help.mangools.com/en/articles/17450715-out-of-limits-your-options#a5d5c1d50feebf852f6d6f462), checked November 26, 2026.
 
-A quick way to size your plan before paying:
+## Which one should you pick?
 
-1. Take one real brief and note the country and language.
-2. Write the seed searches you expect to run.
-3. Mark which phrases need a fresh SERP check.
-4. Run the brief on the free account and record the counters before and after.
-5. Multiply by the briefs you deliver on your busiest day.
+{{< picks title="Which one should you pick?" checked="November 26, 2026" >}}
+{{% pick label="Choose Free if" name="Mangools Free" price="$0" renew="No paid renewal" note="5 keyword and 5 SERP lookups per 24 hours" %}}
+You are validating a niche or preparing one short list and do not yet earn from recurring SEO briefs. Use Google Search Console, Keyword Planner and Free first; **[start with Mangools](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)** only if you want to try its workflow.
+{{% /pick %}}
+{{% pick label="Choose Basic if" name="Mangools Basic" price="$37.70/mo billed annually" renew="$452.40 each year" note="First-subscription refund request window is 48 hours" %}}
+You work alone and deliver weekly briefs that stay below 100 lookups of each type per day. Choose monthly at $61 if the client project may end soon; for ongoing work, **[start with Basic](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)** annually.
+{{% /pick %}}
+{{% pick label="Choose Premium if" name="Mangools Premium" price="$52.70/mo billed annually" renew="$632.40 each year" note="Three extra users share the plan limits" %}}
+Choose Premium when a busy workday repeatedly exceeds Basic's daily pool or collaborators need separate users. If that happens only once in a while, schedule research across two days instead of paying $180 more each year. **[Compare Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**.
+{{% /pick %}}
+{{% pick label="Choose Agency if" name="Mangools Agency" price="$97.70/mo billed annually" renew="$1,172.40 each year" note="Daily rank updates; five extra users share limits" %}}
+Choose Agency only when daily rank updates and up to 1,200 keyword/SERP lookups per day support active client reporting. If weekly rank checks are enough, stay on Basic or Premium and keep $540 per year. **[Compare Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**.
+{{% /pick %}}
+{{< /picks >}}
 
-If your busiest day stays under 100 of each, Basic covers it.
+Mangools' [Free plan limits](https://help.mangools.com/en/articles/17450714-free-and-free-plans-explained#a5d5c1d50feebf852f6d6f462), checked November 26, 2026, list five keyword and five SERP lookups per 24 hours with no card required. Its [refund rules](https://help.mangools.com/en/articles/17450724-refunds#a5d5c1d50feebf852f6d6f462), checked November 26, 2026, offer a full refund within 48 hours of a first subscription payment; annual auto-renewal refunds can be requested within 14 days. Bank transfer and cryptocurrency payments are non-refundable.
 
-## What our KWFinder sessions showed
+## Cheaper alternatives when you do not need the bundle
 
-These observations came from our signed-in interface with United States and English selected. The numbers are the tool's estimates, not visits to this website.
+| Alternative | Cost | Use it when | Trade-off |
+|---|---:|---|---|
+| Google Search Console | Free | You need queries and pages already getting impressions on your verified site | Does not research competitors' sites |
+| Google Keyword Planner | Free with a Google Ads account | You need seed ideas or broad demand ranges | Built for ads; volume ranges may be broad |
+| Google autocomplete and People also ask | Free | You need question wording for a few topics | No keyword volume, KD or rank tracking |
+| Mangools Free | Free, no card | You want to check KWFinder itself on a real brief | 5 keyword and 5 SERP lookups per 24 hours |
 
-| Observation date | Query | Monthly search estimate | Keyword difficulty | SERP freshness displayed |
-|---|---|---:|---:|---|
-| October 4 | kwfinder review | 20 | 43 | Just now |
-| October 4 | mangools review | 140 | 34 | 9 days ago |
-| October 9 | elevenlabs review | 250 | 32 | Just now |
+For a zero-cost process combining these sources, use our [freelance keyword research workflow](/posts/keyword-research-for-freelancers/). If your paid deliverable also needs site audits and broad competitor research, see [Mangools vs Semrush for freelancers](/posts/mangools-vs-semrush-for-freelancers/) and [Mangools pricing explained](/posts/mangools-pricing-explained/).
 
-Two points stand out. First, the freshness label matters: a difficulty score from a cached panel nine days old is not directly comparable with one updated just now. Save the capture date with every number you give a client. Second, a low difficulty value is a reason to look at the results page, not a promise that a new page will rank. The search estimate cannot tell you how many visitors will buy.
+## FAQ: common KWFinder buying questions
 
-## Refunds, renewal and cancellation
+These questions reflect recurring concerns in [a Reddit discussion about keyword research on a budget](https://www.reddit.com/r/SEO/comments/1n6l36f/keyword_research_on_a_reasonable_budget/) and [another about budget-friendly keyword tools](https://www.reddit.com/r/SEO/comments/1nf69kg/), checked November 26, 2026, along with questions answered in Mangools' official FAQ.
 
-From the plans page and FAQ, checked November 1, 2026:
+### Can I buy KWFinder by itself?
 
-- **Refund:** a full refund within **48 hours** of payment if you are not satisfied. This does not apply to two consecutive subscriptions. Claim it by email (info@mangools.com) or live chat.
-- **Renewal:** plans auto-renew each month or year until you turn it off. After you cancel, the account stays upgraded until the end of the paid period.
-- **Changes:** you can upgrade, downgrade or cancel at any time from your account. Upgrades are prorated.
-- **Payment:** major cards, bank transfer, crypto, and PayPal through Paddle.
+No. Mangools says the tools are bundled in its plans; Basic includes the SEO tools and AI Search Watcher Pro. The separate AI Search Watcher Pro plan has only small SEO allowances.
 
-The 48-hour window is the key risk with annual billing. If you are not sure, pay one month of Basic ($30.50), use it on real work for a few weeks, and switch to annual once you know you will keep it.
+### How many searches do I really get on Basic?
 
-## Cheaper alternatives to try first
+Basic includes 100 keyword and 100 SERP lookups per 24 hours. A search uses one of each for the query and its first result; selecting additional results mainly uses more SERP lookups.
 
-Before any subscription, these free options cover a lot of freelance keyword work:
+### Is Mangools worth it for occasional keyword research?
 
-| Option | Cost | Good for | Limitation |
-|---|---|---|---|
-| Google Search Console | Free | Queries your site already appears for | Only your own verified sites |
-| Google Keyword Planner | Free with a Google Ads account | Seed ideas and broad volume ranges | Often shows wide ranges, not exact numbers |
-| Google autocomplete and "People also ask" | Free | Real question wording | No volume or difficulty data |
-| Mangools free account | Free, no card needed | Trying KWFinder on a real brief | Small daily allowance |
+Usually start free. The free account has five keyword and five SERP lookups per 24 hours, and Google's free tools cover initial research. Pay for Basic when recurring client briefs need more or KWFinder's bundle saves enough work to justify $452.40 upfront annually.
 
-Our [free keyword research workflow](/posts/keyword-research-for-freelancers/) combines these into a repeatable process, and the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/) keeps your evidence in one place.
+### Is the annual plan cheaper if I cancel early?
 
-If you need backlink audits, site crawls or a large competitor database, you are shopping for a full SEO suite. These cost a lot more. Our [Ahrefs vs Semrush guide](/posts/ahrefs-vs-semrush-2026/) explains which output each one is built for.
+The annual equivalent is cheaper only if you use most of the year: Basic is $452.40 upfront versus $61 per month. Refunds on a first subscription are requested within 48 hours; turning off auto-renewal alone does not refund the unused period.
 
-## Who should pay for Mangools, and who should wait
+### Why does KWFinder sometimes show no volume or stale data?
 
-Choosing between a focused research workflow and a broader SEO suite? Our [Mangools vs Semrush comparison for freelancers](/posts/mangools-vs-semrush-for-freelancers/) connects plan limits and subscription costs to the work you deliver.
+Mangools says it usually receives search-volume data with about a one-month lag, and may show its latest stored value when a provider no longer supplies a keyword's data. Treat volume as an estimate and check the displayed freshness and live results before making a client recommendation.
 
-**Pay for Basic** if you deliver keyword briefs or blog plans to clients every week, you work alone, and the free tools leave you guessing at difficulty and competition.
+### What is cheaper than Mangools for one website?
 
-**Pay for Premium** if a teammate or virtual assistant needs their own login, or a busy day regularly takes you past 100 searches.
+Use Google Search Console for queries your own site already earns impressions for, plus Keyword Planner or autocomplete for new topic ideas. These do not replace Mangools' competitor estimates, difficulty checks or rank tracking, but they avoid a recurring subscription when that bundle is not part of a paid deliverable.
 
-**Wait** if you cannot name the client deliverable yet, or your free data already answers the question. More keyword rows will not fix an unclear audience.
-
-For the whole-project budget, add research time and client revisions with our [freelance tool cost worksheet](/posts/freelance-tool-project-cost/).
-
-## Next step
-
-Open the free Mangools account, run one real brief and note how many lookups it used. If the result fits Basic, start monthly, then move to annual billing once you know you will keep it.
-
-[Check Mangools Basic and Premium limits on the current plan page](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")
+Official sources: [Mangools FAQ](https://mangools.com/faq#a5d5c1d50feebf852f6d6f462), [data freshness explanation](https://help.mangools.com/en/articles/17450737-search-volume-in-kwfinder-where-it-comes-from-and-why-it-differs#a5d5c1d50feebf852f6d6f462), checked November 26, 2026.
