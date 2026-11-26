@@ -1,7 +1,7 @@
 ---
-title: "Murf AI Black Friday 2026: Discount and Which Plan to Buy"
+title: "Murf AI Black Friday 2026: Is There a Discount and Which Plan to Buy"
 date: 2026-11-06
-lastmod: 2026-11-06
+lastmod: 2026-11-26
 slug: "murf-ai-black-friday-2026"
 description: "Murf AI Black Friday 2026 sale status, regular annual prices and Creator vs Business buying advice. Check the discount before committing to a year."
 summary: "No confirmed 2026 Black Friday offer yet. Compare the regular annual baseline, choose a suitable plan and know what to check before paying."
@@ -16,120 +16,94 @@ cover:
   relative: false
 ---
 
-**Murf AI's Black Friday 2026 sale is not live on the official pricing page checked November 6, 2026: Creator still shows $19/month ($228 billed yearly) and no sale banner or coupon was displayed.**
-Best for a solo narrator with regular work: shortlist **Creator**; consider **Business** when your organization needs its license or your workflow needs the higher tier.
-Choose **ElevenLabs Starter** instead if a small monthly commitment and permitted voice cloning matter more than a presentation-focused workflow.
+**Murf's Black Friday 2026 sale is not live on the official pricing page checked November 26, 2026.** Creator remains $29 month to month or $228 billed yearly; Business is $99 month to month or $792 yearly. Choose Creator for recurring solo narration, Business only for a confirmed business-license or feature need, and wait if you are still auditioning a voice.
 
-*Affiliate disclosure: Murf links marked as recommendations are affiliate links. We may earn a commission if you buy through them, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
+{{< picks title="Which one should you pick?" checked="Nov 26, 2026" >}}
+{{% pick label="Choose Creator if" name="Murf Creator" price="$228/year or $29/month" renew="$228/year at today's listed annual price" note="Commercial rights included; tax may apply" %}}
+For confirmed solo narration that needs downloads, Creator is the lower-cost paid Studio plan. **[Compare Murf plans](https://get.murf.ai/hebxeow3cn2z)**
+{{% /pick %}}
+{{% pick label="Choose Business if" name="Murf Business" price="$792/year or $99/month" renew="$792/year at today's listed annual price" note="Business License included; tax may apply" %}}
+Choose it only when a registered business needs the Business License or you need its higher generation allowance and controls. **[Compare Murf plans](https://get.murf.ai/hebxeow3cn2z)**
+{{% /pick %}}
+{{% pick label="Choose Free if" name="Murf Free" price="$0" renew="$0" note="10 minutes; no downloads or commercial rights" %}}
+Use Free to preview a script and voice, not to deliver a downloadable client project. **[Compare Murf plans](https://get.murf.ai/hebxeow3cn2z)**
+{{% /pick %}}
+{{% pick label="Wait if" name="No subscription yet" price="$0 committed" renew="Recheck when your project is approved" note="No confirmed Black Friday code" %}}
+If the voice, workload or usage rights are still uncertain, do not pay for a year based on an unannounced sale. **[Compare Murf plans](https://get.murf.ai/hebxeow3cn2z)**
+{{% /pick %}}
+{{< /picks >}}
 
-[Compare Murf plans before committing to a year](https://get.murf.ai/hebxeow3cn2z)
+*Affiliate disclosure: We may earn a commission from Murf links in this article, at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-**We will update this page when the 2026 sale goes live.**
+Based on Murf's official pricing and help pages checked November 26, 2026.
 
-## Is the Murf Black Friday sale open?
+## Is Murf's Black Friday sale live?
 
-Not yet. The [official Murf Studio pricing page](https://murf.ai/pricing), checked November 6, 2026, showed the regular yearly prices: Creator at $19/month ($228 billed annually) and Business at $66/month ($792 billed annually). There was no Black Friday banner, countdown or coupon field on the page. The only saving shown was the standard "Saved 33%" label for yearly billing versus monthly billing.
+No 2026 sale, code or campaign dates were displayed on Murf's [official Studio pricing page](https://murf.ai/pricing), checked November 26, 2026. The page lists standard monthly and annual billing. We will update this page when the 2026 sale goes live.
 
-Those prices are identical to the ones we recorded on October 31, 2026, so nothing has been discounted ahead of the holiday. If a sale appears, the plan cards on that page are where it will show first.
+The regular annual price is not a Black Friday discount. Compare the same plan and billing term at checkout; do not count a routine annual-billing difference as a holiday offer. We found no official 2025 offer terms to cite, so this guide makes no claim that a past discount will return.
 
-If your project can wait, audition voices now and compare the eventual offer with the baseline below. If you must deliver this week, decide against the actual subscription cost you can see before paying. Waiting for an unannounced discount is not a delivery plan.
+## Regular price versus Black Friday price
 
-## Black Friday price vs the regular annual baseline
+| Studio plan | Regular monthly bill | Regular annual bill | Annual equivalent | Black Friday 2026 price |
+|---|---:|---:|---:|---|
+| Creator | $29/month | $228/year | $19/month | No sale displayed |
+| Business | $99/month | $792/year | $66/month | No sale displayed |
+| Enterprise | Custom quote | Custom quote | Custom | No sale displayed |
 
-These are the regular yearly prices on Murf's official pricing page, checked November 6, 2026, and unchanged since our [Murf AI review](/posts/murf-ai-review-2026/) check on October 31. All amounts are USD before tax; inspect the final amount at checkout.
+Source: [Murf Studio pricing](https://murf.ai/pricing), checked November 26, 2026. Prices are USD before taxes or currency conversion. The annual equivalents are billed upfront at $228 and $792, respectively.
 
-| Studio plan | Regular yearly price, November 6 | 2026 Black Friday price | What to compare when a sale appears |
-|---|---|---|---|
-| Creator | $19/month equivalent; $228 billed yearly | Not confirmed | Total annual payment for the same plan |
-| Business | $66/month equivalent; $792 billed yearly | Not confirmed | License, included allowance and total payment |
-| Enterprise | Custom quote | Not confirmed | Written quote for the required seats and features |
+## The total cost over 12, 24 and 36 months
 
-Source: [Murf Studio pricing table](https://murf.ai/pricing), checked November 6, 2026.
+The annual columns below repeat today's annual invoice at each renewal. This is a planning estimate, not a renewal-price guarantee. The monthly columns multiply today's month-to-month charge by the number of months. Murf lists commercial rights in Creator and a Business License in Business, with no mandatory Studio add-on on the pricing page, so those lines add $0. Tax and currency charges are excluded.
 
-**Do not count the usual annual-billing saving as a new Black Friday discount.** A percentage can compare annual billing with twelve monthly payments, while leaving the annual purchase price unchanged. The useful question is whether the same subscription costs less than it did before the campaign.
+| Plan and billing | 12 months | 24 months | 36 months | License | Mandatory add-ons |
+|---|---:|---:|---:|---:|---:|
+| Creator, yearly renewal at today's rate | $228 | $456 ($228 + $228 renewal) | $684 ($228 x 3) | $0 included | $0 listed |
+| Creator, monthly billing | $348 ($29 x 12) | $696 ($29 x 24) | $1,044 ($29 x 36) | $0 included | $0 listed |
+| Business, yearly renewal at today's rate | $792 | $1,584 ($792 + $792 renewal) | $2,376 ($792 x 3) | $0 included | $0 listed |
+| Business, monthly billing | $1,188 ($99 x 12) | $2,376 ($99 x 24) | $3,564 ($99 x 36) | $0 included | $0 listed |
 
-Keep a copy of the plan name, billing term and order total when comparing offers. A lower number attached to a different allowance or a longer commitment is not automatically a better purchase. If renewal is unclear, ask for the renewal amount before treating the first payment as your ongoing budget.
+The renewal examples assume Murf keeps the listed annual price unchanged. They are not a claim about your future invoice. Confirm the current renewal amount, tax and selected billing term before paying. Enterprise, custom voice clones and broadcast requirements are not included in these self-serve totals.
 
-## Which plan should you buy?
+## Which plan fits your situation?
 
-### Creator: the first shortlist for a solo narrator
+- **You make regular solo YouTube or course narration and need downloadable files:** choose Creator after your own script sample passes. It lists 24 generation hours per year and commercial rights.
+- **You work for a registered business that needs Murf's Business License:** choose Business only after confirming that the included license fits the intended use. Its yearly invoice is $792, versus $228 for Creator.
+- **You have one unapproved script or are checking pronunciation:** stay on Free for previewing. The free tier does not provide downloads or commercial rights.
+- **You need TV or radio advertising rights:** ask Murf for the applicable Enterprise terms and quote before budgeting. Do not assume either self-serve plan includes broadcast rights.
+- **You need narration once and have no follow-up jobs booked:** avoid a yearly plan for now. Compare the $29 monthly option and a lower-commitment competitor against the actual job revenue.
 
-Start here if you already have scripts and a repeatable narration workload. The Studio pricing table, checked November 6, 2026, lists 100 projects, 24 hours of voice generation per year (about 2 hours a month), one editor, unlimited downloads, Canva integration and commercial rights. Reconfirm those in the plan selector if Murf changes its packages during a promotion.
-
-Your own production schedule is the deciding evidence. List the videos or lessons you actually expect to finish, then add room for rewrites. A subscription is useful when it supports work already on your calendar; an unused annual allowance has no resale value to your business.
-
-### Business: pay for a specific requirement
-
-The same table lists 500 projects, 96 hours of yearly generation, a business license, emphasis and pacing controls and PowerPoint integration. Our recommendation is to write down the requirement that makes the upgrade necessary before paying: organizational usage, extra capacity or a feature you have actually used in a trial.
-
-For example, a training producer with a confirmed course pipeline has a different buying decision from someone planning a first channel. Count approved scripts separately from ideas. Do not upgrade on the assumption that buying more capacity will create more paid work.
-
-[Review the Murf plan options for your workload](https://get.murf.ai/hebxeow3cn2z)
-
-### Who should not buy an annual plan yet?
-
-Wait if you have not heard your difficult passages in the intended voice, if your next project is uncertain, or if you cannot identify the publication rights you need. A sale does not solve an unsuitable voice, an unapproved script or a client who wants a human narrator.
-
-If several people must edit the same project, ask Murf to confirm the collaboration arrangement rather than assuming a higher-priced individual subscription covers the whole team. Keep that answer with the order details so your purchasing decision is reproducible later.
-
-## Murf vs ElevenLabs for a Black Friday purchase
-
-Compare the job and the cash commitment before comparing promotional percentages. Our [ElevenLabs vs Murf guide](/posts/elevenlabs-vs-murf-ai-2026/) covers the broader workflow decision.
-
-| Buying question | Murf Creator shortlist | ElevenLabs Starter |
-|---|---|---|
-| Price reference | Annual baseline in the table above | $6/month regular monthly rate |
-| Main budgeting constraint | Upfront annual commitment if you select yearly billing | 30,000 credits per month |
-| Free evaluation | Audition a script before purchasing | Free tier available |
-| Best reason to investigate | Narration workflow that fits your presentation production | Lower monthly commitment and instant voice cloning |
-| Check before paying | Current package, rights and billing term | Model credit consumption and voice permission |
-
-Source: [ElevenLabs monthly pricing and plan inclusions](https://elevenlabs.io/pricing), checked November 6, 2026. Its page also displays introductory pricing with inconsistent promotional timing, so this comparison uses the regular Starter rate, not a promised first-month discount. Starter lists commercial licensing and instant voice cloning; clone only a voice you have permission to use.
-
-A credit allowance and a voice-hour allowance are different units. Do not divide their headline numbers and call the larger one better value. Put the same approved passage through each trial and note the consumption shown in that account. Your own revision pattern matters more than a theoretical maximum.
-
-## How to test it yourself in 15 minutes
-
-This is a suggested evaluation schedule, not a published listening test. Prepare an original script before starting and use the available trial allowance carefully.
-
-1. **Minutes 0 to 3:** choose a short passage containing a product name, an abbreviation, a number and an important sentence. These expose problems that a generic greeting can hide.
-2. **Minutes 3 to 7:** audition a suitable voice. Write down any words a listener might misunderstand and whether the tone fits your audience.
-3. **Minutes 7 to 10:** correct one difficult line. Note the settings and any usage-counter change, so you can estimate revision effort from your own session.
-4. **Minutes 10 to 13:** listen beside your intended visuals. Check pauses, transitions and whether the narration leaves enough time to understand a slide.
-5. **Minutes 13 to 15:** decide whether the sample passes. Confirm that the plan you intend to purchase includes the features you used and the export you need.
-
-Keep the sample, settings and decision notes. If the result fails, compare another voice or another provider before buying. If it passes, save the exact plan requirements rather than relying on a promotional headline later.
-
-<!-- FIRST-HAND: Evidence needed: dated Murf trial sample using a permitted script, voice and settings, usage counter before and after a text revision, and a verified export from the purchased tier. -->
+For a fuller rights and workflow review, see the [Murf AI review](/posts/murf-ai-review-2026/). For generation budgets and billing details, read [Murf AI pricing explained](/posts/murf-ai-pricing-explained/). To compare voice workflows, use [ElevenLabs vs Murf AI](/posts/elevenlabs-vs-murf-ai-2026/).
 
 ## FAQ
 
-### When is Murf AI Black Friday 2026?
+### When will Murf's Black Friday 2026 sale start or end?
 
-Black Friday falls on November 27, 2026. That calendar date is not a confirmed Murf launch date. We have not verified Murf's campaign start or end date; use an explicit announcement from the company before scheduling a purchase around one.
+Murf has not published campaign dates on the official pricing page checked November 26, 2026. Black Friday falls on November 27, but the calendar date does not confirm when Murf's offer starts or ends. We will update this page when the 2026 sale goes live.
 
-### Is there a verified Murf Black Friday coupon code?
+### Is there a verified Murf discount code?
 
-No verified 2026 code was found in the official sources checked for this guide. Do not assume a code from a coupon directory works. The deciding evidence is an eligible offer from Murf and the reduction shown before payment.
+No official 2026 coupon code was displayed on the pricing page checked November 26. Treat a code as valid only if Murf accepts it and the final checkout total changes before payment.
 
-### Which Murf plan should a freelancer buy?
+### Does the $19 Creator price mean I pay $19 each month?
 
-Shortlist Creator for regular solo narration after a successful sample. Consider Business when you can name a requirement that justifies it. For occasional work, compare a monthly commitment first; buying a year solely for a discount can increase your total spending.
+No. $19 is the monthly equivalent of the $228 annual bill. Month-to-month billing is listed at $29 per month. Over 12 months, that monthly rate totals $348 before tax.
 
-### Are the annual prices already Black Friday deals?
+### Can I download or commercially use a free Murf voiceover?
 
-No. They are the regular prices shown on November 6, 2026, unchanged since October 31, not a seasonal reduction. Compare like-for-like annual totals when an offer appears. An annual-versus-monthly saving does not prove the annual price has fallen.
+No. Murf's [free plan help page](https://help.murf.ai/is-murf-free-to-use), checked November 26, says Free has no downloads and no commercial rights. Use it to preview before choosing a paid plan.
 
-### Should I wait or buy now?
+### Why does my generation allowance go down when I revise narration?
 
-Wait if your delivery date allows it and you are still evaluating voices. Buy only when the current price makes sense for confirmed work. Budget on the offer visible to you rather than on an assumed future discount or an assumed refund.
+Murf's [Voice Generation Time guide](https://help.murf.ai/what-is-voice-generation-time-vgt), checked November 26, explains that newly generated or edited text blocks consume generation time. Budget for changed script passages, not just the final audio length.
 
-### Does this guide promise last year's discount will return?
+### Should I wait for the sale or buy at the regular price?
 
-No. We are not quoting a 2025 sale percentage or using an old coupon to forecast 2026. A past promotion would not establish this year's eligible plans, account restrictions or renewal terms.
+Wait if your delivery date allows it and you have not approved a voice sample. Buy at the regular price only when the current total, billing term and rights fit booked work; do not budget around an unannounced discount.
 
-## Before you pay
+## Before paying
 
-Match the final order to your plan checklist: product, billing term, included capacity, usage rights, total payment and renewal. Resolve a mismatch before proceeding. Then buy the smallest plan that satisfies the work you have approved, with enough room for realistic revisions.
+Check the plan name, billing term, rights and final order total together. Creator is the practical starting point for solo narration with confirmed recurring work; Business is for a defined license or feature requirement. If 2026 pricing changes, use the amount Murf actually shows at checkout.
 
-[Choose your Murf plan after checking the final price](https://get.murf.ai/hebxeow3cn2z)
+**[Compare Murf plans](https://get.murf.ai/hebxeow3cn2z)**
