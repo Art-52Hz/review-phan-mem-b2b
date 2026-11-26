@@ -18,6 +18,8 @@ Systeme.io costs $0, $17, $47, or $97 per month, depending on the plan; annual b
 
 *Disclosure: Some links are affiliate links. We may earn a commission if you purchase through them, at no extra cost to you.*
 
+> **Black Friday 2026:** Systeme.io's official offer page is live and labels the annual plans as a promotion, but its prices match standard annual billing: Startup $170/year, Webinar $470/year, Unlimited $970/year. [See the sale status and 12/24/36-month totals](/posts/systeme-io-black-friday-2026/).
+
 **[Start with Systeme.io Free](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
 
 Based on official pricing and help pages checked November 15, 2026.
