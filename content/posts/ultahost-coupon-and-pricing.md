@@ -21,6 +21,8 @@ cover:
 
 [See UltaHost plans](https://ultahost.com/#art52hz).
 
+> **Black Friday 2026:** UltaHost's Linux VPS sale is live. Compare 24- and 36-month upfront totals with today's regular rates and renewal scenarios in our [UltaHost Black Friday VPS guide](/posts/ultahost-black-friday-2026/).
+
 Prices and policies checked November 15, 2026. Calculations below use USD and the displayed two-year configuration, not an unverified coupon.
 
 ## Current prices: use the plan card, not the banner

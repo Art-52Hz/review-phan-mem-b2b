@@ -59,7 +59,7 @@ Already know the provider? These guides compare individual plans, discounts and 
 | [UltaHost Windows VPS](/posts/ultahost-windows-vps/) | Windows plan sizes, included licensing, full cost and RDP setup |
 | [Best Cheap VPS for Docker](/posts/best-vps-for-docker/) | RAM, storage, prepaid costs and the right tier for your container stack |
 | [Hostinger Black Friday VPS 2026](/posts/hostinger-black-friday-vps-2026/) | November 15 vs October prices, license exclusions and total cash through renewal |
-| [UltaHost Black Friday 2026](/posts/ultahost-black-friday-2026/) | Sale status, VPS prices vs October and billing-term checks |
+| [UltaHost Black Friday 2026](/posts/ultahost-black-friday-2026/) | Live 24/36-month VPS totals, current regular rates, renewal scenarios and plan picks |
 | [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/) | Which Plan Size You Need |
 | [UltaHost VPS Basic vs Business](/posts/ultahost-vps-basic-vs-business-2026/) | Is 1 GB RAM Enough? |
 | [Hostinger VPS Discount](/posts/hostinger-black-friday-vps-2026/) | Referral Price and Renewal |
