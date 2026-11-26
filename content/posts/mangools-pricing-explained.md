@@ -1,7 +1,7 @@
 ---
 title: "Mangools Pricing (2026): Entry vs Basic vs Premium, Lookups and Annual Cost"
 date: 2026-11-12T09:00:00+07:00
-lastmod: 2026-11-24
+lastmod: 2026-11-26
 draft: false
 author: "Vincent Pham"
 slug: "mangools-pricing-explained"
@@ -21,6 +21,8 @@ Basic costs $452.40 for 12 months when billed annually, or $61 month to month. P
 **[Start with Mangools](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**
 
 *Affiliate disclosure: This guide contains Mangools affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
+
+> **Black Friday 2026:** Mangools' official page says the deal is coming, with no dates or sale price posted as of November 26. See our [Mangools Black Friday guide](/posts/mangools-black-friday-2026/) for today's official prices and 12/24/36-month renewal totals.
 
 US-dollar prices and plan limits checked November 24, 2026. Mangools says displayed prices depend on country. Annual billing is paid upfront; the annual monthly figure is not an installment.
 

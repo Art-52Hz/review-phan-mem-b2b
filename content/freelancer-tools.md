@@ -22,7 +22,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [Systeme.io Review](/posts/systeme-io-review-2026/) | True 12/24/36-month subscription totals and upgrade choices by use case |
 | [Systeme.io vs ClickFunnels](/posts/systeme-io-vs-clickfunnels-2026/) | Funnel Fit and Full Cost |
 | [Beautiful.ai Review](/posts/beautiful-ai-review-2026/) | Pricing, Free Trial and Who Should Pay |
-| [Mangools Black Friday 2026](/posts/mangools-black-friday-2026/) | Sale status, regular prices and which KWFinder plan to shortlist |
+| [Mangools Black Friday 2026](/posts/mangools-black-friday-2026/) | Official sale status, Basic/Premium/Agency prices and 12/24/36-month renewal totals |
 | [KWFinder Review](/posts/mangools-kwfinder-review/) | Mangools Pricing and Lookup Limits |
 | [Mangools Pricing Explained](/posts/mangools-pricing-explained/) | Entry availability, Basic vs Premium lookups and annual cost calculations |
 | [Mangools vs Semrush for Freelancers](/posts/mangools-vs-semrush-for-freelancers/) | 12/24/36 month totals, renewal costs, plan limits and freelance use cases |

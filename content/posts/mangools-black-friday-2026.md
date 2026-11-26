@@ -1,12 +1,12 @@
 ---
-title: "Mangools KWFinder Black Friday 2026: Discount, Dates and Plans"
+title: "Mangools Black Friday 2026: KWFinder Discount, Dates and Which Plan"
 date: 2026-11-04
-lastmod: 2026-11-04
+lastmod: 2026-11-26
 draft: false
 author: "Vincent Pham"
 slug: "mangools-black-friday-2026"
-summary: "Mangools Black Friday sale status, regular plan costs and a practical choice between Basic, Premium and Agency before committing to annual billing."
-description: "Mangools KWFinder Black Friday 2026: sale status, regular prices, coupon rules and Basic vs Premium vs Agency plans for freelance SEO work."
+summary: "Mangools' 2026 sale is not live yet. Compare current plan prices, renewal totals and the right KWFinder bundle for your work."
+description: "Mangools Black Friday 2026 status, current KWFinder plan prices, 12 to 36 month renewal totals, and which Basic, Premium or Agency plan to choose."
 keywords: ["mangools black friday 2026", "kwfinder black friday", "mangools discount", "mangools coupon", "mangools basic vs premium"]
 categories: ["SEO Tools", "Reviews"]
 tags: ["mangools", "kwfinder", "keyword research", "deals"]
@@ -17,114 +17,85 @@ cover:
   relative: false
 ---
 
-**The Mangools KWFinder Black Friday 2026 sale is not showing as live in the official pages checked November 4, 2026. Best for solo freelance keyword research: shortlist Basic; choose Premium if you need shared access or more daily searches. Wait for a published seasonal offer if your next project can wait.**
+Mangools' official Black Friday page says the deal is coming, so the 2026 sale has not opened as of November 26. Current annual prices are $452.40 for Basic, $632.40 for Premium and $1,172.40 for Agency; the annual plan price stays the same while the subscription remains active. If you need keyword research now, Basic is the fit for a solo workflow under 100 daily lookups; wait for a published sale if your project can wait.
 
-**[Compare Mangools plans through our affiliate link](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**
+**[Compare Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**
 
-*Affiliate disclosure: this article contains Mangools affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
+*Affiliate disclosure: This article contains Mangools affiliate links. A qualifying purchase may earn us a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
 We will update this page when the 2026 sale goes live.
 
-## Is the Mangools Black Friday sale open?
+## Mangools Black Friday 2026: current status
 
-No active 2026 Black Friday offer was visible in the official pricing and special-offers material available to our web check. The [Mangools special-offers page](https://mangools.com/discounts-and-coupon-codes#a5d5c1d50feebf852f6d6f462), checked November 4, 2026, describes an early-subscription offer and annual billing savings, rather than a dated Black Friday campaign.
+The [official Black Friday page](https://mangools.com/blackfriday#a5d5c1d50feebf852f6d6f462), checked November 26, 2026, says a deal is coming and invites visitors to sign up for notifications. It does not show a sale price, start date, end date or public coupon code. The [official discount guide](https://help.mangools.com/en/articles/17450722-discounts-and-coupon-codes#a5d5c1d50feebf852f6d6f462), checked November 26, says seasonal offers appear on the pricing page and dates and terms are not published in advance.
 
-The [official seasonal discount explanation](https://help.mangools.com/en/articles/17450722-discounts-and-coupon-codes#a5d5c1d50feebf852f6d6f462), checked November 4, 2026, says seasonal offers appear as a banner on pricing and that dates and terms are not published in advance. We have no confirmed 2026 start date, end date, coupon or seasonal percentage to report.
+| Plan | Current annual price, paid upfront | Current monthly price | Black Friday 2026 price |
+|---|---:|---:|---|
+| Basic | $452.40/year ($37.70/month equivalent) | $61/month | Not announced |
+| Premium | $632.40/year ($52.70/month equivalent) | $81/month | Not announced |
+| Agency | $1,172.40/year ($97.70/month equivalent) | $141/month | Not announced |
 
-This distinction matters when you compare offers. A lower annual monthly equivalent is a billing choice. It is not automatically a Black Friday discount. Save the annual total for the plan you want now, then compare the same billing period when the seasonal promotion appears.
+These USD prices are shown on the official [Mangools plans and pricing page](https://mangools.com/plans-and-pricing?service=kwfinder#a5d5c1d50feebf852f6d6f462), checked November 26, 2026. Annual billing is the current published price, not a confirmed Black Friday offer. The vendor says prices can vary by country; tax and currency conversion are not included here.
 
-## Regular prices vs Black Friday 2026 prices
+## What 12, 24 and 36 months actually cost
 
-The table uses the USD prices shown on the official [Mangools pricing page for KWFinder](https://mangools.com/plans-and-pricing?service=kwfinder#a5d5c1d50feebf852f6d6f462), opened in a browser on November 5, 2026. They match what our [KWFinder review](/posts/mangools-kwfinder-review/) recorded on November 1. Currency and tax may change your total.
+The tables below multiply today's published price through each renewal. Mangools says your price stays the same for as long as you keep the subscription, so the annual totals assume continuous renewal at today's annual rate. Monthly totals assume the listed month-to-month rate never changes. There is no separate KWFinder license or required paid add-on: the SEO + AI plans bundle the SEO tools and AI Search Watcher Pro, according to the [official plan comparison](https://help.mangools.com/en/articles/17450706-mangools-plans-compared-what-each-plan-includes#a5d5c1d50feebf852f6d6f462), checked November 26, 2026.
 
-| Plan | Annual billing | Paid upfront per year | Month-to-month (12 months) | Black Friday 2026 price |
-|---|---|---|---|---|
-| Basic | $18.85/mo | $226.20 | $30.50/mo ($366) | Not announced |
-| Premium | $26.35/mo | $316.20 | $40.50/mo ($486) | Not announced |
-| Agency | $48.85/mo | $586.20 | $70.50/mo ($846) | Not announced |
+**Annual billing, including each yearly renewal**
 
-Annual billing already saves $139.80 (Basic), $169.80 (Premium) or $259.80 (Agency) against paying monthly for a year. A seasonal offer is only a better deal if its total for the same plan and period is lower than these figures. Before paying, select Monthly or Annually and read the actual amount due.
+| Plan | 12 months | 24 months | 36 months |
+|---|---:|---:|---:|
+| Basic | $452.40 | $904.80 | $1,357.20 |
+| Premium | $632.40 | $1,264.80 | $1,897.20 |
+| Agency | $1,172.40 | $2,344.80 | $3,517.20 |
 
-For a useful purchase comparison, write down the plan, currency, payment period and total shown in your own order summary. Comparing an older promotional screenshot with today's standard annual equivalent can make an ordinary offer look exceptional.
+**Month-to-month billing at today's listed rate**
 
-## Which Mangools plan should you buy?
+| Plan | 12 months | 24 months | 36 months |
+|---|---:|---:|---:|
+| Basic | $732 | $1,464 | $2,196 |
+| Premium | $972 | $1,944 | $2,916 |
+| Agency | $1,692 | $3,384 | $5,076 |
 
-Plan limits below come from the [official Mangools plan comparison](https://help.mangools.com/en/articles/17450706-mangools-plans-compared-what-each-plan-includes#a5d5c1d50feebf852f6d6f462), checked November 4, 2026. The vendor dates its limit check October 5, 2026.
+Annual billing saves $279.60, $339.60 or $519.60 per year against monthly billing for Basic, Premium or Agency respectively, using today's displayed rates. The annual amount is charged upfront. Both billing periods renew automatically; check the account's next payment before the renewal date. Taxes, country-specific prices and any future price changes are outside these estimates.
 
-| Buying criterion | Basic | Premium | Agency |
-|---|---|---|---|
-| Keyword searches per 24 hours | 100 | 500 | 1,200 |
-| Tracked keywords | 200 | 700 | 1,500 |
-| Rank updates | Weekly | Weekly | Daily |
-| Sub-users | 0 | 3 | 5 |
-| Best fit | Solo briefs | Shared client research | Daily reporting and larger workloads |
+## Which one should you pick?
 
-**Choose Basic** if you work alone and deliver focused keyword briefs. Plan research in batches: collect seed ideas, reject irrelevant terms, then inspect the results for the shortlist. Buying a larger allowance before you have a repeatable workflow is an easy way to waste the saving.
+{{< picks title="Which one should you pick?" checked="Nov 26, 2026" >}}
+{{% pick label="Choose Free if" name="Mangools Free" price="$0" note="Use the free plan to see whether the workflow fits before committing to a paid year" %}}You have one small brief or are still deciding whether paid keyword research will change your work. Start with the free account and upgrade only when its limits block a real task. **[Check Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**{{% /pick %}}
+{{% pick label="Choose Basic if" name="Mangools Basic" price="$452.40/year, billed upfront" renew="$452.40 each year at today's rate" note="100 keyword lookups per 24 hours; no extra seats" %}}You research alone and can keep daily keyword and SERP checks within 100. This is the lowest paid tier for a freelancer turning a focused shortlist into one client deliverable. **[Choose Mangools Basic](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**{{% /pick %}}
+{{% pick label="Choose Premium if" name="Mangools Premium" price="$632.40/year, billed upfront" renew="$632.40 each year at today's rate" note="500 daily keyword lookups and 3 extra seats" %}}You have a teammate who needs a separate login, or your recurring research exceeds Basic's daily allowance. Premium's extra seats share plan limits; they do not multiply the account's search quota. **[Compare Mangools plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**{{% /pick %}}
+{{% pick label="Choose Agency if" name="Mangools Agency" price="$1,172.40/year, billed upfront" renew="$1,172.40 each year at today's rate" note="1,200 daily keyword lookups and daily rank updates" %}}You sell frequent SEO reporting and need Agency's higher limits or daily rank updates. If weekly updates serve your clients, Basic or Premium costs less and is the clearer fit. **[See Mangools Agency and other plans](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**{{% /pick %}}
+{{< /picks >}}
 
-**Choose Premium** if another researcher needs access or your busy days consistently exceed Basic's allowance. It costs $180 more per year than Basic using the baseline above. Ask whether shared access or the extra capacity will save enough paid working time to justify that difference.
+The allowances above come from Mangools' published [plan comparison](https://help.mangools.com/en/articles/17450706-mangools-plans-compared-what-each-plan-includes#a5d5c1d50feebf852f6d6f462), checked November 26, 2026. KWFinder is not sold separately; the subscription includes the other listed Mangools SEO tools too.
 
-**Choose Agency** when daily tracking is part of the deliverable you sell, or your workload needs its larger limits. It costs $540 more per year than Premium at this baseline. If clients only receive a monthly report, first decide why daily tracking would change a decision between reports.
-
-**Do not buy yet** if you have no planned keyword project. Use the [free keyword research workflow](/posts/keyword-research-for-freelancers/) to build a real brief first. A subscription only becomes useful when its output changes what you publish, improve or pitch to a client.
-
-**[Check Mangools Basic and Premium through our affiliate link](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**
-
-## Mangools vs Ahrefs and Semrush: choose the job first
-
-Put Mangools, Ahrefs and Semrush on the same shopping list only after you describe the output you need. For a keyword shortlist, evaluate search relevance, the country setting and how easily you can inspect competing pages. For a broader SEO assignment, list every required report before comparing subscriptions.
-
-Our recommendation here is Mangools Basic for focused solo research, based on its published allowances. If a client specifically requires an Ahrefs or Semrush export, ask which report and which fields they need before substituting another tool. A cheaper subscription that cannot produce the agreed deliverable increases your project cost.
-
-Use the same client brief to compare candidates. Save the questions each tool answers and the gaps that still require manual work. Do not select a larger suite just because its Black Friday headline looks more dramatic, and do not assume tools with similar labels produce interchangeable data.
-
-## Should you pay monthly or wait for annual billing?
-
-The [official monthly and annual billing guide](https://help.mangools.com/en/articles/17450709-monthly-or-annual-billing#a5d5c1d50feebf852f6d6f462), checked November 4, 2026, says allowances stay the same across billing periods, annual payments cover the whole year, and subscriptions renew automatically. It also says the subscription price stays the same while you keep it.
-
-For an ongoing weekly research job, annual billing is worth comparing once you know the tool fits. For one short assignment, calculate the project bill first. At the baseline above, one month of Basic is substantially less cash than a full annual commitment, even though the annual monthly equivalent is lower.
-
-If the project can wait, prepare the brief now and revisit the offer when a seasonal banner appears. If a client needs the work immediately, compare the cost of one month with the cost of delaying delivery. There is no confirmed seasonal saving to subtract from that calculation today.
-
-Existing subscribers should keep their current plan until they understand the new offer. The official discount guide says a promotion does not alter an existing subscription price and Mangools does not refund a subscription simply so someone can rebuy the same plan at a discount. Cancelling first can therefore be an expensive experiment.
-
-## How to test it yourself in 15 minutes
-
-Use this short exercise before choosing a paid tier. It is a proposed evaluation workflow, not a report of paid-plan testing.
-
-1. **Minutes 1-3:** choose one real client page and write its audience, country and buying action. Avoid an invented topic that will never become a deliverable.
-2. **Minutes 4-6:** search a focused seed phrase in the free account. Keep the location consistent and record the date next to any exported observation.
-3. **Minutes 7-10:** inspect a few relevant suggestions and their search results. Note whether you see product pages, service pages or guides; the content type should fit your intended page.
-4. **Minutes 11-13:** record the searches used and any allowance that stopped the work. Estimate your busiest planned research day rather than multiplying a quiet day.
-5. **Minutes 14-15:** turn the shortlist into a brief with one recommended page and a reason to create it. If you cannot do that, revise the brief before increasing the software budget.
-
-<!-- FIRST-HAND: Add dated screenshots from a real free-account client brief, including location settings, lookup counters and the resulting shortlist. Paid-plan capacity has not been measured for this article. -->
-
-Keep that evidence in the [keyword shortlist worksheet](/posts/keyword-research-for-freelancers/). It makes a later upgrade decision easier: you can point to a blocked task instead of guessing that more capacity will help.
+For the full feature-by-feature breakdown, read our [KWFinder review](/posts/mangools-kwfinder-review/) and [Mangools pricing guide](/posts/mangools-pricing-explained/). If you are weighing a broader suite against a focused keyword workflow, compare the [Mangools vs Semrush cost and use cases](/posts/mangools-vs-semrush-for-freelancers/).
 
 ## FAQ
 
-### When does Mangools Black Friday 2026 start and end?
+### When does the Mangools Black Friday 2026 sale start and end?
 
-No confirmed dates were visible in the official material checked November 4, 2026. Watch the seasonal pricing banner. We will update this page when the 2026 sale goes live, including any published deadline.
-
-### What is the Mangools Black Friday discount?
-
-No 2026 seasonal percentage or sale total is confirmed here. The regular annual baseline is listed above so you can compare an announced offer with the same plan and payment period.
+Mangools has not posted dates. Its official page says the deal is coming, but does not show when it starts or ends. We will update this page when the 2026 sale goes live.
 
 ### Is there a Mangools Black Friday coupon code?
 
-We have no verified 2026 Black Friday code. The official discount guide explains that valid coupon links show a confirmation on pricing. Use the offer Mangools actually displays; a referral link alone is not a promise of an additional coupon discount.
+No public 2026 code is shown on the official sale page. Mangools says a valid coupon link is checked on its pricing page, where the discount must appear as applied before you pay. Its separate 10% new-account offer lasts one hour after registration and is not confirmed as stackable with a seasonal deal.
 
-### Which plan should a freelancer buy?
+### Which Mangools plan is best for a solo freelancer?
 
-Basic is our first choice for solo keyword briefs within its published limits. Premium makes sense for shared access or heavier research. Agency needs a concrete reason such as daily rank reporting, rather than a larger advertised saving.
+Basic is the direct pick if 100 keyword lookups per day and one account are enough. The $452.40 yearly total is less than Premium's $632.40, and Premium's extra seats are useful only if another person needs access or you need its higher limits.
 
-### Can I combine the new-account discount with Black Friday?
+### Why is annual Basic $37.70 per month but $452.40 at checkout?
 
-The official guide describes 10% off the first payment when a new account subscribes within one hour of registration. It does not establish stacking with an unannounced 2026 seasonal offer. Compare the final order total before subscribing.
+The $37.70 figure is the annual total divided by 12, not a monthly installment. Mangools charges $452.40 upfront for the year at today's displayed rate. A recent [r/SEO discussion about Mangools' yearly-plan price](https://www.reddit.com/r/SEO/comments/1pq9oh7/what_seo_software_should_i_use_now/) raised the same budget question for a user who mainly used KWFinder and occasional link checks.
 
-### What refund window should I check before paying annually?
+### Can I buy KWFinder without the other Mangools tools?
 
-The [official pricing FAQ](https://mangools.com/plans-and-pricing#a5d5c1d50feebf852f6d6f462), checked November 4, 2026, states a 48-hour refund window and excludes two consecutive subscriptions. Review the terms attached to the actual offer before payment and schedule your evaluation promptly.
+No. Mangools says KWFinder is part of its subscription bundle and is not sold on its own. Basic includes the full listed SEO tool set, so there is no additional KWFinder license to add to the totals above.
 
-**[Start with the Mangools plan that fits your workload](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462)**
+### Does an annual Mangools plan renew at the same price?
+
+Mangools says your price stays the same for as long as you keep the subscription. The annual plans renew each year and subscriptions auto-renew until you turn renewal off. The 24- and 36-month figures above apply that rule to today's listed price; review your account's renewal amount before the charge.
+
+**[Compare Mangools plans and check the current offer](https://mangools.com/kwfinder#a5d5c1d50feebf852f6d6f462 "affiliate")**
