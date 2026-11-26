@@ -1,7 +1,7 @@
 ---
 title: "Best Cheap VPS for Docker (2026): RAM, Storage and Monthly Cost"
 date: 2026-11-05
-lastmod: 2026-11-13
+lastmod: 2026-11-26
 slug: "best-vps-for-docker"
 summary: "Choose Hostinger KVM 1 for a lean Docker app or KVM 2 for an app and database. Compare prepaid costs, renewals and UltaHost's managed alternative."
 description: "Find a cheap VPS for Docker: compare Hostinger and UltaHost RAM, NVMe storage, upfront bills and renewals, then choose a plan for your container stack."
@@ -16,123 +16,71 @@ cover:
   relative: false
 ---
 
-**Best cheap starting point for a lean Docker app: Hostinger KVM 1. Pick KVM 2 for an app with a database and background jobs; shortlist UltaHost when an agreed management scope matters more.**
+**For a small Docker app, start with Hostinger KVM 1: 4 GB RAM and 50 GB NVMe for $155.76 upfront, then $287.76 for its next 24 months at today's listed renewal. Choose KVM 2 for 8 GB if you are running an app, database and worker together; choose UltaHost Professional if you want a managed 4 GB option and accept the higher bill.**
 
-**[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+{{< picks title="Which one should you pick?" checked="Nov 26, 2026" >}}
+{{% pick rank="1" label="Best for a lean app" name="Hostinger KVM 1" price="$6.49/mo, $155.76 upfront for 24 months" renew="$11.99/mo, $287.76 for the next 24 months" note="Docker template and weekly backups are included" %}} Choose this for a small API or a few light containers that you can administer. **[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**. {{% /pick %}}
+{{% pick label="Best for app plus database" name="Hostinger KVM 2" price="$8.99/mo, $215.76 upfront for 24 months" renew="$14.99/mo, $359.76 for the next 24 months" note="Docker template and weekly backups are included" %}} Choose this when a database, worker or deployment job shares the host and needs more headroom. **[Compare Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**. {{% /pick %}}
+{{% pick label="Best for managed support" name="UltaHost VPS Professional" price="$15.87/mo, $380.88 upfront for 24 months" renew="$15.87/mo, $380.88 for the next 24 months" note="Weekly backups are listed as free" %}} Choose this when you want a managed 4 GB server; confirm in writing whether support covers your specific Docker and database tasks. **[See UltaHost VPS plans](https://ultahost.com/#art52hz "affiliate")**. {{% /pick %}}
+{{< /picks >}}
+
+Based on provider pricing and documentation checked November 26, 2026. Totals are before tax, optional products and any checkout-specific adjustments.
 
 **Affiliate disclosure:** Some links are affiliate links. We may earn a commission on qualifying purchases at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).
 
-Based on official pricing and documentation checked November 5, 2026; workload recommendations are editorial judgments.
+## What the first 48 months actually cost
 
-For a workload-based memory budget, read [how much RAM your VPS needs](/posts/how-to-choose-vps-ram/) before selecting a tier.
+The table adds the first 24-month prepayment to the next 24 months at the renewal rate shown today. The renewal is a current quote, not a guarantee that the same rate will be offered two years from now.
 
-Deploying a JavaScript backend? Our [cheap VPS guide for Node.js apps](/posts/best-vps-for-nodejs-apps/) compares app and database requirements, setup choices and the full hosting bill.
+| VPS | RAM / NVMe / vCPU | First 24 months | Next 24 months at listed renewal | 48-month hosting total | Required Docker license or add-on |
+|---|---|---:|---:|---:|---|
+| Hostinger KVM 1 | 4 GB / 50 GB / 1 | $155.76 | $287.76 | **$443.52** | $0; Docker template included |
+| Hostinger KVM 2 | 8 GB / 100 GB / 2 | $215.76 | $359.76 | **$575.52** | $0; Docker template included |
+| UltaHost VPS Professional | 4 GB / 75 GB / 3 | $380.88 | $380.88 | **$761.76** | $0 listed for Docker; free panel option available |
 
-Running a collection worker in a container? Our [VPS guide for web scraping](/posts/best-vps-for-web-scraping/) compares IPs, bandwidth, crawler memory and the full operating budget.
+Hostinger's current plan cards list 24-month terms, say plans are paid upfront and show renewal rates of $11.99/month for KVM 1 and $14.99/month for KVM 2. I calculated each term as the displayed monthly equivalent x 24. UltaHost's selected two-year cards show $15.87/month for Professional and the same renewal rate. Arithmetic: $6.49 x 24 = $155.76; $11.99 x 24 = $287.76; $8.99 x 24 = $215.76; $14.99 x 24 = $359.76; $15.87 x 24 = $380.88. Prices and specifications: [Hostinger VPS plan cards](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), [Hostinger Docker VPS details](https://www.hostinger.com/docker-hosting?REFERRALCODE=ACFTUNGSAAEO), and [UltaHost VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked November 26, 2026.
 
-## Compare RAM, storage and the actual hosting bill
+This is the server bill, not an estimate for your full application stack. Hostinger says Docker VPS includes its Docker template, manager and weekly backups; UltaHost lists free weekly backups and free Hestia or CyberPanel options. No paid Docker license is listed as required. A commercial control panel, licensed application image, extra storage or separate backup target may cost more; none is necessary just to run Docker Engine and Compose. Confirm optional items in checkout. Sources: [Hostinger Docker VPS features](https://www.hostinger.com/docker-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost VPS features and plan options](https://ultahost.com/vps-hosting#art52hz), checked November 26, 2026.
 
-Choose a server for the application inside the containers. A reverse proxy and a small API have different needs from a database, image processor and build runner sharing the same host.
+## Which one should you pick?
 
-| Plan | USD monthly equivalent, 24-month offer | Initial term cost | Renewal shown per month | CPU / RAM / NVMe | Best fit |
-|---|---|---|---|---|---|
-| Hostinger KVM 1 | $6.49 | $155.76 | $11.99, same term | 1 vCPU / 4 GB / 50 GB | Lean app with modest supporting services |
-| Hostinger KVM 2 | $8.79 | $210.96 | $14.99, same term | 2 vCPU / 8 GB / 100 GB | App, database and worker |
-| UltaHost VPS Basic | $5.52 | $132.48 calculated | $5.52, two years | 1 CPU / 1 GB / 30 GB | Small service with confirmed management help |
-| UltaHost VPS Professional | $15.87 | $380.88 calculated | $15.87, two years | 3 CPU / 4 GB / 75 GB | Buyer prioritizing management assistance |
+- **One small API, dashboard or test deployment:** choose Hostinger KVM 1 if you can maintain Linux and the application's documented requirements fit within 4 GB RAM and 50 GB storage. It has the lowest 48-month total in this comparison. **Winner for lowest listed 48-month cost with 4 GB RAM: Hostinger KVM 1.**
+- **A production Compose stack with an app, database and worker:** choose Hostinger KVM 2 when you want 8 GB RAM and can manage the server yourself. It costs $132 more than KVM 1 over the listed 48-month scenario, a known price for extra capacity rather than an assumed performance gain. **Winner for listed memory capacity: Hostinger KVM 2.**
+- **A small service with admin help as a buying priority:** choose UltaHost Professional only after support confirms the Docker, update and recovery tasks it will handle. It has the same 4 GB RAM as KVM 1, more listed cores and storage, but costs $318.24 more across 48 months. **Winner for the managed-service shortlist: UltaHost Professional, conditional on written support scope.**
+- **A memory-heavy database, search index, local model or image build:** do not choose from this price table alone. Check the application's official requirements and actual peak memory and disk use first; compare a larger tier only after that. **Winner for a workload above these plans' capacity: none of the three until the needed size is measured.**
 
-Sources: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 5, 2026; [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked November 5, 2026. UltaHost totals are arithmetic, monthly rate x 24, before checkout adjustments. Its Basic card shows $5.52 while the banner shows $5.51; this table uses the card.
+## RAM and storage: budget for the stack, not container count
 
-Hostinger bills the term upfront. Neither compared offer displays a free trial; both advertise a 30-day money-back guarantee, subject to conditions. Confirm taxes, extras, currency and refund eligibility before paying. A monthly equivalent is not a promise of monthly billing.
+A container does not make its application lighter. A database import, image build or scheduled job can overlap with live traffic and use resources the idle service does not. The [Docker resource constraints guide](https://docs.docker.com/engine/containers/resource_constraints/), checked November 26, 2026, explains that containers have no resource limits by default and that host memory pressure can result in the kernel terminating processes. Set limits from each service's needs, and leave room for Linux and maintenance tasks.
 
-## Who should choose Hostinger KVM 1?
+Use 4 GB as a shortlist for one modest service, not a promise that any stack will fit. For a database plus application or worker, 8 GB gives more room to operate, but still check the application's requirements. Record current and peak memory, CPU, disk use and image growth before buying or resizing. For a narrower sizing walkthrough, see [how much RAM your VPS needs](/posts/how-to-choose-vps-ram/); to compare the two Hostinger tiers, see [KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/).
 
-Choose KVM 1 when you have a focused service and can maintain Linux yourself. A small internal dashboard or API is a more sensible candidate than a host carrying every tool your team might eventually use. Buy against the application's documented requirements and a representative local workload.
+Budget storage for images, writable layers, database volumes, logs and backups. Persistent Docker volumes can outlive a container, but a volume on the same server is not an independent backup. Docker explains the [volume lifecycle](https://docs.docker.com/engine/storage/volumes/), checked November 26, 2026. Keep a separate recovery copy and test restoring it. For a provider-level comparison that includes operating responsibilities, see [UltaHost vs Hostinger VPS](/posts/ultahost-vs-hostinger-vps-2026/).
 
-Its main compromise is CPU headroom. A deployment that builds application images on the server can compete with the application serving users. Consider building elsewhere and deploying a prepared image. This also makes rollback easier to plan because you can retain the previous working version.
+## Questions Docker VPS buyers ask
 
-Do not decide by container count alone. Several idle services can demand less than a single busy application. Inventory the database, cache, queue, scheduled tasks and any upload processing before choosing a tier. If those tasks overlap, evaluate the combined workload.
+These questions reflect discussions such as a [Node.js and Redis VPS sizing question](https://www.reddit.com/r/SideProject/comments/1rfigmc/small_vps_suggestion_for_docker_nodejs_redis_34k/), a [self-hosted stack shared on a 4 GB VPS](https://www.reddit.com/r/selfhosted/comments/1scb596/i_dockerized_my_entire_self-hosted_stack_and/), and a [production e-commerce VPS setup discussion](https://www.reddit.com/r/selfhosted/comments/1r12u4b/production_ecom_selfhosted_vps_setup_review/), checked November 26, 2026.
 
-Our [Hostinger KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) helps with the narrower plan decision. For Docker, write down what must keep responding during a deployment as well as what fits during normal operation.
+### Can I run Docker on a 1 GB VPS?
 
-## When KVM 2 is worth buying
+Docker may start on a 1 GB server, but that leaves little room for Linux and application memory. Treat it as a disposable test box for a very small service, not a safe default for an app and database. UltaHost Basic is 1 GB; none of the picks above use it for a general Compose workload.
 
-Prefer KVM 2 for a Compose application with persistent data and background workers when the smaller configuration leaves little room for maintenance. The recommendation is a starting shortlist, not a claim that any particular traffic level will fit.
+### Is 2 GB or 4 GB enough for Docker Compose?
 
-Think through your busiest ordinary operation: a database backup while a worker processes imports, or an application update while users remain connected. If the stack already exists, inspect that situation before buying. If it does not, follow each component's requirements and retain room for the operating system.
+It depends on the services and what they do at the same time. A light app may fit in 2 GB; a database, worker, build or import can change the peak. Begin with 4 GB for a modest app and measure the workload before adding more services.
 
-Avoid using the larger tier as permission to install unrelated workloads. Combining client projects on one server also combines their maintenance windows and failure risks. Decide which services can share a host and which need separate recovery plans before adding them.
+### Can I host an app and its database on the same VPS?
 
-**[Compare Hostinger plans for your Docker stack](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+Yes, if the combined peak resource use fits and you have a tested backup and restore path. Separate the app and database data into persistent volumes, but keep the recovery copy off the VPS. Move one service elsewhere when resource contention or recovery needs justify it.
 
-## UltaHost vs Hostinger for Docker
+### Is the monthly VPS price billed monthly?
 
-UltaHost markets the compared plans as managed servers. Shortlist it when you want help operating the server, then ask support whether your exact Docker deployment is covered. Describe the operating system, Compose stack, database and restore process rather than asking only whether Docker is allowed.
+Not for these quoted offers. Hostinger says the plan is paid upfront, and both providers show two-year renewal terms on the cards cited above. The monthly number is an equivalent used to compare the term; budget for the whole invoice at checkout.
 
-The Basic plan's smaller memory allocation makes it a different purchase from KVM 1. Its lower headline price is useful only if the actual application fits. For a larger stack, compare the suitable UltaHost tier and support arrangement rather than treating the cheapest cards as equivalent.
+### Does a managed VPS provider fix Docker applications?
 
-Choose Hostinger if you can own application deployment and server upkeep and prefer its resource allocation for the price. Choose UltaHost if the confirmed support scope is worth the tradeoff. Ask who handles failed container updates, database recovery and application errors; management should have a concrete meaning before you pay.
+Do not assume so. Ask whether the plan covers Docker installation, container updates, Compose errors, application bugs, database recovery and backups. Get the answer for your stack before paying for managed support.
 
-Read [UltaHost vs Hostinger VPS](/posts/ultahost-vs-hostinger-vps-2026/) for the broader buying decision. Avoid a self-managed deployment if nobody will maintain it after launch.
+**[Start with the Hostinger VPS plan that fits your Docker stack](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
 
-## Size memory around simultaneous work
-
-Docker's [resource constraints documentation](https://docs.docker.com/engine/containers/resource_constraints/), checked November 5, 2026, explains that containers have no resource constraints by default. When the host runs out of memory, Linux can kill processes, including important services. Configure appropriate limits after understanding each application's needs.
-
-Make a service inventory with normal activity, busiest activity and recovery work as separate columns. Leave memory available for the host instead of allocating the entire advertised amount to containers. Swap can provide a buffer but is slower than RAM, as the same Docker documentation explains.
-
-Do not assume that an application starting successfully proves the plan is sufficient. Run its import, export, scheduled job or other demanding operation. Check for restarts and failed requests as well as memory use. Increase capacity or simplify the stack if normal tasks cause persistent pressure.
-
-For an automation workload, continue with [Best VPS for n8n](/posts/best-vps-for-n8n/). Match the particular installation guide to your deployment rather than borrowing requirements from an unrelated template.
-
-## Budget storage for data and recovery
-
-A Docker host needs room for images, application data, logs and temporary work. Decide where persistent state lives before deploying. Docker's [volume lifecycle documentation](https://docs.docker.com/engine/storage/volumes/), checked November 5, 2026, explains that volumes exist outside a container's lifecycle; removing a container removes its writable layer, while a volume can retain its data.
-
-Treat that persistence as a storage mechanism, not a backup. A volume on the same failed server does not give you an independent recovery copy. Arrange backups appropriate to the database and verify a restore into a separate test environment.
-
-Record a retention policy for images and logs. Keep the versions required for rollback, and review unused resources before deleting anything. Broad cleanup commands are a poor substitute for understanding which data the live application needs.
-
-Compare total operating cost using hosting, independent backup storage, monitoring and maintenance time as separate lines. A cheaper server can become expensive if recovering it requires rebuilding an undocumented deployment. Save the Compose configuration and recovery instructions securely, with secrets handled separately.
-
-## How to test it yourself in 15 minutes
-
-Use this initial acceptance check after provisioning a secured server and installing your chosen stack. Installation and a full restore rehearsal may take longer. Use sample data and disable actions that send messages, publish content or spend money.
-
-1. **Minutes 0-3: inventory.** Confirm the selected server, Docker configuration, deployed image versions and persistent mounts. Run `docker compose ps` to inspect service state. Check that required services are present rather than assuming the template installed everything.
-2. **Minutes 3-6: exercise the application.** Run a representative request and its associated background work. Use `docker stats --no-stream` for a resource snapshot. Watch application errors and container restarts; save observations without calling a short run a benchmark.
-3. **Minutes 6-9: inspect storage.** Use `df -h` and `docker system df` to review filesystem and Docker usage. Identify database volumes, logs and the backup destination. Do not run prune commands during this inspection.
-4. **Minutes 9-12: check persistence.** Restart a disposable test service through its normal deployment process. Confirm sample records remain available and the app reconnects to its database. Keep production workloads out of this experiment.
-5. **Minutes 12-15: decide.** Record resource pressure, failed operations and missing support answers. Keep the plan if the workload fits and recovery responsibilities are clear. Otherwise adjust the stack or tier before committing more work.
-
-Schedule a longer observation period covering normal busy work, then perform a separate backup restore. Those results are more useful than a successful welcome page.
-
-<!-- FIRST-HAND: cần ảnh hoặc số đo thật: add sanitized Compose deployment evidence, resource observations during representative work, persistence checks and a successful independent backup restore before adding performance claims. -->
-
-## FAQ
-
-These questions adapt public Hostinger VPS FAQ topics and Docker documentation cited above; they do not claim private Search Console evidence.
-
-### Can I run Docker on a cheap VPS?
-
-Yes, with a compatible operating system and a configuration that meets your application's requirements. Hostinger lists Docker among its VPS options. Check the exact installation method, persistent storage and maintenance responsibilities before ordering.
-
-### How much RAM does Docker need?
-
-Size the application stack rather than Docker alone. Include concurrent database work, workers and the host operating system. Use the plan table as a shortlist, then validate the actual application under its normal busy workload.
-
-### Is KVM 1 or KVM 2 better for Docker Compose?
-
-Choose the smaller tier for a lean application whose requirements fit. Prefer the larger tier when the database, workers and maintenance tasks need more headroom. Compose organizes services; it does not make their resource requirements disappear.
-
-### Is the advertised monthly price my monthly invoice?
-
-For the Hostinger offers compared here, the displayed monthly rate is the prepaid term divided into months. Compare the initial invoice and renewal together. For another billing interval, obtain that interval's quote rather than reusing a long-term promotional rate.
-
-### Does managed VPS hosting include fixing my containers?
-
-Confirm the scope with the host. Server management does not by itself establish responsibility for custom application bugs or database migrations. Choose the provider that covers the work you need and document who handles everything else.
-
-**[Start with the Hostinger plan that fits your Docker deployment](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
-
-Hosting a media container? Our [Plex and Jellyfin VPS guide](/posts/best-vps-for-plex-media-server/) explains storage budgets, streaming permission and the difference between Direct Play and transcoding.
+\n
