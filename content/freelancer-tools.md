@@ -20,7 +20,7 @@ Start with the job, not the brand. Write down what you have to deliver this mont
 | [Systeme.io Pricing Explained](/posts/systeme-io-pricing-explained/) | Free sales cap, 12/24/36 month totals and when to upgrade |
 | [Systeme.io Black Friday 2026](/posts/systeme-io-black-friday-2026/) | Live official offer, regular annual prices, 12/24/36-month totals and plan picks |
 | [Systeme.io Review](/posts/systeme-io-review-2026/) | True 12/24/36-month subscription totals and upgrade choices by use case |
-| [Systeme.io vs ClickFunnels](/posts/systeme-io-vs-clickfunnels-2026/) | Funnel Fit and Full Cost |
+| [Systeme.io vs ClickFunnels](/posts/systeme-io-vs-clickfunnels-2026/) | Current plan limits, 12/24/36-month totals and which funnel setup to choose |
 | [Beautiful.ai Review](/posts/beautiful-ai-review-2026/) | Pricing, Free Trial and Who Should Pay |
 | [Mangools Black Friday 2026](/posts/mangools-black-friday-2026/) | Official sale status, Basic/Premium/Agency prices and 12/24/36-month renewal totals |
 | [KWFinder Review](/posts/mangools-kwfinder-review/) | 12/24/36-month bundle totals, lookup limits and free alternatives |
