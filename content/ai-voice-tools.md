@@ -18,7 +18,7 @@ Write down the script length, target language, delivery format and likely revisi
 | [ElevenLabs Black Friday 2026](/posts/elevenlabs-black-friday-2026/) | Live annual offers, 12 to 36 month renewal totals and plan picks by project |
 | [ElevenLabs Pricing](/posts/elevenlabs-pricing-plans-explained/) | Free, Starter, Creator and Pro Credits |
 | [ElevenLabs Voice Cloning](/posts/elevenlabs-voice-cloning-explained/) | Instant vs Professional, required plans, recording preparation and voice rights |
-| [ElevenLabs for YouTube Voiceovers](/posts/elevenlabs-for-youtube-voiceover/) | Plan choice, commercial rights, YouTube monetization and narration budgets |
+| [ElevenLabs for YouTube Voiceovers](/posts/elevenlabs-for-youtube-voiceover/) | Credits per video, 12 to 36 month renewal totals, commercial rights and YouTube monetization |
 | [ElevenLabs Alternatives](/posts/elevenlabs-alternatives/) | Cheaper Voice Tools by Cost and Rights |
 | [ElevenLabs vs Murf AI](/posts/elevenlabs-vs-murf-ai-2026/) | Real 12/24/36-month totals, commercial rights and picks by delivery job |
 | [Murf AI Review](/posts/murf-ai-review-2026/) | Trial Limits, Downloads and Client Usage |
