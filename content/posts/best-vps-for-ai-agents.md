@@ -1,10 +1,10 @@
 ---
-title: "Best VPS for Running AI Agents and Bots 24/7 (2026)"
+title: "Best VPS for AI Agents (2026): RAM, Docker and Monthly Cost"
 date: 2026-10-30
-lastmod: 2026-10-30
+lastmod: 2026-11-27
 slug: "best-vps-for-ai-agents"
-summary: "Choose Hostinger KVM 2 for an API-based agent stack, KVM 1 for a lean bot, or UltaHost when an agreed management scope matters more."
-description: "Compare VPS plans for always-on AI agents: Hostinger KVM 1 and KVM 2 vs UltaHost, with upfront costs, renewal prices and a practical deployment check."
+summary: "Pick a VPS for an API-based agent by its full Docker stack and renewal bill: Hostinger KVM 2 for 4 GB+ workloads, or UltaHost Professional for managed support."
+description: "Compare VPS RAM, Docker fit and 12, 24 and 36-month costs for AI agents, including prepaid terms and renewal rates for Hostinger and UltaHost."
 keywords: ["best vps for ai agents", "vps for ai bots", "hostinger ai agent hosting", "24/7 bot hosting"]
 categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "ai", "automation"]
@@ -16,111 +16,89 @@ cover:
   relative: false
 ---
 
-**Best for an API-based AI agent with a database: Hostinger KVM 2. Choose KVM 1 for a lean standalone bot; pick UltaHost instead when you need an agreed server-management scope.**
+**For an API-based AI agent with Docker, a database and n8n's Assistant sandbox, choose Hostinger KVM 2: its 2 vCPU and 8 GB RAM clear n8n's published 2-vCPU, 4-GB minimum. Choose UltaHost Professional if managed server support is worth its higher 36-month bill.**
 
-**[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")** | **[Start with UltaHost VPS](https://ultahost.com/#art52hz "affiliate")**
 
-If you plan to host the model locally as well as the agent, read our [Ollama VPS guide](/posts/best-vps-for-ollama/) first. A VPS that only runs an API-based agent has very different memory and CPU needs from one keeping a language model loaded.
+**Affiliate disclosure:** Some links are affiliate links. We may earn a commission on a qualifying purchase at no extra cost to you. Read our [affiliate disclosure](/affiliate-disclosure/).
 
-**Affiliate disclosure:** The Hostinger referral links may earn us a commission on a qualifying purchase at no extra cost to you. Read our [affiliate disclosure](/affiliate-disclosure/).
+Based on official plan pages checked November 27, 2026. Costs below are arithmetic on the displayed USD rates; your checkout may vary by location, taxes and selected options.
 
-Based on official documentation and USD pricing checked October 30, 2026; workload recommendations are editorial judgments.
+## Quick plan fit
 
-## Compare the plans you would actually buy
-
-An always-on agent needs somewhere to run its scheduler, tools and saved state. Start by separating a bot that calls a model API from a server expected to run the model itself. This shortlist targets the former.
-
-| Plan | Advertised monthly rate and term | Renewal shown | CPU / RAM / NVMe | Best fit |
+| Plan | Current rate and term | Renewal | Resources | Practical fit |
 |---|---|---|---|---|
-| Hostinger KVM 1 | $6.49; 24 months, $155.76 upfront | $11.99/month, same term | 1 vCPU / 4 GB / 50 GB | Lean API bot without a busy companion stack |
-| Hostinger KVM 2 | $8.79; 24 months, $210.96 upfront | $14.99/month, same term | 2 vCPU / 8 GB / 100 GB | Agent, database and supporting containers |
-| UltaHost VPS Basic | $5.52; displayed two-year offer | $5.52/month for two years | 1 CPU / 1 GB / 30 GB | Small bot with an agreed management scope |
-| UltaHost VPS Professional | $15.87; displayed two-year offer | $15.87/month for two years | 3 CPU / 4 GB / 75 GB | Buyer seeking managed-server help and more memory |
+| Hostinger KVM 1 | $6.49/mo, 24 months paid upfront ($155.76) | $11.99/mo for 24 months | 1 vCPU, 4 GB RAM, 50 GB NVMe | One light API bot without n8n Assistant sandbox |
+| Hostinger KVM 2 | $8.79/mo, 24 months paid upfront ($210.96) | $14.99/mo for 24 months | 2 vCPU, 8 GB RAM, 100 GB NVMe | Docker agent plus database and companion services |
+| UltaHost VPS Basic | $4.69/mo, 24 months; renews at $5.52/mo | $5.52/mo for 24 months | 1 CPU, 1 GB RAM, 30 GB NVMe | Tiny bot only; too little memory for the n8n Assistant requirement |
+| UltaHost VPS Professional | $13.49/mo, 24 months; renews at $15.87/mo | $15.87/mo for 24 months | 3 CPU, 4 GB RAM, 75 GB NVMe | 4-GB baseline when managed-server support is a priority |
 
-Sources for every price and resource figure in the table: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked October 30, 2026. UltaHost's banner says $5.51; its Basic card says $5.52, used here. Confirm currency, taxes, extras and the selected term before paying.
+Sources: [Hostinger VPS plan prices and specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 27, 2026; [UltaHost VPS plan prices and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 27, 2026; [n8n Docker Compose requirements](https://docs.n8n.io/hosting/installation/server-setups/docker-compose/), checked November 27, 2026. Hostinger says its 24-month total is paid upfront. The UltaHost cards show a 2-year renewal price; this comparison treats the current card rate as the initial 24-month rate and the stated renewal rate as applying after it.
 
-Neither page shows a free trial in the offers compared here. A money-back headline is a paid purchase with conditions, not free testing; read the selected term's refund policy. Hostinger bills the displayed term upfront. UltaHost markets these servers as managed, while Hostinger's [management documentation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked October 30, 2026, describes its VPS plans as self-managed.
+## What the 12, 24 and 36-month bill adds up to
 
-## Why Hostinger KVM 2 is the main recommendation
+The table estimates service cost from the advertised monthly equivalent. For months 1-24 it uses the current displayed rate; months 25-36 use the displayed renewal rate. The 12-month column is a cost allocation, not an available 12-month checkout: the quoted Hostinger plans require a 24-month upfront payment, and the UltaHost cards shown here are set to a 2-year term. Both vendors may collect the full initial term at checkout.
 
-Choose KVM 2 when the deployment includes an agent, a database, a reverse proxy and background work. My preference is to leave room for those services to coexist rather than size the server around an idle agent process. A workflow importing documents while another handles a request creates a different load from a bot waiting for a message.
+| Plan | 12 months of service | 24 months | 36 months, including 12 renewal months | Minimum initial term shown |
+|---|---:|---:|---:|---|
+| Hostinger KVM 1 | $77.88 | $155.76 | $299.64 | $155.76 upfront |
+| Hostinger KVM 2 | $105.48 | $210.96 | $390.84 | $210.96 upfront |
+| UltaHost VPS Basic | $56.28 | $112.56 | $178.80 | $112.56 on the 2-year setting |
+| UltaHost VPS Professional | $161.88 | $323.76 | $514.20 | $323.76 on the 2-year setting |
 
-That recommendation is about a sensible starting configuration, not a promised number of agents. Write down the services you will deploy, their published requirements and which jobs overlap. If the application is already running locally, observe it during an ordinary busy period before selecting a tier.
+Formula: initial monthly rate x up to 24 months, then renewal monthly rate x months after month 24. Prices are server hosting only. The compared pages do not list a paid Docker license or other mandatory add-on, so neither is added; model API usage, domain, optional control panel, tax and separately purchased backups are excluded. Hostinger lists weekly backups as included; verify the selected UltaHost backup and management scope at checkout. A quote can change with term, region or currency.
 
-There is a concrete reason to inspect the exact installation guide. The current [n8n Docker Compose guide](https://docs.n8n.io/deploy/host-n8n/install-options/install-using-docker-compose.md), checked October 30, 2026, specifies at least **4 GB RAM and 2 vCPUs** for its setup including the Assistant sandbox stack. KVM 1 misses that CPU requirement; KVM 2 meets those headline requirements. Compatibility and production configuration still need checking, especially for privileged sandbox components.
+**Cost check:** Hostinger KVM 2's current 24-month total is $210.96, then $359.76 for a further 24 months at renewal ($14.99 x 24), for $570.72 across 48 months. UltaHost Professional's 24-month total is $323.76, then $380.88 for the next 24 months ($15.87 x 24), for $704.64 across 48 months. The listed monthly renewal rate matters more than a large first-term discount if you plan to keep the agent running.
 
-For a narrower comparison of the entry tiers, read [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/). Use the actual deployment requirements to make the final choice.
+## Which one should you pick?
 
-## When KVM 1 is the better buy
+{{< picks title="Which one should you pick?" checked="Nov 27, 2026" >}}
+{{% pick rank="1" label="Best for a Docker agent stack" name="Hostinger KVM 2" price="$8.79/mo for 24 months" renew="$14.99/mo" note="The 24-month term is paid upfront" %}}Choose it for an API-based agent with n8n Assistant sandbox, a database and other containers: its listed 2 vCPU and 8 GB RAM exceed n8n's published 2-vCPU, 4-GB baseline. **[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**{{% /pick %}}
+{{% pick label="Choose a lean single bot" name="Hostinger KVM 1" price="$6.49/mo for 24 months" renew="$11.99/mo" note="Budget for $155.76 upfront" %}}Pick it when the agent calls a remote model API, runs alone and its own software requirements fit 1 vCPU and 4 GB RAM. It does not meet the cited full n8n Assistant Compose baseline. **[Start with Hostinger KVM 1](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**{{% /pick %}}
+{{% pick label="Choose a managed 4-GB server" name="UltaHost VPS Professional" price="$13.49/mo for 24 months" renew="$15.87/mo" note="Confirm the support scope for your stack" %}}Choose it if 3 CPU cores and 4 GB RAM fit your agent and you value the provider's advertised server management; get the exact Docker, database and recovery tasks confirmed before purchase. **[Start with UltaHost VPS](https://ultahost.com/#art52hz "affiliate")**{{% /pick %}}
+{{% pick label="Choose local model inference" name="A GPU or larger-memory server" price="Depends on model and hardware" renew="Check provider quote" note="These plans are not local-inference recommendations" %}}Do not buy one of these general-purpose plans for local model inference without first matching the model's RAM, accelerator and runtime requirements. Read our [Ollama VPS guide](/posts/best-vps-for-ollama/) before pricing that workload.{{% /pick %}}
+{{< /picks >}}
 
-Choose the smaller tier if your program mostly waits for a scheduled event, sends a request to an external model and stores a modest amount of state. A simple notification bot is a better candidate than an agent launching browsers, processing documents and serving an application together.
+## Size the workload, not the word "AI"
 
-Avoid installing extra services just because a template makes them available. A database, search service and dashboard each add maintenance work. Begin with the components the bot requires, then add services when a real workflow needs them. This keeps the first deployment easier to inspect and recover.
+An API-based agent sends inference to a model provider, so this VPS runs the agent, tools and stored state. Local inference is a different purchase: RAM alone does not establish that a model will run at a useful speed. Keep model API spend in a separate budget and set provider limits where available.
 
-Do not select KVM 1 for the full n8n Assistant Compose setup described above. Likewise, do not assume a successful startup proves that a larger workflow will fit. Make your buying decision after a representative execution, including its busiest step.
+For n8n's documented Docker Compose Assistant sandbox setup, the official guide specifies 2 vCPU cores and 4 GB RAM. KVM 1 and UltaHost Basic fall short of both or one of those listed resources; KVM 2 meets the published figures with more memory headroom, while UltaHost Professional matches the RAM figure and lists 3 cores. This is a requirements comparison, not a performance test. Confirm your chosen n8n installation variant and its current requirements before buying.
 
-**[Compare Hostinger plans for your agent stack](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+If a database, browser worker, vector store or several concurrent runs share the server, list their requirements and peak overlap first. For a broader container-storage checklist, read the [Docker VPS buying guide](/posts/best-vps-for-docker/). Compare the platform tiers in [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/).
 
-## Who should choose UltaHost, and who should not?
+UltaHost advertises managed VPS service, but confirm what that means for your specific deployment: OS updates, Docker, database recovery and custom application debugging are distinct tasks. Hostinger's VPS is self-managed; its [VPS management documentation](https://www.hostinger.com/support/8311982-what-is-managed-hosting-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 27, 2026, describes that responsibility. Do not assume either host will maintain agent prompts or integrations unless the written service scope says so.
 
-Shortlist UltaHost when server administration is the part you want help with. Before buying, describe your runtime, containers, database, update process and recovery needs to support. Ask which tasks the managed service covers and keep the answer with the quote.
+## Before you commit to an always-on agent
 
-The cheapest plan is not an equivalent substitute for KVM 2. Basic has a much smaller memory allocation, so a lower headline bill may leave you pricing an upgrade immediately. Compare the suitable tier and support scope together. For this shortlist, Hostinger is my first choice for a developer operating their own stack; UltaHost is the alternative for a buyer prioritizing an explicit management arrangement.
+Write down who patches the server, rotates API keys, checks failed jobs and restores the database. Put the backup somewhere independent of the VPS and test a restore with harmless data. Add a stop condition for repeated retries and an alert for a worker that stops completing jobs. A process can stay online while its API key has expired or its queue is stuck.
 
-Skip UltaHost if you expect server management to include debugging custom agent logic without agreement. A host resolving a server fault and a developer fixing a tool invocation are different responsibilities. Our [Hostinger vs UltaHost comparison](/posts/ultahost-vs-hostinger-vps-2026/) expands on the buying tradeoffs.
-
-## Who should not buy a VPS for an AI agent?
-
-Avoid a self-managed VPS if nobody will own updates, access control and recovery. An installer can create an application; it cannot decide which actions your agent should be allowed to take. Hostinger's self-managed scope means that responsibility remains with you.
-
-Also pause if your objective is local model inference. Identify the model's memory, accelerator and runtime requirements first. An agent using a remote API and a locally hosted model have different infrastructure needs. Do not buy a general VPS on the assumption that its RAM figure guarantees useful inference speed.
-
-If the workflow only runs occasionally, establish why it needs an always-on server before committing to a long prepaid term. The hosting bill should solve a specific problem, such as receiving webhooks while your computer is off, rather than become another subscription waiting for a use case.
-
-## Budget for the whole workflow
-
-Keep hosting and model usage on separate budget lines. Estimate the actual workflow: how often it runs, which tools it calls, what happens after an error and who checks unexpected activity. Hosting capacity alone does not control the cost of a repeated model call.
-
-Set a spending limit with your model provider where available, and design a way to stop the worker. Give retries a clear stopping condition. An agent that repeatedly attempts a failed task can keep consuming resources without producing useful output.
-
-For an always-on service, define what successful operation means. Record completed jobs and failures, arrange an alert for a stopped worker, and decide how to handle interrupted work. A process that remains alive while its credentials have expired is not delivering the intended service.
-
-## How to test it yourself in 15 minutes
-
-Use this as an initial acceptance check **after provisioning and installation**; a fresh secure deployment may take longer. Use harmless sample data and a workflow that cannot publish, send messages or spend money.
-
-1. **Minutes 0–3: inventory the deployment.** Confirm the selected plan, installed services and persistent storage locations. Save the application configuration separately from secrets. Follow the current official installation guide for your chosen stack.
-2. **Minutes 3–6: run one representative task.** Choose a sample that exercises the agent's tools and state storage. Inspect resource use during execution, not just while it waits. Record observations without treating one run as a benchmark.
-3. **Minutes 6–9: check recovery.** Restart the application through its normal service manager. Confirm saved state remains available and the scheduler resumes. Check whether interrupted work is retried or needs manual review.
-4. **Minutes 9–12: inspect access and errors.** Confirm administrative access is restricted and secrets are absent from shared logs. Simulate a harmless tool failure and check that it produces a useful alert rather than repeated uncontrolled attempts.
-5. **Minutes 12–15: make the buying decision.** Record missing dependencies, exhausted resources and unresolved support questions. Keep the plan only if the stack fits and every maintenance task has an owner; otherwise change the design before committing further.
-
-For n8n, the official Compose guide linked above covers persistent data and recommends PostgreSQL for a production instance handling ongoing workloads. Back up the state your application actually needs and verify a restore separately. Schedule a longer run covering normal busy periods after this first check.
-
-<!-- FIRST-HAND: cần ảnh hoặc số đo thật: capture a sanitized agent deployment, resource observations during a representative task, restart/state-persistence evidence, and a verified backup restore before adding first-hand performance claims. -->
+If the workflow only runs occasionally, compare the cost of a 24/7 server with a scheduled or local option. The initial price is prepaid for the listed term; budget the renewal before you buy. A small bot that waits for a webhook and a multi-container automation stack do not need the same plan.
 
 ## FAQ
 
-These questions adapt topics from the public Hostinger VPS FAQ and n8n installation documentation cited above; they are not presented as private Search Console query data.
+### Is 2 vCPU and 4 GB RAM enough for an AI agent on a VPS?
 
-### Can an AI agent keep running when my laptop is off?
+It meets n8n's published minimum for the Assistant sandbox Docker Compose setup. That is a starting requirement, not a guarantee for every database, browser task or concurrent workflow. KVM 2 provides 2 vCPU and 8 GB; UltaHost Professional lists 3 CPU cores and 4 GB.
 
-Yes, if the agent and its required services run on the VPS. Remove dependencies on files, tunnels or processes that exist only on your laptop. Verify this by disconnecting the laptop and checking a harmless scheduled task through the server's logs.
+### Can I run n8n, Postgres and Docker on a 2-vCPU VPS?
 
-### Is KVM 1 enough for n8n and AI agents?
+The official n8n Compose guide lists 2 vCPU and 4 GB RAM for its Assistant sandbox configuration. Postgres and other containers share those resources, so inventory the exact setup and workload before choosing. A community question about VPS sizing for n8n likewise centers on whether 2 vCPU and 4 GB is enough; the answer depends on what else runs alongside it ([n8n community discussion](https://community.n8n.io/t/n8n-vps-configuration-for-agentai/80900), accessed November 27, 2026).
 
-It is a candidate for a lean API bot, subject to its own requirements. The full n8n Assistant Compose setup cited above requires more CPU than KVM 1 provides. Match the installation variant to the plan rather than treating every n8n deployment as identical.
+### Should I use Docker or install the agent directly?
 
-### Does VPS hosting include the AI model subscription?
+Use Docker when you want to keep services and their data/configuration boundaries explicit, and follow the application's supported deployment guide. Docker itself does not make a small VPS larger; count the memory and CPU of every running container. Our [Docker VPS guide](/posts/best-vps-for-docker/) covers storage and backup planning.
 
-Budget model access separately unless the specific offer explicitly includes it. Decide whether the application calls an external model or hosts one locally before comparing infrastructure costs. The VPS plan prices here are hosting prices.
+### Will an AI agent keep working when my laptop is off?
 
-### Will a managed VPS fix my custom bot?
+Yes, if its runtime, credentials and required files are on the VPS and the process is configured to restart and run continuously. Test with a harmless scheduled task after disconnecting your laptop; a dashboard login on the VPS alone does not prove the worker is healthy.
 
-Ask for the scope in writing. Server assistance may be valuable, but it does not establish that the host will maintain your prompts, integrations or application code. Choose UltaHost when its confirmed scope matches the work you need covered.
+### Does the VPS price include model usage or a Docker license?
 
-### Which plan should I start with?
+The plan prices cover the VPS shown on each provider's page. They do not show a model API subscription as included, and the compared VPS offers do not list a paid Docker license as required. Budget model usage separately and check optional control panels, taxes and backups at checkout.
 
-Choose Hostinger KVM 2 for an API-based agent stack with supporting services, or KVM 1 for a lean bot whose requirements fit. Choose UltaHost when agreed management help matters more. Keep renewal and maintenance in the decision alongside the introductory price.
+### Is UltaHost managed support enough to fix my custom agent?
 
-**[Start with the Hostinger plan that fits your deployment](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+Not automatically. UltaHost describes server management and support, but you should ask whether the quote covers Docker configuration, database recovery or debugging custom application code. Keep the answer in writing before choosing it for managed support.
+
+**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")** | **[Start with UltaHost VPS](https://ultahost.com/#art52hz "affiliate")**
