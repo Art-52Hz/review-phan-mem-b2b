@@ -1,7 +1,7 @@
 ---
-title: "How Much RAM Does Your VPS Need? (2026) Sizing by Workload"
+title: "How Much VPS RAM Do You Need (2026): Sizing by App with Real Plan Prices"
 date: 2026-11-05
-lastmod: 2026-11-05
+lastmod: 2026-11-27
 slug: "how-to-choose-vps-ram"
 summary: "Choose VPS RAM around your app, database and overlapping jobs. Compare Hostinger plans with UltaHost and check memory before upgrading."
 description: "Choose VPS RAM for WordPress, Docker, n8n and databases. Compare Hostinger prices, renewal costs and practical checks before buying more memory."
@@ -16,118 +16,75 @@ cover:
   relative: false
 ---
 
-**Best starting shortlist for a lean Linux app: Hostinger KVM 1. Pick KVM 2 when your app, database and overlapping jobs need more headroom; compare UltaHost when management support is the priority.**
-**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+For one small Linux app, shortlist 4 GB; for an app plus database and overlapping jobs, shortlist 8 GB. Choose by the busiest work that must run at the same time, then check the renewal bill: the displayed 24-month invoice is $112.56 for UltaHost Basic and $311.76 for Hostinger KVM 4.
 
-**Affiliate disclosure:** Some links are affiliate links. We may earn a commission on qualifying purchases at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).
+**[Compare Hostinger plans for your RAM budget](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)** or **[compare UltaHost VPS options](https://ultahost.com/#art52hz)**.
 
-Based on official pricing and documentation checked November 5, 2026; sizing recommendations are editorial starting points to validate with your workload.
+Affiliate disclosure: Some links are affiliate links. We may earn a commission on qualifying purchases at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).
 
-## Compare RAM allocations and the full purchase cost
+Prices and listed resources below were checked on November 27, 2026. Recommendations are starting points, not measured performance claims.
 
-Start by listing everything that will run together. Include the operating system, application, database, queue workers, monitoring and maintenance jobs. Buying for the application alone leaves the rest of the stack competing for the same memory.
+## Current Linux plan costs, including renewal
 
-| Plan | RAM / vCPU / NVMe | Intro USD monthly equivalent | Initial payment | Renewal monthly equivalent | Suggested fit |
-|---|---|---|---|---|---|
-| Hostinger KVM 1 | 4 GB / 1 / 50 GB | $6.49, 24 months | $155.76 | $11.99, same term | Lean app |
-| Hostinger KVM 2 | 8 GB / 2 / 100 GB | $8.79, 24 months | $210.96 | $14.99, same term | App plus database |
-| Hostinger KVM 4 | 16 GB / 4 / 200 GB | $12.99, 24 months | $311.76 | $28.99, same term | Larger concurrent stack |
-| UltaHost VPS Basic | 1 GB / 1 / 30 GB | $5.52, displayed two-year offer | Confirm checkout | $5.52, two years | Small managed project |
+Both providers display monthly-equivalent rates on 24-month terms paid upfront. The first invoice covers months 1-24. At month 24, the next 24-month renewal is charged. The 12- and 24-month columns therefore show the same cash already paid; month 36 includes the renewal invoice, which also pays for months 37-48.
 
-Sources: [Hostinger VPS pricing and resource specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 5, 2026; [UltaHost VPS Basic pricing and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 5, 2026. Suggested fits are our judgments. Both pages advertise a 30-day money-back guarantee, rather than a free trial. Hostinger requires upfront payment; verify taxes and the final invoice before purchasing.
+| Plan | RAM / CPU | First 24-month invoice | Renewal invoice at month 24 | Cash paid by month 12 | Cash paid by month 24 | Cash paid by month 36 |
+|---|---|---:|---:|---:|---:|---:|
+| UltaHost VPS Basic | 1 GB / 1 core | $112.56 ($4.69 x 24) | $132.48 ($5.52 x 24) | $112.56 | $112.56 | $245.04 |
+| UltaHost VPS Business | 2 GB / 2 cores | $199.44 ($8.31 x 24) | $234.72 ($9.78 x 24) | $199.44 | $199.44 | $434.16 |
+| UltaHost VPS Professional | 4 GB / 3 cores | $323.76 ($13.49 x 24) | $380.88 ($15.87 x 24) | $323.76 | $323.76 | $704.64 |
+| Hostinger KVM 1 | 4 GB / 1 vCPU | $155.76 ($6.49 x 24) | $287.76 ($11.99 x 24) | $155.76 | $155.76 | $443.52 |
+| Hostinger KVM 2 | 8 GB / 2 vCPU | $210.96 ($8.79 x 24) | $359.76 ($14.99 x 24) | $210.96 | $210.96 | $570.72 |
+| Hostinger KVM 4 | 16 GB / 4 vCPU | $311.76 ($12.99 x 24) | $695.76 ($28.99 x 24) | $311.76 | $311.76 | $1,007.52 |
 
-The cheapest advertised monthly equivalent is not necessarily the smallest commitment. Budget for renewal and any software licenses, external backups or administration you need. Keep the project affordable after the introductory term, especially when a client contract may end before the hosting term does.
+Sources: [Hostinger VPS plan prices, resources and billing terms](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 27, 2026; [UltaHost VPS plan prices, resources and billing terms](https://ultahost.com/vps-hosting#art52hz), checked November 27, 2026. The 36-month cash total includes the full 24-month renewal invoice even though 12 months of that renewed term remain unused at month 36. Taxes and checkout changes are excluded.
 
-## Size by workload, not by website count
+These Linux plan cards show no mandatory paid software license or required add-on. Hostinger lists weekly backups in its plans; UltaHost lists a managed server. Paid control panels such as cPanel or Plesk may be optional selections, and their price is not included here. The table assumes no optional panel, domain, offsite backup or third-party software purchase.
 
-The following shortlist uses the plan capacities above as buying tiers. These are not vendor minimum requirements or guaranteed traffic limits. Start at the lower suitable tier only when you can observe the application and change the configuration if needed.
+The price difference is also a service difference: UltaHost includes managed-server service, while Hostinger's cards emphasize configurable KVM resources and weekly backups. A managed label does not define which application tasks support will perform, so confirm the scope before choosing it for client work.
 
-| Workload | Starting shortlist | What could justify moving up? |
-|---|---|---|
-| Cached portfolio or small API | KVM 1 | More processes, heavier requests or a growing local database |
-| WordPress with database on the same server | Evaluate KVM 1; shortlist KVM 2 for busier stacks | Dynamic requests, imports and background jobs overlapping |
-| Docker app with database and workers | KVM 2 shortlist | Several active services competing for memory |
-| n8n with modest text workflows | Evaluate KVM 1 | Large files, bulky execution data or simultaneous workflows |
-| Multiple client apps or substantial batch processing | Evaluate KVM 2 or KVM 4 | Observed aggregate peak memory exceeding the smaller plan |
+## Which one should you pick?
 
-For WordPress, a brochure site with effective caching differs from a store running checkout, search and scheduled imports. Do not buy from a universal visitors-per-day estimate. Reproduce the actions customers actually take, including uncached pages, before choosing the smaller plan.
+- **One cached portfolio, API or small Linux app:** choose Hostinger KVM 1 if you can administer Linux and want 4 GB RAM for $155.76 upfront. Choose UltaHost Basic only if the app fits its 1 GB allocation and managed-server service matters more than extra memory.
+- **WordPress with a local database, imports or several active plugins:** choose Hostinger KVM 1 as the starting shortlist, then measure checkout, search and scheduled imports together. Move to KVM 2 if those overlapping tasks leave little available memory.
+- **Docker app plus database and worker:** choose Hostinger KVM 2. Its 8 GB gives the stack more room to overlap; set container limits and leave host memory for Linux. Read the [Docker VPS buying guide](/posts/best-vps-for-docker/) for storage and container costs.
+- **n8n handling client webhooks, larger payloads or parallel runs:** choose Hostinger KVM 2 if you want one VPS for n8n, its database and simultaneous work. If runs are light, begin by reducing batch size and concurrency before paying for more RAM. See the [n8n VPS guide](/posts/best-vps-for-n8n/).
+- **You need more than 4 GB but want to self-manage:** choose Hostinger KVM 2 for an 8 GB shortlist, or KVM 4 when monitoring shows a need for 16 GB. Compare the [KVM 1 vs KVM 2 plans](/posts/hostinger-kvm1-vs-kvm2-2026/) before moving up.
 
-For containers, count processes and services rather than images. A stopped image consumes storage; a running database or worker needs resources. Our [Docker VPS buying guide](/posts/best-vps-for-docker/) covers the related storage and operating-cost decisions.
+## Size memory from your own peak, not a visitor estimate
 
-For automation, payload size matters as much as workflow count. n8n documents memory pressure from large data, binary files, certain processing nodes and concurrent executions. It also explains that manual execution makes an additional frontend copy. Source: [n8n memory troubleshooting documentation](https://docs.n8n.io/hosting/scaling/memory-errors/), checked November 5, 2026. Use the [self-hosted n8n VPS guide](/posts/best-vps-for-n8n/) when choosing the wider stack.
+Record three values on the intended server: idle host memory with the full stack running, the added memory during your largest normal job, and the added memory when that job overlaps with real traffic or another scheduled task. Use the available-memory reading and logs, not just a high "used" number that includes reclaimable cache.
 
-A bot calling an external AI API is a different purchase from a server loading model weights locally. Before buying for local inference, inspect the chosen model's own memory and hardware documentation. Do not infer that an ordinary VPS tier is suitable simply because the product page mentions AI.
+Write down what was running beside each peak. If a nightly import can be moved outside business hours, scheduling it may avoid buying a larger tier. If client requests, database work and automation must overlap, size for that overlap. Do not sum unrelated historic peaks that cannot happen together.
 
-## Build a memory budget before choosing a tier
+For containers, include the database and workers as separate running services. Docker says containers have no resource constraints by default; host memory pressure can lead the kernel to kill processes. Set realistic limits and leave room for the host. Its [resource constraints guide](https://docs.docker.com/engine/containers/resource_constraints/), checked November 27, 2026, notes that swap is slower than RAM and is a buffer rather than equivalent capacity.
 
-Use this planning relationship: required capacity equals baseline services plus simultaneous application demand plus maintenance headroom. It is a method for organizing your observations, not a benchmark formula with fixed constants.
+n8n's [memory troubleshooting documentation](https://docs.n8n.io/hosting/scaling/memory-errors/), checked November 27, 2026, identifies JSON and binary data size, Code nodes, manual runs and overlapping workflows as factors that increase memory use. Smaller batches and fewer simultaneous executions may solve the pressure without a plan upgrade.
 
-First record the idle baseline after installing your intended stack. Then run a representative task and record the increase. Repeat with the jobs that could realistically overlap. Keep units consistent and distinguish the memory of one process from the memory available across the host.
-
-Do not add every historical maximum if those tasks cannot run together. Conversely, an average can hide a short peak that restarts a worker. Keep both the peak and its context: the input size, concurrency, software version and background work running at the time.
-
-Choose the next tier when the smaller one leaves insufficient room during that realistic overlap. If a batch import can run overnight without competing with customer requests, rescheduling may be cheaper than a permanent upgrade. If it must run during business hours, additional capacity may protect valuable working time.
-
-## Who should choose Hostinger - and who should not
-
-Choose Hostinger when the listed resource tiers match your stack and you can own deployment, configuration and application recovery. KVM 1 is the budget candidate for focused work. KVM 2 is my shortlist for a stack that combines several active services. The [KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) explains the purchase trade-offs in more detail.
-
-Do not choose the larger tier solely because its RAM figure doubles. More memory helps when memory is the constraint; it does not repair a slow external API, inefficient query or CPU-bound job. Nor does paying for a larger server replace a backup and restore process.
-
-Compare UltaHost if its advertised managed service could reduce the administration you need to perform. The entry plan in the table has a much smaller memory allocation, so it is not an equivalent substitute for a larger Hostinger configuration. Ask which tasks and applications the management service covers before paying.
-
-**[See Hostinger plans for your memory budget](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
-
-## Recognize memory pressure before upgrading
-
-Docker explains that containers have no resource limits by default and that host memory exhaustion can cause processes to be killed. It supports memory limits, while warning that swap is slower than RAM. Source: [Docker memory and resource constraint documentation](https://docs.docker.com/engine/containers/resource_constraints/), checked November 5, 2026.
-
-Use host metrics, container metrics and application logs together. A service restart may reflect a container limit even while the server still has available memory. Raising the hosting tier without checking that limit can leave the original failure unresolved.
-
-Likewise, a high used-memory figure alone is not enough to diagnose a shortage. Check available memory, swap activity and the timing of application failures. Investigate repeated out-of-memory events and restarts during normal work. Compare them with CPU utilization and storage activity so you can identify the actual constraint.
-
-If memory keeps growing after each job and does not settle, investigate retention, caching and application behavior. A larger server may postpone a recurring failure rather than solve it. Record what changed after each configuration adjustment so your purchase decision rests on repeatable observations.
-
-## How to test it yourself in 15 minutes
-
-Use an already provisioned staging server with your intended application installed and non-sensitive sample data. This is an initial sizing check; production acceptance also needs observation over normal busy periods.
-
-1. **Record the baseline.** Run `free -h` for host memory and `docker stats --no-stream` if using containers. Save the time, software versions and services running.
-2. **Run normal work.** Open uncached application pages, execute a typical workflow or process a representative input. Record errors and completion behavior alongside memory.
-3. **Check realistic overlap.** Repeat while a normal background job runs. Keep the workload within systems you control and use the concurrency you actually expect.
-4. **Inspect failures.** Review application and system logs for memory exhaustion or restarts. Check whether a container's configured limit, host capacity or another resource caused the problem.
-5. **Make a decision.** Keep the smaller tier when representative work remains stable with spare capacity. Tune expensive tasks first, then move up if repeatable memory pressure remains.
-
-After the short check, include scheduled jobs, deployment and backup windows in a longer observation period. Keep a current off-server backup and rehearse restoration before migrating client work. Save the results so a future upgrade has a clear reason and a before-and-after comparison.
-
-<!-- FIRST-HAND: Add dated plan screenshots, application versions, input sizes, concurrency, baseline and peak available-memory readings, container limits, logs during overlapping jobs, and a restore result. No firsthand measurements are available for this article. -->
-
-For private file sync, our [Nextcloud VPS buying guide](/posts/best-vps-for-nextcloud/) combines the RAM decision with usable storage, backup recovery and the full hosting bill.
+When an app reports out-of-memory errors, compare its logs with host available memory and container limits. If only one container reaches its limit, tune that limit or the app. If the host runs out during a representative overlap, shortlist the next plan size. Check CPU and storage at the same time: more RAM will not fix a CPU-bound job or slow disk work.
 
 ## FAQ
 
-### Is 4 GB RAM enough for a VPS?
+These questions reflect public [WordPress RAM discussions](https://www.reddit.com/r/webhosting/comments/1uck6ey/how_much_ram_does_a_wordpress_site_actually_need/) and [n8n VPS sizing discussions](https://www.reddit.com/r/VPS/comments/1x863vt/anyone_running_n8n_on_a_vps_what_specs_do_you_recommend/), including [a 2 GB n8n server struggling with overlapping workflows](https://www.reddit.com/r/n8n/comments/1xyf17k/selfhosted_n8n_on_a_2gb_vps_falls_over_when_three/). Community accounts are examples of questions and configurations, not universal capacity tests.
 
-It is a reasonable tier to evaluate for a lean application, cached site or modest automation stack. The answer depends on your database, workers and busiest overlapping tasks. Validate those together before putting customer work on the server.
+### Is 4 GB RAM enough for WordPress?
 
-### Should I buy 8 GB instead of 4 GB?
+It can be a reasonable starting plan for one site, but traffic, plugins, database activity and background jobs change the peak. Measure checkout or imports as well as cached pages before relying on it.
 
-Shortlist the larger tier when several active services share the host or realistic peaks leave little available memory. If the smaller configuration stays stable and has headroom, the extra recurring cost may be unnecessary.
+### Do I need 8 GB for WordPress?
 
-### Does Docker require a larger VPS?
+Not by default. Consider 8 GB when a database, multiple active sites or overlapping jobs push a 4 GB host into repeatable memory pressure. Optimize caching and schedule heavy imports first if they can run separately.
 
-Choose for the applications inside the containers. Set and inspect resource limits so an individual service cannot consume the entire host. Container count alone does not tell you how much RAM the workload needs.
+### Is 2 vCPU and 4 GB RAM enough to start n8n?
 
-### Can swap replace more RAM?
+It is a practical starting size for light workflows, but large data, Code nodes and simultaneous runs can use more memory. If client workflows must run concurrently, shortlist 8 GB and monitor real executions.
 
-Treat swap as a buffer, not a promise of equivalent performance. If routine work depends on heavy swapping and becomes unresponsive, reduce memory demand or evaluate a larger tier. Check the application's behavior before deciding.
+### Why can n8n fail on a 2 GB VPS with only a few workflows?
 
-### Why does n8n fail even with a small number of workflows?
+Workflow count is not workload size. A few runs can overlap, process large binary or JSON payloads, or load execution data into the editor. Reduce batches and concurrency, then check n8n logs and container limits.
 
-A small workflow count can still involve large payloads or overlapping executions. Inspect execution data, binary files and processing steps. Reducing batch sizes may help before you increase the hosting bill.
+### Should I upgrade RAM or set n8n concurrency limits?
 
-### Will extra RAM make my VPS faster?
+If overload happens only when several heavy executions overlap, cap or stagger those runs first. Upgrade when a representative single run or unavoidable overlap still exhausts available host memory.
 
-It can help when memory pressure is causing the slowdown. It will not remove every CPU, disk, network or application bottleneck. Buy the resource that addresses the observed problem and compare the same workload afterward.
-
-**Choose a lean tier for focused work and pay for more headroom when overlapping tasks justify it. [Compare Hostinger plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO) against your memory budget and renewal cost.**
+**[Compare Hostinger plan prices and RAM](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO) with [UltaHost managed VPS options](https://ultahost.com/#art52hz) before choosing a term.**
