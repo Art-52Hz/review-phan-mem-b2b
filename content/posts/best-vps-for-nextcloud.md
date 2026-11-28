@@ -1,11 +1,11 @@
 ---
 title: "Best VPS for Nextcloud (2026): Storage, RAM and Real Monthly Cost"
 date: 2026-11-15
-lastmod: 2026-11-15
+lastmod: 2026-11-28
 slug: "best-vps-for-nextcloud"
-summary: "Choose a Nextcloud VPS around usable file storage, memory headroom, backup recovery and the full hosting commitment."
+summary: "Choose a Nextcloud VPS by usable disk, memory headroom, recovery needs and the cash due at renewal."
 draft: false
-description: "Compare Hostinger and UltaHost VPS for Nextcloud: storage, RAM, prepaid and renewal costs, independent backups and a practical buying checklist."
+description: "Compare Hostinger and UltaHost Nextcloud VPS storage, RAM, current 24-month prices, renewal invoices and real cash due through month 36."
 keywords: ["best VPS for Nextcloud", "Nextcloud VPS hosting", "Nextcloud RAM requirements", "Nextcloud hosting cost"]
 categories: ["VPS Hosting", "Hosting Guide"]
 tags: ["vps", "hostinger", "nextcloud", "storage", "backups"]
@@ -16,143 +16,107 @@ cover:
   relative: false
 ---
 
-**Best starting shortlist for a Linux administrator running Nextcloud: Hostinger KVM 2. Pick UltaHost Professional instead if its confirmed management scope covers the server work you need help with.**
-For a large file archive, choose around storage growth before buying extra CPU or RAM.
-**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+For a self-managed Nextcloud server, start with Hostinger KVM 2 if 100 GB fits your library; choose KVM 1 for a small sync-only pilot. Choose UltaHost Professional only if its written management scope includes the Nextcloud work you need covered. The biggest decision is often whether your files fit after retention and backup space, not a higher CPU tier.
+
+{{< picks title="Which one should you pick?" checked="Nov 28, 2026" >}}
+{{% pick label="Best for a small personal pilot" name="Hostinger KVM 1" price="$6.49/mo for 24 months" renew="$11.99/mo for 24 months" note="50 GB NVMe; weekly VPS backups included" %}}
+Choose this when your active files, versions and application data fit within 50 GB with room to grow. The first invoice is $155.76.
+[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)
+{{% /pick %}}
+{{% pick label="Best for self-managed headroom" name="Hostinger KVM 2" price="$8.79/mo for 24 months" renew="$14.99/mo for 24 months" note="100 GB NVMe; weekly VPS backups included" %}}
+Choose this for a larger working set or when Nextcloud shares the server with its database and supporting services. The first invoice is $210.96.
+[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)
+{{% /pick %}}
+{{% pick label="Best when server management matters" name="UltaHost VPS Professional" price="$13.49/mo for 24 months" renew="$15.87/mo for 24 months" note="Managed server; confirm application support in writing" %}}
+Choose this if the provider confirms that its management covers your operating system, database and Nextcloud recovery needs. The first invoice is $323.76.
+[Compare managed VPS plans](https://ultahost.com/#art52hz)
+{{% /pick %}}
+{{< /picks >}}
 
 *Affiliate disclosure: some links are affiliate links. We may earn a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Based on official pricing and documentation checked November 15, 2026; the recommendations below are planning judgments, not benchmark results.
+Based on official plan and documentation pages checked November 28, 2026. Costs below exclude tax, domain renewal, separately purchased backup storage and labor because no required price for those items is shown on the cited plan pages.
 
-Nextcloud puts your files, sharing permissions and maintenance responsibilities in the same purchase decision. A cheap server becomes expensive if it fills during a backup or needs more administration than you can provide. Start with the size of the library you will actually migrate, identify who will restore it after a failure, and then choose the hosting tier.
+## Current plans and what they buy
 
-## Hostinger vs UltaHost: the shortlist
+| Plan | vCPU | RAM | NVMe | Intro monthly equivalent | Renewal monthly equivalent | Practical fit |
+|---|---:|---:|---:|---:|---:|---|
+| Hostinger KVM 1 | 1 | 4 GB | 50 GB | $6.49 | $11.99 | Small personal sync pilot |
+| Hostinger KVM 2 | 2 | 8 GB | 100 GB | $8.79 | $14.99 | More files or services on one server |
+| Hostinger KVM 4 | 4 | 16 GB | 200 GB | $12.99 | $28.99 | Larger working set or heavier app mix |
+| UltaHost VPS Professional | 3 cores | 4 GB DDR5 | 75 GB | $13.49 | $15.87 | Evaluate when managed server help has value |
 
-| Plan | CPU / RAM / NVMe storage | Initial monthly equivalent | Renewal monthly equivalent | Best fit to evaluate |
-|---|---|---|---|---|
-| Hostinger KVM 1 | 1 vCPU / 4 GB / 50 GB | $6.49, 24 months prepaid | $11.99, same term | Lean personal file-sync pilot |
-| Hostinger KVM 2 | 2 vCPU / 8 GB / 100 GB | $8.79, 24 months prepaid | $14.99, same term | Application and database with more headroom |
-| Hostinger KVM 4 | 4 vCPU / 16 GB / 200 GB | $12.99, 24 months prepaid | $28.99, same term | Larger working library or heavier app mix |
-| UltaHost VPS Professional | 3 CPU cores / 4 GB / 75 GB | $15.87, displayed two-year offer | $15.87, two years | Managed-server alternative to investigate |
+Hostinger displays its prices for 24-month terms, bills the full term upfront and lists the renewal price for another 24 months. UltaHost currently displays a Professional offer of $13.49 per month, renewing at $15.87 per month for two years. These are dated offer prices; confirm the cart total, currency and applicable taxes before ordering. Sources: [Hostinger VPS pricing and term details](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026; [Hostinger plan specifications](https://www.hostinger.com/support/6976044-parameters-and-limits-of-hosting-plans-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026; [UltaHost VPS pricing and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 28, 2026.
 
-Sources: [Hostinger VPS pricing and specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 15, 2026; [UltaHost VPS pricing and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 15, 2026.
+Hostinger includes weekly VPS backups on the listed plans. A weekly provider backup does not tell you whether your required recovery point is met or whether an application-level restore works. UltaHost describes Professional as a managed server; ask whether that includes Nextcloud installation, database work, app upgrades and recovery before counting it as outsourced administration.
 
-Both pages advertise a 30-day money-back guarantee, not a free trial. Check refund eligibility and the final invoice before paying. The plans above are not equivalent resources: compare the support you will actually receive as well as RAM and storage.
+## Real cash cost at the first invoice and renewal
 
-If you plan to operate another service on your server, our [self-hosted email VPS buying guide](/posts/self-host-email-server-vps/) covers port 25 approval, reverse DNS and delivery responsibilities.
+The examples below use the advertised 24-month billing cycle. At month 36, the second 24-month invoice has already been paid, so the total includes 12 months of prepaid service beyond that point. It is cash paid by month 36, not a prorated 36-month subscription price. No paid Nextcloud license is required in these Linux VPS offers; separately priced backup storage and administrator labor are excluded because the provider pages do not give a required price for them.
 
-## Who should choose Hostinger - and who should not
+| Plan | First 24-month invoice | Renewal invoice for months 25-48 | Cash paid by month 24 | Cash paid by month 36, including prepaid months 37-48 |
+|---|---:|---:|---:|---:|
+| Hostinger KVM 1 | $6.49 x 24 = $155.76 | $11.99 x 24 = $287.76 | $155.76 | $443.52 |
+| Hostinger KVM 2 | $8.79 x 24 = $210.96 | $14.99 x 24 = $359.76 | $210.96 | $570.72 |
+| Hostinger KVM 4 | $12.99 x 24 = $311.76 | $28.99 x 24 = $695.76 | $311.76 | $1,007.52 |
+| UltaHost Professional | $13.49 x 24 = $323.76 | $15.87 x 24 = $380.88 | $323.76 | $704.64 |
 
-Choose KVM 2 as your first evaluation candidate when you want to administer Nextcloud yourself and run its supporting services together. Choose KVM 1 for a deliberately lean pilot when the file library fits comfortably. Consider KVM 4 after identifying a real resource constraint, rather than assuming every additional user needs an upgrade.
+The 36-month cash figure adds the initial invoice and the whole renewal invoice because the provider bills another two-year term. For example, KVM 2 costs $570.72 paid by month 36, while 12 months of the renewal term remain prepaid. These sums are arithmetic from the linked official offers, not checkout receipts. Taxes and currency conversion can change the amount charged.
 
-The important drawback is ownership. Assign someone to operating-system updates, application upgrades, failed background jobs, monitoring and restores. A convenient installation screen is only the beginning of that job.
+## Pick by workload and who will maintain it
 
-Do not buy this route if your expectation is to upload private files and never maintain the server. Obtain a managed Nextcloud quote instead, or budget an administrator separately. Also avoid choosing a compute-heavy tier merely to accommodate an expanding archive without comparing storage-oriented alternatives.
+| Situation | Recommendation | Reason |
+|---|---|---|
+| One person syncing documents and contacts, with under 50 GB planned | Hostinger KVM 1 | Lowest first invoice; leave capacity for application files and retained versions. |
+| A family or small team with a growing library and several Nextcloud services | Hostinger KVM 2 | 100 GB and 8 GB RAM give more room without assuming a user-count guarantee. |
+| You want a managed server because you cannot own operating-system maintenance | UltaHost Professional, after written scope confirmation | Pay more upfront only if the included management resolves specific tasks you would otherwise outsource. |
+| Photos, video or archives are already larger than the listed disks | Compare storage-first or external-storage designs before buying | A bigger compute plan may still not solve the storage requirement; price retrieval and independent backup too. |
+| You plan to run Nextcloud Office, Talk or several other apps | Start with KVM 2 as an evaluation candidate, then measure staging load | Concurrent work and app mix affect memory; plan capacity from observed workload, not registered accounts alone. |
 
-Our [Hostinger KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) helps with the smaller-plan decision. For this workload, the deciding question is whether both the live application and its growing files fit with room for maintenance.
+Nextcloud says memory use varies with users, apps, files and server activity. Its manual lists 128 MB RAM per process as a minimum and recommends 512 MB per process; those figures are not whole-server sizing promises. Check the release requirements and test your intended app mix. Source: [Nextcloud system requirements](https://docs.nextcloud.com/server/stable/admin_manual/installation/system_requirements.html), checked November 28, 2026.
 
-## When UltaHost is worth the higher bill
+For the smaller Hostinger decision, see [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/). Use the [VPS RAM sizing guide](/posts/how-to-choose-vps-ram/) to estimate the rest of the stack, and the [Docker VPS buying guide](/posts/best-vps-for-docker/) if you plan to deploy containers. All three companion guides appear in the VPS Hosting hub's plan comparison section.
 
-UltaHost labels Professional a managed server. That makes it a useful alternative when you would otherwise pay someone to maintain infrastructure. Ask exactly whether the service covers your Nextcloud installation method, database, upgrades, security fixes and application recovery.
+## Plan storage around recovery, not just quotas
 
-Get the answer in writing before ordering. A server-management service may resolve an operating-system problem while leaving a broken Nextcloud app or sharing configuration to you. Compare the cost of any uncovered work with the self-managed option.
+Estimate used space before ordering:
 
-**[Compare UltaHost managed VPS plans](https://ultahost.com/#art52hz)**
+**VPS disk needed = live files + retained versions and deleted files + previews + database and app files + upgrade and maintenance headroom.**
 
-Choose it when that confirmed scope removes work you cannot reliably perform. If the scope does not meet your needs, a managed label alone is not a reason to pay more.
+Use a sample migration or a directory-size report to estimate these components. Do not assign all advertised disk space to user quotas. Decide how long to retain deleted files and versions, and check what preview generation or extra apps add to the disk footprint.
 
-## How much RAM does Nextcloud need?
+Nextcloud's backup manual lists the configuration, data, database, theme and any custom apps as backup components. It recommends maintenance mode to avoid inconsistent data during backup and keeping copies outside the Nextcloud environment. A provider snapshot or weekly VPS backup is useful only if its retention, access and restore procedure meet your recovery needs. Source: [Nextcloud backup components and maintenance mode](https://docs.nextcloud.com/server/stable/admin_manual/maintenance/backup.html), checked November 28, 2026.
 
-Nextcloud documents a minimum of 128 MB RAM per process and recommends at least 512 MB per process. Those are not whole-server sizing targets. Its documentation says demand varies with users, apps, files and activity. Source: [Nextcloud memory and system requirements](https://docs.nextcloud.com/server/latest/admin_manual/installation/system_requirements.html), checked November 15, 2026.
-
-My starting recommendation is to evaluate the smaller tier for focused file sync and the middle tier when several services share the server. Treat office editing, previews and other optional applications as separate workload decisions. Add them to the evaluation individually so you can see what changes.
-
-Measure the busiest combination of tasks: uploads, downloads, background work and database activity. Count active work rather than registered accounts. Record available memory, swap activity, CPU pressure and disk use during that overlap. Do not promise a fixed number of supported users from RAM alone.
-
-The [VPS RAM sizing guide](/posts/how-to-choose-vps-ram/) explains how to build that workload budget. Before deployment, check the requirements for your chosen Nextcloud release; the linked latest manual can describe an upcoming release.
-
-## Storage: advertised disk is not your file allowance
-
-Use this planning equation: **required disk = live files + retained versions and deleted files + previews + database and application files + maintenance headroom**. Measure each component in your pilot rather than assigning the whole advertised disk to user quotas.
-
-Start with an inventory of the folders you plan to migrate. Separate frequently used documents from an archive that rarely changes. Then decide which versions and deleted items must be retained, and inspect their actual growth during normal work. A storage budget should reflect that retention decision.
-
-Before ordering, answer these questions:
-
-- Will the working library still fit after the next planned migration?
-- Can an upgrade or backup job finish without filling the production filesystem?
-- Who receives the low-space alert, and what can they safely remove?
-- If you add external storage, which location holds the authoritative files and which process backs them up?
-- Can you recover the entire library within the downtime your team can tolerate?
-
-If storage dominates the decision, compare a larger local disk with a separately priced storage service and a managed Nextcloud offer. Include retrieval, transfer and restore requirements in that comparison. Do not assume that attaching storage automatically gives you an independent backup.
-
-## Real monthly cost: separate the invoice from the budget
-
-Hostinger lists initial payments of $155.76, $210.96 and $311.76 for the three tiers above. Using its displayed renewal rates, the corresponding next-term base totals calculate to $287.76, $359.76 and $695.76. These are 24-month commitments, not monthly invoices; the source is the dated pricing page above.
-
-For UltaHost Professional, $15.87 x 24 calculates to $380.88 before extras. This is arithmetic from the displayed two-year rate, not a captured checkout invoice.
-
-Your operating budget should include the following items:
-
-| Cost item | What to put in your budget |
-|---|---|
-| VPS | Initial term total and renewal total, recorded separately |
-| Independent backup | Stored data, retention, transfer and restore charges from your chosen service |
-| Domain and email | Any domain renewal and notification email service you require |
-| Administration | Updates, monitoring, incident response and recovery rehearsals |
-| Optional applications | Any paid support, subscriptions or additional services you choose |
-
-For a real monthly comparison, divide prepaid charges by the covered months and add recurring services. Keep the cash needed today visible alongside that figure. Apply taxes and currency conversion from the final quote. Do not count an unverified referral discount as guaranteed savings.
-
-## Backups that can restore the application
-
-Nextcloud's backup documentation identifies the configuration, data, database, theme and custom apps where installed. It also describes maintenance mode to prevent inconsistent data during backup. Source: [Nextcloud backup components and maintenance mode](https://docs.nextcloud.com/server/latest/admin_manual/maintenance/backup.html), checked November 15, 2026.
-
-Use that as the starting point for an application-aware recovery procedure. Keep a consistent backup set outside the production environment, protect access separately, and record the software versions needed to restore it. Hostinger advertises weekly VPS backups; decide whether that frequency meets your own acceptable data-loss window.
-
-My acceptance check is simple: restore into an isolated environment, sign in with a test account, open a representative document and verify its sharing permissions. Record what failed and who will fix it. A backup job reporting success does not demonstrate that the restored application works.
-
-If you deploy with containers, the [Docker VPS buying guide](/posts/best-vps-for-docker/) covers persistent-storage planning. Include application data in the recovery plan, not just the container definition.
-
-## How to test it yourself in 15 minutes
-
-Run this initial screen on an already configured staging instance with non-sensitive sample files. Installation, a full restore and a realistic capacity test may take longer.
-
-1. Sign in from the devices you expect to use and upload a representative folder.
-2. Download a file and compare its contents with the original. Check both large files and folders with many small files.
-3. Create a restricted share with a test account and confirm that access matches your intention.
-4. Repeat normal sync work while observing server resources and available disk space.
-5. Inspect the backup configuration and start an isolated recovery check; let it finish even if it exceeds this review window.
-
-Continue with a longer pilot covering routine background work and upgrades before migrating important files. Save screenshots, errors, timestamps and restore results to support the final plan decision.
-
-<!-- FIRST-HAND: Add dated plan invoices, staging resource graphs, file-sync observations, disk-growth records and an isolated restore demonstrating a recovered document and sharing permissions before making performance claims. -->
+Before moving important files, test a restore into an isolated server. Confirm that a representative file opens and existing sharing permissions work. Include the database and configuration in the recovery check, not just the data directory.
 
 ## FAQ
 
-### Is a VPS suitable for Nextcloud?
+### How much RAM do I need for a small Nextcloud server?
 
-Yes, when its software environment meets your selected release's requirements and someone owns maintenance. Choose a VPS for control over configuration; choose managed Nextcloud when you need the application operated for you.
+There is no universal whole-server figure. Nextcloud's manual recommends at least 512 MB per process, while database, operating system and apps also use memory. A 4 GB plan can be an evaluation point for a lean setup, not a guarantee for every app combination.
 
-### Is 4 GB RAM enough for Nextcloud?
+### Is 50 GB enough for Nextcloud?
 
-It is a reasonable starting tier to evaluate for a lean personal setup. Validate your app mix and concurrent work. The per-process requirement in the manual is not a guarantee that an entire production stack will fit a particular server.
+Only if your live library, retained versions, previews, database, apps and headroom fit within it. Measure those items first and reserve capacity for upgrades and recovery work.
 
-### How much storage should I buy?
+### Does a VPS give Nextcloud all of its advertised storage?
 
-Measure your live library and add the space needed for retention, previews, the database and maintenance. Set quotas from the resulting usable budget. Buy with a growth plan rather than allocating the entire advertised disk to files immediately.
+The advertised disk is the VPS disk limit, not all usable file quota. The operating system, database, application, previews and retained versions also consume it. Keep headroom instead of assigning the whole disk to users.
+
+### Is a VPS backup the same as a Nextcloud backup?
+
+Not necessarily. Confirm what the provider captures, how long it retains copies and how you restore the database and configuration consistently. Run an isolated restore before relying on it.
 
 ### Does managed VPS hosting include Nextcloud support?
 
-Do not assume it does. Ask whether updates, app problems, database issues and application restores are included. Purchase against the written scope and assign any remaining tasks to a named administrator.
+Do not infer application support from the managed label. Ask in writing whether installation, upgrades, database faults and application-level recovery are included, then budget for any excluded work.
 
-### Is syncing files the same as backing them up?
+### Can I add external storage to a Nextcloud VPS?
 
-No. Keep a separately retained recovery copy and validate restoration. Plan recovery for the application and its records as well as the documents, especially when users depend on existing shares and permissions.
+Yes, if the server can securely reach and mount the storage you choose. Confirm connectivity, capacity, transfer or retrieval charges and backup responsibility. External storage is not automatically a separate backup.
 
-## Choose around files, recovery and renewal
+## Recommendation
 
-Start with Hostinger KVM 2 when you can administer the service and your storage plan fits. Compare UltaHost when its confirmed support scope reduces work you would otherwise outsource. For either choice, approve the full operating budget and complete a restore check before entrusting it with your primary file library.
+For a self-managed Nextcloud pilot, KVM 1 is the lower-cash starting point when 50 GB is sufficient; KVM 2 is the stronger default when your measured files and supporting services need more room. Choose UltaHost Professional for management only when its written scope covers the tasks you want to hand off. In each case, budget the renewal invoice and prove that you can restore the application before migrating your only copy of important files.
 
-**[Start with Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
