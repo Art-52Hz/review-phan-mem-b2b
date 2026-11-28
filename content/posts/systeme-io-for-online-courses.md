@@ -1,7 +1,7 @@
 ---
-title: "Systeme.io for Online Courses (2026): Free Plan Limits and Setup"
+title: "Systeme.io for Online Courses (2026): Free Plan Limits and Real Monthly Cost"
 date: 2026-11-09
-lastmod: 2026-11-13
+lastmod: 2026-11-28
 slug: "systeme-io-for-online-courses"
 draft: false
 description: "Build your first course with Systeme.io: compare Free and paid limits, configure lessons and checkout, and decide when to upgrade or choose Teachable."
@@ -14,138 +14,84 @@ cover:
   relative: false
 ---
 
-Best for launching a first course on a tight budget: Systeme.io Free.
-Choose Startup when a second course or a larger audience creates a real capacity problem.
-Shortlist Teachable instead if its student apps are central to how you want learners to study.
+Systeme.io Free is the lowest-cost fit for one course, up to 2,000 contacts and a simple checkout-to-enrollment flow. Move to Startup only when you need a second course, more than 3 funnels or more than 2,000 contacts; it costs $17 per month or $170 billed annually at current list prices. [Start with Systeme.io Free](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70).
 
 *Disclosure: Some links are affiliate links. We may earn a commission if you purchase through them, at no extra cost to you.*
 
-**[Start with Systeme.io Free](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
+Prices and plan limits below were checked November 28, 2026 against the [official Systeme.io pricing page](https://systeme.io/pricing/?sa=sa0240953427819ac8307d665a325f6afb57632d70). Its annual option advertises two months free. The totals below use today's listed prices for each renewal; they are estimates, not a promise that future rates or taxes will stay the same.
 
-Based on official pricing and help documentation checked November 9, 2026.
+## What each plan buys for a course
 
-The first purchase decision is whether your course needs paid capacity at all. Build a small, complete learning experience before paying for a catalogue you have not produced. This guide covers course delivery and checkout; our [Systeme.io pricing breakdown](/posts/systeme-io-pricing-explained/) covers the broader subscription decision.
+| Plan | Monthly price | Annual bill | Courses | Contacts | Funnels | Course creator fit |
+|---|---:|---:|---:|---:|---:|---|
+| Free | $0 | $0 | 1 | 2,000 | 3 | Validate one course and its checkout |
+| Startup | $17 | $170 | 5 | 5,000 | 10 | Add separate courses or exceed Free capacity |
+| Webinar | $47 | $470 | 20 | 10,000 | 50 | Use evergreen webinars or higher limits |
+| Unlimited | $97 | $970 | Unlimited | Unlimited | Unlimited | Remove listed course and contact ceilings |
 
-## Free plan limits and paid course capacity
+All plans include unlimited email sends and advertise 0% Systeme.io transaction fees. Stripe, PayPal or another payment provider can still charge its own processing fee. The official pricing page lists no required course license or paid add-on, so the totals below include the subscription only. Confirm the final currency and any tax at checkout. Source: [official plan limits and billing options](https://systeme.io/pricing/?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 28, 2026.
 
-Prices below are USD with monthly billing. The final column is our recommendation.
+### Subscription total through renewal
 
-| Plan | Monthly price | Courses | Contacts | Sales funnels | Best fit |
-|---|---|---|---|---|---|
-| Free | $0 | 1 | 2,000 | 3 | Validate a first course |
-| Startup | $17 | 5 | 5,000 | 10 | Add a follow-up course |
-| Webinar | $47 | 20 | 10,000 | 50 | Use evergreen webinars or expand the catalogue |
-| Unlimited | $97 | Unlimited | Unlimited | Unlimited | Resolve established capacity constraints |
+Annual billing is ten monthly payments paid upfront for twelve months of access. The annual totals assume the same annual price at each renewal; monthly totals assume the listed monthly price stays unchanged.
 
-Free also includes one automation rule, one email campaign and one custom domain. Email sends are unlimited. It does not expire or require a credit card. Source: [official subscription prices and resource allowances](https://systeme.io/pricing?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
+| Plan | 12 months, monthly billing | 24 months, monthly billing | 36 months, monthly billing | Annual bill x years 1 / 2 / 3 |
+|---|---:|---:|---:|---:|
+| Free | $0 | $0 | $0 | $0 / $0 / $0 |
+| Startup | $204 | $408 | $612 | $170 / $340 / $510 |
+| Webinar | $564 | $1,128 | $1,692 | $470 / $940 / $1,410 |
+| Unlimited | $1,164 | $2,328 | $3,492 | $970 / $1,940 / $2,910 |
 
-**Student capacity needs confirmation:** that page's Free FAQ lists 500 students, while its benefits section advertises unlimited students. Use the lower figure for planning and ask support to confirm your account's allowance before a large launch.
+The annual column shows cumulative spend after each annual renewal. For example, Startup costs $170 for year one and $340 over two years if it renews at the current annual price. The official page advertises two months free but does not show a separate renewal rate. The annual discount saves $34, $94 and $194 per year against twelve monthly payments for Startup, Webinar and Unlimited respectively. Billing cadence changes cash paid upfront, not the course feature set.
 
-The practical constraint for a small creator may be the course count. A free introductory course and a separate paid advanced course require room for separate products. Decide whether your introduction belongs inside the main curriculum or deserves its own course before choosing a subscription.
+## Which one should you pick?
 
-### Free does not mean unlimited lifetime sales
+- **One course, fewer than 2,000 contacts, and a first checkout:** choose Free. It includes one course, three funnels and one automation rule, so map the buyer's payment, enrollment email and course access before launch.
+- **A second distinct course, fourth funnel or list above 2,000:** choose Startup. It raises capacity to five courses, ten funnels and 5,000 contacts for $17 monthly or $170 yearly.
+- **Evergreen webinars are part of how you sell, or you need over 5,000 contacts:** choose Webinar at $47 monthly or $470 yearly. Do not pay for this tier just to sell recorded lessons.
+- **More than 10,000 contacts or no listed course/contact ceiling:** choose Unlimited at $97 monthly or $970 yearly only when those limits are already blocking the business.
+- **Your course requires a dedicated student app:** shortlist Teachable instead. Its Starter page lists iOS and Android student apps, $39 monthly billing and a 7.5% transaction fee; compare the fee and learner experience with your expected sales before choosing. Source: [Teachable Starter features and price](https://www.teachable.com/pricing), checked November 28, 2026.
 
-Free accounts have a **$10,000 lifetime sales revenue cap**, with a dashboard warning at $8,000. At the cap, payment pages stop accepting new sales until the account upgrades; affiliate commissions are excluded. Source: [official subscription moderation and Free revenue rules](https://help.systeme.io/article/1509-how-systeme-io-subscription-plans-are-moderated?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
+## The student limit needs a support answer
 
-Check that warning before promoting a launch. A short email list can still generate enough sales to require an upgrade. Keep an upgrade decision in your launch checklist alongside the sales page, course access and customer support arrangements.
+Systeme.io's pricing page currently says both "unlimited students" in its all-plans benefits and "500 students" in its Free plan FAQ. Those statements conflict. Use 500 as a conservative planning ceiling for Free, and ask Systeme.io support to confirm the limit for your account before promising a larger cohort. The page does not state the paid-plan student cap consistently enough to derive a separate paid limit. Source: [official pricing page](https://systeme.io/pricing/?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 28, 2026.
 
-## Systeme.io vs Teachable for a first course
+This conflict matters more than the headline price for a cohort launch. The Free plan is a low-risk workflow check for a small audience, but do not treat its student capacity as unlimited until the provider clarifies it in writing.
 
-| Buying question | Systeme.io | Teachable Starter |
-|---|---|---|
-| Entry route | Ongoing Free plan | 7-day trial |
-| Paid starting price, monthly billing | Startup: $17/month | $39/month |
-| Entry paid product capacity | 5 courses | 5 products |
-| Platform transaction fee | 0% across plans | 7.5% |
-| Our shortlist reason | Combine course delivery with funnels and email | Prioritize iOS and Android student apps |
+## Build the purchase-to-course path
 
-Sources: the Systeme.io pricing page above and [official Teachable Starter pricing and features](https://www.teachable.com/pricing), checked November 9, 2026. Products and courses are different allowance categories. Payment processing costs remain separate from platform transaction fees; Teachable explains the distinction in its [official transaction fee guide](https://support.teachable.com/en/articles/15661316-understand-your-transaction-fees-and-bundles), checked November 9, 2026.
+For a paid course, create the course and its modules first, then add a digital product to a funnel order form and attach the course as its resource. Choose full access, selected modules or drip access to match what the sales page promises. Systeme.io's help guide documents these access types and enrollment setup: [how to sell an online course](https://help.systeme.io/article/237-how-to-sell-an-online-course?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 28, 2026.
 
-Our recommendation is to choose Systeme.io for a straightforward first offer when keeping recurring software costs down matters. Shortlist Teachable if a dedicated student app is part of your delivery requirement, then evaluate its learner experience with your own material. A lower subscription price is useful only when the tool supports the way you teach.
+Before launch, verify four details in a test enrollment: the purchased offer points to the right course, the learner receives the enrollment email, the first lesson opens, and the configured release schedule matches the sales page. For classic courses, lecture delays are relative to the previous lecture; full access overrides delays. See [official course creation instructions](https://help.systeme.io/article/164-how-to-create-a-course-using-systemeio?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 28, 2026.
 
-If you already sell through a funnel platform, read our [Systeme.io vs ClickFunnels comparison](/posts/systeme-io-vs-clickfunnels-2026/) before moving an active course. Rebuilding access and customer messages during a launch can cost more attention than the subscription saving is worth.
-
-## Who should choose Systeme.io, and who should not?
-
-**Choose Free** when you have a focused course idea and need to check whether buyers understand the outcome. Finish a sample lesson and the purchase journey before adding more software.
-
-**Choose Startup** when the next course is ready or an existing allowance blocks delivery. Write down the exact constraint before paying. Buying unused capacity will not improve an unfinished curriculum.
-
-**Choose Webinar** when evergreen presentations are part of your sales process or you need its higher allowances. Selling education alone is not a reason to buy a webinar tier.
-
-**Investigate another platform or delivery process** if you need instructor approval before students can progress. Systeme.io's mandatory assignments unlock the next lecture when the student submits a file, without waiting for instructor approval. Assignments are available in classic courses, not light courses. Source: [official course assignment behavior](https://help.systeme.io/article/10578-how-to-create-an-assignment-for-a-course-lecture?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
-
-That distinction matters for assessed training. A submission requirement and an approval requirement serve different teaching goals. Write your assessment rule first, then check whether the platform implements it.
-
-**[Compare Systeme.io plans for your course](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
-
-## Set up the course before connecting checkout
-
-### Choose classic or light course format
-
-This walkthrough uses classic courses. They are managed under Assets > Courses and use a desktop editor. Light courses are built in a creator store with a mobile-friendly interface. Source: [official classic and light course format comparison](https://help.systeme.io/article/8769-how-to-create-a-light-course?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
-
-Choose based on your editing workflow and assessment needs. For a structured course, outline the result each module should deliver before touching the editor. Keep the first version focused enough that a learner can explain what they will accomplish.
-
-### Create the structure and activate the lessons
-
-Open Assets > Courses, add a course, and set its name, domain, URL path and theme. Add a module, then a lecture inside it. Set any release delay and activate the finished content. In classic courses, full access ignores lecture delays; drip access follows them. Each delay is relative to the previous lecture, not the course start. Source: [official classic course creation instructions](https://help.systeme.io/article/164-how-to-create-a-course-using-systemeio?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
-
-Use lesson names that describe outcomes. Keep a copy of the curriculum and original files outside the platform so revisions remain manageable. Before launch, review every lesson from the learner's perspective: what should they do, what resource do they need, and how will they know they have finished?
-
-## Connect the course to the offer buyers purchase
-
-In the funnel's order form, select Digital product and create or select the product. Add the course as a resource, choose its access type, then add a price plan and save. The price plan is required before the product can be saved. Enrollment triggers an email with password setup instructions; that automated enrollment email cannot currently be customized. Source: [official course sales and enrollment instructions](https://help.systeme.io/article/237-how-to-sell-an-online-course?sa=sa0240953427819ac8307d665a325f6afb57632d70), checked November 9, 2026.
-
-Make the sales page match the access configuration. State whether buyers receive the full curriculum immediately or lessons arrive gradually. Explain the support you provide and the work students are expected to do. Do not promise immediate access while configuring a future release schedule.
-
-Keep payment setup, delivery and marketing follow-up as separate review items. A convincing sales page does not establish that the right course is attached to checkout. Likewise, a visible course preview does not show what a new customer receives after enrollment.
-
-For a broader platform assessment, use our [Systeme.io review](/posts/systeme-io-review-2026/).
-
-If your audience also needs complementary tools, our [Systeme.io affiliate funnel guide](/posts/systeme-io-for-affiliate-marketers/) explains how to connect an opt-in, a useful bridge page and email follow-up for merchant referrals.
-
-For a choice between a low-cost course launch and an academy platform, read our [Systeme.io vs Kajabi comparison](/posts/systeme-io-vs-kajabi/) covering prices, learning features and payment fees.
-
-## How to test it yourself in 15 minutes
-
-Use this as a focused inspection session after drafting the course, not a promise that production setup takes 15 minutes.
-
-1. **Review the promise.** Read the sales page and write the expected learning outcome in your own words. Remove claims the curriculum does not support.
-2. **Inspect a sample lesson.** Check readability, resource links and the next action on the devices your learners use.
-3. **Check delivery settings.** Match the advertised release schedule to the configured access type. Note anything you still need to verify through a learner account.
-4. **Inspect the order form.** Confirm the intended course resource, price and access choice. Keep this review separate from any live payment.
-5. **Plan the enrollment check.** Use your own permitted test account and the platform's supported testing process to confirm access and receipt of enrollment instructions before accepting customers.
-6. **Record the buying decision.** List the specific limit that blocks launch. Stay on Free if the complete workflow fits; upgrade when the blocker is real.
-
-<!-- FIRST-HAND: Add dated screenshots of a classic course, activated lessons, order-form resources and a permissioned learner enrollment. Record actual email receipt and access behavior before adding experience claims. -->
+Systeme.io's course tools are built into a sales and email platform. If your decision is mainly about contact caps and subscription totals, see [Systeme.io pricing explained](/posts/systeme-io-pricing-explained/). If you are comparing a dedicated academy platform, use [Systeme.io vs Kajabi](/posts/systeme-io-vs-kajabi/). For broader creator workflows, read the [Systeme.io review](/posts/systeme-io-review-2026/).
 
 ## FAQ
 
-These questions follow the public pricing and course help topics cited above; they are not presented as Search Console findings.
+These questions reflect recurring course-launch concerns. In one [Reddit thread, a creator asked how to take payments on WordPress while hosting course access in Systeme.io](https://www.reddit.com/r/systeme_io/comments/1g9cjh1), checked November 28, 2026.
 
-### Can I sell a course on Systeme.io Free?
+### Can I sell an online course on Systeme.io Free?
 
-Yes. Free includes a course and sales funnels, with resource and lifetime sales limits. Configure the course resource and price plan on the order form, then verify the learner journey before promoting it.
+Yes. Free includes one course and sales funnels. Attach the course to a digital product on the order form, then confirm the enrollment flow before promoting it. The plan also caps contacts at 2,000 and its pricing FAQ says 500 students.
 
-### How many students can use the Free plan?
+### How many students can the Free plan have?
 
-The pricing FAQ says 500, while another section advertises unlimited students. Confirm the applicable allowance with support before committing to a larger intake.
+The official page conflicts: its feature section says unlimited students, while its Free FAQ says 500. Plan around 500 and get written confirmation from support before selling seats beyond that.
 
-### Can I release lessons gradually?
+### Does Systeme.io charge a transaction fee on course sales?
 
-Yes. Classic courses support drip access. Set lecture delays and select the matching access type; full access overrides those delays.
+Systeme.io lists 0% platform transaction fees on all plans. Stripe, PayPal or another payment processor may still charge processing fees under its own terms.
 
-### Can I edit the automatic course enrollment email?
+### Can lessons unlock over time?
 
-The course sales guide says that email cannot currently be customized. Review it during your enrollment check and make your own course instructions clear about the next step.
+Yes. The course setup supports drip access with lecture delays. Choose drip access on the offer and check the sequence from a learner account; full access gives the student the whole course upon initial payment.
 
-### When should I upgrade from Free?
+### Can I use my own website for the sales page?
 
-Upgrade when course capacity, audience size, automation needs or the sales cap blocks a working offer. Choose the lowest plan that solves that requirement while preserving access for existing learners.
+Yes, but plan the handoff: the order form must attach the right course and payment must trigger enrollment. If checkout remains elsewhere, verify that your integration actually grants access; the Systeme.io help guide describes its native order form setup.
 
-## Verdict: launch a complete course before buying extra capacity
+## Course platform verdict
 
-For a first course, start with the curriculum, a clear offer and a checked enrollment journey. Free is our initial choice when those requirements fit. Startup is the practical paid shortlist when expansion is ready. Keep the purchase tied to a delivery problem you can name.
+Start on Free if one course and a small first cohort fit. Startup is the clear paid step when course count, contacts or funnel capacity becomes the blocker. Choose Webinar for evergreen webinar selling, and Unlimited only when its higher ceilings are needed. The student count remains the one material point to confirm with Systeme.io before a large launch.
 
 **[Start with the Systeme.io plan that fits your course](https://systeme.io/?sa=sa0240953427819ac8307d665a325f6afb57632d70)**
