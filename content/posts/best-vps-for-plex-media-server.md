@@ -1,7 +1,7 @@
 ---
-title: "Best VPS for Plex or Jellyfin (2026): Storage, Bandwidth and Real Cost"
+title: "Best VPS for Plex (2026): Transcoding Limits, Storage and Bandwidth Cost"
 date: 2026-11-12
-lastmod: 2026-11-12
+lastmod: 2026-11-28
 slug: "best-vps-for-plex-media-server"
 summary: "Compare UltaHost and Hostinger for a private media server, with realistic storage budgets, Direct Play requirements and the cost beyond the VPS."
 description: "Compare VPS plans for Plex or Jellyfin: storage, bandwidth, renewal costs and transcoding limits. Choose hosting that fits your private media library."
@@ -16,130 +16,89 @@ cover:
   relative: false
 ---
 
-**Best for a small, self-managed Direct Play library: shortlist Hostinger KVM 2. Choose UltaHost Professional for managed infrastructure only after support confirms your private media workload is permitted. For frequent video transcoding, choose hardware with a supported GPU instead.**
+**For a small Plex library that Direct Plays, choose Hostinger KVM 1 if 50 GB storage and 4 TB monthly transfer are enough; choose KVM 2 for twice the disk and transfer. Neither listing promises a GPU, so frequent transcoding needs a separate, explicitly supported GPU or Quick Sync server.** Plex remote playback also needs Plex Pass on the server admin account or a qualifying pass on the viewer account.
 
-**[Compare UltaHost plans](https://ultahost.com/#art52hz)** once you have confirmed storage needs and streaming permission.
+{{< picks title="Which one should you pick?" checked="Nov 28, 2026" >}}
+{{% pick label="Best for a small Direct Play library" name="Hostinger KVM 1" price="$6.49/mo, $155.76 for 24 months" renew="$11.99/mo, $287.76 for the next 24 months" note="No listed GPU; 50 GB disk and 4 TB monthly transfer" %}}
+Choose this only when your tested client can play your files without server video conversion and your library fits after system files and metadata. [Choose Hostinger KVM 1](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)
+{{% /pick %}}
+{{% pick label="Best for extra included disk and transfer" name="Hostinger KVM 2" price="$8.99/mo, $215.76 for 24 months" renew="$14.99/mo, $359.76 for the next 24 months" note="No listed GPU; check software transcode capacity before relying on it" %}}
+Choose this when 100 GB and 8 TB monthly transfer better fit your measured media and viewing budget, and you can administer Linux. [Choose Hostinger KVM 2](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)
+{{% /pick %}}
+{{% pick label="Best for provider-managed VPS scope" name="UltaHost VPS Professional" price="USD quote not displayed" renew="Confirm in checkout" note="75 GB disk; get written approval for private media and management scope" %}}
+Choose this only if UltaHost confirms your private Plex workload and the management tasks you need; the public listing does not establish GPU access. [Ask about UltaHost VPS](https://ultahost.com/#art52hz)
+{{% /pick %}}
+{{% pick label="Best for repeated video transcoding" name="A VPS with a confirmed supported GPU or Quick Sync" price="Provider quote required" renew="Provider quote required" note="Confirm device passthrough, driver support and Plex Pass requirements" %}}
+Choose dedicated media hardware or a VPS provider that confirms the exact acceleration hardware is exposed to your server. The compared CPU VPS listings do not advertise that capability.
+{{% /pick %}}
+{{< /picks >}}
 
-*Disclosure: Some links are affiliate links. We may earn a commission if you buy through them. Based on official pricing and documentation checked November 12, 2026; this is a buying analysis, not a hands-on benchmark.*
+*Prices and plan terms below were checked on official pages November 28, 2026. Affiliate links may earn us a commission.*
 
-The cheapest server can become expensive when its disk fills or a television forces video conversion. Choose around your actual files, playback devices and maintenance skills before paying for a long term.
+## What each plan gives a Plex server
 
-## Quick comparison: what the advertised price buys
+| Plan | First term price | Renewal price | CPU and RAM | Included storage | Transfer | Practical fit |
+|---|---:|---:|---|---:|---:|---|
+| Hostinger KVM 1 | $6.49/mo, 24 months prepaid | $11.99/mo for 2 years | 1 vCPU, 4 GB | 50 GB NVMe | 4 TB/mo | Small library, Direct Play, low transfer |
+| Hostinger KVM 2 | $8.99/mo, 24 months prepaid | $14.99/mo for 2 years | 2 vCPU, 8 GB | 100 GB NVMe | 8 TB/mo | More system and metadata headroom |
+| UltaHost VPS Professional | USD price not displayed on the page checked | Confirm current renewal in checkout | 3 cores, 4 GB | 75 GB NVMe | Advertised unlimited | Management may matter more than disk; confirm media use and fair-use scope |
 
-These are shortlist options for a private library, not guaranteed stream counts. No GPU allocation was established for these offers.
+Hostinger says its VPS monthly equivalent is paid upfront for the selected term. [Hostinger Plex VPS prices and plan specifications](https://www.hostinger.com/vps/vps-hosting-for-plex?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026. UltaHost's page available for this check displayed localized prices in a non-USD currency, so this USD comparison omits a cash total rather than converting an unverified checkout amount. The page lists Professional with 3 CPU cores, 4 GB RAM and 75 GB NVMe. [UltaHost VPS pricing and specifications](https://ultahost.com/vps-hosting/plans#art52hz), checked November 28, 2026.
 
-| Buying criterion | UltaHost VPS Professional | Hostinger KVM 2 |
-|---|---|---|
-| Displayed price | $15.87/month | $8.79/month |
-| Billing context | Page states renewal at $15.87/month for 2 years; verify initial invoice | $210.96 paid upfront for 24 months |
-| Renewal | $15.87/month for 2 years | $14.99/month for the same term |
-| CPU and memory | 3 CPU cores, 4 GB RAM | 2 vCPU cores, 8 GB RAM |
-| Included disk | 75 GB NVMe | 100 GB NVMe |
-| Transfer | Advertised unlimited, with fair-use restrictions | 8 TB bandwidth |
-| Support proposition | Managed server; confirm application support separately | Plan to administer your own server |
-| Trial or refund | Advertised 30-day money-back guarantee, not a free trial | Advertised 30-day money-back guarantee, not a free trial |
-| Best fit | Private workload approved by support, with a separate storage plan | Small Direct Play setup with a defined transfer budget |
-| Main drawback | Limited disk and unresolved workload eligibility | Prepayment, renewal increase and server administration |
+## Two-year cash cost, including Plex remote playback
 
-Table sources: [UltaHost VPS pricing and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 12, 2026; [Hostinger VPS pricing and specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 12, 2026. Prices are USD as displayed; taxes and add-ons depend on the order.
+For a comparable remote Plex setup, this estimate adds one annual Plex Pass for the server admin in each year. Plex says that the admin's Plex Pass can enable remote playback for users with access to that server, and hardware-accelerated streaming is a Plex Pass feature. This is a cost model, not a required Plex Pass purchase for every setup: an existing admin pass or a viewer's Remote Watch Pass changes the bill. Hostinger's new-customer renewal price is applied only to the next 24 months.
 
-## Direct Play or transcoding: decide before choosing a plan
+| Configuration | VPS first 24 months | VPS following 24 months at listed renewal | Plex Pass at $69.99/year for 2 years | 48-month total modeled cost |
+|---|---:|---:|---:|---:|
+| Hostinger KVM 1 + Plex Pass | $155.76 | $287.76 | $139.98 | $583.50 |
+| Hostinger KVM 2 + Plex Pass | $215.76 | $359.76 | $139.98 | $715.50 |
+| UltaHost Professional + Plex Pass | Not calculated; current USD invoice not displayed | Not calculated | $139.98 | Not calculated |
 
-Direct Play sends a compatible file to the player without converting the video. Transcoding changes the media to accommodate a device or connection. A server that works for a compatible laptop can struggle when a different client requests conversion. Check the television, mobile app and browser you will actually use, including your usual subtitles and audio tracks.
+Hostinger totals use 24 x $6.49 or $8.99 initially and 24 x $11.99 or $14.99 at renewal. Plex Pass is $69.99/year on Plex's current US pricing information, or $139.98 for two annual renewals. The live Plex plans page also advertises a limited Fan Friday gift promotion through December 1, 2026; account checkout may show a different offer and gifts are not assumed in this model. Taxes, optional backup or storage expansion, and a separate viewer pass are excluded. If the server admin already has Plex Pass, remove that $139.98 from the Hostinger model. Sources: [Hostinger Plex VPS pricing](https://www.hostinger.com/vps/vps-hosting-for-plex?REFERRALCODE=ACFTUNGSAAEO), [UltaHost VPS plan pricing](https://ultahost.com/vps-hosting/plans#art52hz), and [Plex Pass pricing and current promotion](https://www.plex.tv/plans/), all checked November 28, 2026.
 
-Jellyfin's guidance recommends 8 GB RAM for an average deployment, allows that 4 GB can suffice on headless Linux, and recommends 100 GB SSD for the operating system, application files and transcoding cache. It also discourages GPU-less servers when video transcoding is required. Source: [Jellyfin hardware selection guidance](https://jellyfin.org/docs/general/administration/hardware-selection/), checked November 12, 2026.
+## Decide whether your clients will Direct Play
 
-That makes the plans above constrained choices: Hostinger's entire included disk only matches that system-and-cache recommendation, while UltaHost Professional falls below it. Neither should be treated as a spacious media archive. Our shortlist assumes controlled Direct Play and deliberately planned storage, not a general-purpose transcoding service.
+Plex lists CPU, network speed and storage as the main server constraints. Remote clients may request a lower bitrate or an incompatible format, which can trigger transcoding; compatible audio, video and subtitles can avoid conversion. Check a sample file on each actual player, including subtitles, before committing to a long term. [Plex Direct Play and transcoding overview](https://support.plex.tv/articles/200430303-streaming-overview/), checked November 28, 2026.
 
-For Plex, hardware-accelerated transcoding requires supported hardware and an active Plex Pass for the server account. A subscription alone does not add a GPU to a VPS. Source: [Plex hardware transcoding requirements](https://support.plex.tv/articles/201373803-nas-compatibility-list/), checked November 12, 2026.
+Neither Hostinger's listed plans nor the UltaHost Professional listing identifies a GPU or Quick Sync device. Do not infer that a CPU count guarantees a number of 1080p or 4K transcodes. Plex hardware acceleration requires compatible hardware and an active Plex Pass. Ask the provider to confirm the precise device is visible inside your operating system and application. [Plex hardware-accelerated streaming requirements](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/), checked November 28, 2026.
 
-## Storage: price the library as well as the server
+## Storage and bandwidth you can budget
 
-Start by measuring the library you intend to upload. Then keep separate budgets for the operating system, metadata, artwork, temporary files and growth. A second copy on the same disk is not an independent backup. Preserve originals somewhere you can access if the hosting account becomes unavailable.
+Use the total size of your files, then reserve disk for the operating system, Plex database and metadata, and temporary transcoder files. KVM 1's 50 GB is a small system disk, not a roomy video archive. KVM 2 doubles the listed disk to 100 GB, which can still be inadequate for a media library. Price extra storage and a separate backup before buying. Do not count one copy of the library as a backup.
 
-Use this worksheet before requesting a quote:
-
-| Budget item | What to record |
-|---|---|
-| Media library | Current folder size and expected additions |
-| System and metadata | Disk usage after installation and library indexing |
-| Temporary space | Peak usage during your intended playback workflow |
-| Backup | Location, retention and restore cost |
-| Expansion | Price and downtime for the next storage increment |
-| External storage | Mount method, retrieval charges and network dependency |
-
-Attached block storage, object storage and a mounted remote filesystem are different products. Ask how the application will access files and what happens when that connection drops. Include any storage-to-VPS transfer charges in the quote. A cheap storage headline is not enough if every viewing session creates another bill.
-
-For a large existing library, compare a storage-focused server or a home system with local disks before renting general-purpose NVMe capacity. Get quotes for the same usable capacity and backup arrangement. Our [cheap dedicated server guide](/posts/best-cheap-dedicated-server-2026/) covers the broader purchasing decision.
-
-## Bandwidth: monthly allowance is not sustained speed
-
-Record the bitrate of representative files, simultaneous viewers and expected viewing time. Convert those inputs into monthly transferred bytes, then add backups, library uploads where counted, and repeat viewing. Label forecasts as assumptions and replace them with actual dashboard usage after deployment.
-
-Ask the provider whether ingress and egress are counted separately, what happens at the allowance, and whether the advertised port is shared. A transfer allowance does not guarantee that the route to your living room can sustain a particular stream. Test from the connection and region where you will watch.
-
-UltaHost's unlimited-bandwidth policy prohibits public streaming and file-sharing services and permits throttling or suspension for abusive usage. It also contains shared-hosting-specific provisions, so the applicability to a private VPS media library needs a written answer for the exact plan. Source: [UltaHost bandwidth fair-use policy](https://ultahost.com/unlimited-bandwidth-policy#art52hz), checked November 12, 2026.
-
-Send support a description of private users, owned or licensed media, storage volume and anticipated traffic. Do not interpret an unlimited label as permission to run a public streaming platform. Read our [unlimited bandwidth VPS guide](/posts/best-unlimited-bandwidth-vps-2026/) for the distinction between transfer, throughput and permitted use.
-
-## Who should choose UltaHost, and who should not?
-
-**Shortlist Professional if you want help with infrastructure administration and have a small, approved private workload.** Before paying, establish whether management covers operating-system updates, application installation, restore assistance or only the server layer. Ask who handles a failed library scan and playback errors.
-
-The practical downside is capacity. You need a storage arrangement beyond the base disk for a substantial library, and the managed label does not establish GPU availability. Skip this plan if you need public streaming, substantial local storage without add-ons, or guaranteed real-time video conversion.
-
-**[See UltaHost plans](https://ultahost.com/#art52hz)** after support has confirmed your workload and provided a complete storage quote.
-
-## Who should choose Hostinger, and who should not?
-
-**Shortlist KVM 2 when you can manage Linux and your players consistently use Direct Play.** Its published transfer allocation makes usage easier to budget, but you still need a permitted workload and enough disk headroom. Take responsibility for access control, updates, monitoring and recovery.
-
-Skip a long prepaid term if you have not checked client compatibility or do not yet know where the library will live. More RAM does not supply hardware video acceleration. For application isolation and persistent volumes, use our [Docker VPS buying guide](/posts/best-vps-for-docker/).
-
-## Real cost: hosting, storage and playback access
-
-Write down the initial invoice and renewal separately. Then request prices for extra storage, independent backups and any paid administration. Compare the complete setup across the same period instead of comparing one provider's introductory equivalent with another's monthly bill.
-
-Plex remote personal-video playback needs a qualifying subscription: either the viewer has Plex Pass or Remote Watch Pass, or the server administrator has Plex Pass. An administrator's Plex Pass covers remote viewing from that server for users granted library access. Remote Watch Pass alone does not provide the other Plex Pass features. Source: [Plex remote playback requirements](https://support.plex.tv/articles/requirements-for-remote-playback-of-personal-media/), checked November 12, 2026.
-
-Jellyfin states that its server and official clients are free, without subscription fees. Hosting and administration still cost money. Source: [Jellyfin software and subscription information](https://jellyfin.org/), checked November 12, 2026.
-
-Check current Plex subscription pricing for your country if you need a new subscription; no subscription quote is included in the VPS totals above. Avoid paying for overlapping viewer subscriptions when the server owner's existing entitlement already covers the use case.
-
-## How to test it yourself in 15 minutes
-
-Use an already provisioned server and a small legal sample library. This is a first acceptance check, not a promise that installation or reliability testing takes only 15 minutes.
-
-1. **Record the starting state.** Save plan, region, free disk, application version and provider approval. Keep account details out of screenshots.
-2. **Try your normal client.** Play a representative file at original quality. Inspect whether playback is Direct Play or conversion, and note startup delays.
-3. **Try the difficult combination.** Enable your usual subtitles and audio track, then repeat on the other device you expect to use. Record CPU, RAM and temporary disk usage.
-4. **Check remote playback.** Use an authorized remote connection and confirm authentication, HTTPS and playback access. Do not make the library public for convenience.
-5. **Check recovery readiness.** Verify persistent application data, backup location and the restore procedure. Schedule a separate restore test before migrating the complete library.
-
-If the first check fails, identify whether the limit is the player, network, disk or conversion path before buying a bigger plan.
-
-<!-- FIRST-HAND: Add redacted playback-dashboard screenshots, exact file codecs and subtitles, client versions, plan and region, observed resource use, and an independent restore result after an authorized test. -->
+Estimate monthly transfer as the sum of each stream's bitrate multiplied by viewing time, plus uploads and backup traffic if counted by the provider. Hostinger publishes fixed allowances of 4 TB and 8 TB per month for these plans. UltaHost advertises unlimited bandwidth but has a fair-use policy that prohibits public streaming and file-sharing; ask support in writing whether your described private library and sharing pattern are allowed on the VPS you plan to buy. Sources: [Hostinger plan limits](https://www.hostinger.com/vps/vps-hosting-for-plex?REFERRALCODE=ACFTUNGSAAEO) and [UltaHost bandwidth policy](https://ultahost.com/unlimited-bandwidth-policy#art52hz), checked November 28, 2026.
 
 ## FAQ
 
-### Can a cheap VPS run Plex or Jellyfin?
+These questions reflect recurring owner discussions about remote 4K bandwidth and server GPU transcoding, including [a Plex remote bandwidth thread](https://www.reddit.com/r/PleX/comments/1m1k2rm/plex_remote_streaming_doesnt_use_full_bandwidth/) and [a Plex GPU transcoding support thread](https://forums.plex.tv/t/help-getting-hardware-transcoding-working/863212/), checked November 28, 2026. Forum posts illustrate the questions; the answers below use Plex documentation for requirements.
 
-It can be a candidate for a small compatible Direct Play library. Check workload permission, disk usage and actual clients first. An entry price does not establish transcoding capacity.
+### Does a Plex VPS need a GPU?
 
-### Is unlimited bandwidth better for a media server?
+No for compatible Direct Play. For hardware-accelerated transcoding, Plex requires supported hardware, enabled acceleration and Plex Pass. These specific VPS listings do not promise GPU access.
 
-Only when the permitted use and sustained throughput fit. A clearly stated allowance can be easier to budget than an unlimited offer with unsuitable restrictions.
+### Can a VPS transcode 4K Plex video?
 
-### Is a GPU required?
+The provider plan names and CPU counts alone cannot answer that. Confirm the source codec, target device, HDR or subtitle handling, and exact hardware exposed to the VPS. Do not buy based on a promised stream count unless the provider supports that configuration.
 
-Direct Play does not require video conversion. For frequent transcoding, select a supported hardware-acceleration path and confirm it is accessible inside the rented machine.
+### How much bandwidth does one Plex stream use?
 
-### Can I keep a large library on the included VPS disk?
+It depends on the media bitrate and the quality selected by the viewer. Use the file's bitrate and viewing hours to estimate transfer, then compare with 4 TB or 8 TB monthly allowances. Plex notes remote bandwidth matters because the server must upload the stream. [Plex bandwidth settings](https://support.plex.tv/articles/227715247-server-settings-bandwidth-and-transcoding-limits/), checked November 28, 2026.
 
-Compare its measured size with usable space after the system, metadata and temporary files. If expansion dominates the quote, compare storage-focused infrastructure before purchasing.
+### Do I need Plex Pass for remote streaming?
 
-### Which option should I buy first?
+Remote personal-media playback needs Plex Pass on the server admin account or Plex Pass or Remote Watch Pass for the viewer. Admin Plex Pass also unlocks hardware-accelerated streaming. Confirm current account and device terms before budgeting. [Plex remote playback requirements](https://support.plex.tv/articles/requirements-for-remote-playback-of-personal-media/), checked November 28, 2026.
 
-Choose a short evaluation commitment that matches your playback and storage plan. Use Hostinger for a self-managed Direct Play shortlist, or UltaHost when approved use and a useful management scope justify the cost. For a conversion-heavy household, prioritize supported GPU hardware.
+### Is unlimited bandwidth enough for sharing Plex?
 
-**[Compare UltaHost plans and support scope](https://ultahost.com/#art52hz)** if the approved private-library route fits your requirements.
+No. An unlimited label does not establish permission or a sustained connection speed. UltaHost's fair-use policy restricts public streaming and file sharing, so get written approval for your private use case before ordering.
+
+### Can I store my whole movie library on a 50 GB VPS?
+
+Only if the media plus system, metadata and temporary files fit within usable capacity. Measure the library first; most collections need separate storage, and that cost is not included in the VPS totals here.
+
+## Related VPS guides
+
+- [Best VPS for Docker](/posts/best-vps-for-docker/) explains persistent volumes and the administration trade-offs for self-managed services.
+- [Best VPS for Nextcloud](/posts/best-vps-for-nextcloud/) compares file storage, backup and renewal costs.
+- [Unlimited bandwidth VPS guide](/posts/best-unlimited-bandwidth-vps-2026/) explains how to check transfer wording and fair-use restrictions.
