@@ -1,7 +1,7 @@
 ---
-title: "Best VPS for Odoo or a Small-Business ERP (2026): Specs, Backups and Monthly Cost"
+title: "Best VPS for Odoo ERP (2026): RAM per User, Storage and Monthly Cost"
 date: 2026-11-12
-lastmod: 2026-11-12
+lastmod: 2026-11-28
 slug: "best-vps-for-odoo-erp"
 summary: "Choose an Odoo VPS by application workload, restore requirements and the full operating bill, with Hostinger and UltaHost plans compared."
 draft: false
@@ -16,123 +16,90 @@ cover:
   relative: false
 ---
 
-**Best starting shortlist for an Odoo administrator: Hostinger KVM 2. Choose UltaHost instead if you want a managed-server offer and can confirm its Odoo support scope.**
-For a business without a named technical owner, arrange application management before buying either VPS.
-**[Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
+For a small business that will self-manage Odoo Enterprise, start by evaluating Hostinger KVM 2: 2 vCPU, 8 GB RAM and 100 GB NVMe. Its current first 24-month VPS charge is $210.96, but five Odoo Custom licenses make the modeled three-year cash commitment $10,830.72 before tax, implementation or outside administration. Choose UltaHost only when its written management scope is worth the higher server bill; its VPS Professional has 4 GB RAM.
+
+{{< picks title="Which one should you pick?" checked="Nov 28, 2026" >}}
+{{% pick label="Best for a small production pilot" name="Hostinger KVM 2" price="$8.79/mo equivalent; $210.96 upfront for 24 months" renew="$14.99/mo equivalent for the next 24-month term" rank="1" %}}Choose this if a technical owner will install, patch and restore Odoo. It offers twice the RAM of UltaHost Professional at a lower current two-year bill. [Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO).{{% /pick %}}
+{{% pick label="Choose only after confirming managed support" name="UltaHost VPS Professional" price="$15.87/mo equivalent; $380.88 for 24 months" renew="$15.87/mo equivalent for the next 24-month term" %}}Choose this if UltaHost confirms in writing that its managed service covers the operating-system tasks you need. Its listed 4 GB RAM is less headroom for Odoo plus PostgreSQL. [Compare UltaHost VPS plans](https://ultahost.com/#art52hz).{{% /pick %}}
+{{% pick label="Best for a no-license Community evaluation" name="Hostinger KVM 1" price="$6.49/mo equivalent; $155.76 upfront for 24 months" renew="$11.99/mo equivalent for the next 24-month term" %}}Choose this for a disposable or light Community evaluation, not as a promised production size. One vCPU and 4 GB RAM leave less room for concurrent work, PostgreSQL and reports. [Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO).{{% /pick %}}
+{{% pick label="Best when tests show sustained resource pressure" name="Hostinger KVM 4" price="$12.99/mo equivalent; $311.76 upfront for 24 months" renew="$28.99/mo equivalent for the next 24-month term" %}}Choose this if your representative staging workload shows that KVM 2 is constrained and the bottleneck is server resources. Recheck database and query behavior before paying for more capacity. [Compare Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO).{{% /pick %}}
+{{< /picks >}}
 
 *Affiliate disclosure: some links are affiliate links. We may earn a commission at no extra cost to you. [Read our disclosure](/affiliate-disclosure/).*
 
-Based on official pricing and documentation checked November 12, 2026; sizing recommendations are planning judgments, not measured capacity results.
+Based on official prices and product documentation checked November 28, 2026. Totals below are a billing scenario, not a performance test or a quote for implementation.
 
-An ERP server holds work that employees need to complete: orders, stock movements, invoices and customer records. Choose it around the busiest business workflow and the ability to recover that workflow. The lowest hosting invoice is useful only if someone can keep the application running.
+## The Odoo license changes the VPS budget
 
-## Hostinger vs UltaHost: specs and monthly cost
+If you choose Odoo Community, the software license line in this comparison is $0; you still own installation, security, upgrades, backups and support. If you need Odoo Enterprise on your own VPS, Odoo's pricing page lists the Custom plan for on-premise use at $49 per user per month on annual billing for the first 12 months, then shows a $61 regular monthly price. The discount is stated for the first 12 months for initial users. A standard plan is hosted on Odoo Online and is not the self-hosting license in this calculation.
 
-| Plan | CPU / RAM / NVMe storage | Advertised monthly equivalent | Renewal shown | Best fit in this shortlist |
-|---|---|---|---|---|
-| Hostinger KVM 1 | 1 vCPU / 4 GB / 50 GB | $6.49, 24 months prepaid | $11.99/month, same term | Lean demonstration or evaluation |
-| Hostinger KVM 2 | 2 vCPU / 8 GB / 100 GB | $8.79, 24 months prepaid | $14.99/month, same term | First production candidate to validate |
-| Hostinger KVM 4 | 4 vCPU / 16 GB / 200 GB | $12.99, 24 months prepaid | $28.99/month, same term | More headroom for overlapping work |
-| UltaHost VPS Professional | 3 CPU cores / 4 GB / 75 GB | $15.87, displayed two-year offer | $15.87/month for two years | Managed-server comparison; confirm application coverage |
+The model uses five paid internal users. It assumes $49 x 5 x 12 for year one, then $61 x 5 x 12 for each following year. The later years use today's displayed regular price as an estimate; get the actual renewal quote before purchase. Portal users are not counted as paid users by Odoo. No paid VPS add-on is required by either listed offer in this model. Implementation, custom code, staff time and an independent off-site backup are excluded because their price depends on your setup. Hostinger lists weekly VPS backups; UltaHost lists snapshots. Those are recovery layers, not a substitute for a separately controlled copy and restore rehearsal.
 
-Hostinger lists initial payments of $155.76, $210.96 and $311.76 respectively. Source: [Hostinger VPS pricing and specifications](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 12, 2026.
+## Current shortlist and what the plans actually give you
 
-UltaHost figures come from its Professional card: [UltaHost VPS pricing and specifications](https://ultahost.com/vps-hosting#art52hz), checked November 12, 2026. Confirm the selected term, taxes and final invoice; a monthly equivalent does not mean monthly billing.
+| VPS plan | Listed resources | First term and renewal shown | Fit and trade-off |
+|---|---|---|---|
+| Hostinger KVM 1 | 1 vCPU, 4 GB RAM, 50 GB NVMe | $155.76 prepaid for 24 months; renews at $11.99/mo for 24 months | Lowest entry cost here; reserve for evaluation or a light workload |
+| Hostinger KVM 2 | 2 vCPU, 8 GB RAM, 100 GB NVMe | $210.96 prepaid for 24 months; renews at $14.99/mo for 24 months | Balanced shortlist candidate; you administer the server |
+| Hostinger KVM 4 | 4 vCPU, 16 GB RAM, 200 GB NVMe | $311.76 prepaid for 24 months; renews at $28.99/mo for 24 months | More memory and storage; buy it when workload evidence needs it |
+| UltaHost VPS Professional | 3 CPU cores, 4 GB RAM, 75 GB NVMe | $15.87/mo equivalent for a 24-month term; renewal is listed at the same rate and term | Managed server label, but less RAM than KVM 2; verify exact Odoo support |
 
-Both pricing pages advertise a 30-day money-back guarantee, not a free VPS trial. Read the applicable refund conditions before using a paid evaluation. The comparison also is not resource-for-resource: Professional has less RAM than KVM 2, and a management label does not establish responsibility for custom ERP modules.
+Hostinger lists 24-month upfront totals, renewal rates for the same 24-month term, plan resources and weekly backups on its [VPS pricing page](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026. UltaHost lists the VPS Professional term, renewal rate, resources and managed-server label on its [VPS billing page](https://ultahost.com/instant-vps/billing#art52hz), checked November 28, 2026. Confirm taxes, selected term and final checkout total before paying. Monthly equivalents are not monthly billing.
 
-## Who should choose Hostinger - and who should not
+**Winner for RAM and initial two-year VPS cost: Hostinger KVM 2.** It lists 8 GB for $210.96 prepaid, compared with UltaHost Professional's 4 GB and $380.88 calculated for 24 months at $15.87 per month. UltaHost may fit better if its confirmed management service replaces support you would otherwise buy; the plan name alone does not prove Odoo application support.
 
-Choose Hostinger when you or your implementation partner will own Linux administration, application updates and recovery. KVM 2 is my preferred candidate for evaluating an application and database together. KVM 1 can serve a lean pilot; avoid choosing it solely because the number of employee logins looks small.
+## Five-user Odoo Enterprise cash totals
 
-Consider KVM 4 when your evaluation reveals contention during imports, scheduled tasks or reporting. First identify whether the constraint is memory, CPU, storage or an inefficient query. Upgrading a server can provide headroom, but it cannot resolve every slow customization.
+This table models cash paid by the end of each horizon. VPS billing is prepaid for 24 months. At month 24, the 24-month renewal is counted in the 36-month column because renewal starts the next term. Odoo is modeled as an annual license: five users at $49 per month in year one and the displayed $61 regular price in years two and three. No paid add-on is included.
 
-The drawback is operational responsibility. A dashboard, installation template or AI assistant does not replace a named person who can diagnose an Odoo error and restore service. For a closer plan comparison, read [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/).
+| Horizon | Hostinger KVM 2 VPS cash | UltaHost Professional VPS cash | Odoo Custom license cash | Hostinger total | UltaHost total |
+|---|---:|---:|---:|---:|---:|
+| 12 months | $210.96 | $380.88 | $2,940.00 | $3,150.96 | $3,320.88 |
+| 24 months | $210.96 | $380.88 | $6,600.00 | $6,810.96 | $6,980.88 |
+| 36 months | $570.72 | $761.76 | $10,260.00 | $10,830.72 | $11,021.76 |
 
-Do not choose a bare VPS if the business expects someone else to handle every application incident. Ask an Odoo implementation partner for a written management scope, including upgrades, monitoring, backup checks and emergency response. Price that service alongside hosting before making the purchase decision.
+The 12-month column includes two years of prepaid VPS service because that is the listed purchase term. The 36-month column includes the next 24-month VPS renewal paid at month 24; it is cash committed, even though the 36-month point uses only 12 months of that renewal term. This makes the table a cash-outlay comparison, not an accrued monthly cost. The Odoo license is the same in both columns, so the difference is the VPS charge. A Community-only deployment removes the Odoo Enterprise license line, but not the cost of technical ownership.
 
-## When UltaHost deserves a closer look
+Official Odoo pricing lists Custom at $49 per user per month on annual billing with a $61 displayed regular price and says the 12-month discount applies to initial users. Custom includes on-premise deployment; Odoo.sh hosting is extra and is not in this VPS model. See [Odoo plan pricing and hosting terms](https://www.odoo.com/pricing?currency=USD), checked November 28, 2026. Amounts are USD before tax and depend on the account's actual quote.
 
-UltaHost is worth comparing when server administration help matters more than maximizing RAM per dollar. Its pricing page describes managed VPS hosting. Before ordering, ask whether support includes the chosen Odoo version, PostgreSQL, reverse proxy, application updates and restoring the ERP after an unsuccessful change.
+## Size by active work, not employee count
 
-Ask separately about custom module troubleshooting. A provider may maintain the operating system while leaving application code to your developer. A useful answer names the work included, the work billed separately and the person responsible for a failed restore.
+Odoo's deployment guide estimates workers from expected concurrent users and workload, and its memory estimate covers the Odoo processes rather than a complete server budget. PostgreSQL, the operating system, scheduled jobs, reporting and file storage also need room. A five-person company with everyone running heavy reports at once can behave differently from a larger team with occasional use. Treat 8 GB as a starting point to evaluate, not a certified user limit.
 
-**[Compare UltaHost managed VPS plans](https://ultahost.com/#art52hz)**
+Use a staging copy with representative modules and sanitized data. Measure memory and swap during imports, reports and scheduled jobs; check free disk as attachments and database backups grow. Start with KVM 2 if your administrator can diagnose Linux and PostgreSQL. Move to KVM 4 only when that check shows sustained resource pressure. Compare [Hostinger KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/) for the smaller plan trade-off and use [our VPS RAM guide](/posts/how-to-choose-vps-ram/) to plan capacity headroom.
 
-Choose this route when the confirmed support scope solves work you would otherwise outsource. If it covers only infrastructure, compare it with Hostinger plus your own administrator on total cost and responsibilities.
+Odoo's [deployment and worker sizing guidance](https://www.odoo.com/documentation/19.0/administration/on_premise/deploy.html), checked November 28, 2026, is an estimate rather than a promise that a given plan supports a fixed number of users. Put the database and filestore in the same consistent backup set. Odoo documents a database dump option that can exclude the filestore, so check that attachments are included in the backup procedure: [Odoo database dump options](https://www.odoo.com/documentation/19.0/developer/reference/cli.html), checked November 28, 2026. Retain a copy outside the VPS and restore it to an isolated environment before depending on it.
 
-## How much RAM and CPU should an Odoo VPS have?
-
-Start with the actual work: simultaneous interactive sessions, background jobs, imports, report generation and integrations. Registered users alone are a poor sizing measure. A quiet contact database and a warehouse system generating reports can create very different loads.
-
-Odoo's deployment documentation sizes workers using workload assumptions and provides a RAM estimation example. Treat that as application sizing guidance, with additional room for PostgreSQL, the operating system and maintenance processes. Source: [Odoo system configuration and worker guidance](https://www.odoo.com/documentation/19.0/administration/on_premise/deploy.html), checked November 12, 2026.
-
-My recommendation is to evaluate KVM 2 with representative business data, then measure the busiest combined workload before committing production traffic. Do not turn a worker-sizing example into a guaranteed user count. Record available memory, swapping, CPU pressure, disk growth and the duration of business actions.
-
-Storage must accommodate attachments, database growth, logs and temporary space used during maintenance. Leave enough room to create a backup without filling the same disk the database needs. Use [our VPS RAM guide](/posts/how-to-choose-vps-ram/) to structure the resource review. If deploying containers, [our Docker VPS guide](/posts/best-vps-for-docker/) explains the purchase considerations around persistent storage and a multi-service stack.
-
-## Backups: protect the database and the filestore
-
-An ERP recovery plan must restore both records and their attachments. Odoo's CLI documentation supports ZIP database dumps and an option to exclude the filestore; ensure your backup includes it. Source: [Odoo database dump and load options](https://www.odoo.com/documentation/19.0/developer/reference/cli.html), checked November 12, 2026.
-
-Hostinger advertises free weekly VPS backups on the pricing page cited above. Use provider recovery as one layer, and design an application backup process around how much recent business work you can afford to lose.
-
-For this shortlist, I recommend the following operating checklist:
-
-- Back up the database and matching filestore as a consistent set. Coordinate writes during capture instead of independently copying live files and assuming they match.
-- Retain the configuration, custom add-ons and software version information needed to rebuild the application.
-- Keep an encrypted copy outside the production VPS, with separate access controls and documented retention.
-- Monitor backup failures and storage exhaustion. A scheduled job with no successful output offers no recovery protection.
-- Restore into an isolated environment and verify records, attachments and a representative business workflow before accepting the backup process.
-
-Agree recovery objectives with the business owner: how much work may be lost and how long operations can stop. Choose backup frequency and recovery tooling to meet those objectives. Disable outbound email, payment actions and external integrations in the restored test environment before opening it for validation.
-
-## Calculate the full monthly ERP budget
-
-Use this budgeting formula: **hosting equivalent + external backup storage + application licensing + administration + monitoring and email services**. Keep implementation and migration as separate project costs so they do not disappear into a low hosting headline.
-
-The table prices cover VPS infrastructure. They do not establish the cost of your Odoo edition, paid modules, implementation partner or custom-code maintenance. Obtain an edition-specific quote where applicable, and put the renewal invoice into the same budget as the introductory purchase.
-
-For an existing business, also price a staging environment and the staff time needed to rehearse migration. The cheapest arrangement on paper may require more manual maintenance than the team can provide. Conversely, paying for management makes sense only when the contract covers the tasks you actually need.
-
-## How to test it yourself in 15 minutes
-
-Use this as an initial acceptance screen on an already prepared staging instance, not a complete deployment or capacity certification. Use synthetic or properly sanitized data.
-
-1. Open the representative workflow: create a quotation, confirm an order and generate the output your team needs.
-2. Repeat while a representative import or scheduled task runs. Watch for errors and slow actions, and record resource use.
-3. Upload an attachment, then verify that the backup configuration includes both database and filestore.
-4. Start an isolated restore check. If it takes longer than the initial review window, let it finish and record the duration separately.
-5. Compare the restored record and attachment with the source. Assign an owner to each failure before moving production data.
-
-Then run a longer evaluation covering peak activity, overnight jobs and maintenance. Keep screenshots and timestamps so the plan decision rests on your workload.
-
-<!-- FIRST-HAND: Add real staging resource graphs, workflow timings, backup logs and an isolated restore showing a matching record and attachment before making performance claims. -->
+If Odoo is only one service in a larger stack, our [Docker VPS guide](/posts/best-vps-for-docker/) covers persistent storage and resource planning. For either provider, assign one named person to security updates, Odoo upgrades, monitoring and restore tests before moving production records.
 
 ## FAQ
 
-### Can I run Odoo on a VPS?
+### Is 2 GB RAM enough for Odoo with three users?
 
-Yes, Odoo documents on-premise server deployment. A VPS is a candidate when its operating system, dependencies and resources suit your Odoo version. Assign responsibility for HTTPS, database access, updates and backups before going live.
+It may boot a light test, but three accounts do not describe how many people work at once or how heavy their reports are. A recent Odoo forum thread asks about hosting Odoo on Hostinger and points to a VPS, PostgreSQL and sizing by concurrent users. Start with a representative staging workflow and leave memory for PostgreSQL and the operating system. [Odoo forum discussion about hosting on Hostinger](https://www.odoo.com/cs_CZ/forum/pomoc-1/can-i-host-odoo-on-hostinger-292535), checked November 28, 2026.
 
-### Is the cheapest VPS enough for a small business?
+### Does Odoo hosting depend on the number of users?
 
-It may be enough for a lightweight evaluation. A production decision needs representative data and concurrent work. Start with the KVM 2 candidate in this guide, then size up or down from observed behavior and recovery requirements.
+License cost depends on paid users, while server sizing depends more on simultaneous work, installed apps and jobs. In a real Reddit provider question, the owner asked if 1 vCPU and 2 GB RAM could handle three users; replies varied with active use. Treat those replies as questions to test, not sizing evidence. [Reddit VPS question about Odoo for three users](https://www.reddit.com/r/VPS/comments/1t65syk/looking_for_a_vps_provider_for_odoo_hosting/), checked November 28, 2026.
 
-### Does an Odoo VPS price include the ERP software?
+### Can I run Odoo Enterprise on Hostinger or UltaHost?
 
-The VPS prices above are infrastructure prices. Budget your chosen edition, modules, implementation and ongoing support separately. Do not infer application licensing or managed Odoo service from a hosting plan name.
+Odoo's Custom plan permits on-premise hosting, so a VPS can provide the server. You remain responsible for deployment and must hold the correct license for Enterprise. Odoo Community has no Enterprise license fee, but still needs server administration.
 
-### Is a database-only backup sufficient?
+### Do I need Odoo.sh if I already have a VPS?
 
-Not when attachments live in the filestore. Preserve a consistent database and filestore pair, plus the configuration and custom modules needed to rebuild. Validate the result by restoring it and opening an attachment.
+No. Odoo describes Custom as allowing Enterprise on your own on-premise server or on Odoo.sh. Odoo.sh is a separate hosting option and its cost is excluded here. Use a VPS when you can operate its database, updates and recovery.
 
-### Should I choose managed hosting or administer it myself?
+### Is a database backup enough to restore Odoo?
 
-Choose self-administration when a named person can own maintenance and recovery. Choose a managed arrangement when its written scope covers the tasks you need. For either approach, require an application restore check before production acceptance.
+No, not if your database references uploaded files. Preserve a matching database and filestore, plus configuration and custom modules. Restore them together in an isolated environment and check a record with an attachment.
 
-## Choose the plan around the recovery owner
+### Should I choose a local VPS provider for lower latency?
 
-For a technically supported small business, shortlist Hostinger KVM 2 and validate it with the ERP workload. Compare UltaHost when confirmed management coverage reduces your administration burden. If nobody owns recovery, settle that responsibility before ordering infrastructure.
+Choose a data center near your staff when it offers the needed resources and support, then check the actual response time from the office. A Reddit buyer comparing local Moroccan hosting with Hostinger and OVH raised the same cost and distance question, but did not provide a measured latency comparison. Run your own check from the users' location before paying extra for proximity. [Reddit provider and location question](https://www.reddit.com/r/VPS/comments/1t65syk/looking_for_a_vps_provider_for_odoo_hosting/), checked November 28, 2026.
+
+## Make the decision with a named recovery owner
+
+Shortlist Hostinger KVM 2 for an administrator-led small production pilot; its 8 GB RAM and current 24-month cash price compare well with the 4 GB UltaHost Professional tier. If you need Odoo Enterprise, include five-user license renewal in the budget: in this scenario it costs much more than the VPS itself. Select UltaHost only after written confirmation that its managed service covers your Odoo and recovery tasks. Do not launch either setup until the owner has restored a database and filestore copy successfully.
 
 **[Start with Hostinger VPS options](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO)**
