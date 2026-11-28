@@ -1,7 +1,7 @@
 ---
-title: "Best Cheap VPS for a Discord or Telegram Bot (2026)"
+title: "Best Cheap VPS for a Discord or Telegram Bot (2026): RAM, Uptime and Monthly Cost"
 date: 2026-11-10
-lastmod: 2026-11-19
+lastmod: 2026-11-28
 slug: "best-vps-for-discord-bot"
 summary: "Hostinger KVM 1 is the cheapest sensible always-on home for a Discord or Telegram bot. Compare UltaHost, Black Friday upfront costs, renewals and the specs a bot really needs."
 description: "Compare cheap VPS plans for a Discord or Telegram bot: Hostinger vs UltaHost RAM, upfront Black Friday cost, renewal prices and a 24/7 setup checklist."
@@ -16,99 +16,90 @@ cover:
   relative: false
 ---
 
-**Best cheap pick for most Discord or Telegram bots: Hostinger KVM 1 (1 vCPU, 4 GB RAM). Move to KVM 2 only when the bot shares the server with a database, a dashboard or several other bots. UltaHost VPS Basic is the lower-cost option for one small bot if you want a managed server.**
+**For one lightweight bot, UltaHost VPS Basic is the lowest published upfront bill at $112.59 for 24 months, but its 1 GB RAM leaves little room for a database. Hostinger KVM 1 costs $155.76 upfront for 24 months and gives you 4 GB RAM; choose it if you will run several services or want room to grow. Both prices are prepaid offers, and renewal changes the long-term bill.**
 
-**[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+{{< picks title="Which one should you pick?" checked="Nov 28, 2026" >}}
+{{% pick label="Best for the lowest upfront bill" name="UltaHost VPS Basic" price="$112.59 / 24 months" renew="$9.29/mo regular listed rate" note="1 GB RAM; choose for one lean bot" %}}
+For one small bot with no local database, Basic costs $43.17 less upfront than Hostinger KVM 1. **[Compare UltaHost VPS plans](https://ultahost.com/#art52hz)**
+{{% /pick %}}
+{{% pick label="Best for one bot plus a database" name="Hostinger KVM 1" price="$155.76 / 24 months" renew="$11.99/mo, billed for another 24 months" note="4 GB RAM and weekly backups" %}}
+Pick this if Postgres, Redis or a second service will share the machine. **[See Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+{{% /pick %}}
+{{% pick label="Best for several services" name="Hostinger KVM 2" price="$210.96 / 24 months" renew="$14.99/mo, billed for another 24 months" note="8 GB RAM" %}}
+Choose it when your bot also needs a dashboard, cache or other apps on the same VPS. **[Start with Hostinger KVM 2](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+{{% /pick %}}
+{{< /picks >}}
 
 **Affiliate disclosure:** Some links are affiliate links. We may earn a commission on qualifying purchases at no extra cost to you. Read our [disclosure](/affiliate-disclosure/).
 
-Based on official pricing pages checked November 10, 2026; sizing advice is editorial judgment, not a benchmark.
+Based on official provider pricing and plan details checked November 28, 2026. Prices are USD before tax; sizing advice is not a performance benchmark.
 
-A bot that lives on your laptop goes offline every time the lid closes. Free hosting tiers tend to sleep idle processes, cap hours or restart without warning, which is exactly what a moderation bot or a Telegram order bot cannot afford. A small VPS fixes that: the process runs around the clock, you choose the runtime, and the bill is predictable. The real question is how small you can go without the bot falling over.
+## Pick RAM for the work beside the bot
 
-## Compare specs and real cost
+A bot that only listens for events or long-polls an API is usually light on CPU. The operating system, runtime, database, cache, logs and any second bot also use memory. Size the whole process list, then leave headroom for updates and spikes.
 
-| Plan | Monthly equivalent | Paid today | Renewal | CPU / RAM / NVMe | Best fit |
-|---|---|---|---|---|---|
-| Hostinger KVM 1 | $6.49 (Black Friday card) | $155.76 for 24 months | $11.99/mo, same term | 1 vCPU / 4 GB / 50 GB | One to a few bots, SQLite or small Postgres |
-| Hostinger KVM 2 | $8.79 (Black Friday card) | $210.96 for 24 months | $14.99/mo, same term | 2 vCPU / 8 GB / 100 GB | Bot plus database, web dashboard or music/media features |
-| UltaHost VPS Basic | $5.52 | $132.48 for 24 months, calculated | $5.52/mo for two years | 1 CPU / 1 GB / 30 GB | One lightweight bot on a managed server |
-| UltaHost VPS Business | $9.78 | $234.72 for 24 months, calculated | $9.78/mo for two years | 2 CPU / 2 GB / 50 GB | Managed server with room for a second service |
+- **One small Python or Node.js bot, no local database:** 1 GB can fit if measured peak memory stays below the plan limit. UltaHost Basic has 1 GB RAM, 1 vCPU and 30 GB NVMe.
+- **Bot plus database or multiple small bots:** 4 GB is a more forgiving starting point. Hostinger KVM 1 lists 1 vCPU, 4 GB RAM, 50 GB NVMe and 4 TB bandwidth.
+- **Bot plus dashboard, cache or heavier jobs:** Hostinger KVM 2 lists 2 vCPU, 8 GB RAM, 100 GB NVMe and 8 TB bandwidth.
+- **Music processing, browser automation or machine-learning work:** check actual peak memory and CPU first; those workloads can outgrow these entry plans.
 
-Sources: [Hostinger official VPS pricing](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 19, 2026 (Black Friday offer shown, "up to 70% off"); [UltaHost official VPS plan cards](https://ultahost.com/vps-hosting#art52hz), checked November 10, 2026 (40% hosting sale shown). UltaHost totals are the displayed 2-year monthly rate x 24.
+UltaHost labels its Linux VPS plans managed, while Hostinger's VPS gives root access and expects you to configure the server. Confirm what support will do for your application before treating managed service as bot administration.
 
-Hostinger prepays the whole term, so the number that leaves your card on day one is the "Paid today" column, not the monthly figure. Its renewal is roughly double the sale price. UltaHost shows the same rate for the two-year renewal. Both advertise a 30-day money-back guarantee, subject to their terms. Confirm tax and the final billing term at checkout.
+## What the first invoice and renewal add up to
 
-## How much VPS does a bot really need?
+These are the actual public offer totals, not monthly prices multiplied by a guessed contract. Both providers show a 24-month minimum on the quoted offer. The 12-month column is the cash invoice for the available 24-month term, so it buys another year of service beyond that horizon. No required license or add-on is listed for a basic Linux bot; tax and optional control panels are excluded.
 
-Most chat bots spend their time waiting. A Discord bot keeps one outbound gateway connection open and reacts to events; a Telegram bot either long-polls the Bot API or receives webhooks. Neither is CPU-heavy until you add work on top. What decides the plan is everything you bolt on:
+| Provider and plan | 12-month horizon: cash billed | 24-month total | 36-month total and billing detail |
+|---|---:|---:|---|
+| Hostinger KVM 1 | $155.76 for 24 months | $155.76 | $443.52 cash by month 36: $155.76 offer plus $287.76 renewal for a new 24-month term; 12 months remain prepaid |
+| Hostinger KVM 2 | $210.96 for 24 months | $210.96 | $570.72 cash by month 36: $210.96 offer plus $359.76 renewal for a new 24-month term; 12 months remain prepaid |
+| UltaHost VPS Basic | $112.59 for 24 months | $112.59 | $132.19 for a 36-month Black Friday term; no renewal falls within those 36 months |
+| UltaHost VPS Business | $199.49 for 24 months | $199.49 | $231.49 for a 36-month Black Friday term; no renewal falls within those 36 months |
 
-- **A single bot, no database or SQLite:** 1 GB RAM can work for a lean Python or Node.js bot. It leaves little room for updates, logs and a second process.
-- **Bot plus Postgres/Redis, or two to five bots:** plan on around 4 GB. This is where KVM 1 is the comfortable default.
-- **Music playback, image generation calls, a web dashboard or many guilds:** start at 8 GB and 2 cores, which means KVM 2.
-- **Sharded bots in thousands of servers:** you are past the "cheap VPS" question; size from your own metrics.
+Hostinger bills renewal for the same 24-month term: KVM 1 at $11.99/month ($287.76) and KVM 2 at $14.99/month ($359.76). UltaHost's November 27 campaign lists VPS Basic at $9.29/month regular price and VPS Business at $16.29/month; its policy says the regular non-promotional rate applies after the offer. Exact renewal price can change by then, so check your checkout. The 36-month UltaHost offer is $132.19 for Basic or $231.49 for Business, paid upfront.
 
-Language runtime matters too. A Node.js or Python bot with a few libraries is usually modest; a bot that loads a headless browser or an ML model is not. Write down every process you plan to run, then pick the plan that fits all of them with headroom.
+For comparison, the sale term alone makes UltaHost Basic $43.17 cheaper than KVM 1, while KVM 1 supplies 3 GB more RAM and weekly backups. Basic is the budget choice only if one GB fits your runtime and other processes. There is no mandatory cPanel or paid panel in these Linux totals; add an optional license only if your chosen setup actually needs it. Taxes may change the invoice.
 
-## Who should pick which
+Sources: [Hostinger official VPS pricing and renewals](https://www.hostinger.com/vps-hosting?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026; [Hostinger plan limits](https://www.hostinger.com/support/6976044-parameters-and-limits-of-hosting-plans-in-hostinger/?REFERRALCODE=ACFTUNGSAAEO), checked November 28, 2026; [UltaHost official Black Friday VPS prices, specs and renewal terms](https://ultahost.com/blog/black-friday-vps-deals-2026/#art52hz), checked November 28, 2026. The UltaHost campaign says the promotional totals exclude tax and optional add-ons.
 
-**Choose Hostinger KVM 1** if you can run a Linux server yourself and want the most RAM for the money. 4 GB lets the bot, a small database and a process manager coexist without constant memory pressure. At the Black Friday price it costs less up front than many people expect, but budget for the $11.99 renewal.
+## Which one should you pick for your setup?
 
-**Choose Hostinger KVM 2** when the bot is a product: a dashboard for server admins, a database you back up, maybe a second bot for testing. Two cores keep a deploy or a backup from stalling the live bot.
+- **One Telegram bot using long polling, no database:** choose UltaHost Basic if your app fits in 1 GB and you want the lowest upfront bill. Long polling does not need an inbound webhook port.
+- **One Discord bot with a small Postgres or Redis database:** choose Hostinger KVM 1 for 4 GB RAM. Budget for its $11.99/month renewal rate, billed two years at a time.
+- **Several bots and a small admin dashboard:** choose Hostinger KVM 2 for 8 GB RAM and two vCPU cores. Move up only if your measured memory or CPU needs it.
+- **Telegram webhook endpoint:** choose either provider based on RAM, then set up a domain, HTTPS certificate and reverse proxy. If you do not want to administer Linux, ask UltaHost what its managed support includes for that stack before ordering.
+- **Weekend experiment with no uptime requirement:** do not buy a VPS yet. Run it locally until other people depend on it.
 
-**Choose UltaHost VPS Basic** for exactly one small bot when you value a managed server more than raw RAM. Ask support before buying what "managed" covers for your stack, because 1 GB is tight once you install updates and logging.
+For the difference between Hostinger entry tiers, see [KVM 1 vs KVM 2](/posts/hostinger-kvm1-vs-kvm2-2026/). For sizing by workload, read [how much RAM a VPS needs](/posts/how-to-choose-vps-ram/). Both guides are linked from our [VPS hosting hub](/vps-hosting/).
 
-**Skip a VPS** if the bot is a weekend experiment you are happy to restart by hand. Keep it local until you know people depend on it.
+## Discord and Telegram deployment details
 
-If you are choosing between the two Hostinger tiers for other workloads too, our [KVM 1 vs KVM 2 comparison](/posts/hostinger-kvm1-vs-kvm2-2026/) goes deeper, and [how much RAM a VPS needs](/posts/how-to-choose-vps-ram/) explains the sizing logic.
+A normal Discord bot opens an outbound connection to Discord, so the bot itself does not need a public inbound port. Telegram long polling also works without one. Telegram webhooks need a public HTTPS endpoint, a valid certificate and a reverse proxy such as Nginx or Caddy.
 
-## Discord vs Telegram: what changes on the server
-
-**Discord bots** connect out to Discord's gateway. You do not need to open an inbound port for the bot itself, which keeps the firewall simple. Interaction-only bots that use an HTTPS endpoint instead are the exception and need a domain and TLS.
-
-**Telegram bots** can use long polling (no inbound port, simplest) or webhooks (Telegram calls your HTTPS URL). Webhooks are efficient, but you need a domain, a valid certificate and a reverse proxy such as Nginx or Caddy. On a VPS that is a 15-minute job; on most free hosts it is not possible at all.
-
-Either way, a VPS gives you a fixed IP and a process that does not sleep, which is what both platforms expect from a bot that answers in seconds.
-
-## 24/7 setup checklist
-
-1. **Create a non-root user and use SSH keys.** Disable password login once your key works.
-2. **Install your runtime** (Node.js LTS or Python 3 with a virtual environment) from official sources.
-3. **Run the bot under a supervisor.** A systemd service or PM2 restarts it after a crash or reboot. This is the step that actually makes it "24/7".
-4. **Keep the token out of the code.** Put the Discord or Telegram token in an environment file readable only by the bot user. Rotate it if it ever lands in a public repository.
-5. **Turn on the firewall.** Allow SSH, plus 80/443 only if you run webhooks or a dashboard.
-6. **Back up the database**, not just the VPS. A snapshot does not replace a dump you can restore somewhere else.
-7. **Log to files with rotation** so a chatty bot does not fill the 30-50 GB disk.
-8. **Test a reboot** before you invite the bot to a big server. If it does not come back on its own, step 3 is not done.
-
-Running more than bots on the same box? See our guides to [hosting Node.js apps](/posts/best-vps-for-nodejs-apps/) and [running Docker on a VPS](/posts/best-vps-for-docker/).
-
-<!-- FIRST-HAND: Add dated screenshots of the chosen plan, the systemd/PM2 service status, memory use of the bot under normal load and a successful reboot test. No measured performance claims until evidence exists. -->
+Run each bot as its own systemd service or PM2 process so it restarts after a crash or reboot. Keep bot tokens in a restricted environment file, allow only SSH and any ports your webhook needs, rotate a token that reaches a public repository, and back up the database separately from the VPS. Test a reboot before relying on the bot.
 
 ## FAQ
 
-### What is the cheapest way to host a Discord bot 24/7?
+### What is the cheapest way to keep a Discord bot online 24/7?
 
-A small VPS is the cheapest reliable option. Hostinger KVM 1 is $155.76 for 24 months at the Black Friday price checked November 19, 2026, then renews at $11.99/month. Free tiers can work for testing but often sleep or restart.
+For a managed VPS, UltaHost Basic is $112.59 upfront for a 24-month offer, but it has 1 GB RAM. A VPS is not the only option: some Reddit users suggest dedicated bot hosts for simpler, smaller bots. Compare the exact memory, sleep policy and invoice before choosing. This reflects recurring questions in [Discord bot hosting discussions](https://www.reddit.com/r/discordbots/comments/1neloud/good_discord_bot_hosts_for_cheap/) and is not a provider reliability study.
 
 ### Is 1 GB RAM enough for a Discord bot?
 
-For one lightweight bot without a local database, often yes. Add a database, a dashboard or several bots and 1 GB becomes tight, so 4 GB is the safer default.
+It can be enough for one lean bot without a local database. If you add Postgres, Redis, a dashboard or more bots, choose a plan with more memory or measure peak use first. [Bot owners ask this when comparing VPS sizes](https://www.reddit.com/r/Discord_Bots/comments/1sbkpwt/vps_for_discord_bot_usage/).
 
-### Can I run a Discord bot and a Telegram bot on the same VPS?
+### Can I run multiple Discord bots on one VPS?
 
-Yes. Run each as its own supervised service with its own token and environment file. A 4 GB plan comfortably holds a handful of typical chat bots.
+Yes. Run each under its own service manager and keep tokens separate. Choose RAM for the total runtime, database and dashboard use; there is no universal safe bot count. [A common multiple-bot hosting question](https://www.reddit.com/r/discordbots/comments/1neloud/good_discord_bot_hosts_for_cheap/) also illustrates why "unlimited bots" does not mean unlimited CPU or memory.
 
-### Do I need a domain for a Telegram bot?
+### How do I keep a bot running after I close SSH?
 
-Only if you use webhooks. Long polling works with no domain and no open port. Webhooks need a public HTTPS URL with a valid certificate.
+Run it as a systemd service or PM2 process with automatic restart enabled. A shell session alone can end when you disconnect and will not reliably start the bot after a server reboot.
 
-### Is the Hostinger price billed monthly?
+### Does a Telegram bot need a domain?
 
-No. The monthly figure is the equivalent of a prepaid 24-month term. Compare the upfront payment and the renewal before buying.
+Not for long polling. A webhook needs a reachable HTTPS URL, so you need a domain or another public hostname, a valid certificate and a reverse proxy.
 
-## Which VPS should you buy for your bot?
+### Is the advertised VPS price paid monthly?
 
-For most people building a Discord or Telegram bot that others rely on, Hostinger KVM 1 is the practical starting point: enough RAM for the bot and a small database, at a low Black Friday upfront price. Step up to KVM 2 when the bot becomes a product with a dashboard. Pick UltaHost Basic only for a single light bot where managed support matters more than memory.
-
-**[Start with Hostinger VPS plans](https://www.hostinger.com/refer?REFERRALCODE=ACFTUNGSAAEO "affiliate")**
+No. Hostinger lists the full 24-month charge and says renewal is billed for another 24 months. UltaHost's Black Friday prices are also two- or three-year totals paid upfront. Check the final invoice, tax and renewal amount in checkout.
