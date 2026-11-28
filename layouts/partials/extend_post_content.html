@@ -1,0 +1,6 @@
+{{- /* 28/11 Claude: Related reading o day (khong o extend_footer vi footer bi partialCached -> khong bao gio hien). Chi tro toi bai duoc lap chi muc. */ -}}
+{{- if and .IsPage (eq .Section "posts") -}}
+{{- with (where (.Site.RegularPages.Related .) "Params.robotsnoindex" "ne" true | first 6) -}}
+<aside aria-label="Related reading"><h2>Related reading</h2><ul>{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul></aside>
+{{- end -}}
+{{- end -}}

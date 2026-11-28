@@ -110,3 +110,19 @@ weight = 2
 # 04/11: tat trang /tags/ (153 trang mong, Google "da thu thap - chua lap chi muc"); chi giu categories (co menu)
 [taxonomies]
   category = "categories"
+
+# 28/11 Claude: Related reading dua tren tags/keywords/categories trong front matter (tags khong con la taxonomy),
+# loai bai robotsNoIndex -> link noi bo chi tro vao trang duoc lap chi muc, giup Google thay cum chu de.
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "keywords"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 50
